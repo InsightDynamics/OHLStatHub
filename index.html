@@ -7,125 +7,93 @@
     <title>OHLStatHub - Coming Soon</title>
     <style>
         body {
-            font-family: 'Arial', sans-serif;
-            background: linear-gradient(to bottom right, #f7f7f7, #eaeaea);
-            color: #333;
-            margin: 0;
-            padding: 0;
-        }
+    font-family: 'Arial', sans-serif;
+    background-color: #f7f7f7;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
 
-        header {
-            background-color: #0047ab;
-            color: white;
-            text-align: center;
-            padding: 20px;
-        }
+header {
+    background-color: #0047ab;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
 
-        header h1 {
-            font-size: 2.5rem;
-            margin: 0;
-        }
+header h1 {
+    font-size: 2rem;
+    margin: 0;
+}
 
-        header p {
-            font-size: 1rem;
-            margin: 5px 0;
-        }
+main {
+    padding: 20px;
+    text-align: center;
+}
 
-        main {
-            text-align: center;
-            padding: 40px 20px;
-        }
+h1 {
+    font-size: 1.8rem;
+    color: #0047ab;
+    margin-bottom: 10px;
+}
 
-        h1 {
-            font-size: 2rem;
-            color: #0047ab;
-            margin-bottom: 15px;
-        }
+.description {
+    font-size: 1rem;
+    margin-bottom: 20px;
+    color: #555;
+}
 
-        .description {
-            font-size: 1.2rem;
-            margin-bottom: 25px;
-            color: #555;
-        }
+.feature-list {
+    list-style-type: none;
+    padding: 0;
+    font-size: 1rem;
+}
 
-        .feature-list {
-            list-style-type: none;
-            padding: 0;
-            font-size: 1rem;
-        }
+.feature-list li {
+    margin: 10px 0;
+}
 
-        .feature-list li {
-            margin: 15px 0;
-        }
+.cta {
+    margin-top: 20px;
+}
 
-        .cta {
-            margin-top: 30px;
-        }
+.cta button {
+    background-color: #0047ab;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
 
-        .cta p {
-            font-size: 1rem;
-            margin-bottom: 15px;
-        }
+.cta button:hover {
+    background-color: #003680;
+}
 
-        .cta button {
-            background-color: #0047ab;
-            color: white;
-            border: none;
-            padding: 12px 25px;
-            font-size: 1rem;
-            border-radius: 5px;
-            cursor: pointer;
-            transition: background-color 0.3s ease;
-        }
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.9rem;
+}
 
-        .cta button:hover {
-            background-color: #003680;
-        }
+/* Mobile Styling */
+@media (max-width: 480px) {
+    h1 {
+        font-size: 1.5rem;
+    }
+    .description {
+        font-size: 0.9rem;
+    }
+    .cta button {
+        width: 100%;
+        padding: 12px;
+        font-size: 0.9rem;
+    }
+}
 
-        footer {
-            background-color: #333;
-            color: white;
-            text-align: center;
-            padding: 15px 10px;
-            font-size: 0.9rem;
-            position: relative;
-            bottom: 0;
-            width: 100%;
-        }
-
-        /* Responsive Design */
-        @media (max-width: 768px) {
-            h1 {
-                font-size: 1.7rem;
-            }
-
-            .description {
-                font-size: 1rem;
-            }
-
-            .cta button {
-                width: 100%;
-                padding: 15px 0;
-            }
-        }
-
-        @media (max-width: 480px) {
-            header h1 {
-                font-size: 2rem;
-            }
-
-            main {
-                padding: 30px 15px;
-            }
-
-            .feature-list li {
-                font-size: 0.9rem;
-            }
-
-            .cta button {
-                font-size: 0.9rem;
-            }
-        }
     </style>
 </head>
 <body>
