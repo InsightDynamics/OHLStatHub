@@ -1,0 +1,530 @@
+/* 🌐 Base Styles */
+body {
+    display: block !important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f8;
+    color: #333;
+    line-height: 1.6;
+    scroll-behavior: smooth;
+    text-align: center;
+}
+
+/* 🔝 Navbar */
+.navbar {
+    background-color: #11172b;
+    color: white;
+    padding: 1rem 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    gap: 2rem;
+}
+
+.navbar .logo {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #fff;
+    text-decoration: none;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 1.5rem;
+}
+
+.nav-links a {
+    color: #fff;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    transition: background 0.3s ease, color 0.3s ease;
+    border-radius: 5px;
+}
+
+.nav-links a:hover {
+    background-color: #e94560;
+    color: white;
+}
+
+/* 📦 Container */
+.container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 2rem;
+}
+
+/* 🎯 Game Cards */
+.game-box,
+.results {
+    background-color: white;
+    padding: 1.5rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    margin: 1rem auto;
+    transition: transform 0.3s ease;
+    max-width: 400px;
+}
+
+.game-box:hover {
+    transform: translateY(-5px);
+}
+
+/* ✅ Modern Button */
+.select-btn {
+    background-color: #11172b;
+    color: white;
+    border: none;
+    padding: 0.8rem 2rem;
+    border-radius: 10px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.3s ease, transform 0.2s ease;
+    margin: 1rem 0;
+    display: inline-block;
+    width: 80%;
+}
+
+.select-btn:hover {
+    background-color: #e94560;
+    transform: scale(1.05);
+}
+
+/* ⚽ Game Row Layout */
+.game-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    padding: 0.8rem 1rem;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #fafafa;
+    margin-bottom: 0.5rem;
+    text-align: center;
+}
+
+.away-team, .home-team {
+    font-weight: bold;
+    font-size: 1.1rem;
+    color: #000;
+    flex: 1;
+    text-align: center;
+}
+
+.vs {
+    font-weight: bold;
+    color: #555;
+    flex: 0.2;
+}
+
+/* ✅ Correct & Incorrect Styling */
+.correct {
+    background-color: #d4edda;
+    color: #155724;
+    border-left: 5px solid #28a745;
+    padding: 0.8rem;
+    margin: 0.5rem 0;
+    border-radius: 8px;
+}
+
+.incorrect {
+    background-color: #f8d7da;
+    color: #721c24;
+    border-left: 5px solid #dc3545;
+    padding: 0.8rem;
+    margin: 0.5rem 0;
+    border-radius: 8px;
+}
+
+/* 📊 Accuracy Summary */
+.accuracy-summary {
+    padding: 2rem;
+    border-radius: 12px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    margin: 1.5rem auto;
+    max-width: 400px;
+    text-align: center;
+}
+
+.accuracy-list li {
+    padding: 0.8rem;
+    border-bottom: 1px solid #ddd;
+    transition: background 0.3s ease;
+    text-align: center;
+}
+
+.accuracy-list ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+/* ✅ Clock Styling */
+.clock {
+    background-color: #11172b;
+    color: white;
+    padding: 0.5rem;
+    font-size: 0.9rem;
+    border-radius: 8px;
+    margin: 1rem auto;
+    max-width: 300px;
+    text-align: center;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+}
+
+/* ⚡ Footer */
+.footer {
+    background-color: #11172b;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+    margin-top: 2rem;
+    font-size: 0.9rem;
+}
+
+/* ✅ About Section */
+.about {
+    background-color: white;
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    margin: 2rem auto;
+    max-width: 800px;
+    text-align: left;
+    line-height: 1.8;
+}
+
+.about h2, .about h3 {
+    color: #11172b;
+    font-weight: bold;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+.about ul {
+    list-style: none;
+    padding: 0;
+    margin: 1rem 0;
+}
+
+.about li {
+    background-color: #f9f9f9;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, background 0.3s ease;
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    font-size: 1rem;
+}
+
+.about li:hover {
+    background-color: #e94560;
+    color: white;
+    transform: translateY(-5px);
+    cursor: pointer;
+}
+
+/* ✅ Popup Modal for Game Details */
+.popup {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    justify-content: center;
+    align-items: center;
+}
+
+.popup-content {
+    background: white;
+    padding: 2rem;
+    border-radius: 10px;
+    width: 90%;
+    max-width: 400px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    position: relative;
+}
+
+.close-btn {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 24px;
+    cursor: pointer;
+    color: #e94560;
+}
+
+.close-btn:hover {
+    color: red;
+}
+
+/* 📱 Responsive Design */
+@media (max-width: 600px) {
+    .nav-links {
+        flex-direction: column;
+        gap: 0.75rem;
+    }
+
+    .container {
+        padding: 1rem;
+    }
+
+    .game-row {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+
+    .select-btn {
+        width: 90%;
+    }
+
+    .navbar, .footer, .game-box, .accuracy-summary {
+        font-size: 0.9rem;
+    }
+
+    .about {
+        padding: 1.5rem;
+        margin: 1rem;
+    }
+
+    .about li {
+        font-size: 0.9rem;
+        padding: 0.8rem;
+    }
+}
+/* ⚠️ Disclaimer Styling */
+.disclaimer {
+    background-color: #fff3cd;  /* Light yellow background */
+    color: #856404;             /* Dark gold text */
+    border-left: 5px solid #ffc107;  /* Bold yellow border */
+    padding: 1rem;
+    margin: 1.5rem auto;
+    border-radius: 8px;
+    max-width: 600px;
+    font-size: 0.95rem;
+    text-align: center;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);  /* Subtle shadow */
+    font-weight: bold;
+    line-height: 1.5;
+}
+
+/* Responsive Design for Disclaimer */
+@media (max-width: 600px) {
+    .disclaimer {
+        font-size: 0.85rem;
+        padding: 0.8rem;
+        max-width: 90%;
+    }
+}
+/* General Styling */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+/* Navbar */
+.navbar {
+    background-color: #11172b;
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+}
+
+.navbar .logo {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+}
+
+/* Player Selection */
+#player-select {
+    padding: 10px;
+    font-size: 1rem;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    background-color: white;
+    margin: 10px;
+}
+
+/* Table Styling */
+.stats-table {
+    width: 50%;
+    margin: 10px auto;
+    border-collapse: collapse;
+    border-radius: 5px;
+    overflow: hidden;
+    background: white;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.stats-table th, .stats-table td {
+    padding: 6px;
+    text-align: left;
+    border-bottom: 0.5px solid #ddd;
+}
+
+.stats-table th {
+    background-color: #11172b;
+    color: white;
+    font-weight: bold;
+}
+
+.stats-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+/* Disclaimer Box */
+.disclaimer {
+    background-color: #fff3cd;
+    color: #856404;
+    padding: 15px;
+    border-radius: 8px;
+    width: 60%;
+    margin: 20px auto;
+    font-size: 0.9rem;
+    font-weight: bold;
+    text-align: center;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+}
+.extra-container {
+    width: 100%;
+    min-height: 120px; /* Adjust as needed */
+    background-color: #f8f9fa; /* Light gray background */
+    border-radius: 8px;
+    margin: 15px 0; /* Space between dropdown and stats */
+    padding: 10px;
+    text-align: center;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+.extra-container img {
+    display: block;
+    margin: 0 auto;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+}
+/* 🎯 Filter Section */
+.filter-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+/* 🎯 Styled Dropdowns */
+.dropdown {
+    width: 250px;
+    padding: 10px;
+    font-size: 1rem;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    background-color: white;
+    cursor: pointer;
+    text-align: center;
+}
+
+/* ✅ Player Card Styling */
+.player-card {
+    width: 100%;
+    max-width: 400px;
+    background: white;
+    padding: 10px;
+    border-radius: 6px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin: 20px auto;
+}
+
+.player-img {
+    max-width: 150px;
+    border-radius: 8px;
+    border: 3px solid #8b0000;
+    margin-bottom: 10px;
+}
+
+.player-card h2 {
+    font-size: 1.5rem;
+    margin-bottom: 5px;
+}
+
+.player-card p {
+    font-size: 1rem;
+    margin: 2px 0;
+    color: #555;
+}
+
+/* 📊 Stats Table */
+.stats-table {
+    width: 100%;
+    max-width: 600px;
+    margin: 20px auto;
+    border-collapse: collapse;
+    border-radius: 8px;
+    overflow: hidden;
+    background: white;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.stats-table th, .stats-table td {
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+}
+
+.stats-table th {
+    background-color: #8b0000;
+    color: white;
+    font-weight: bold;
+}
+.popup {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.popup-content {
+    background: #1e293b;
+    padding: 2rem;
+    border-radius: 10px;
+    max-width: 500px;
+    text-align: center;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.popup-content h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.popup-content p {
+    font-size: 1.2rem;
+}
