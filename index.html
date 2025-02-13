@@ -3,53 +3,135 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="OHLStatHub - Your source for OHL game predictions and player stats">
-    <title>OHLStatHub - Launching Soon</title>
+    <title>OHLStatHub</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header>
-        <h1>OHLStatHub is Almost Here!</h1>
-    </header>
-    <main>
-        <h1>Predictions Go Live Tomorrow!</h1>
-        <p class="description">
-            We're thrilled to bring you OHLStatHub! A platform that delivers the latest game predictions and up-to-date player stats, all powered by advanced analytics.
-        </p>
 
-        <h2>What to expect in the first release:</h2>
-        <ul class="feature-list">
-            <li><strong>OHL Game Predictions:</strong> Accurate and data-driven predictions for every game (>70% accuracy).</li>
-            <li><strong>Player Stats:</strong> Track player performance with the latest stats.</li>
-        </ul>
-
-        <div class="cta">
-            <p class="highlight">Predictions will be live tomorrow, February 13th!</p>
-            <p>Stay tuned and get ready to experience OHLStatHub!</p>
+    <!-- ✅ Navigation Bar (Only Home) -->
+    <nav class="navbar sticky">
+        <div class="container">
+            <a href="index.html" class="logo">OHLStatHub</a>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+            </ul>
         </div>
-    </main>
+    </nav>
+
+    <!-- ✅ About Our Model -->
+    <section class="about">
+        <div class="container">
+            <h2>How Our Prediction Model Works</h2>
+            <p>
+                Our OHL prediction model uses machine learning and advanced statistical analysis to forecast game outcomes. 
+                By analyzing team performance, player stats, and historical data, we provide data-driven insights into each match-up. 
+                Our predictions refresh automatically every 24 hours to provide the most up-to-date insights.
+            </p>
+            <h3>How to Navigate the Website:</h3>
+            <p>
+             Click/tap on any of the options below. Once on that page, use the 'Home' button to return.
+          </p>
+            <ul>
+                <li onclick="location.href='player_stats.html'">🏆 <strong>Player Stats:</strong> View detailed player statistics for the 2024-2025 season.</li>
+                <!--<li onclick="location.href='about.html'">🏆 <strong>Team Stats:</strong> View detailed team statistics for the 2024-2025 season.</li>-->
+                <li onclick="location.href='predictions.html'">🔍 <strong>Predictions:</strong> View detailed forecasts for upcoming games.</li>
+                <li onclick="location.href='accuracy.html'">📊 <strong>Accuracy:</strong> See how well our model performs over time.</li>
+                <li onclick="location.href='schedule_insights.html'">🥅 <strong>Team Records and Matchups:</strong> View team records and H2H results.</li>
+                <li onclick="location.href='about.html'">❓<strong>About:</strong> Learn more about 'OHL Predictions'.</li>
+            </ul>
+            <p class="disclaimer">Entertainment purposes only.</p>
+        </div>
+    </section>
+
+    <!-- ✅ Footer with Live Clock -->
+    <footer class="footer">
+        <p>| &copy; 2025 OHLStatHub |<br>| Version 1.0.0 |</p>
+        <div id="clock" class="clock"></div>
+    </footer>
+
     <!-- ⚠️ Legal Disclaimer Popup -->
 <div id="legal-popup" class="popup">
     <div class="popup-content">
-      <h2>Welcome to OHLStatHub</h2>
+      <h2>Disclaimer</h2>
       <p>
-        By entering OHLStatHub, you agree that this platform is for informational purposes only and is not affiliated with the Ontario Hockey League (OHL).
+        By accessing this website, you agree that OHLStatHub is for informational purposes only and is not affiliated with the Ontario Hockey League (OHL).
         <br><br>
-        You’ll gain access to game predictions, player statistics, and performance tracking. Please note that predictions are based on statistical models and do not guarantee specific outcomes.
+        Predictions are based on statistical models and provided without guarantees. Users are responsible for their actions.
         <br><br>
-        Make sure to explore responsibly and understand that OHLStatHub is not liable for actions taken based on predictions or data.
+        OHL Predictions is not liable for outcomes related to the use of this site.
         <br><br>
       </p>
       <label>
-        <input type="checkbox" id="agree-checkbox"> I acknowledge and agree to the terms above.<br>
+        <input type="checkbox" id="agree-checkbox"> I have read and agree to the terms above.<br>
       </label>
+      
       <button id="accept-btn" class="select-btn" disabled>Enter</button>
     </div>
-</div>
+  </div>
+  
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const checkbox = document.getElementById('agree-checkbox');
+      const acceptBtn = document.getElementById('accept-btn');
+      const popup = document.getElementById('legal-popup');
+  
+      // Enable the button only when the checkbox is checked
+      checkbox.addEventListener('change', () => {
+        acceptBtn.disabled = !checkbox.checked;
+      });
+  
+      // Close the popup and store acceptance in localStorage when the button is clicked
+      acceptBtn.addEventListener('click', () => {
+        localStorage.setItem('disclaimerAccepted', 'true');
+        popup.style.display = 'none';
+      });
+  
+      // Show the popup only if the user hasn't accepted the disclaimer
+      if (!localStorage.getItem('disclaimerAccepted')) {
+        popup.style.display = 'block';
+      }
+    });
+  </script>
+  
 
-    <footer>
-        <p>&copy; 2025 OHLStatHub</p>
-        <p>Powered by: InsightDynamics</p>
-    </footer>
+    <script src="maintenance.js"></script>
+    <script>
+        function updateClock() {
+            const now = new Date();
+            const estTime = now.toLocaleString('en-US', { 
+                timeZone: 'America/New_York', 
+                hour: '2-digit', 
+                minute: '2-digit', 
+                second: '2-digit',
+                hour12: true 
+            });
+            const utcTime = now.toUTCString().slice(17, 25);
+    
+            const clockElement = document.getElementById('clock');
+            if (clockElement) {
+                clockElement.innerHTML = `<strong>EST:</strong> ${estTime} | <strong>UTC:</strong> ${utcTime}`;
+            }
+        }
+        setInterval(updateClock, 1000);
+        updateClock();
+    
+        // ⚠️ Legal Disclaimer Popup Script
+        document.addEventListener('DOMContentLoaded', () => {
+            const legalPopup = document.getElementById('legal-popup');
+            const acceptBtn = document.getElementById('accept-btn');
+    
+            if (!sessionStorage.getItem('legalAccepted')) {
+                // Show the popup if it's the first visit in this session
+                legalPopup.style.display = 'flex';
+            }
+    
+            acceptBtn.addEventListener('click', () => {
+                sessionStorage.setItem('legalAccepted', 'true');  // Store acceptance for this session
+                legalPopup.style.display = 'none';
+            });
+        });
+    </script>
+    
+    
 </body>
 </html>
