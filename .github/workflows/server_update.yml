@@ -82,6 +82,8 @@ jobs:
             echo "- **Updates Pushed to Repository:** ✅" >> docs/JSON_DATA/workflow_summary.md
           else
             echo "- **No Updates Needed:** No new data changes" >> docs/JSON_DATA/workflow_summary.md
+          fi
+
 
       - name: Commit & Push Updates
         if: env.changed == 'true'
