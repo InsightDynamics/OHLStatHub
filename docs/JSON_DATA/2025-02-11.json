@@ -1,0 +1,12 @@
+[
+    {
+        "home_team": "Kitchener Rangers",
+        "away_team": "Oshawa Generals",
+        "winner": "Oshawa Generals",
+        "odds": {
+            "Kitchener Rangers": "-104",
+            "Oshawa Generals": "-119"
+        },
+        "game_time": "7:00 pm"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "home_team": "North Bay Battalion",
+        "away_team": "Niagara IceDogs",
+        "winner": "Niagara IceDogs",
+        "odds": {
+            "North Bay Battalion": "+260",
+            "Niagara IceDogs": "-343"
+        },
+        "game_time": "1:00 pm"
+    },
+    {
+        "home_team": "Owen Sound Attack",
+        "away_team": "Brampton Steelheads",
+        "winner": "Brampton Steelheads",
+        "odds": {
+            "Owen Sound Attack": "+248",
+            "Brampton Steelheads": "-325"
+        },
+        "game_time": "2:00 pm"
+    },
+    {
+        "home_team": "Sudbury Wolves",
+        "away_team": "Brantford Bulldogs",
+        "winner": "Brantford Bulldogs",
+        "odds": {
+            "Sudbury Wolves": "+118",
+            "Brantford Bulldogs": "-146"
+        },
+        "game_time": "2:05 pm"
+    },
+    {
+        "home_team": "Guelph Storm",
+        "away_team": "Ottawa 67's",
+        "winner": "Guelph Storm",
+        "odds": {
+            "Guelph Storm": "-143",
+            "Ottawa 67's": "+115"
+        },
+        "game_time": "2:07 pm"
+    },
+    {
+        "home_team": "Sarnia Sting",
+        "away_team": "Kingston Frontenacs",
+        "winner": "Kingston Frontenacs",
+        "odds": {
+            "Sarnia Sting": "+257",
+            "Kingston Frontenacs": "-339"
+        },
+        "game_time": "4:00 pm"
+    },
+    {
+        "home_team": "Saginaw Spirit",
+        "away_team": "Soo Greyhounds",
+        "winner": "Saginaw Spirit",
+        "odds": {
+            "Saginaw Spirit": "-265",
+            "Soo Greyhounds": "+206"
+        },
+        "game_time": "5:30 pm"
+    },
+    {
+        "home_team": "Windsor Spitfires",
+        "away_team": "London Knights",
+        "winner": "London Knights",
+        "odds": {
+            "Windsor Spitfires": "-103",
+            "London Knights": "-119"
+        },
+        "game_time": "7:00 pm"
+    }
+]

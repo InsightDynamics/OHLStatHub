@@ -1,0 +1,686 @@
+Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
+2024-09-25,7:05 pm,Saginaw Spirit,4,Windsor Spitfires,5,27312
+2024-09-26,7:05 pm,Peterborough Petes,2,Kingston Frontenacs,7,27313
+2024-09-27,7:00 pm,Brampton Steelheads,7,Brantford Bulldogs,0,27314
+2024-09-27,7:00 pm,Kingston Frontenacs,2,Oshawa Generals,3,27316
+2024-09-27,7:00 pm,Kitchener Rangers,2,Erie Otters,5,27317
+2024-09-27,7:00 pm,London Knights,4,Flint Firebirds,7,27318
+2024-09-27,7:00 pm,North Bay Battalion,4,Peterborough Petes,0,27319
+2024-09-27,7:00 pm,Ottawa 67's,2,Niagara IceDogs,3,27320
+2024-09-27,7:05 pm,Sarnia Sting,5,Windsor Spitfires,4,27322
+2024-09-27,7:05 pm,Sudbury Wolves,1,Barrie Colts,3,27323
+2024-09-27,7:07 pm,Guelph Storm,6,Owen Sound Attack,4,27315
+2024-09-27,7:07 pm,Soo Greyhounds,4,Saginaw Spirit,6,27321
+2024-09-28,7:00 pm,Brantford Bulldogs,6,Oshawa Generals,2,27325
+2024-09-28,7:00 pm,Erie Otters,2,Brampton Steelheads,5,27326
+2024-09-28,7:00 pm,Flint Firebirds,2,London Knights,5,27327
+2024-09-28,7:00 pm,Owen Sound Attack,1,Guelph Storm,2,27328
+2024-09-28,7:05 pm,Saginaw Spirit,6,Sarnia Sting,1,27330
+2024-09-28,7:05 pm,Windsor Spitfires,12,Kitchener Rangers,2,27331
+2024-09-28,7:07 pm,Soo Greyhounds,3,Sudbury Wolves,6,27329
+2024-09-28,7:30 pm,Barrie Colts,1,North Bay Battalion,4,27324
+2024-09-29,2:00 pm,Kingston Frontenacs,2,Niagara IceDogs,5,27332
+2024-09-29,6:05 pm,Oshawa Generals,3,Ottawa 67's,4,27333
+2024-10-03,7:00 pm,Barrie Colts,1,Brampton Steelheads,4,27334
+2024-10-03,7:05 pm,Peterborough Petes,3,North Bay Battalion,5,27335
+2024-10-03,7:05 pm,Windsor Spitfires,5,Soo Greyhounds,0,27336
+2024-10-04,7:00 pm,Brantford Bulldogs,3,Owen Sound Attack,5,27337
+2024-10-04,7:00 pm,Kingston Frontenacs,9,North Bay Battalion,0,27339
+2024-10-04,7:00 pm,Kitchener Rangers,1,Flint Firebirds,2,27340
+2024-10-04,7:00 pm,London Knights,3,Erie Otters,5,27341
+2024-10-04,7:05 pm,Oshawa Generals,3,Niagara IceDogs,5,27342
+2024-10-04,7:05 pm,Sarnia Sting,4,Saginaw Spirit,5,27343
+2024-10-04,7:05 pm,Sudbury Wolves,5,Peterborough Petes,2,27344
+2024-10-04,7:07 pm,Guelph Storm,2,Soo Greyhounds,4,27338
+2024-10-05,3:00 pm,Ottawa 67's,6,North Bay Battalion,3,27349
+2024-10-05,4:00 pm,Brampton Steelheads,6,London Knights,3,27346
+2024-10-05,7:00 pm,Brantford Bulldogs,1,Windsor Spitfires,5,27347
+2024-10-05,7:00 pm,Flint Firebirds,3,Sarnia Sting,2,27348
+2024-10-05,7:00 pm,Owen Sound Attack,2,Kitchener Rangers,3,27350
+2024-10-05,7:05 pm,Saginaw Spirit,7,Erie Otters,3,27351
+2024-10-05,7:30 pm,Barrie Colts,2,Sudbury Wolves,1,27345
+2024-10-06,2:00 pm,Niagara IceDogs,7,Brampton Steelheads,3,27354
+2024-10-06,2:05 pm,Sarnia Sting,2,Soo Greyhounds,1,27356
+2024-10-06,4:00 pm,Kingston Frontenacs,4,Ottawa 67's,5,27352
+2024-10-06,6:00 pm,Kitchener Rangers,3,Guelph Storm,2,27353
+2024-10-06,6:05 pm,Oshawa Generals,3,Barrie Colts,4,27355
+2024-10-09,7:00 pm,Brantford Bulldogs,5,Sarnia Sting,1,27357
+2024-10-09,7:00 pm,Flint Firebirds,2,Kitchener Rangers,3,27358
+2024-10-09,7:00 pm,Owen Sound Attack,4,London Knights,5,27359
+2024-10-10,7:05 pm,Peterborough Petes,0,Sudbury Wolves,1,27360
+2024-10-11,7:00 pm,Brampton Steelheads,5,Windsor Spitfires,7,27361
+2024-10-11,7:00 pm,Erie Otters,2,North Bay Battalion,3,27362
+2024-10-11,7:00 pm,Kingston Frontenacs,7,Sudbury Wolves,2,27364
+2024-10-11,7:00 pm,London Knights,5,Barrie Colts,4,27365
+2024-10-11,7:00 pm,Niagara IceDogs,4,Owen Sound Attack,6,27366
+2024-10-11,7:00 pm,Ottawa 67's,3,Brantford Bulldogs,6,27367
+2024-10-11,7:05 pm,Sarnia Sting,3,Oshawa Generals,4,27369
+2024-10-11,7:07 pm,Guelph Storm,6,Peterborough Petes,3,27363
+2024-10-11,7:07 pm,Soo Greyhounds,5,Kitchener Rangers,4,27368
+2024-10-12,4:00 pm,Kingston Frontenacs,2,Brantford Bulldogs,3,27373
+2024-10-12,4:00 pm,London Knights,5,Guelph Storm,1,27374
+2024-10-12,7:00 pm,Erie Otters,6,Windsor Spitfires,3,27371
+2024-10-12,7:00 pm,Flint Firebirds,4,Oshawa Generals,1,27372
+2024-10-12,7:00 pm,Niagara IceDogs,7,North Bay Battalion,5,27375
+2024-10-12,7:00 pm,Owen Sound Attack,7,Peterborough Petes,2,27376
+2024-10-12,7:05 pm,Saginaw Spirit,4,Kitchener Rangers,7,27377
+2024-10-12,7:30 pm,Barrie Colts,4,Brampton Steelheads,2,27370
+2024-10-13,2:00 pm,Ottawa 67's,1,Sudbury Wolves,4,27378
+2024-10-13,2:05 pm,Sarnia Sting,6,Flint Firebirds,5,27380
+2024-10-13,5:30 pm,Saginaw Spirit,2,Soo Greyhounds,3,27379
+2024-10-14,2:00 pm,North Bay Battalion,4,Owen Sound Attack,2,27381
+2024-10-14,2:05 pm,Windsor Spitfires,5,Oshawa Generals,2,27382
+2024-10-16,7:05 pm,Sudbury Wolves,3,Soo Greyhounds,1,27383
+2024-10-17,7:00 pm,Barrie Colts,4,Owen Sound Attack,3,27384
+2024-10-17,7:00 pm,Erie Otters,2,Kingston Frontenacs,1,27385
+2024-10-17,7:00 pm,Niagara IceDogs,5,Ottawa 67's,4,27386
+2024-10-17,7:00 pm,North Bay Battalion,1,Sarnia Sting,3,27387
+2024-10-17,7:05 pm,Peterborough Petes,1,Oshawa Generals,2,27388
+2024-10-18,7:00 pm,Brampton Steelheads,3,Ottawa 67's,2,27389
+2024-10-18,7:00 pm,Brantford Bulldogs,2,North Bay Battalion,3,27390
+2024-10-18,7:00 pm,Kitchener Rangers,4,Niagara IceDogs,2,27392
+2024-10-18,7:00 pm,London Knights,1,Saginaw Spirit,5,27393
+2024-10-18,7:05 pm,Oshawa Generals,4,Peterborough Petes,2,27394
+2024-10-18,7:05 pm,Sudbury Wolves,1,Sarnia Sting,5,27396
+2024-10-18,7:07 pm,Guelph Storm,1,Windsor Spitfires,4,27391
+2024-10-18,7:07 pm,Soo Greyhounds,2,Flint Firebirds,1,27395
+2024-10-19,4:00 pm,Brampton Steelheads,2,Saginaw Spirit,3,27397
+2024-10-19,4:07 pm,Guelph Storm,2,Kitchener Rangers,3,27400
+2024-10-19,7:00 pm,Brantford Bulldogs,4,Kingston Frontenacs,3,27398
+2024-10-19,7:00 pm,Flint Firebirds,3,Erie Otters,5,27399
+2024-10-19,7:00 pm,Owen Sound Attack,1,Windsor Spitfires,4,27401
+2024-10-20,2:00 pm,London Knights,3,Erie Otters,1,27403
+2024-10-20,2:00 pm,Niagara IceDogs,4,Kingston Frontenacs,3,27404
+2024-10-20,2:00 pm,North Bay Battalion,3,Sudbury Wolves,4,27405
+2024-10-20,2:00 pm,Ottawa 67's,3,Barrie Colts,5,27407
+2024-10-20,2:07 pm,Soo Greyhounds,5,Sarnia Sting,4,27408
+2024-10-20,6:00 pm,Kitchener Rangers,4,Guelph Storm,2,27402
+2024-10-20,6:05 pm,Oshawa Generals,5,Saginaw Spirit,3,27406
+2024-10-23,10:30 am,Sarnia Sting,2,Flint Firebirds,1,27410
+2024-10-23,7:07 pm,Soo Greyhounds,5,Saginaw Spirit,3,27409
+2024-10-24,7:00 pm,Barrie Colts,1,Erie Otters,2,27411
+2024-10-24,7:00 pm,Niagara IceDogs,4,Oshawa Generals,3,27412
+2024-10-24,7:00 pm,North Bay Battalion,3,Ottawa 67's,2,27413
+2024-10-24,7:05 pm,Peterborough Petes,4,Kingston Frontenacs,6,27414
+2024-10-24,7:05 pm,Windsor Spitfires,7,Owen Sound Attack,5,27415
+2024-10-25,7:00 pm,Brampton Steelheads,4,Barrie Colts,6,27416
+2024-10-25,7:00 pm,Kingston Frontenacs,2,Oshawa Generals,7,27418
+2024-10-25,7:00 pm,Kitchener Rangers,6,Erie Otters,2,27419
+2024-10-25,7:00 pm,London Knights,4,Brantford Bulldogs,3,27420
+2024-10-25,7:05 pm,Sarnia Sting,3,Niagara IceDogs,4,27422
+2024-10-25,7:05 pm,Sudbury Wolves,3,North Bay Battalion,1,27423
+2024-10-25,7:07 pm,Guelph Storm,2,Flint Firebirds,7,27417
+2024-10-25,7:07 pm,Soo Greyhounds,3,Ottawa 67's,2,27421
+2024-10-26,7:00 pm,Brantford Bulldogs,4,Peterborough Petes,3,27425
+2024-10-26,7:00 pm,Erie Otters,3,Kitchener Rangers,4,27426
+2024-10-26,7:00 pm,Flint Firebirds,3,Owen Sound Attack,0,27427
+2024-10-26,7:05 pm,Saginaw Spirit,1,London Knights,4,27428
+2024-10-26,7:05 pm,Windsor Spitfires,2,Niagara IceDogs,1,27429
+2024-10-26,7:30 pm,Barrie Colts,6,Guelph Storm,1,27424
+2024-10-27,2:00 pm,North Bay Battalion,2,Kingston Frontenacs,6,27431
+2024-10-27,2:05 pm,Sarnia Sting,2,London Knights,5,27434
+2024-10-27,2:05 pm,Sudbury Wolves,3,Ottawa 67's,6,27435
+2024-10-27,4:07 pm,Guelph Storm,1,Brampton Steelheads,10,27430
+2024-10-27,5:30 pm,Saginaw Spirit,5,Owen Sound Attack,4,27433
+2024-10-27,6:05 pm,Oshawa Generals,7,Peterborough Petes,5,27432
+2024-10-29,7:00 pm,Kitchener Rangers,6,Sarnia Sting,1,27436
+2024-10-29,7:05 pm,Peterborough Petes,1,Niagara IceDogs,2,27437
+2024-10-30,7:05 pm,Windsor Spitfires,1,Soo Greyhounds,3,27438
+2024-11-01,7:00 pm,Brampton Steelheads,7,North Bay Battalion,2,27439
+2024-11-01,7:00 pm,Brantford Bulldogs,3,Erie Otters,4,27440
+2024-11-01,7:00 pm,Flint Firebirds,0,Windsor Spitfires,3,27441
+2024-11-01,7:00 pm,Kingston Frontenacs,4,Peterborough Petes,3,27442
+2024-11-01,7:00 pm,Kitchener Rangers,8,Sudbury Wolves,4,27443
+2024-11-01,7:00 pm,London Knights,4,Soo Greyhounds,3,27444
+2024-11-01,7:00 pm,Niagara IceDogs,3,Barrie Colts,7,27445
+2024-11-01,7:00 pm,Ottawa 67's,5,Guelph Storm,4,27447
+2024-11-01,7:05 pm,Oshawa Generals,5,Sarnia Sting,2,27446
+2024-11-02,4:00 pm,Brampton Steelheads,3,Sarnia Sting,5,27448
+2024-11-02,4:00 pm,Brantford Bulldogs,1,Sudbury Wolves,3,27449
+2024-11-02,4:00 pm,Kingston Frontenacs,6,Guelph Storm,3,27452
+2024-11-02,4:00 pm,Owen Sound Attack,2,Saginaw Spirit,6,27453
+2024-11-02,7:00 pm,Erie Otters,4,Barrie Colts,0,27450
+2024-11-02,7:00 pm,Flint Firebirds,0,Soo Greyhounds,4,27451
+2024-11-03,2:00 pm,Kitchener Rangers,4,Saginaw Spirit,2,27454
+2024-11-03,2:00 pm,Niagara IceDogs,4,Sudbury Wolves,3,27455
+2024-11-03,2:00 pm,North Bay Battalion,4,Brampton Steelheads,5,27456
+2024-11-03,2:00 pm,Ottawa 67's,3,Kingston Frontenacs,4,27458
+2024-11-03,2:00 pm,Owen Sound Attack,1,London Knights,2,27459
+2024-11-03,4:05 pm,Windsor Spitfires,4,Flint Firebirds,1,27460
+2024-11-03,6:05 pm,Oshawa Generals,5,Brantford Bulldogs,2,27457
+2024-11-05,7:05 pm,Peterborough Petes,3,Oshawa Generals,4,27461
+2024-11-06,10:30 am,Kingston Frontenacs,2,Ottawa 67's,4,27463
+2024-11-06,7:00 pm,Brantford Bulldogs,1,Guelph Storm,4,27462
+2024-11-06,7:00 pm,Owen Sound Attack,5,Sarnia Sting,2,27464
+2024-11-06,7:07 pm,Soo Greyhounds,1,London Knights,5,27465
+2024-11-07,7:00 pm,Niagara IceDogs,3,Erie Otters,9,27466
+2024-11-07,7:05 pm,Saginaw Spirit,1,Peterborough Petes,2,27467
+2024-11-07,7:05 pm,Windsor Spitfires,4,North Bay Battalion,5,27468
+2024-11-08,7:00 pm,Flint Firebirds,4,Peterborough Petes,1,27469
+2024-11-08,7:00 pm,Kingston Frontenacs,2,Oshawa Generals,1,27471
+2024-11-08,7:00 pm,Kitchener Rangers,4,Soo Greyhounds,0,27472
+2024-11-08,7:00 pm,London Knights,6,North Bay Battalion,2,27473
+2024-11-08,7:00 pm,Niagara IceDogs,4,Sarnia Sting,3,27474
+2024-11-08,7:00 pm,Ottawa 67's,5,Brampton Steelheads,1,27475
+2024-11-08,7:05 pm,Sudbury Wolves,2,Barrie Colts,3,27476
+2024-11-08,7:07 pm,Guelph Storm,7,Erie Otters,4,27470
+2024-11-09,4:00 pm,Brantford Bulldogs,4,Niagara IceDogs,6,27478
+2024-11-09,4:00 pm,Kingston Frontenacs,8,Brampton Steelheads,2,27481
+2024-11-09,7:00 pm,Erie Otters,4,Sarnia Sting,0,27479
+2024-11-09,7:00 pm,Flint Firebirds,2,Soo Greyhounds,6,27480
+2024-11-09,7:00 pm,Owen Sound Attack,5,Kitchener Rangers,4,27482
+2024-11-09,7:05 pm,Saginaw Spirit,5,Windsor Spitfires,1,27483
+2024-11-09,7:30 pm,Barrie Colts,8,Sudbury Wolves,1,27477
+2024-11-10,2:00 pm,Brampton Steelheads,3,Brantford Bulldogs,6,27484
+2024-11-10,2:00 pm,Owen Sound Attack,1,Sudbury Wolves,3,27487
+2024-11-10,2:07 pm,Guelph Storm,7,London Knights,8,27485
+2024-11-10,4:05 pm,Windsor Spitfires,4,Peterborough Petes,1,27489
+2024-11-10,5:30 pm,Saginaw Spirit,7,Flint Firebirds,2,27488
+2024-11-10,6:05 pm,Oshawa Generals,3,Kitchener Rangers,2,27486
+2024-11-13,10:30 am,Ottawa 67's,2,Kingston Frontenacs,3,27492
+2024-11-13,7:00 pm,Brantford Bulldogs,2,Barrie Colts,3,27490
+2024-11-13,7:00 pm,Flint Firebirds,5,Saginaw Spirit,7,27491
+2024-11-13,7:07 pm,Soo Greyhounds,4,Erie Otters,3,27493
+2024-11-14,7:00 pm,North Bay Battalion,3,Windsor Spitfires,5,27494
+2024-11-14,7:05 pm,Peterborough Petes,1,Owen Sound Attack,4,27495
+2024-11-15,7:00 pm,Brampton Steelheads,5,Barrie Colts,2,27496
+2024-11-15,7:00 pm,Kingston Frontenacs,7,Owen Sound Attack,1,27498
+2024-11-15,7:00 pm,Kitchener Rangers,4,Peterborough Petes,1,27499
+2024-11-15,7:00 pm,London Knights,5,Sarnia Sting,3,27500
+2024-11-15,7:00 pm,Ottawa 67's,2,Oshawa Generals,3,27501
+2024-11-15,7:05 pm,Saginaw Spirit,5,Erie Otters,7,27503
+2024-11-15,7:05 pm,Sudbury Wolves,9,Windsor Spitfires,3,27504
+2024-11-15,7:07 pm,Guelph Storm,8,Niagara IceDogs,5,27497
+2024-11-15,7:07 pm,Soo Greyhounds,2,Flint Firebirds,3,27502
+2024-11-16,4:00 pm,Brantford Bulldogs,5,Brampton Steelheads,3,27506
+2024-11-16,4:07 pm,Guelph Storm,0,London Knights,4,27508
+2024-11-16,7:00 pm,Flint Firebirds,2,Erie Otters,1,27507
+2024-11-16,7:05 pm,Saginaw Spirit,9,Sarnia Sting,3,27509
+2024-11-16,7:30 pm,Barrie Colts,6,Oshawa Generals,4,27505
+2024-11-17,2:00 pm,Niagara IceDogs,3,Brantford Bulldogs,6,27510
+2024-11-17,2:00 pm,Ottawa 67's,4,Owen Sound Attack,3,27513
+2024-11-17,2:05 pm,Oshawa Generals,6,Kingston Frontenacs,2,27512
+2024-11-17,2:05 pm,Sarnia Sting,0,Kitchener Rangers,5,27515
+2024-11-17,2:07 pm,Soo Greyhounds,2,Windsor Spitfires,1,27514
+2024-11-17,3:00 pm,North Bay Battalion,6,Sudbury Wolves,5,27511
+2024-11-19,7:00 pm,Kitchener Rangers,1,London Knights,3,27516
+2024-11-20,7:00 pm,Erie Otters,7,Brampton Steelheads,4,27517
+2024-11-21,7:00 pm,Niagara IceDogs,7,Soo Greyhounds,2,27518
+2024-11-21,7:00 pm,North Bay Battalion,4,Guelph Storm,3,27519
+2024-11-21,7:05 pm,Peterborough Petes,2,Brantford Bulldogs,5,27520
+2024-11-21,7:05 pm,Windsor Spitfires,2,Barrie Colts,1,27521
+2024-11-22,7:00 pm,Brampton Steelheads,4,Niagara IceDogs,3,27522
+2024-11-22,7:00 pm,Brantford Bulldogs,5,Oshawa Generals,4,27523
+2024-11-22,7:00 pm,Erie Otters,6,Soo Greyhounds,3,27524
+2024-11-22,7:00 pm,Kingston Frontenacs,4,Peterborough Petes,3,27525
+2024-11-22,7:00 pm,Kitchener Rangers,1,Windsor Spitfires,3,27526
+2024-11-22,7:00 pm,London Knights,4,Owen Sound Attack,3,27527
+2024-11-22,7:05 pm,Saginaw Spirit,8,Flint Firebirds,1,27528
+2024-11-22,7:05 pm,Sarnia Sting,5,Ottawa 67's,4,27529
+2024-11-22,7:05 pm,Sudbury Wolves,6,Guelph Storm,2,27530
+2024-11-23,7:00 pm,Brantford Bulldogs,1,Kingston Frontenacs,4,27531
+2024-11-23,7:00 pm,Erie Otters,0,Kitchener Rangers,4,27532
+2024-11-23,7:00 pm,Flint Firebirds,2,Barrie Colts,3,27533
+2024-11-23,7:00 pm,Niagara IceDogs,2,Sudbury Wolves,4,27534
+2024-11-23,7:00 pm,Owen Sound Attack,3,Oshawa Generals,4,27535
+2024-11-23,7:05 pm,Peterborough Petes,4,North Bay Battalion,1,27536
+2024-11-23,7:05 pm,Saginaw Spirit,5,London Knights,6,27537
+2024-11-23,7:05 pm,Windsor Spitfires,6,Ottawa 67's,3,27538
+2024-11-24,2:00 pm,Brampton Steelheads,8,Soo Greyhounds,5,27539
+2024-11-24,2:05 pm,Sarnia Sting,2,Barrie Colts,5,27543
+2024-11-24,4:00 pm,Kingston Frontenacs,5,North Bay Battalion,1,27540
+2024-11-24,4:00 pm,London Knights,2,Ottawa 67's,1,27541
+2024-11-24,6:05 pm,Oshawa Generals,4,Sudbury Wolves,2,27542
+2024-11-27,7:00 pm,Erie Otters,2,Owen Sound Attack,3,27544
+2024-11-27,7:00 pm,Flint Firebirds,3,Sarnia Sting,2,27545
+2024-11-27,7:05 pm,Windsor Spitfires,7,Saginaw Spirit,2,27546
+2024-11-28,7:00 pm,Barrie Colts,4,Sudbury Wolves,3,27547
+2024-11-28,7:00 pm,Niagara IceDogs,5,Guelph Storm,3,27548
+2024-11-28,7:05 pm,Peterborough Petes,0,London Knights,6,27549
+2024-11-29,7:00 pm,Kingston Frontenacs,4,London Knights,5,27551
+2024-11-29,7:00 pm,Kitchener Rangers,6,Owen Sound Attack,5,27552
+2024-11-29,7:00 pm,Niagara IceDogs,2,Flint Firebirds,8,27553
+2024-11-29,7:00 pm,Ottawa 67's,4,Peterborough Petes,2,27555
+2024-11-29,7:00 pm,Soo Greyhounds,0,North Bay Battalion,0,28041
+2024-11-29,7:05 pm,Oshawa Generals,3,Brantford Bulldogs,7,27554
+2024-11-29,7:05 pm,Sarnia Sting,2,Brampton Steelheads,3,27557
+2024-11-29,7:05 pm,Sudbury Wolves,5,Barrie Colts,3,27558
+2024-11-29,7:07 pm,Guelph Storm,6,Windsor Spitfires,2,27550
+2024-11-30,7:00 pm,Owen Sound Attack,3,Windsor Spitfires,6,27561
+2024-11-30,7:00 pm,Erie Otters,0,Flint Firebirds,0,28037
+2024-11-30,7:05 pm,Saginaw Spirit,3,Brampton Steelheads,5,27563
+2024-11-30,7:07 pm,Soo Greyhounds,2,North Bay Battalion,3,27562
+2024-11-30,7:30 pm,Barrie Colts,6,Brantford Bulldogs,2,27559
+2024-12-01,2:00 pm,Ottawa 67's,3,London Knights,10,27566
+2024-12-01,2:05 pm,Peterborough Petes,4,Niagara IceDogs,3,27567
+2024-12-01,2:05 pm,Sarnia Sting,1,Saginaw Spirit,4,27568
+2024-12-01,2:07 pm,Guelph Storm,2,Kitchener Rangers,3,27564
+2024-12-01,6:05 pm,Oshawa Generals,8,Kingston Frontenacs,5,27565
+2024-12-03,7:00 pm,Kitchener Rangers,6,Brantford Bulldogs,3,27569
+2024-12-04,11:00 am,Brampton Steelheads,7,Guelph Storm,4,27570
+2024-12-04,6:30 pm,London Knights,3,Owen Sound Attack,0,27571
+2024-12-04,7:05 pm,Oshawa Generals,8,Ottawa 67's,4,27572
+2024-12-04,7:05 pm,Saginaw Spirit,0,Soo Greyhounds,2,27573
+2024-12-05,7:00 pm,Barrie Colts,5,Flint Firebirds,2,27574
+2024-12-05,7:00 pm,North Bay Battalion,3,Erie Otters,4,27575
+2024-12-05,7:35 pm,Peterborough Petes,3,Sarnia Sting,2,27576
+2024-12-06,7:00 pm,Brantford Bulldogs,4,Peterborough Petes,3,27577
+2024-12-06,7:00 pm,Kingston Frontenacs,4,Barrie Colts,5,27579
+2024-12-06,7:00 pm,Kitchener Rangers,3,Soo Greyhounds,0,27580
+2024-12-06,7:00 pm,London Knights,3,Oshawa Generals,5,27581
+2024-12-06,7:00 pm,Niagara IceDogs,5,Brampton Steelheads,4,27582
+2024-12-06,7:00 pm,Ottawa 67's,6,Sarnia Sting,1,27583
+2024-12-06,7:05 pm,Sudbury Wolves,5,Erie Otters,2,27584
+2024-12-06,7:07 pm,Guelph Storm,4,Owen Sound Attack,1,27578
+2024-12-07,7:00 pm,Owen Sound Attack,3,Soo Greyhounds,1,27585
+2024-12-07,7:05 pm,Saginaw Spirit,6,Oshawa Generals,1,27586
+2024-12-07,7:05 pm,Sudbury Wolves,5,Flint Firebirds,4,27587
+2024-12-07,7:05 pm,Windsor Spitfires,2,Kitchener Rangers,3,27588
+2024-12-08,2:00 pm,Brampton Steelheads,4,Erie Otters,5,27589
+2024-12-08,2:00 pm,Kingston Frontenacs,6,Sarnia Sting,2,27590
+2024-12-08,2:00 pm,Niagara IceDogs,4,Brantford Bulldogs,3,27591
+2024-12-08,2:00 pm,North Bay Battalion,4,Flint Firebirds,1,27592
+2024-12-08,2:00 pm,Ottawa 67's,1,Barrie Colts,2,27593
+2024-12-08,2:05 pm,Peterborough Petes,5,Guelph Storm,3,27594
+2024-12-08,4:05 pm,Windsor Spitfires,7,Saginaw Spirit,4,27595
+2024-12-11,7:00 pm,Brampton Steelheads,5,Brantford Bulldogs,6,27596
+2024-12-11,7:00 pm,Owen Sound Attack,6,Guelph Storm,4,27597
+2024-12-11,7:05 pm,Sarnia Sting,4,Flint Firebirds,5,27599
+2024-12-11,7:07 pm,Soo Greyhounds,7,Sudbury Wolves,4,27598
+2024-12-12,7:00 pm,North Bay Battalion,3,Niagara IceDogs,7,27600
+2024-12-12,7:05 pm,Peterborough Petes,4,Oshawa Generals,3,27601
+2024-12-12,7:05 pm,Windsor Spitfires,5,Erie Otters,1,27602
+2024-12-13,7:00 pm,Brantford Bulldogs,2,Barrie Colts,1,27603
+2024-12-13,7:00 pm,Kitchener Rangers,3,Kingston Frontenacs,2,27605
+2024-12-13,7:00 pm,London Knights,4,Windsor Spitfires,2,27606
+2024-12-13,7:00 pm,Ottawa 67's,3,Peterborough Petes,2,27608
+2024-12-13,7:05 pm,Oshawa Generals,1,North Bay Battalion,3,27607
+2024-12-13,7:05 pm,Sarnia Sting,5,Owen Sound Attack,2,27610
+2024-12-13,7:05 pm,Sudbury Wolves,5,Brampton Steelheads,4,27611
+2024-12-13,7:07 pm,Guelph Storm,6,Saginaw Spirit,7,27604
+2024-12-13,7:07 pm,Soo Greyhounds,4,Niagara IceDogs,8,27609
+2024-12-14,2:07 pm,Guelph Storm,4,Kingston Frontenacs,3,27615
+2024-12-14,7:00 pm,Erie Otters,8,Saginaw Spirit,2,27613
+2024-12-14,7:00 pm,Flint Firebirds,4,Owen Sound Attack,0,27614
+2024-12-14,7:05 pm,Windsor Spitfires,3,London Knights,2,27616
+2024-12-14,7:30 pm,Barrie Colts,4,Ottawa 67's,5,27612
+2024-12-15,2:00 pm,Brantford Bulldogs,10,Kingston Frontenacs,1,27617
+2024-12-15,2:00 pm,North Bay Battalion,3,Ottawa 67's,4,27619
+2024-12-15,2:05 pm,Sudbury Wolves,3,Niagara IceDogs,6,27622
+2024-12-15,2:07 pm,Soo Greyhounds,3,Sarnia Sting,6,27621
+2024-12-15,4:00 pm,London Knights,3,Kitchener Rangers,2,27618
+2024-12-15,6:05 pm,Oshawa Generals,3,Brampton Steelheads,2,27620
+2024-12-18,7:00 pm,Brantford Bulldogs,7,Brampton Steelheads,4,27623
+2024-12-18,7:00 pm,Erie Otters,1,London Knights,6,27624
+2024-12-18,7:00 pm,Flint Firebirds,5,Saginaw Spirit,2,27625
+2024-12-18,7:00 pm,North Bay Battalion,1,Soo Greyhounds,4,27626
+2024-12-18,7:00 pm,Owen Sound Attack,0,Barrie Colts,4,27627
+2024-12-18,7:05 pm,Sarnia Sting,3,Kitchener Rangers,2,27628
+2024-12-19,7:00 pm,Barrie Colts,5,Niagara IceDogs,6,27629
+2024-12-19,7:05 pm,Peterborough Petes,4,Ottawa 67's,3,27630
+2024-12-19,7:05 pm,Windsor Spitfires,4,Guelph Storm,1,27631
+2024-12-20,7:00 pm,Brampton Steelheads,4,Niagara IceDogs,6,27632
+2024-12-20,7:00 pm,Kingston Frontenacs,4,Peterborough Petes,1,27634
+2024-12-20,7:00 pm,Kitchener Rangers,6,Ottawa 67's,3,27635
+2024-12-20,7:00 pm,London Knights,6,Sarnia Sting,1,27636
+2024-12-20,7:05 pm,Oshawa Generals,6,Brantford Bulldogs,2,27637
+2024-12-20,7:05 pm,Saginaw Spirit,3,Flint Firebirds,6,27638
+2024-12-20,7:05 pm,Sudbury Wolves,6,North Bay Battalion,3,27639
+2024-12-20,7:07 pm,Guelph Storm,6,Soo Greyhounds,4,27633
+2024-12-28,4:00 pm,Brampton Steelheads,7,Ottawa 67's,3,27641
+2024-12-28,7:00 pm,Erie Otters,4,Guelph Storm,2,27642
+2024-12-28,7:00 pm,Flint Firebirds,4,Niagara IceDogs,1,27643
+2024-12-28,7:00 pm,Owen Sound Attack,2,Brantford Bulldogs,8,27644
+2024-12-28,7:05 pm,Saginaw Spirit,3,Sarnia Sting,4,27646
+2024-12-28,7:07 pm,Soo Greyhounds,0,Windsor Spitfires,4,27645
+2024-12-28,7:30 pm,Barrie Colts,5,North Bay Battalion,2,27640
+2024-12-29,2:00 pm,North Bay Battalion,1,Barrie Colts,3,27648
+2024-12-29,2:05 pm,Peterborough Petes,4,Ottawa 67's,5,27650
+2024-12-29,2:05 pm,Sudbury Wolves,2,Kitchener Rangers,3,27653
+2024-12-29,2:07 pm,Soo Greyhounds,6,Windsor Spitfires,10,27651
+2024-12-29,4:00 pm,Flint Firebirds,1,London Knights,4,27647
+2024-12-29,5:30 pm,Saginaw Spirit,6,Niagara IceDogs,3,27652
+2024-12-29,6:05 pm,Oshawa Generals,4,Kingston Frontenacs,2,27649
+2024-12-30,7:00 pm,Owen Sound Attack,1,Guelph Storm,0,27654
+2024-12-31,1:00 pm,North Bay Battalion,2,Kitchener Rangers,5,27660
+2024-12-31,2:00 pm,Brampton Steelheads,5,Sudbury Wolves,6,27656
+2024-12-31,2:05 pm,Windsor Spitfires,6,Flint Firebirds,4,27661
+2024-12-31,4:00 pm,London Knights,9,Sarnia Sting,3,27658
+2024-12-31,6:00 pm,Erie Otters,5,Brantford Bulldogs,4,27657
+2024-12-31,6:00 pm,Niagara IceDogs,3,Peterborough Petes,2,27659
+2024-12-31,7:30 pm,Barrie Colts,7,Oshawa Generals,4,27655
+2025-01-01,2:05 pm,Oshawa Generals,4,Owen Sound Attack,3,27663
+2025-01-01,2:05 pm,Sarnia Sting,3,London Knights,2,27664
+2025-01-01,4:00 pm,Kingston Frontenacs,4,Brampton Steelheads,3,27662
+2025-01-02,7:00 pm,Barrie Colts,1,Sudbury Wolves,4,27665
+2025-01-02,7:00 pm,Brantford Bulldogs,1,Kitchener Rangers,2,27666
+2025-01-02,7:00 pm,North Bay Battalion,4,Peterborough Petes,1,27667
+2025-01-02,7:05 pm,Saginaw Spirit,5,Ottawa 67's,2,27668
+2025-01-02,7:05 pm,Windsor Spitfires,9,Guelph Storm,5,27669
+2025-01-03,7:00 pm,Flint Firebirds,8,Ottawa 67's,1,27670
+2025-01-03,7:00 pm,Kingston Frontenacs,7,Oshawa Generals,4,27672
+2025-01-03,7:00 pm,Kitchener Rangers,3,Erie Otters,1,27673
+2025-01-03,7:00 pm,London Knights,9,Niagara IceDogs,4,27674
+2025-01-03,7:05 pm,Sarnia Sting,4,Brantford Bulldogs,1,27676
+2025-01-03,7:05 pm,Sudbury Wolves,4,North Bay Battalion,1,27677
+2025-01-03,7:07 pm,Guelph Storm,2,Owen Sound Attack,0,27671
+2025-01-03,7:07 pm,Soo Greyhounds,4,Peterborough Petes,0,27675
+2025-01-04,4:00 pm,Brampton Steelheads,5,Flint Firebirds,4,27679
+2025-01-04,7:00 pm,Erie Otters,5,Windsor Spitfires,7,27680
+2025-01-04,7:00 pm,Owen Sound Attack,0,Niagara IceDogs,0,28040
+2025-01-04,7:05 pm,Saginaw Spirit,5,Soo Greyhounds,0,27682
+2025-01-04,7:30 pm,Barrie Colts,0,Kingston Frontenacs,0,28039
+2025-01-05,2:00 pm,Brantford Bulldogs,4,Ottawa 67's,3,27683
+2025-01-05,2:00 pm,Niagara IceDogs,3,Windsor Spitfires,4,27685
+2025-01-05,2:05 pm,Oshawa Generals,7,Flint Firebirds,0,27686
+2025-01-05,2:05 pm,Sudbury Wolves,1,Peterborough Petes,5,27687
+2025-01-05,2:07 pm,Guelph Storm,3,Kitchener Rangers,4,27684
+2025-01-08,6:37 pm,Guelph Storm,4,Erie Otters,5,27689
+2025-01-08,7:00 pm,Brantford Bulldogs,5,Flint Firebirds,2,27688
+2025-01-08,7:00 pm,Ottawa 67's,1,Brampton Steelheads,3,27690
+2025-01-08,7:00 pm,Owen Sound Attack,5,Barrie Colts,2,27691
+2025-01-08,7:05 pm,Sudbury Wolves,7,Soo Greyhounds,1,27692
+2025-01-09,7:00 pm,Niagara IceDogs,7,Saginaw Spirit,2,27693
+2025-01-09,7:00 pm,North Bay Battalion,1,Kingston Frontenacs,4,27694
+2025-01-09,7:05 pm,Peterborough Petes,5,Barrie Colts,2,27695
+2025-01-10,7:00 pm,Erie Otters,2,Saginaw Spirit,6,27696
+2025-01-10,7:00 pm,Flint Firebirds,4,Guelph Storm,6,27697
+2025-01-10,7:00 pm,Kitchener Rangers,2,Brampton Steelheads,5,27698
+2025-01-10,7:00 pm,London Knights,5,Windsor Spitfires,1,27699
+2025-01-10,7:00 pm,Ottawa 67's,2,Oshawa Generals,3,27700
+2025-01-10,7:05 pm,Sarnia Sting,3,Owen Sound Attack,5,27702
+2025-01-10,7:05 pm,Sudbury Wolves,4,Niagara IceDogs,5,27703
+2025-01-10,7:07 pm,Soo Greyhounds,5,Kingston Frontenacs,6,27701
+2025-01-11,4:00 pm,Brampton Steelheads,5,North Bay Battalion,6,27705
+2025-01-11,7:00 pm,Erie Otters,3,Sarnia Sting,5,27706
+2025-01-11,7:00 pm,Flint Firebirds,6,Windsor Spitfires,8,27707
+2025-01-11,7:00 pm,Owen Sound Attack,4,London Knights,6,27708
+2025-01-11,7:05 pm,Peterborough Petes,4,Brantford Bulldogs,5,27709
+2025-01-11,7:07 pm,Soo Greyhounds,2,Guelph Storm,4,27710
+2025-01-11,7:30 pm,Barrie Colts,1,Kitchener Rangers,4,27704
+2025-01-12,2:00 pm,Niagara IceDogs,2,Peterborough Petes,5,27712
+2025-01-12,2:05 pm,Sudbury Wolves,10,Kingston Frontenacs,6,27714
+2025-01-12,6:00 pm,Kitchener Rangers,3,Saginaw Spirit,4,27711
+2025-01-12,6:05 pm,Oshawa Generals,6,Ottawa 67's,2,27713
+2025-01-15,7:00 pm,Top Prospects East,5,Top Prospects West,4,28038
+2025-01-16,7:00 pm,North Bay Battalion,2,Barrie Colts,0,27715
+2025-01-16,7:05 pm,Peterborough Petes,0,Soo Greyhounds,7,27716
+2025-01-16,7:05 pm,Windsor Spitfires,6,Sudbury Wolves,2,27717
+2025-01-17,7:00 pm,Brampton Steelheads,4,Owen Sound Attack,5,27718
+2025-01-17,7:00 pm,Kingston Frontenacs,3,Soo Greyhounds,1,27719
+2025-01-17,7:00 pm,Kitchener Rangers,4,Flint Firebirds,3,27720
+2025-01-17,7:00 pm,London Knights,6,Guelph Storm,0,27721
+2025-01-17,7:00 pm,Ottawa 67's,1,Erie Otters,4,27723
+2025-01-17,7:05 pm,Oshawa Generals,4,Brantford Bulldogs,5,27722
+2025-01-17,7:05 pm,Sarnia Sting,6,Sudbury Wolves,2,27724
+2025-01-18,4:00 pm,Brampton Steelheads,4,Kitchener Rangers,1,27726
+2025-01-18,4:00 pm,Brantford Bulldogs,5,Oshawa Generals,3,27727
+2025-01-18,4:00 pm,Saginaw Spirit,6,Guelph Storm,2,27731
+2025-01-18,7:00 pm,Niagara IceDogs,3,North Bay Battalion,1,27728
+2025-01-18,7:00 pm,Owen Sound Attack,4,Flint Firebirds,5,27729
+2025-01-18,7:05 pm,Peterborough Petes,1,Erie Otters,5,27730
+2025-01-18,7:30 pm,Barrie Colts,4,Windsor Spitfires,1,27725
+2025-01-19,2:00 pm,Kingston Frontenacs,6,Erie Otters,2,27733
+2025-01-19,2:00 pm,London Knights,8,Sudbury Wolves,1,27734
+2025-01-19,2:00 pm,Niagara IceDogs,1,Barrie Colts,5,27735
+2025-01-19,2:00 pm,Ottawa 67's,0,Soo Greyhounds,3,27737
+2025-01-19,4:00 pm,Brantford Bulldogs,2,North Bay Battalion,1,27732
+2025-01-19,6:05 pm,Oshawa Generals,4,Windsor Spitfires,1,27736
+2025-01-21,7:00 pm,Kitchener Rangers,5,London Knights,2,27738
+2025-01-22,7:00 pm,Brantford Bulldogs,6,Niagara IceDogs,2,27739
+2025-01-22,7:00 pm,Kingston Frontenacs,7,Ottawa 67's,2,27740
+2025-01-22,7:00 pm,Owen Sound Attack,2,Barrie Colts,3,27741
+2025-01-23,7:00 pm,Barrie Colts,3,Brampton Steelheads,2,27742
+2025-01-23,7:00 pm,North Bay Battalion,1,London Knights,4,27743
+2025-01-23,7:05 pm,Peterborough Petes,8,Saginaw Spirit,6,27744
+2025-01-24,7:00 pm,Erie Otters,3,Niagara IceDogs,2,27745
+2025-01-24,7:00 pm,Kingston Frontenacs,7,Saginaw Spirit,6,27747
+2025-01-24,7:00 pm,Kitchener Rangers,5,Owen Sound Attack,1,27748
+2025-01-24,7:05 pm,Oshawa Generals,6,Peterborough Petes,3,27749
+2025-01-24,7:05 pm,Sarnia Sting,3,Windsor Spitfires,4,27751
+2025-01-24,7:05 pm,Sudbury Wolves,2,London Knights,5,27752
+2025-01-24,7:07 pm,Guelph Storm,1,Brantford Bulldogs,4,27746
+2025-01-24,7:07 pm,Soo Greyhounds,5,Flint Firebirds,3,27750
+2025-01-25,3:00 pm,Ottawa 67's,5,Kingston Frontenacs,4,27756
+2025-01-25,7:00 pm,Erie Otters,3,Kitchener Rangers,4,27754
+2025-01-25,7:00 pm,Flint Firebirds,5,Brampton Steelheads,3,27755
+2025-01-25,7:00 pm,Owen Sound Attack,5,Sarnia Sting,4,27757
+2025-01-25,7:30 pm,Barrie Colts,6,Brantford Bulldogs,3,27753
+2025-01-26,2:00 pm,Niagara IceDogs,6,Erie Otters,3,27758
+2025-01-26,2:00 pm,North Bay Battalion,3,Sudbury Wolves,2,27759
+2025-01-26,2:00 pm,Ottawa 67's,2,Saginaw Spirit,7,27761
+2025-01-26,2:07 pm,Soo Greyhounds,3,London Knights,7,27762
+2025-01-26,4:05 pm,Windsor Spitfires,5,Brampton Steelheads,2,27763
+2025-01-26,6:05 pm,Oshawa Generals,1,Guelph Storm,6,27760
+2025-01-29,7:00 pm,Owen Sound Attack,3,Erie Otters,4,27764
+2025-01-29,7:07 pm,Soo Greyhounds,4,Kitchener Rangers,5,27765
+2025-01-30,7:00 pm,Barrie Colts,5,Ottawa 67's,3,27766
+2025-01-30,7:00 pm,North Bay Battalion,2,Brantford Bulldogs,3,27767
+2025-01-30,7:05 pm,Peterborough Petes,3,Brampton Steelheads,4,27768
+2025-01-30,7:05 pm,Saginaw Spirit,5,Kingston Frontenacs,9,27769
+2025-01-30,7:05 pm,Windsor Spitfires,1,Flint Firebirds,5,27770
+2025-01-31,7:00 pm,Brampton Steelheads,4,Peterborough Petes,5,27771
+2025-01-31,7:00 pm,Flint Firebirds,2,Kitchener Rangers,3,27772
+2025-01-31,7:00 pm,London Knights,4,Erie Otters,2,27774
+2025-01-31,7:05 pm,Oshawa Generals,3,Barrie Colts,2,27775
+2025-01-31,7:05 pm,Sudbury Wolves,8,North Bay Battalion,3,27777
+2025-01-31,7:07 pm,Guelph Storm,3,Sarnia Sting,4,27773
+2025-01-31,7:07 pm,Soo Greyhounds,4,Brantford Bulldogs,6,27776
+2025-02-01,4:00 pm,Owen Sound Attack,3,Ottawa 67's,1,27780
+2025-02-01,7:00 pm,Flint Firebirds,4,Kingston Frontenacs,7,27779
+2025-02-01,7:05 pm,Peterborough Petes,3,Oshawa Generals,2,27781
+2025-02-01,7:05 pm,Saginaw Spirit,5,Kitchener Rangers,4,27782
+2025-02-01,7:05 pm,Sarnia Sting,4,Erie Otters,1,27783
+2025-02-01,7:30 pm,Barrie Colts,7,Niagara IceDogs,6,27778
+2025-02-02,1:00 pm,North Bay Battalion,4,Niagara IceDogs,3,27785
+2025-02-02,2:00 pm,Owen Sound Attack,5,Brampton Steelheads,3,27786
+2025-02-02,2:05 pm,Sudbury Wolves,3,Brantford Bulldogs,9,27789
+2025-02-02,2:07 pm,Guelph Storm,3,Ottawa 67's,4,27784
+2025-02-02,4:00 pm,Sarnia Sting,2,Kingston Frontenacs,4,27788
+2025-02-02,5:30 pm,Saginaw Spirit,5,Soo Greyhounds,2,27787
+2025-02-02,7:00 pm,Windsor Spitfires,4,London Knights,3,27790
+2025-02-04,11:00 am,Erie Otters,4,Guelph Storm,3,27791
+2025-02-04,6:30 pm,London Knights,5,Kitchener Rangers,3,27792
+2025-02-04,7:00 pm,Barrie Colts,3,Kingston Frontenacs,2,27678
+2025-02-05,7:00 pm,Brantford Bulldogs,2,Sudbury Wolves,1,27793
+2025-02-05,7:00 pm,Ottawa 67's,1,Oshawa Generals,8,27794
+2025-02-05,7:05 pm,Windsor Spitfires,3,Saginaw Spirit,6,27795
+2025-02-06,7:00 pm,North Bay Battalion,4,Soo Greyhounds,7,27796
+2025-02-06,7:05 pm,Peterborough Petes,2,Flint Firebirds,7,27797
+2025-02-07,7:00 pm,Brampton Steelheads,10,Erie Otters,3,27798
+2025-02-07,7:00 pm,Brantford Bulldogs,4,Saginaw Spirit,2,27799
+2025-02-07,7:00 pm,Kingston Frontenacs,3,Flint Firebirds,1,27801
+2025-02-07,7:00 pm,Kitchener Rangers,4,Owen Sound Attack,3,27802
+2025-02-07,7:00 pm,London Knights,3,Peterborough Petes,1,27803
+2025-02-07,7:00 pm,Niagara IceDogs,3,Sudbury Wolves,7,27804
+2025-02-07,7:05 pm,Oshawa Generals,5,Ottawa 67's,2,27805
+2025-02-07,7:05 pm,Windsor Spitfires,7,Sarnia Sting,2,27806
+2025-02-07,7:07 pm,Guelph Storm,5,North Bay Battalion,4,27800
+2025-02-08,4:00 pm,Brampton Steelheads,6,Kingston Frontenacs,0,27808
+2025-02-08,7:00 pm,Erie Otters,7,Sudbury Wolves,4,27809
+2025-02-08,7:00 pm,Niagara IceDogs,1,Kitchener Rangers,9,27811
+2025-02-08,7:00 pm,Owen Sound Attack,4,North Bay Battalion,1,27812
+2025-02-08,7:05 pm,Sarnia Sting,2,Peterborough Petes,3,27813
+2025-02-08,7:05 pm,Windsor Spitfires,3,Brantford Bulldogs,2,27814
+2025-02-08,7:07 pm,Guelph Storm,7,Saginaw Spirit,10,27810
+2025-02-08,7:30 pm,Barrie Colts,4,Soo Greyhounds,2,27807
+2025-02-09,2:00 pm,Ottawa 67's,2,Flint Firebirds,5,27816
+2025-02-09,2:00 pm,Owen Sound Attack,2,Kingston Frontenacs,4,27817
+2025-02-09,2:05 pm,Oshawa Generals,6,Soo Greyhounds,0,27815
+2025-02-11,7:00 pm,Kitchener Rangers,3,Oshawa Generals,4,27818
+2025-02-12,7:00 pm,Erie Otters,2,Niagara IceDogs,1,27819
+2025-02-12,7:00 pm,Ottawa 67's,3,Peterborough Petes,0,27820
+2025-02-12,7:05 pm,Sarnia Sting,3,Guelph Storm,4,27822
+2025-02-12,7:05 pm,Sudbury Wolves,3,Brampton Steelheads,7,27823
+2025-02-12,7:07 pm,Soo Greyhounds,4,Saginaw Spirit,8,27821
+2025-02-13,7:00 pm,Barrie Colts,0,London Knights,0,27824
+2025-02-13,7:00 pm,North Bay Battalion,0,Brampton Steelheads,0,27825
+2025-02-13,7:05 pm,Peterborough Petes,0,Ottawa 67's,0,27826
+2025-02-13,7:05 pm,Windsor Spitfires,0,Sarnia Sting,0,27827
+2025-02-14,7:00 pm,Brantford Bulldogs,0,Niagara IceDogs,0,27828
+2025-02-14,7:00 pm,Flint Firebirds,0,Sudbury Wolves,0,27829
+2025-02-14,7:00 pm,Kingston Frontenacs,0,Kitchener Rangers,0,27831
+2025-02-14,7:00 pm,London Knights,0,Soo Greyhounds,0,27832
+2025-02-14,7:00 pm,Owen Sound Attack,0,Erie Otters,0,27833
+2025-02-14,7:05 pm,Saginaw Spirit,0,Windsor Spitfires,0,27834
+2025-02-14,7:07 pm,Guelph Storm,0,Oshawa Generals,0,27830
+2025-02-15,7:00 pm,Flint Firebirds,0,Guelph Storm,0,27836
+2025-02-15,7:00 pm,Owen Sound Attack,0,Erie Otters,0,27838
+2025-02-15,7:05 pm,Oshawa Generals,0,Brampton Steelheads,0,27837
+2025-02-15,7:05 pm,Peterborough Petes,0,Kingston Frontenacs,0,27839
+2025-02-15,7:05 pm,Saginaw Spirit,0,Sudbury Wolves,0,27840
+2025-02-15,7:05 pm,Sarnia Sting,0,Soo Greyhounds,0,27841
+2025-02-15,7:30 pm,Barrie Colts,0,North Bay Battalion,0,27835
+2025-02-16,2:00 pm,Niagara IceDogs,0,Brantford Bulldogs,0,27842
+2025-02-16,2:00 pm,Ottawa 67's,0,Kitchener Rangers,0,27843
+2025-02-17,2:00 pm,Brampton Steelheads,0,Niagara IceDogs,0,27844
+2025-02-17,2:00 pm,Brantford Bulldogs,0,Soo Greyhounds,0,27845
+2025-02-17,2:00 pm,Kingston Frontenacs,0,Barrie Colts,0,27847
+2025-02-17,2:00 pm,London Knights,0,Flint Firebirds,0,27848
+2025-02-17,2:00 pm,Ottawa 67's,0,North Bay Battalion,0,27850
+2025-02-17,2:05 pm,Oshawa Generals,0,Erie Otters,0,27849
+2025-02-17,2:05 pm,Peterborough Petes,0,Kitchener Rangers,0,27851
+2025-02-17,2:05 pm,Sarnia Sting,0,Saginaw Spirit,0,27852
+2025-02-17,2:05 pm,Windsor Spitfires,0,Owen Sound Attack,0,27853
+2025-02-17,2:07 pm,Guelph Storm,0,Sudbury Wolves,0,27846
+2025-02-19,7:00 pm,Brampton Steelheads,0,Oshawa Generals,0,27854
+2025-02-20,7:00 pm,Barrie Colts,0,Owen Sound Attack,0,27855
+2025-02-20,7:05 pm,Peterborough Petes,0,Brantford Bulldogs,0,27856
+2025-02-20,7:05 pm,Saginaw Spirit,0,North Bay Battalion,0,27857
+2025-02-21,7:00 pm,Erie Otters,0,Oshawa Generals,0,27858
+2025-02-21,7:00 pm,Flint Firebirds,0,North Bay Battalion,0,27859
+2025-02-21,7:00 pm,Kingston Frontenacs,0,Brantford Bulldogs,0,27860
+2025-02-21,7:00 pm,Kitchener Rangers,0,Barrie Colts,0,27861
+2025-02-21,7:00 pm,London Knights,0,Brampton Steelheads,0,27862
+2025-02-21,7:00 pm,Ottawa 67's,0,Niagara IceDogs,0,27863
+2025-02-21,7:05 pm,Sarnia Sting,0,Windsor Spitfires,0,27865
+2025-02-21,7:05 pm,Sudbury Wolves,0,Owen Sound Attack,0,27866
+2025-02-21,7:07 pm,Soo Greyhounds,0,Guelph Storm,0,27864
+2025-02-22,4:00 pm,Brampton Steelheads,0,Sudbury Wolves,0,27868
+2025-02-22,4:00 pm,Kingston Frontenacs,0,Niagara IceDogs,0,27871
+2025-02-22,7:00 pm,Erie Otters,0,London Knights,0,27869
+2025-02-22,7:00 pm,Flint Firebirds,0,Windsor Spitfires,0,27870
+2025-02-22,7:05 pm,Saginaw Spirit,0,Guelph Storm,0,27872
+2025-02-22,7:30 pm,Barrie Colts,0,Peterborough Petes,0,27867
+2025-02-23,2:00 pm,Ottawa 67's,0,Brantford Bulldogs,0,27875
+2025-02-23,2:05 pm,Sarnia Sting,0,North Bay Battalion,0,27877
+2025-02-23,2:07 pm,Soo Greyhounds,0,Owen Sound Attack,0,27876
+2025-02-23,4:05 pm,Windsor Spitfires,0,Saginaw Spirit,0,27878
+2025-02-23,6:00 pm,London Knights,0,Kitchener Rangers,0,27873
+2025-02-23,6:05 pm,Oshawa Generals,0,Kingston Frontenacs,0,27874
+2025-02-24,7:00 pm,Erie Otters,0,Flint Firebirds,0,27560
+2025-02-25,7:00 pm,Kitchener Rangers,0,Guelph Storm,0,27879
+2025-02-25,7:07 pm,Soo Greyhounds,0,North Bay Battalion,0,27556
+2025-02-26,6:37 pm,Guelph Storm,0,Barrie Colts,0,27881
+2025-02-26,7:00 pm,Owen Sound Attack,0,Niagara IceDogs,0,27681
+2025-02-26,7:00 pm,Flint Firebirds,0,Sarnia Sting,0,27880
+2025-02-26,7:07 pm,Soo Greyhounds,0,Sudbury Wolves,0,27882
+2025-02-27,7:00 pm,Barrie Colts,0,Saginaw Spirit,0,27883
+2025-02-27,7:00 pm,Niagara IceDogs,0,Erie Otters,0,27884
+2025-02-27,7:00 pm,North Bay Battalion,0,Brampton Steelheads,0,27885
+2025-02-27,7:05 pm,Peterborough Petes,0,Windsor Spitfires,0,27886
+2025-02-28,7:00 pm,Brantford Bulldogs,0,Oshawa Generals,0,27887
+2025-02-28,7:00 pm,Kingston Frontenacs,0,Windsor Spitfires,0,27889
+2025-02-28,7:00 pm,Kitchener Rangers,0,Sarnia Sting,0,27890
+2025-02-28,7:00 pm,London Knights,0,Owen Sound Attack,0,27891
+2025-02-28,7:00 pm,Ottawa 67's,0,North Bay Battalion,0,27892
+2025-02-28,7:05 pm,Sudbury Wolves,0,Saginaw Spirit,0,27894
+2025-02-28,7:07 pm,Guelph Storm,0,Flint Firebirds,0,27888
+2025-02-28,7:07 pm,Soo Greyhounds,0,Brampton Steelheads,0,27893
+2025-03-01,7:00 pm,Brantford Bulldogs,0,Peterborough Petes,0,27896
+2025-03-01,7:00 pm,Erie Otters,0,Flint Firebirds,0,27897
+2025-03-01,7:00 pm,Niagara IceDogs,0,London Knights,0,27898
+2025-03-01,7:00 pm,Owen Sound Attack,0,Kitchener Rangers,0,27899
+2025-03-01,7:30 pm,Barrie Colts,0,Kingston Frontenacs,0,27895
+2025-03-02,2:00 pm,North Bay Battalion,0,Saginaw Spirit,0,27901
+2025-03-02,2:00 pm,Ottawa 67's,0,Windsor Spitfires,0,27903
+2025-03-02,2:05 pm,Sarnia Sting,0,Guelph Storm,0,27904
+2025-03-02,2:05 pm,Sudbury Wolves,0,Brampton Steelheads,0,27905
+2025-03-02,4:00 pm,Erie Otters,0,Peterborough Petes,0,27900
+2025-03-02,6:05 pm,Oshawa Generals,0,London Knights,0,27902
+2025-03-05,11:00 am,Brampton Steelheads,0,Oshawa Generals,0,27906
+2025-03-05,7:00 pm,Brantford Bulldogs,0,London Knights,0,27907
+2025-03-05,7:00 pm,Flint Firebirds,0,Saginaw Spirit,0,27908
+2025-03-05,7:05 pm,Sudbury Wolves,0,Niagara IceDogs,0,27909
+2025-03-06,7:00 pm,North Bay Battalion,0,Niagara IceDogs,0,27910
+2025-03-06,7:05 pm,Peterborough Petes,0,Ottawa 67's,0,27911
+2025-03-06,7:05 pm,Saginaw Spirit,0,Barrie Colts,0,27912
+2025-03-06,7:05 pm,Windsor Spitfires,0,Kingston Frontenacs,0,27913
+2025-03-07,7:00 pm,Brampton Steelheads,0,North Bay Battalion,0,27914
+2025-03-07,7:00 pm,Erie Otters,0,Owen Sound Attack,0,27915
+2025-03-07,7:00 pm,Flint Firebirds,0,Brantford Bulldogs,0,27916
+2025-03-07,7:00 pm,Kitchener Rangers,0,Windsor Spitfires,0,27918
+2025-03-07,7:00 pm,London Knights,0,Kingston Frontenacs,0,27919
+2025-03-07,7:05 pm,Sudbury Wolves,0,Oshawa Generals,0,27921
+2025-03-07,7:07 pm,Guelph Storm,0,Sarnia Sting,0,27917
+2025-03-07,7:07 pm,Soo Greyhounds,0,Barrie Colts,0,27920
+2025-03-08,3:00 pm,Ottawa 67's,0,Peterborough Petes,0,27924
+2025-03-08,7:00 pm,Erie Otters,0,Owen Sound Attack,0,27922
+2025-03-08,7:00 pm,Flint Firebirds,0,Sarnia Sting,0,27923
+2025-03-08,7:05 pm,Saginaw Spirit,0,Brantford Bulldogs,0,27926
+2025-03-08,7:07 pm,Soo Greyhounds,0,Oshawa Generals,0,27925
+2025-03-09,2:00 pm,Kitchener Rangers,0,Guelph Storm,0,27927
+2025-03-09,2:00 pm,Niagara IceDogs,0,Kingston Frontenacs,0,27928
+2025-03-09,2:00 pm,North Bay Battalion,0,Ottawa 67's,0,27929
+2025-03-09,2:05 pm,Sarnia Sting,0,London Knights,0,27930
+2025-03-09,2:05 pm,Sudbury Wolves,0,Barrie Colts,0,27931
+2025-03-11,7:00 pm,Brampton Steelheads,0,Sudbury Wolves,0,27932
+2025-03-11,7:00 pm,London Knights,0,Guelph Storm,0,27933
+2025-03-11,7:00 pm,Niagara IceDogs,0,Barrie Colts,0,27934
+2025-03-11,7:05 pm,Windsor Spitfires,0,Erie Otters,0,27935
+2025-03-12,6:37 pm,Guelph Storm,0,London Knights,0,27936
+2025-03-12,7:00 pm,Kingston Frontenacs,0,Ottawa 67's,0,27937
+2025-03-12,7:00 pm,Owen Sound Attack,0,Flint Firebirds,0,27938
+2025-03-12,7:05 pm,Peterborough Petes,0,Brampton Steelheads,0,27939
+2025-03-12,7:05 pm,Sarnia Sting,0,Erie Otters,0,27940
+2025-03-13,7:00 pm,North Bay Battalion,0,Brantford Bulldogs,0,27941
+2025-03-13,7:05 pm,Windsor Spitfires,0,Soo Greyhounds,0,27942
+2025-03-14,7:00 pm,Brampton Steelheads,0,Barrie Colts,0,27943
+2025-03-14,7:00 pm,Kingston Frontenacs,0,Peterborough Petes,0,27945
+2025-03-14,7:00 pm,Kitchener Rangers,0,North Bay Battalion,0,27946
+2025-03-14,7:00 pm,London Knights,0,Saginaw Spirit,0,27947
+2025-03-14,7:00 pm,Ottawa 67's,0,Oshawa Generals,0,27948
+2025-03-14,7:05 pm,Sarnia Sting,0,Soo Greyhounds,0,27949
+2025-03-14,7:05 pm,Sudbury Wolves,0,Brantford Bulldogs,0,27950
+2025-03-14,7:07 pm,Guelph Storm,0,Owen Sound Attack,0,27944
+2025-03-15,7:00 pm,Erie Otters,0,Niagara IceDogs,0,27952
+2025-03-15,7:00 pm,Flint Firebirds,0,Soo Greyhounds,0,27953
+2025-03-15,7:00 pm,Owen Sound Attack,0,Kitchener Rangers,0,27954
+2025-03-15,7:05 pm,Peterborough Petes,0,Sudbury Wolves,0,27955
+2025-03-15,7:05 pm,Saginaw Spirit,0,Windsor Spitfires,0,27956
+2025-03-15,7:30 pm,Barrie Colts,0,Sarnia Sting,0,27951
+2025-03-16,2:00 pm,Niagara IceDogs,0,Brampton Steelheads,0,27958
+2025-03-16,2:00 pm,North Bay Battalion,0,Barrie Colts,0,27959
+2025-03-16,2:00 pm,Ottawa 67's,0,Kingston Frontenacs,0,27961
+2025-03-16,4:00 pm,Erie Otters,0,Guelph Storm,0,27957
+2025-03-16,4:05 pm,Windsor Spitfires,0,London Knights,0,27962
+2025-03-16,6:05 pm,Oshawa Generals,0,Sudbury Wolves,0,27960
+2025-03-18,7:00 pm,Kitchener Rangers,0,London Knights,0,27963
+2025-03-19,7:00 pm,Brantford Bulldogs,0,Brampton Steelheads,0,27964
+2025-03-19,7:05 pm,Sudbury Wolves,0,Soo Greyhounds,0,27965
+2025-03-20,6:37 pm,Guelph Storm,0,Erie Otters,0,27967
+2025-03-20,7:00 pm,Barrie Colts,0,Owen Sound Attack,0,27966
+2025-03-20,7:00 pm,Niagara IceDogs,0,Ottawa 67's,0,27968
+2025-03-20,7:00 pm,North Bay Battalion,0,Oshawa Generals,0,27969
+2025-03-20,7:05 pm,Peterborough Petes,0,Kingston Frontenacs,0,27970
+2025-03-20,7:05 pm,Windsor Spitfires,0,Sarnia Sting,0,27971
+2025-03-21,7:00 pm,Brampton Steelheads,0,Peterborough Petes,0,27972
+2025-03-21,7:00 pm,Kingston Frontenacs,0,Brantford Bulldogs,0,27973
+2025-03-21,7:00 pm,Kitchener Rangers,0,Owen Sound Attack,0,27974
+2025-03-21,7:00 pm,London Knights,0,Windsor Spitfires,0,27975
+2025-03-21,7:00 pm,Niagara IceDogs,0,North Bay Battalion,0,27976
+2025-03-21,7:05 pm,Sarnia Sting,0,Flint Firebirds,0,27978
+2025-03-21,7:05 pm,Sudbury Wolves,0,Oshawa Generals,0,27979
+2025-03-21,7:07 pm,Soo Greyhounds,0,Saginaw Spirit,0,27977
+2025-03-22,7:00 pm,Erie Otters,0,Ottawa 67's,0,27981
+2025-03-22,7:00 pm,Flint Firebirds,0,Saginaw Spirit,0,27982
+2025-03-22,7:00 pm,Owen Sound Attack,0,Guelph Storm,0,27983
+2025-03-22,7:30 pm,Barrie Colts,0,Niagara IceDogs,0,27980
+2025-03-23,2:00 pm,Brampton Steelheads,0,Kingston Frontenacs,0,27984
+2025-03-23,2:00 pm,Brantford Bulldogs,0,Ottawa 67's,0,27985
+2025-03-23,2:00 pm,North Bay Battalion,0,Sudbury Wolves,0,27988
+2025-03-23,2:07 pm,Guelph Storm,0,Kitchener Rangers,0,27987
+2025-03-23,2:07 pm,Soo Greyhounds,0,Sarnia Sting,0,27990
+2025-03-23,4:00 pm,Erie Otters,0,London Knights,0,27986
+2025-03-23,5:30 pm,Saginaw Spirit,0,Flint Firebirds,0,27991
+2025-03-23,6:05 pm,Oshawa Generals,0,Peterborough Petes,0,27989

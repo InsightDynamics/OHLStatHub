@@ -1,0 +1,32 @@
+[
+    {
+        "home_team": "Ottawa 67's",
+        "away_team": "Flint Firebirds",
+        "winner": "Flint Firebirds",
+        "odds": {
+            "Ottawa 67's": "+173",
+            "Flint Firebirds": "-219"
+        },
+        "game_time": "2:00 pm"
+    },
+    {
+        "home_team": "Owen Sound Attack",
+        "away_team": "Kingston Frontenacs",
+        "winner": "Kingston Frontenacs",
+        "odds": {
+            "Owen Sound Attack": "+291",
+            "Kingston Frontenacs": "-392"
+        },
+        "game_time": "2:00 pm"
+    },
+    {
+        "home_team": "Oshawa Generals",
+        "away_team": "Soo Greyhounds",
+        "winner": "Oshawa Generals",
+        "odds": {
+            "Oshawa Generals": "-246",
+            "Soo Greyhounds": "+192"
+        },
+        "game_time": "2:05 pm"
+    }
+]

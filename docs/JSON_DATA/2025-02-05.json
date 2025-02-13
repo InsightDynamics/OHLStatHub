@@ -1,0 +1,32 @@
+[
+    {
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Sudbury Wolves",
+        "winner": "Brantford Bulldogs",
+        "odds": {
+            "Brantford Bulldogs": "-146",
+            "Sudbury Wolves": "+118"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Ottawa 67's",
+        "away_team": "Oshawa Generals",
+        "winner": "Oshawa Generals",
+        "odds": {
+            "Ottawa 67's": "+246",
+            "Oshawa Generals": "-323"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Windsor Spitfires",
+        "away_team": "Saginaw Spirit",
+        "winner": "Windsor Spitfires",
+        "odds": {
+            "Windsor Spitfires": "-124",
+            "Saginaw Spirit": "+100"
+        },
+        "game_time": "7:05 pm"
+    }
+]
