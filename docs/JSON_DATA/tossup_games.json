@@ -8,8 +8,8 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Guelph Storm": "-117",
-            "Sarnia Sting": "-105"
+            "Guelph Storm": "-122",
+            "Sarnia Sting": "-101"
         }
     },
     {
@@ -47,8 +47,8 @@
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "Windsor Spitfires": "-103",
-            "London Knights": "-119"
+            "Windsor Spitfires": "-104",
+            "London Knights": "-118"
         }
     },
     {
@@ -99,8 +99,8 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Sarnia Sting": "-105",
-            "Guelph Storm": "-117"
+            "Sarnia Sting": "-101",
+            "Guelph Storm": "-122"
         }
     }
 ]

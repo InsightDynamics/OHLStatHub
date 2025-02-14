@@ -4,8 +4,8 @@
         "away_team": "London Knights",
         "winner": "London Knights",
         "odds": {
-            "Barrie Colts": "+131",
-            "London Knights": "-163"
+            "Barrie Colts": "+136",
+            "London Knights": "-169"
         },
         "game_time": "7:00 pm"
     },
@@ -14,8 +14,8 @@
         "away_team": "Brampton Steelheads",
         "winner": "Brampton Steelheads",
         "odds": {
-            "North Bay Battalion": "+328",
-            "Brampton Steelheads": "-452"
+            "North Bay Battalion": "+303",
+            "Brampton Steelheads": "-411"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Sarnia Sting",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-316",
-            "Sarnia Sting": "+241"
+            "Windsor Spitfires": "-347",
+            "Sarnia Sting": "+262"
         },
         "game_time": "7:05 pm"
     }

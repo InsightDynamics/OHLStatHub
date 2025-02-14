@@ -34,8 +34,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Owen Sound Attack",
         "odds": {
-            "Owen Sound Attack": "-149",
-            "North Bay Battalion": "+120"
+            "Owen Sound Attack": "-137",
+            "North Bay Battalion": "+110"
         },
         "game_time": "7:00 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Sarnia Sting",
         "odds": {
-            "Sarnia Sting": "-268",
-            "Peterborough Petes": "+208"
+            "Sarnia Sting": "-258",
+            "Peterborough Petes": "+201"
         },
         "game_time": "7:05 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-142",
-            "Brantford Bulldogs": "+114"
+            "Windsor Spitfires": "-148",
+            "Brantford Bulldogs": "+120"
         },
         "game_time": "7:05 pm"
     },
@@ -74,7 +74,7 @@
         "away_team": "Soo Greyhounds",
         "winner": "Barrie Colts",
         "odds": {
-            "Barrie Colts": "-213",
+            "Barrie Colts": "-214",
             "Soo Greyhounds": "+169"
         },
         "game_time": "7:30 pm"

@@ -15,7 +15,7 @@
         "winner": "Sudbury Wolves",
         "odds": {
             "Flint Firebirds": "-108",
-            "Sudbury Wolves": "-114"
+            "Sudbury Wolves": "-115"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Soo Greyhounds",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-321",
-            "Soo Greyhounds": "+245"
+            "London Knights": "-334",
+            "Soo Greyhounds": "+253"
         },
         "game_time": "7:00 pm"
     },
@@ -54,8 +54,18 @@
         "away_team": "Windsor Spitfires",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Saginaw Spirit": "+100",
-            "Windsor Spitfires": "-124"
+            "Saginaw Spirit": "+105",
+            "Windsor Spitfires": "-130"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Peterborough Petes",
+        "away_team": "Ottawa 67's",
+        "winner": "Ottawa 67's",
+        "odds": {
+            "Peterborough Petes": "+172",
+            "Ottawa 67's": "-218"
         },
         "game_time": "7:05 pm"
     },

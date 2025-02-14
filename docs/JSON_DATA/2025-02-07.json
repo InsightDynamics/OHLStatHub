@@ -44,8 +44,8 @@
         "away_team": "Peterborough Petes",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-974",
-            "Peterborough Petes": "+586"
+            "London Knights": "-1029",
+            "Peterborough Petes": "+608"
         },
         "game_time": "7:00 pm"
     },
@@ -54,7 +54,7 @@
         "away_team": "Sudbury Wolves",
         "winner": "Niagara IceDogs",
         "odds": {
-            "Niagara IceDogs": "-131",
+            "Niagara IceDogs": "-130",
             "Sudbury Wolves": "+106"
         },
         "game_time": "7:00 pm"
@@ -74,8 +74,8 @@
         "away_team": "Sarnia Sting",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-316",
-            "Sarnia Sting": "+241"
+            "Windsor Spitfires": "-347",
+            "Sarnia Sting": "+262"
         },
         "game_time": "7:05 pm"
     },
@@ -84,8 +84,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Guelph Storm",
         "odds": {
-            "Guelph Storm": "-180",
-            "North Bay Battalion": "+144"
+            "Guelph Storm": "-165",
+            "North Bay Battalion": "+133"
         },
         "game_time": "7:07 pm"
     }
