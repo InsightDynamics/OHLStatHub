@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Team Records</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- ✅ Navigation Bar -->
+    <nav class="navbar sticky">
+        <div class="container">
+            <a href="index.html" class="logo">OHLStatHub</a>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- ✅ Team Records Section -->
+    <main class="container">
+        <h1 class="main-heading">Team Records</h1>
+        <div class="filter-container">
+            <label for="team-select">Select Team:</label>
+            <select id="team-select" class="dropdown">
+                <option value="">-- Select a Team --</option>
+            </select>
+
+            <label for="opponent-select">Select Opponent (Optional):</label>
+            <select id="opponent-select" class="dropdown">
+                <option value="">-- Select a Team --</option>
+            </select>
+        </div>
+        <div id="record-display" class="extra-container">
+            <h2 id="team-name">Team Record</h2>
+            <p id="overall-record">*Overall Record: Loading...</p>
+            <p id="home-record">Home Record: Loading...</p>
+            <p id="away-record">Away Record: Loading...</p>
+            <p id="versus-record">Versus Other Teams: N/A</p>
+            <p class="disclaimer">
+                *Overtime (OT) and Shootout (SO) losses are included in this count.
+            </p>
+        </div>
+        
+    </main>
+    
+    <footer class="footer">
+        <p>| &copy; 2025 OHL Predictions |<br>| Version 1.0.0 |</p>
+        <div id="clock" class="clock"></div>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const teamSelect = document.getElementById('team-select');
+            const opponentSelect = document.getElementById('opponent-select');
+            const teamName = document.getElementById('team-name');
+            const overallRecord = document.getElementById('overall-record');
+            const homeRecord = document.getElementById('home-record');
+            const awayRecord = document.getElementById('away-record');
+            const versusRecord = document.getElementById('versus-record');
+
+            let teamList = [];
+
+            fetch('docs/OHL_Schedule/OHL_Schedule_2024_2025.csv')
+                .then(response => response.text())
+                .then(data => {
+                    const teams = new Set();
+                    const rows = data.split('\n').slice(1);
+                    rows.forEach(row => {
+                        const cols = row.split(',');
+                        teams.add(cols[2]); // HomeTeam
+                        teams.add(cols[4]); // AwayTeam
+                    });
+                    teamList = Array.from(teams);
+                    populateDropdown(teamSelect, teamList);
+                    populateDropdown(opponentSelect, teamList);
+                });
+
+            function populateDropdown(dropdown, teams) {
+                dropdown.innerHTML = '<option value="">-- Select a Team --</option>';
+                teams.forEach(team => {
+                    const option = document.createElement('option');
+                    option.value = team;
+                    option.textContent = team;
+                    dropdown.appendChild(option);
+                });
+            }
+
+            teamSelect.addEventListener('change', updateRecords);
+            opponentSelect.addEventListener('change', updateRecords);
+
+            function updateRecords() {
+                const selectedTeam = teamSelect.value;
+                const selectedOpponent = opponentSelect.value;
+                if (!selectedTeam) return;
+
+                fetch('docs/OHL_Schedule/OHL_Schedule_2024_2025.csv')
+                    .then(response => response.text())
+                    .then(data => {
+                        const rows = data.split('\n').slice(1);
+                        let overallWins = 0, overallLosses = 0;
+                        let homeWins = 0, homeLosses = 0;
+                        let awayWins = 0, awayLosses = 0;
+                        let h2hWins = 0, h2hLosses = 0;
+                        let h2hResults = [];
+
+                        rows.forEach(row => {
+                            const [date, time, homeTeam, homeGoals, awayTeam, awayGoals] = row.split(',');
+                            const homeScore = parseInt(homeGoals, 10);
+                            const awayScore = parseInt(awayGoals, 10);
+
+                            // Skip games that haven't started yet (0-0 score)
+                            if (homeScore === 0 && awayScore === 0) return;
+
+                            if (homeTeam === selectedTeam) {
+                                if (homeScore > awayScore) {
+                                    overallWins++;
+                                    homeWins++;
+                                } else {
+                                    overallLosses++;
+                                    homeLosses++;
+                                }
+                            } else if (awayTeam === selectedTeam) {
+                                if (awayScore > homeScore) {
+                                    overallWins++;
+                                    awayWins++;
+                                } else {
+                                    overallLosses++;
+                                    awayLosses++;
+                                }
+                            }
+
+                            if (selectedOpponent && ((homeTeam === selectedTeam && awayTeam === selectedOpponent) || 
+                                                     (homeTeam === selectedOpponent && awayTeam === selectedTeam))) {
+                                const mainTeamWin = (homeTeam === selectedTeam && homeScore > awayScore) || 
+                                                   (awayTeam === selectedTeam && awayScore > homeScore);
+                                if (mainTeamWin) {
+                                    h2hWins++;
+                                } else {
+                                    h2hLosses++;
+                                }
+                                h2hResults.push(`${date}: ${homeTeam} ${homeScore} - ${awayTeam} ${awayScore}`);
+                            }
+                        });
+
+                        // Update the display
+                        teamName.textContent = `${selectedTeam} Record`;
+                        overallRecord.textContent = `Overall Record: ${overallWins}-${overallLosses}`;
+                        homeRecord.textContent = `Home Record: ${homeWins}-${homeLosses}`;
+                        awayRecord.textContent = `Away Record: ${awayWins}-${awayLosses}`;
+
+                        if (selectedOpponent) {
+                            versusRecord.innerHTML = `<strong>H2H Record vs ${selectedOpponent}:</strong> ${h2hWins}-${h2hLosses}<br><strong>H2H Games:</strong><br>${h2hResults.join('<br>')}`;
+                        } else {
+                            versusRecord.textContent = 'Versus Other Teams: N/A';
+                        }
+                    });
+            }
+        });
+    </script>
+   
+</body>
+</html>
