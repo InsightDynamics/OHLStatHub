@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OHL Predictor</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- ✅ Navigation Bar -->
+    <nav class="navbar sticky">
+        <div class="container">
+            <a href="index.html" class="logo">OHLStatHub</a>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main class="container predictions">
+        <h1 class="main-heading">Game Predictor</h1>
+
+        <label for="date-select" class="date-label">Select Date:</label>
+        <input type="date" id="date-select" class="date-input">
+
+        <div id="game-container" class="game-container"></div>
+        <div id="results" class="results"></div>
+
+        <!-- ⚠️ Legal Disclaimer -->
+        <p class="disclaimer">
+            Entertainment purposes only.
+        </p>
+    </main>
+
+    <footer class="footer">
+        <p>| &copy; 2025 OHLStatHub |<br>| Version 1.0.0 |</p>
+        <div id="clock" class="clock"></div>
+    </footer>
+
+    <!-- ✅ Game Details Popup -->
+    <div id="game-popup" class="popup" style="display: none;">
+        <div class="popup-content">
+            <span class="close-btn" id="close-btn">✖</span>
+            <div id="popup-details"></div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
