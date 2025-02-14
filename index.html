@@ -49,29 +49,26 @@
         <div id="clock" class="clock"></div>
     </footer>
 
-    <!-- ⚠️ Legal Disclaimer Popup -->
+<!-- ⚠️ Legal Disclaimer Popup -->
 <div id="legal-popup" class="popup">
-  <div class="popup-content">
-    <h2>OHLStatHub Server Maintenance (DELAYED)</h2>
-    <h3 style="color: #d9534f; font-weight: bold;">⚙️ Service Temporarily Unavailable</h3>
-    <p>
-      Our servers are undergoing scheduled maintenance as we work to enhance your experience on OHLStatHub.  
-      <br><br>
-      <strong>Estimated Completion:</strong> <br> 10-11 PM EST, February 13, 2025  
-      <br><br>
-      We appreciate your patience and understanding during this time. <br>
-        Please check back soon for access to updated predictions and player statistics.
-    </p>
-    <label>
-      <!--<input type="checkbox" id="agree-checkbox"> I acknowledge the maintenance status and will check back later.<br>-->
-    </label>
-    <!--<button id="accept-btn" class="select-btn" disabled>Enter</button>-->
+    <div class="popup-content">
+      <h2>Disclaimer</h2>
+      <p>
+        By accessing this website, you agree that OHLStatHub is for informational purposes only and is not affiliated with the Ontario Hockey League (OHL).
+        <br><br>
+        Predictions are based on statistical models and provided without guarantees. Users are responsible for their actions.
+        <br><br>
+        OHL Predictions is not liable for outcomes related to the use of this site.
+        <br><br>
+      </p>
+      <label>
+        <input type="checkbox" id="agree-checkbox"> I have read and agree to the terms above.<br>
+      </label>
+      
+      <button id="accept-btn" class="select-btn" disabled>Enter</button>
+    </div>
   </div>
-</div>
 
-
-
-  
   <script>
     document.addEventListener('DOMContentLoaded', () => {
       const checkbox = document.getElementById('agree-checkbox');
