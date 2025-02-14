@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>Player Statistics</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- ✅ Navigation Bar -->
+    <nav class="navbar sticky">
+        <div class="container">
+            <a href="index.html" class="logo">OHLStatHub</a>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- ✅ Main Container -->
+    <main class="container">
+        <h1 class="main-heading">Player Statistics</h1>
+
+        <!-- ✅ Team & Player Selection -->
+        <div class="filter-container">
+            <label for="team-select">Select Team:</label>
+            <select id="team-select" class="dropdown"></select>
+
+            <label for="player-select">Select Player:</label>
+            <select id="player-select" class="dropdown"></select>
+        </div>
+
+        <!-- ✅ Player Card (Image & Info) -->
+        <div id="extra-container" class="player-card">
+            <img id="player-image" src="" alt="Player Image" class="player-img">
+            <h2 id="player-name">Select a Player</h2>
+            <p id="player-meta"></p>
+            <p id="player-details"></p>
+            <p id="player-draft"></p>
+        </div>
+
+        <!-- ✅ Player Stats Table -->
+        <table class="stats-table">
+            <thead>
+                <tr>
+                    <th>GP</th>
+                    <th>G</th>
+                    <th>A</th>
+                    <th>PTS</th>
+                    <th>+/-</th>
+                </tr>
+            </thead>
+            <tbody id="player-stats"></tbody>
+        </table>
+
+        <!-- ✅ Stats Updated Notice -->
+        <p class="disclaimer">Stats Automatically Updated Daily: <br>6:50pm, 10:15pm<br></p>
+    </main>
+
+    <!-- ✅ Footer -->
+    <footer class="footer">
+        <p>| &copy; 2025 OHLStatHub |<br>| Version 1.0.0 |</p>
+        <div id="clock" class="clock"></div>
+    </footer>
+
+    <script src="player_stats.js"></script>
+</body>
+</html>
