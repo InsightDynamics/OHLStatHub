@@ -1,0 +1,22 @@
+[
+    {
+        "home_team": "Niagara IceDogs",
+        "away_team": "Brantford Bulldogs",
+        "winner": "Brantford Bulldogs",
+        "odds": {
+            "Niagara IceDogs": "+110",
+            "Brantford Bulldogs": "-136"
+        },
+        "game_time": "2:00 pm"
+    },
+    {
+        "home_team": "Ottawa 67's",
+        "away_team": "Kitchener Rangers",
+        "winner": "Kitchener Rangers",
+        "odds": {
+            "Ottawa 67's": "+216",
+            "Kitchener Rangers": "-280"
+        },
+        "game_time": "2:00 pm"
+    }
+]
