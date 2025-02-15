@@ -60,8 +60,8 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Peterborough Petes": "+514",
-            "Brampton Steelheads": "-806"
+            "Peterborough Petes": "+508",
+            "Brampton Steelheads": "-794"
         }
     },
     {
@@ -99,8 +99,8 @@
         "home_score": 4,
         "away_score": 5,
         "odds": {
-            "Brampton Steelheads": "-806",
-            "Peterborough Petes": "+514"
+            "Brampton Steelheads": "-794",
+            "Peterborough Petes": "+508"
         }
     },
     {
@@ -255,8 +255,8 @@
         "home_score": 5,
         "away_score": 3,
         "odds": {
-            "Owen Sound Attack": "+223",
-            "Brampton Steelheads": "-290"
+            "Owen Sound Attack": "+221",
+            "Brampton Steelheads": "-286"
         }
     },
     {
@@ -424,8 +424,8 @@
         "home_score": 10,
         "away_score": 3,
         "odds": {
-            "Brampton Steelheads": "-162",
-            "Erie Otters": "+130"
+            "Brampton Steelheads": "-160",
+            "Erie Otters": "+129"
         }
     },
     {
@@ -528,8 +528,8 @@
         "home_score": 6,
         "away_score": 0,
         "odds": {
-            "Brampton Steelheads": "+105",
-            "Kingston Frontenacs": "-130"
+            "Brampton Steelheads": "+106",
+            "Kingston Frontenacs": "-131"
         }
     },
     {
@@ -684,8 +684,8 @@
         "home_score": 3,
         "away_score": 7,
         "odds": {
-            "Sudbury Wolves": "+132",
-            "Brampton Steelheads": "-164"
+            "Sudbury Wolves": "+130",
+            "Brampton Steelheads": "-162"
         }
     },
     {
@@ -723,8 +723,8 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "North Bay Battalion": "+303",
-            "Brampton Steelheads": "-411"
+            "North Bay Battalion": "+299",
+            "Brampton Steelheads": "-405"
         }
     },
     {
