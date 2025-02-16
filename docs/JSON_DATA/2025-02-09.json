@@ -14,8 +14,8 @@
         "away_team": "Kingston Frontenacs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Owen Sound Attack": "+259",
-            "Kingston Frontenacs": "-343"
+            "Owen Sound Attack": "+253",
+            "Kingston Frontenacs": "-334"
         },
         "game_time": "2:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Soo Greyhounds",
         "winner": "Oshawa Generals",
         "odds": {
-            "Oshawa Generals": "-254",
-            "Soo Greyhounds": "+199"
+            "Oshawa Generals": "-244",
+            "Soo Greyhounds": "+191"
         },
         "game_time": "2:05 pm"
     }
