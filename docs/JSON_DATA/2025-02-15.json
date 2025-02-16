@@ -1,21 +1,21 @@
 [
     {
-        "home_team": "Flint Firebirds",
-        "away_team": "Guelph Storm",
-        "winner": "Flint Firebirds",
-        "odds": {
-            "Flint Firebirds": "-162",
-            "Guelph Storm": "+130"
-        },
-        "game_time": "7:00 pm"
-    },
-    {
         "home_team": "Owen Sound Attack",
         "away_team": "Erie Otters",
         "winner": "Erie Otters",
         "odds": {
             "Owen Sound Attack": "+155",
             "Erie Otters": "-194"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Flint Firebirds",
+        "away_team": "Guelph Storm",
+        "winner": "Flint Firebirds",
+        "odds": {
+            "Flint Firebirds": "-162",
+            "Guelph Storm": "+130"
         },
         "game_time": "7:00 pm"
     },

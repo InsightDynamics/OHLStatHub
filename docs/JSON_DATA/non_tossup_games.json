@@ -73,7 +73,7 @@
         "home_score": 1,
         "away_score": 5,
         "odds": {
-            "Windsor Spitfires": "-201",
+            "Windsor Spitfires": "-202",
             "Flint Firebirds": "+160"
         }
     },
@@ -100,7 +100,7 @@
         "away_score": 3,
         "odds": {
             "Flint Firebirds": "+121",
-            "Kitchener Rangers": "-150"
+            "Kitchener Rangers": "-151"
         }
     },
     {
@@ -191,7 +191,7 @@
         "away_score": 7,
         "odds": {
             "Flint Firebirds": "+162",
-            "Kingston Frontenacs": "-203"
+            "Kingston Frontenacs": "-204"
         }
     },
     {
@@ -437,7 +437,7 @@
         "home_score": 3,
         "away_score": 1,
         "odds": {
-            "Kingston Frontenacs": "-203",
+            "Kingston Frontenacs": "-204",
             "Flint Firebirds": "+162"
         }
     },
@@ -515,7 +515,7 @@
         "home_score": 5,
         "away_score": 4,
         "odds": {
-            "Guelph Storm": "-163",
+            "Guelph Storm": "-162",
             "North Bay Battalion": "+131"
         }
     },
@@ -619,7 +619,7 @@
         "home_score": 2,
         "away_score": 5,
         "odds": {
-            "Ottawa 67's": "+162",
+            "Ottawa 67's": "+161",
             "Flint Firebirds": "-203"
         }
     },
@@ -827,8 +827,8 @@
         "home_score": 5,
         "away_score": 7,
         "odds": {
-            "Guelph Storm": "+194",
-            "Oshawa Generals": "-248"
+            "Guelph Storm": "+195",
+            "Oshawa Generals": "-249"
         }
     },
     {
