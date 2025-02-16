@@ -4,7 +4,7 @@
         "away_team": "Niagara IceDogs",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Brantford Bulldogs": "-136",
+            "Brantford Bulldogs": "-137",
             "Niagara IceDogs": "+110"
         },
         "game_time": "7:00 pm"
@@ -24,8 +24,8 @@
         "away_team": "Kitchener Rangers",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-149",
-            "Kitchener Rangers": "+120"
+            "Kingston Frontenacs": "-142",
+            "Kitchener Rangers": "+115"
         },
         "game_time": "7:00 pm"
     },
@@ -64,8 +64,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Ottawa 67's",
         "odds": {
-            "Peterborough Petes": "+188",
-            "Ottawa 67's": "-239"
+            "Peterborough Petes": "+185",
+            "Ottawa 67's": "-235"
         },
         "game_time": "7:05 pm"
     },

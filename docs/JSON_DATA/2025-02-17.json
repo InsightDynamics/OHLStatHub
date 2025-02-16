@@ -4,8 +4,8 @@
         "away_team": "Niagara IceDogs",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-147",
-            "Niagara IceDogs": "+119"
+            "Brampton Steelheads": "-144",
+            "Niagara IceDogs": "+116"
         },
         "game_time": "2:00 pm"
     },
@@ -14,18 +14,8 @@
         "away_team": "Soo Greyhounds",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Brantford Bulldogs": "-232",
-            "Soo Greyhounds": "+182"
-        },
-        "game_time": "2:00 pm"
-    },
-    {
-        "home_team": "Kingston Frontenacs",
-        "away_team": "Barrie Colts",
-        "winner": "Kingston Frontenacs",
-        "odds": {
-            "Kingston Frontenacs": "-157",
-            "Barrie Colts": "+126"
+            "Brantford Bulldogs": "-239",
+            "Soo Greyhounds": "+187"
         },
         "game_time": "2:00 pm"
     },
@@ -44,8 +34,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Ottawa 67's",
         "odds": {
-            "Ottawa 67's": "-131",
-            "North Bay Battalion": "+106"
+            "Ottawa 67's": "-129",
+            "North Bay Battalion": "+104"
         },
         "game_time": "2:00 pm"
     },
@@ -64,8 +54,8 @@
         "away_team": "Kitchener Rangers",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Peterborough Petes": "+440",
-            "Kitchener Rangers": "-654"
+            "Peterborough Petes": "+460",
+            "Kitchener Rangers": "-693"
         },
         "game_time": "2:05 pm"
     },
@@ -98,5 +88,15 @@
             "Sudbury Wolves": "-171"
         },
         "game_time": "2:07 pm"
+    },
+    {
+        "home_team": "Kingston Frontenacs",
+        "away_team": "Barrie Colts",
+        "winner": "Kingston Frontenacs",
+        "odds": {
+            "Kingston Frontenacs": "-157",
+            "Barrie Colts": "+126"
+        },
+        "game_time": "7:00 pm"
     }
 ]

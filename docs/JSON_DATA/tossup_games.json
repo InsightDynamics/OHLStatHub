@@ -21,8 +21,8 @@
         "home_score": 7,
         "away_score": 6,
         "odds": {
-            "Barrie Colts": "-121",
-            "Niagara IceDogs": "-102"
+            "Barrie Colts": "-119",
+            "Niagara IceDogs": "-104"
         }
     },
     {
@@ -52,6 +52,19 @@
         }
     },
     {
+        "date": "2025-02-07",
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Saginaw Spirit",
+        "predicted_winner": "Saginaw Spirit",
+        "actual_winner": "Brantford Bulldogs",
+        "home_score": 4,
+        "away_score": 2,
+        "odds": {
+            "Brantford Bulldogs": "-100",
+            "Saginaw Spirit": "-123"
+        }
+    },
+    {
         "date": "2025-02-08",
         "home_team": "Erie Otters",
         "away_team": "Sudbury Wolves",
@@ -65,6 +78,19 @@
         }
     },
     {
+        "date": "2025-02-11",
+        "home_team": "Kitchener Rangers",
+        "away_team": "Oshawa Generals",
+        "predicted_winner": "Oshawa Generals",
+        "actual_winner": "Oshawa Generals",
+        "home_score": 3,
+        "away_score": 4,
+        "odds": {
+            "Kitchener Rangers": "-104",
+            "Oshawa Generals": "-119"
+        }
+    },
+    {
         "date": "2025-02-12",
         "home_team": "Erie Otters",
         "away_team": "Niagara IceDogs",
@@ -73,8 +99,8 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "Erie Otters": "-103",
-            "Niagara IceDogs": "-120"
+            "Erie Otters": "-101",
+            "Niagara IceDogs": "-122"
         }
     },
     {

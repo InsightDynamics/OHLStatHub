@@ -4,8 +4,8 @@
         "away_team": "Niagara IceDogs",
         "winner": "Niagara IceDogs",
         "odds": {
-            "North Bay Battalion": "+221",
-            "Niagara IceDogs": "-286"
+            "North Bay Battalion": "+225",
+            "Niagara IceDogs": "-292"
         },
         "game_time": "1:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Sudbury Wolves": "+123",
-            "Brantford Bulldogs": "-152"
+            "Sudbury Wolves": "+126",
+            "Brantford Bulldogs": "-157"
         },
         "game_time": "2:05 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Guelph Storm",
         "odds": {
-            "Guelph Storm": "-137",
-            "Ottawa 67's": "+111"
+            "Guelph Storm": "-140",
+            "Ottawa 67's": "+113"
         },
         "game_time": "2:07 pm"
     },
