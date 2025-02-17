@@ -1122,16 +1122,16 @@
         },
         {
             "date": "2025-02-17",
-            "accuracy": 0,
-            "correct_predictions": 0,
-            "total_games": 0,
+            "accuracy": 66.7,
+            "correct_predictions": 6,
+            "total_games": 9,
             "game_details": [
                 {
                     "home_team": "Brampton Steelheads",
                     "away_team": "Niagara IceDogs",
                     "predicted_winner": "Brampton Steelheads",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
+                    "actual_winner": "Brampton Steelheads",
+                    "home_score": 6,
                     "away_score": 0,
                     "odds": {
                         "Brampton Steelheads": "-144",
@@ -1142,9 +1142,9 @@
                     "home_team": "Brantford Bulldogs",
                     "away_team": "Soo Greyhounds",
                     "predicted_winner": "Brantford Bulldogs",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Brantford Bulldogs",
+                    "home_score": 8,
+                    "away_score": 6,
                     "odds": {
                         "Brantford Bulldogs": "-239",
                         "Soo Greyhounds": "+187"
@@ -1154,9 +1154,9 @@
                     "home_team": "London Knights",
                     "away_team": "Flint Firebirds",
                     "predicted_winner": "London Knights",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "London Knights",
+                    "home_score": 4,
+                    "away_score": 1,
                     "odds": {
                         "London Knights": "-224",
                         "Flint Firebirds": "+177"
@@ -1166,9 +1166,9 @@
                     "home_team": "Ottawa 67's",
                     "away_team": "North Bay Battalion",
                     "predicted_winner": "Ottawa 67's",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "North Bay Battalion",
+                    "home_score": 2,
+                    "away_score": 3,
                     "odds": {
                         "Ottawa 67's": "-129",
                         "North Bay Battalion": "+104"
@@ -1178,9 +1178,9 @@
                     "home_team": "Oshawa Generals",
                     "away_team": "Erie Otters",
                     "predicted_winner": "Oshawa Generals",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Oshawa Generals",
+                    "home_score": 2,
+                    "away_score": 1,
                     "odds": {
                         "Oshawa Generals": "-154",
                         "Erie Otters": "+124"
@@ -1190,9 +1190,9 @@
                     "home_team": "Sarnia Sting",
                     "away_team": "Saginaw Spirit",
                     "predicted_winner": "Saginaw Spirit",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Saginaw Spirit",
+                    "home_score": 3,
+                    "away_score": 7,
                     "odds": {
                         "Sarnia Sting": "+243",
                         "Saginaw Spirit": "-318"
@@ -1202,9 +1202,9 @@
                     "home_team": "Windsor Spitfires",
                     "away_team": "Owen Sound Attack",
                     "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Windsor Spitfires",
+                    "home_score": 4,
+                    "away_score": 1,
                     "odds": {
                         "Windsor Spitfires": "-330",
                         "Owen Sound Attack": "+251"
@@ -1214,9 +1214,9 @@
                     "home_team": "Guelph Storm",
                     "away_team": "Sudbury Wolves",
                     "predicted_winner": "Sudbury Wolves",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Guelph Storm",
+                    "home_score": 7,
+                    "away_score": 6,
                     "odds": {
                         "Guelph Storm": "+137",
                         "Sudbury Wolves": "-171"
@@ -1226,9 +1226,9 @@
                     "home_team": "Peterborough Petes",
                     "away_team": "Kitchener Rangers",
                     "predicted_winner": "Kitchener Rangers",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Peterborough Petes",
+                    "home_score": 5,
+                    "away_score": 3,
                     "odds": {
                         "Peterborough Petes": "+460",
                         "Kitchener Rangers": "-693"
@@ -1269,13 +1269,13 @@
             ]
         }
     ],
-    "total_accuracy": 73.8,
+    "total_accuracy": 73.0,
     "tossup_accuracy": 54.5,
-    "non_tossup_accuracy": 76.8,
-    "total_correct": 59,
-    "total_games": 80,
+    "non_tossup_accuracy": 75.6,
+    "total_correct": 65,
+    "total_games": 89,
     "tossup_correct": 6,
     "tossup_games": 11,
-    "non_tossup_correct": 53,
-    "non_tossup_games": 69
+    "non_tossup_correct": 59,
+    "non_tossup_games": 78
 }
