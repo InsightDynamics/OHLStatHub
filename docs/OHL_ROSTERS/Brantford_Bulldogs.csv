@@ -1,5 +1,5 @@
 player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team_name,division,jersey_number,rookie
-9097,Logan Snyder,Snyder,Logan,G,R,6.00,168.0,2007-08-14,Brantford Bulldogs,East Division,1,0
+9344,Brock Schaus,Schaus,Brock,G,R,6.00,165.0,2008-03-17,Brantford Bulldogs,East Division,1,0
 8433,Lucas Moore,Moore,Lucas,D,R,5.10,193.0,2005-06-07,Brantford Bulldogs,East Division,4,0
 9268,Adam Jiricek,Jiricek,Adam,D,R,6.03,180.0,2006-06-28,Brantford Bulldogs,East Division,5,0
 8798,Tomáš Hamara,Hamara,Tomáš,D,L,6.00,192.0,2004-03-09,Brantford Bulldogs,East Division,9,0
@@ -15,6 +15,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8670,Braeden O'Keefe,O'Keefe,Braeden,C,L,5.09,170.0,2005-06-08,Brantford Bulldogs,East Division,23,0
 8377,Thomas Budnick,Budnick,Thomas,D,L,6.01,210.0,2004-02-14,Brantford Bulldogs,East Division,24,0
 9003,Daniel Chen,Chen,Daniel,D,R,6.05,196.0,2006-08-04,Brantford Bulldogs,East Division,27,0
+9343,Ethan Facchina,Facchina,Ethan,C,L,6.00,185.0,2006-01-12,Brantford Bulldogs,East Division,28,0
 9337,Layne Gallacher,Gallacher,Layne,C,L,6.01,165.0,2008-02-16,Brantford Bulldogs,East Division,29,1
 8732,Ryerson Leenders,Leenders,Ryerson,G,L,6.02,179.0,2006-06-01,Brantford Bulldogs,East Division,31,0
 8965,Jake O'Brien,O'Brien,Jake,C,R,6.02,170.0,2007-06-16,Brantford Bulldogs,East Division,44,0
