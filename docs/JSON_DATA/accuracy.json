@@ -1247,6 +1247,26 @@
                     }
                 }
             ]
+        },
+        {
+            "date": "2025-02-18",
+            "accuracy": 0,
+            "correct_predictions": 0,
+            "total_games": 0,
+            "game_details": [
+                {
+                    "home_team": "Kingston Frontenacs",
+                    "away_team": "Barrie Colts",
+                    "predicted_winner": "Kingston Frontenacs",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0,
+                    "odds": {
+                        "Kingston Frontenacs": "-157",
+                        "Barrie Colts": "+126"
+                    }
+                }
+            ]
         }
     ],
     "total_accuracy": 73.8,
