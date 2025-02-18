@@ -4,6 +4,7 @@ import json
 from datetime import datetime, timedelta
 import sys
 
+# Ensure Python version is 3.12 or higher
 if sys.version_info < (3, 12):
     raise Exception("Python 3.12 or higher is required.")
 
@@ -19,8 +20,10 @@ def load_data(stats_file, schedule_file):
     """Load player stats and schedule data."""
     if not os.path.exists(stats_file) or not os.path.exists(schedule_file):
         raise FileNotFoundError("One or both data files are missing.")
+
     stats_df = pd.read_csv(stats_file)
     schedule_df = pd.read_csv(schedule_file)
+    
     return stats_df, schedule_df
 
 def calculate_team_stats(stats_df):
@@ -44,60 +47,86 @@ def calculate_team_stats(stats_df):
         'PIM': 'total_penalty_minutes',
         'RNK': 'avg_rank'
     })
+
     return team_stats
 
 def calculate_team_records(schedule_df):
     """Calculate team records based on schedule data."""
     team_records = {}
+
     for _, row in schedule_df.iterrows():
         home_team = row['HomeTeam']
         away_team = row['AwayTeam']
         home_goals = row['HomeGoals']
         away_goals = row['AwayGoals']
+
         for team, goals_for, goals_against in [(home_team, home_goals, away_goals), (away_team, away_goals, home_goals)]:
             if team not in team_records:
                 team_records[team] = {'wins': 0, 'losses': 0, 'total_games': 0}
+
             team_records[team]['total_games'] += 1
             if goals_for > goals_against:
                 team_records[team]['wins'] += 1
             else:
                 team_records[team]['losses'] += 1
+
     return team_records
 
 def convert_prob_to_odds(prob, margin=0.05):
     """Convert probability to American odds with a sportsbook margin applied."""
     adjusted_prob = prob / (1 - margin)  # Increasing favorite probability slightly
     adjusted_prob = max(0.02, min(0.98, adjusted_prob))  # Keep within 2% - 98%
+
     if adjusted_prob >= 0.5:
         odds = -round((adjusted_prob / (1 - adjusted_prob)) * 100)  # Negative for favorites
     else:
         odds = round(((1 - adjusted_prob) / adjusted_prob) * 100)  # Positive for underdogs
+
     return f"{odds:+d}"  # Ensures formatting like "+170" or "-200"
 
 def predict_game_winner(home_team, away_team, team_stats, team_records):
-    """Predict the winner of a game based on team stats and records."""
+    """Predict the winner of a game based on team stats and records, outputting both win probabilities and American odds."""
     home_stats = team_stats.loc[home_team]
     away_stats = team_stats.loc[away_team]
+
     home_record = team_records.get(home_team, {'wins': 0, 'losses': 0, 'total_games': 1})
     away_record = team_records.get(away_team, {'wins': 0, 'losses': 0, 'total_games': 1})
+
+    # Strength calculation based on team stats and performance
     home_strength = (
-        home_stats['total_points'] + home_stats['avg_rank'] * 10 +
-        (home_record['wins'] / home_record['total_games']) * 100
+        home_stats['total_points']
+        + home_stats['avg_rank'] * 10
+        + (home_record['wins'] / home_record['total_games']) * 100
     )
+
     away_strength = (
-        away_stats['total_points'] + away_stats['avg_rank'] * 10 +
-        (away_record['wins'] / away_record['total_games']) * 100
+        away_stats['total_points']
+        + away_stats['avg_rank'] * 10
+        + (away_record['wins'] / away_record['total_games']) * 100
     )
+
     total_strength = home_strength + away_strength
     home_prob = home_strength / total_strength
     away_prob = away_strength / total_strength
+
+    # Convert probabilities to percentages
+    home_prob_percentage = home_prob * 100
+    away_prob_percentage = away_prob * 100
+
+    # Convert probabilities to American odds
     home_odds = convert_prob_to_odds(home_prob)
     away_odds = convert_prob_to_odds(away_prob)
+
     winner = home_team if home_prob > away_prob else away_team
+
     return {
         "home_team": home_team,
         "away_team": away_team,
         "winner": winner,
+        "probabilities": {
+            home_team: f"{home_prob_percentage:.2f}%",
+            away_team: f"{away_prob_percentage:.2f}%"
+        },
         "odds": {
             home_team: home_odds,
             away_team: away_odds
@@ -107,6 +136,7 @@ def predict_game_winner(home_team, away_team, team_stats, team_records):
 def process_games_for_date(selected_date, stats_df, schedule_df, team_stats, team_records):
     """Process all games on the selected date and save predictions with game times as JSON."""
     games_on_date = schedule_df[schedule_df['Date'] == selected_date]
+
     if games_on_date.empty:
         return
 
@@ -121,17 +151,19 @@ def process_games_for_date(selected_date, stats_df, schedule_df, team_stats, tea
         home_team = game['HomeTeam']
         away_team = game['AwayTeam']
         game_time = game['Time']  # Extract game time from the schedule
+
         prediction = predict_game_winner(home_team, away_team, team_stats, team_records)
         prediction["game_time"] = game_time  # Add game time to the prediction
         all_predictions.append(prediction)
 
     with open(output_path, 'w') as f:
         json.dump(all_predictions, f, indent=4)
+
     print(f"Predictions saved to {output_path}")
 
 def main():
     start_date = datetime(2025, 1, 29)
-    end_date = datetime.now() + timedelta(days=1)
+    end_date = datetime.now() + timedelta(days=2)
 
     stats_df, schedule_df = load_data(stats_file, schedule_file)
     team_stats = calculate_team_stats(stats_df)
