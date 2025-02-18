@@ -1,0 +1,12 @@
+[
+    {
+        "home_team": "Brampton Steelheads",
+        "away_team": "Oshawa Generals",
+        "winner": "Brampton Steelheads",
+        "odds": {
+            "Brampton Steelheads": "-118",
+            "Oshawa Generals": "-105"
+        },
+        "game_time": "7:00 pm"
+    }
+]
