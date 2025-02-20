@@ -249,7 +249,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9030,Harry Nansi,Nansi,Harry,RW,R,6.03,179.0,2007-09-10,Owen Sound Attack,Midwest Division,34,0
 8741,Antonio Tersigni,Tersigni,Antonio,LW,L,5.11,172.0,2006-05-03,Owen Sound Attack,Midwest Division,37,0
 8934,Tristan Delisle,Delisle,Tristan,C,L,5.11,172.0,2007-05-15,Owen Sound Attack,Midwest Division,40,0
-9341,Bodhi Ryan,Ryan,Bodhi,C,L,5.11,146.0,2008-07-08,Sudbury Wolves,Central Division,2,1
+9204,Brady Smith,Smith,Brady,D,L,6.02,190.0,2008-03-27,Sudbury Wolves,Central Division,3,0
 9049,Trevor O’Dell,O’Dell,Trevor,D,L,6.03,172.0,2006-07-17,Sudbury Wolves,Central Division,4,0
 8671,Gavin Ewles,Ewles,Gavin,D,R,6.01,188.0,2005-03-01,Sudbury Wolves,Central Division,7,0
 8560,Chase Coughlan,Coughlan,Chase,RW,R,5.11,194.0,2005-06-17,Sudbury Wolves,Central Division,9,0
@@ -261,11 +261,11 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8827,Braydon Bruce,Bruce,Braydon,D,R,6.05,212.0,2006-05-11,Sudbury Wolves,Central Division,20,0
 8431,Alex Pharand,Pharand,Alex,RW,R,6.03,192.0,2005-01-05,Sudbury Wolves,Central Division,21,0
 8777,Kieron Walton,Walton,Kieron,LW,L,6.06,216.0,2006-04-22,Sudbury Wolves,Central Division,22,0
+9345,Marshall McCharles,McCharles,Marshall,LW,L,,,2006-11-23,Sudbury Wolves,Central Division,23,0
 9099,Blake Clayton,Clayton,Blake,C,L,6.00,165.0,2007-10-23,Sudbury Wolves,Central Division,24,1
 8459,Quentin Musty,Musty,Quentin,LW,L,6.02,200.0,2005-07-06,Sudbury Wolves,Central Division,27,0
 8805,Nate Krawchuk,Krawchuk,Nate,G,L,6.02,180.0,2005-07-04,Sudbury Wolves,Central Division,30,0
 9206,Finn Marshall,Marshall,Finn,G,L,6.01,176.0,2006-01-13,Sudbury Wolves,Central Division,31,0
-8483,Daks Klinkhammer,Klinkhammer,Daks,LW,L,6.01,186.0,2005-08-14,Sudbury Wolves,Central Division,48,0
 9249,Tayjon Street,Street,Tayjon,LW,L,6.01,205.0,2005-05-04,Sudbury Wolves,Central Division,73,0
 9200,Rowan Henderson,Henderson,Rowan,LW,L,5.10,178.0,2007-12-10,Sudbury Wolves,Central Division,77,1
 8716,Henry Mews,Mews,Henry,D,R,6.01,183.0,2006-03-09,Sudbury Wolves,Central Division,88,0
