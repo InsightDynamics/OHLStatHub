@@ -36,9 +36,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8770,Joey Willis,Willis,Joey,C,L,5.11,185.0,2005-03-14,Kingston Frontenacs,East Division,14,0
 8407,Ethan Miedema,Miedema,Ethan,LW,L,6.04,212.0,2005-03-22,Kingston Frontenacs,East Division,15,0
 9262,Riley Clark,Clark,Riley,LW,L,6.01,185.0,2006-05-03,Kingston Frontenacs,East Division,17,0
-9141,Camden McCuaig,McCuaig,Camden,LW,L,6.02,174.0,2008-06-19,Kingston Frontenacs,East Division,20,1
 9137,Nolan Buttar,Buttar,Nolan,C,L,6.01,181.0,2008-05-23,Kingston Frontenacs,East Division,22,1
-9307,André Mondoux,Mondoux,André,D,L,6.04,198.0,2007-03-16,Kingston Frontenacs,East Division,25,1
 8820,Vann Williamson,Williamson,Vann,D,R,6.01,188.0,2006-07-19,Kingston Frontenacs,East Division,27,0
 9327,Landon Wright,Wright,Landon,C,R,5.11,181.0,2006-01-17,Kingston Frontenacs,East Division,36,0
 8558,Charlie Schenkel,Schenkel,Charlie,G,R,6.05.,203.0,2004-08-16,Kingston Frontenacs,East Division,37,0
@@ -123,7 +121,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8832,Zach Bowen,Bowen,Zach,G,L,6.02,190.0,2005-04-25,Peterborough Petes,East Division,31,0
 9210,Masen Johnston,Johnston,Masen,G,L,6.01,186.0,2007-02-08,Peterborough Petes,East Division,34,1
 9189,Arvin Jaswal,Jaswal,Arvin,G,R,6.01,156.0,2008-03-29,Barrie Colts,Central Division,1,1
-9177,Noah Barton,Barton,Noah,D,R,6.02,183.0,2008-10-16,Barrie Colts,Central Division,7,0
 8446,Grayson Tiller,Tiller,Grayson,D,L,5.10,193.0,2005-02-20,Barrie Colts,Central Division,8,0
 8493,Tristan Bertucci,Bertucci,Tristan,D,L,6.02,187.0,2005-07-12,Barrie Colts,Central Division,12,0
 8395,Anthony Romani,Romani,Anthony,RW,R,6.01,190.0,2005-07-12,Barrie Colts,Central Division,15,0
@@ -261,7 +258,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8827,Braydon Bruce,Bruce,Braydon,D,R,6.05,212.0,2006-05-11,Sudbury Wolves,Central Division,20,0
 8431,Alex Pharand,Pharand,Alex,RW,R,6.03,192.0,2005-01-05,Sudbury Wolves,Central Division,21,0
 8777,Kieron Walton,Walton,Kieron,LW,L,6.06,216.0,2006-04-22,Sudbury Wolves,Central Division,22,0
-9345,Marshall McCharles,McCharles,Marshall,LW,L,,,2006-11-23,Sudbury Wolves,Central Division,23,0
+9345,Marshall McCharles,McCharles,Marshall,LW,L,6.01,190.0,2006-11-23,Sudbury Wolves,Central Division,23,0
 9099,Blake Clayton,Clayton,Blake,C,L,6.00,165.0,2007-10-23,Sudbury Wolves,Central Division,24,1
 8459,Quentin Musty,Musty,Quentin,LW,L,6.02,200.0,2005-07-06,Sudbury Wolves,Central Division,27,0
 8805,Nate Krawchuk,Krawchuk,Nate,G,L,6.02,180.0,2005-07-04,Sudbury Wolves,Central Division,30,0
@@ -471,6 +468,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8473,Andrew Wycisk,Wycisk,Andrew,D,R,5.11,170.0,2005-07-01,Niagara IceDogs,Central Division,75,0
 8683,Charlie Robertson,Robertson,Charlie,G,L,6.04,175.0,2005-04-02,Niagara IceDogs,Central Division,77,0
 9144,Nick Frasca,Frasca,Nick,D,L,6.01,185.0,2008-05-04,Niagara IceDogs,Central Division,78,1
+9346,Matteo Porporino,Porporino,Matteo,G,R,6.01,170.0,2005-11-15,Niagara IceDogs,Central Division,80,0
 9145,Matthew Humphries,Humphries,Matthew,G,R,6.02,180.0,2008-07-28,Niagara IceDogs,Central Division,82,1
 8971,Ivan Galiyanov,Galiyanov,Ivan,LW,L,5.10,174.0,2007-10-16,Niagara IceDogs,Central Division,92,0
 8774,Josh Glavin,Glavin,Josh,LD,L,6.02,200.0,2006-09-24,Saginaw Spirit,West Division,5,0
