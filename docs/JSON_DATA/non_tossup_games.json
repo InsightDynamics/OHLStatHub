@@ -1155,5 +1155,31 @@
             "Sudbury Wolves": "-196",
             "Owen Sound Attack": "+156"
         }
+    },
+    {
+        "date": "2025-02-22",
+        "home_team": "Brampton Steelheads",
+        "away_team": "Sudbury Wolves",
+        "predicted_winner": "Brampton Steelheads",
+        "actual_winner": "Brampton Steelheads",
+        "home_score": 8,
+        "away_score": 1,
+        "odds": {
+            "Brampton Steelheads": "-170",
+            "Sudbury Wolves": "+137"
+        }
+    },
+    {
+        "date": "2025-02-22",
+        "home_team": "Kingston Frontenacs",
+        "away_team": "Niagara IceDogs",
+        "predicted_winner": "Kingston Frontenacs",
+        "actual_winner": "Kingston Frontenacs",
+        "home_score": 6,
+        "away_score": 3,
+        "odds": {
+            "Kingston Frontenacs": "-180",
+            "Niagara IceDogs": "+144"
+        }
     }
 ]
