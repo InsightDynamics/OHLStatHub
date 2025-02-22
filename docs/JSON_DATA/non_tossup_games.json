@@ -1064,5 +1064,96 @@
             "Saginaw Spirit": "-416",
             "North Bay Battalion": "+306"
         }
+    },
+    {
+        "date": "2025-02-21",
+        "home_team": "Erie Otters",
+        "away_team": "Oshawa Generals",
+        "predicted_winner": "Oshawa Generals",
+        "actual_winner": "Oshawa Generals",
+        "home_score": 2,
+        "away_score": 3,
+        "odds": {
+            "Erie Otters": "+125",
+            "Oshawa Generals": "-156"
+        }
+    },
+    {
+        "date": "2025-02-21",
+        "home_team": "Flint Firebirds",
+        "away_team": "North Bay Battalion",
+        "predicted_winner": "Flint Firebirds",
+        "actual_winner": "North Bay Battalion",
+        "home_score": 1,
+        "away_score": 4,
+        "odds": {
+            "Flint Firebirds": "-226",
+            "North Bay Battalion": "+178"
+        }
+    },
+    {
+        "date": "2025-02-21",
+        "home_team": "Kingston Frontenacs",
+        "away_team": "Brantford Bulldogs",
+        "predicted_winner": "Kingston Frontenacs",
+        "actual_winner": "Kingston Frontenacs",
+        "home_score": 4,
+        "away_score": 2,
+        "odds": {
+            "Kingston Frontenacs": "-136",
+            "Brantford Bulldogs": "+110"
+        }
+    },
+    {
+        "date": "2025-02-21",
+        "home_team": "London Knights",
+        "away_team": "Brampton Steelheads",
+        "predicted_winner": "London Knights",
+        "actual_winner": "London Knights",
+        "home_score": 4,
+        "away_score": 3,
+        "odds": {
+            "London Knights": "-140",
+            "Brampton Steelheads": "+113"
+        }
+    },
+    {
+        "date": "2025-02-21",
+        "home_team": "Ottawa 67's",
+        "away_team": "Niagara IceDogs",
+        "predicted_winner": "Niagara IceDogs",
+        "actual_winner": "Ottawa 67's",
+        "home_score": 6,
+        "away_score": 2,
+        "odds": {
+            "Ottawa 67's": "+186",
+            "Niagara IceDogs": "-237"
+        }
+    },
+    {
+        "date": "2025-02-21",
+        "home_team": "Sarnia Sting",
+        "away_team": "Windsor Spitfires",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Sarnia Sting",
+        "home_score": 6,
+        "away_score": 5,
+        "odds": {
+            "Sarnia Sting": "+268",
+            "Windsor Spitfires": "-356"
+        }
+    },
+    {
+        "date": "2025-02-21",
+        "home_team": "Sudbury Wolves",
+        "away_team": "Owen Sound Attack",
+        "predicted_winner": "Sudbury Wolves",
+        "actual_winner": "Sudbury Wolves",
+        "home_score": 8,
+        "away_score": 1,
+        "odds": {
+            "Sudbury Wolves": "-196",
+            "Owen Sound Attack": "+156"
+        }
     }
 ]

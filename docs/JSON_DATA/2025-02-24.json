@@ -1,0 +1,16 @@
+[
+    {
+        "home_team": "Erie Otters",
+        "away_team": "Flint Firebirds",
+        "winner": "Erie Otters",
+        "probabilities": {
+            "Erie Otters": "52.74%",
+            "Flint Firebirds": "47.26%"
+        },
+        "odds": {
+            "Erie Otters": "-125",
+            "Flint Firebirds": "+101"
+        },
+        "game_time": "7:00 pm"
+    }
+]
