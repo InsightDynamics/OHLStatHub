@@ -1266,8 +1266,8 @@
         "away_team": "Kitchener Rangers",
         "predicted_winner": "London Knights",
         "actual_winner": "Kitchener Rangers",
-        "home_score": 1,
-        "away_score": 3,
+        "home_score": 4,
+        "away_score": 5,
         "odds": {
             "London Knights": "-161",
             "Kitchener Rangers": "+130"
@@ -1278,8 +1278,8 @@
         "home_team": "Oshawa Generals",
         "away_team": "Kingston Frontenacs",
         "predicted_winner": "Kingston Frontenacs",
-        "actual_winner": "Kingston Frontenacs",
-        "home_score": 1,
+        "actual_winner": "Oshawa Generals",
+        "home_score": 5,
         "away_score": 1,
         "odds": {
             "Oshawa Generals": "+110",
