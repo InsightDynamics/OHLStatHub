@@ -1610,17 +1610,17 @@
         },
         {
             "date": "2025-02-24",
-            "accuracy": 0,
+            "accuracy": 0.0,
             "correct_predictions": 0,
-            "total_games": 0,
+            "total_games": 1,
             "game_details": [
                 {
                     "home_team": "Erie Otters",
                     "away_team": "Flint Firebirds",
                     "predicted_winner": "Erie Otters",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Flint Firebirds",
+                    "home_score": 1,
+                    "away_score": 2,
                     "odds": {
                         "Erie Otters": "-125",
                         "Flint Firebirds": "+101"
@@ -1715,15 +1715,71 @@
                     }
                 }
             ]
+        },
+        {
+            "date": "2025-02-27",
+            "accuracy": 0,
+            "correct_predictions": 0,
+            "total_games": 0,
+            "game_details": [
+                {
+                    "home_team": "Barrie Colts",
+                    "away_team": "Saginaw Spirit",
+                    "predicted_winner": "Saginaw Spirit",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0,
+                    "odds": {
+                        "Barrie Colts": "+120",
+                        "Saginaw Spirit": "-149"
+                    }
+                },
+                {
+                    "home_team": "Niagara IceDogs",
+                    "away_team": "Erie Otters",
+                    "predicted_winner": "Niagara IceDogs",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0,
+                    "odds": {
+                        "Niagara IceDogs": "-117",
+                        "Erie Otters": "-106"
+                    }
+                },
+                {
+                    "home_team": "North Bay Battalion",
+                    "away_team": "Brampton Steelheads",
+                    "predicted_winner": "Brampton Steelheads",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0,
+                    "odds": {
+                        "North Bay Battalion": "+277",
+                        "Brampton Steelheads": "-370"
+                    }
+                },
+                {
+                    "home_team": "Peterborough Petes",
+                    "away_team": "Windsor Spitfires",
+                    "predicted_winner": "Windsor Spitfires",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0,
+                    "odds": {
+                        "Peterborough Petes": "+500",
+                        "Windsor Spitfires": "-777"
+                    }
+                }
+            ]
         }
     ],
-    "total_accuracy": 69.6,
+    "total_accuracy": 69.0,
     "tossup_accuracy": 56.2,
-    "non_tossup_accuracy": 71.7,
+    "non_tossup_accuracy": 71.0,
     "total_correct": 80,
-    "total_games": 115,
+    "total_games": 116,
     "tossup_correct": 9,
     "tossup_games": 16,
     "non_tossup_correct": 71,
-    "non_tossup_games": 99
+    "non_tossup_games": 100
 }
