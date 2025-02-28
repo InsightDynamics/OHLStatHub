@@ -74,6 +74,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9019,Josh Brady,Brady,Josh,D,R,6.01,185.0,2006-01-11,Ottawa 67's,East Division,3,0
 8975,Kaleb Dietsch,Dietsch,Kaleb,D,L,6.03,191.0,2007-01-03,Ottawa 67's,East Division,4,1
 8888,Bradley Horner,Horner,Bradley,RW,R,6.00,195.0,2005-06-16,Ottawa 67's,East Division,5,0
+9328,Theo Avila,Avila,Theo,D,R,5.11,176.0,2007-06-17,Ottawa 67's,East Division,6,1
 8715,Frankie Marrelli,Marrelli,Frankie,D,L,5.11,187.0,2006-02-16,Ottawa 67's,East Division,8,0
 8585,Chris Barlas,Barlas,Chris,LW,L,5.10,182.0,2005-01-10,Ottawa 67's,East Division,9,0
 8976,Nic Whitehead,Whitehead,Nic,C,L,5.10,159.0,2007-02-11,Ottawa 67's,East Division,10,0
@@ -209,6 +210,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9081,Max Dirracolo,Dirracolo,Max,LD,L,6.04,216.0,2006-06-29,Kitchener Rangers,Midwest Division,25,0
 8758,Andrew Vermeulen,Vermeulen,Andrew,LW,L,6.02,200.0,2006-02-07,Kitchener Rangers,Midwest Division,27,0
 8944,Matheas Stark,Stark,Matheas,LW,L,6.00,161.0,2007-01-14,Kitchener Rangers,Midwest Division,28,0
+9053,Owen Edwards,Edwards,Owen,G,R,6.03,170.0,2007-01-02,Kitchener Rangers,Midwest Division,31,1
 8464,Jackson Parsons,Parsons,Jackson,G,L,6.02,202.0,2004-11-23,Kitchener Rangers,Midwest Division,32,0
 8945,Tanner Lam,Lam,Tanner,RW,R,5.08,140.0,2007-07-14,Kitchener Rangers,Midwest Division,37,0
 9163,Jason Schaubel,Schaubel,Jason,G,L,6.00,165.0,2008-08-30,Kitchener Rangers,Midwest Division,39,1
@@ -256,7 +258,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8827,Braydon Bruce,Bruce,Braydon,D,R,6.05,212.0,2006-05-11,Sudbury Wolves,Central Division,20,0
 8431,Alex Pharand,Pharand,Alex,RW,R,6.03,192.0,2005-01-05,Sudbury Wolves,Central Division,21,0
 8777,Kieron Walton,Walton,Kieron,LW,L,6.06,216.0,2006-04-22,Sudbury Wolves,Central Division,22,0
-9345,Marshall McCharles,McCharles,Marshall,LW,L,6.01,190.0,2006-11-23,Sudbury Wolves,Central Division,23,0
 9099,Blake Clayton,Clayton,Blake,C,L,6.00,165.0,2007-10-23,Sudbury Wolves,Central Division,24,1
 8459,Quentin Musty,Musty,Quentin,LW,L,6.02,200.0,2005-07-06,Sudbury Wolves,Central Division,27,0
 8805,Nate Krawchuk,Krawchuk,Nate,G,L,6.02,180.0,2005-07-04,Sudbury Wolves,Central Division,30,0
@@ -422,6 +423,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8553,Konnor Smith,Smith,Konnor,D,L,6.06,217.0,2004-11-06,Brampton Steelheads,Central Division,84,0
 8605,Adam Zidlicky,Zidlicky,Adam,LW,L,6.00,170.0,2005-01-28,Brampton Steelheads,Central Division,91,0
 8743,Porter Martone,Martone,Porter,RW,R,6.03,208.0,2006-10-26,Brampton Steelheads,Central Division,94,0
+9101,Charlie Larocque,Larocque,Charlie,G,L,6.01,161.0,2007-07-16,North Bay Battalion,Central Division,1,1
 8940,Adrian Manzo,Manzo,Adrian,D,R,6.00,183.0,2007-08-28,North Bay Battalion,Central Division,2,0
 9322,Jonathan Kapageridis,Kapageridis,Jonathan,D,L,6.00,176.0,2007-05-08,North Bay Battalion,Central Division,3,1
 9232,Aaron Enright,Enright,Aaron,D,L,6.00,211.0,2007-03-28,North Bay Battalion,Central Division,4,1
@@ -472,6 +474,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9263,Hayden Jeffery,Jeffery,Hayden,G,R,6.1,175.0,2006-05-08,Niagara IceDogs,Central Division,80,1
 9145,Matthew Humphries,Humphries,Matthew,G,R,6.02,180.0,2008-07-28,Niagara IceDogs,Central Division,82,1
 8971,Ivan Galiyanov,Galiyanov,Ivan,LW,L,5.10,174.0,2007-10-16,Niagara IceDogs,Central Division,92,0
+9349,Declan McNamara,McNamara,Declan,G,L,6.00,175.0,2007-02-19,Saginaw Spirit,West Division,1,0
 8774,Josh Glavin,Glavin,Josh,LD,L,6.02,200.0,2006-09-24,Saginaw Spirit,West Division,5,0
 9319,Hayden Barch,Barch,Hayden,RD,R,6.01,190.0,2007-04-14,Saginaw Spirit,West Division,6,1
 8366,Calem Mangone,Mangone,Calem,RW,R,5.09,165.0,2004-11-04,Saginaw Spirit,West Division,7,0
