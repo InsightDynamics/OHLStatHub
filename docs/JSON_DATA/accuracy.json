@@ -1718,17 +1718,17 @@
         },
         {
             "date": "2025-02-27",
-            "accuracy": 0,
-            "correct_predictions": 0,
-            "total_games": 0,
+            "accuracy": 50.0,
+            "correct_predictions": 2,
+            "total_games": 4,
             "game_details": [
                 {
                     "home_team": "Barrie Colts",
                     "away_team": "Saginaw Spirit",
                     "predicted_winner": "Saginaw Spirit",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Barrie Colts",
+                    "home_score": 5,
+                    "away_score": 4,
                     "odds": {
                         "Barrie Colts": "+120",
                         "Saginaw Spirit": "-149"
@@ -1738,9 +1738,9 @@
                     "home_team": "Niagara IceDogs",
                     "away_team": "Erie Otters",
                     "predicted_winner": "Niagara IceDogs",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Erie Otters",
+                    "home_score": 4,
+                    "away_score": 5,
                     "odds": {
                         "Niagara IceDogs": "-117",
                         "Erie Otters": "-106"
@@ -1750,9 +1750,9 @@
                     "home_team": "North Bay Battalion",
                     "away_team": "Brampton Steelheads",
                     "predicted_winner": "Brampton Steelheads",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Brampton Steelheads",
+                    "home_score": 1,
+                    "away_score": 2,
                     "odds": {
                         "North Bay Battalion": "+277",
                         "Brampton Steelheads": "-370"
@@ -1762,9 +1762,9 @@
                     "home_team": "Peterborough Petes",
                     "away_team": "Windsor Spitfires",
                     "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Windsor Spitfires",
+                    "home_score": 1,
+                    "away_score": 7,
                     "odds": {
                         "Peterborough Petes": "+500",
                         "Windsor Spitfires": "-777"
@@ -1943,15 +1943,95 @@
                     }
                 }
             ]
+        },
+        {
+            "date": "2025-03-02",
+            "accuracy": 0,
+            "correct_predictions": 0,
+            "total_games": 0,
+            "game_details": [
+                {
+                    "home_team": "North Bay Battalion",
+                    "away_team": "Saginaw Spirit",
+                    "predicted_winner": "Saginaw Spirit",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0,
+                    "odds": {
+                        "North Bay Battalion": "+276",
+                        "Saginaw Spirit": "-368"
+                    }
+                },
+                {
+                    "home_team": "Ottawa 67's",
+                    "away_team": "Windsor Spitfires",
+                    "predicted_winner": "Windsor Spitfires",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0,
+                    "odds": {
+                        "Ottawa 67's": "+302",
+                        "Windsor Spitfires": "-410"
+                    }
+                },
+                {
+                    "home_team": "Sarnia Sting",
+                    "away_team": "Guelph Storm",
+                    "predicted_winner": "Guelph Storm",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0,
+                    "odds": {
+                        "Sarnia Sting": "+115",
+                        "Guelph Storm": "-143"
+                    }
+                },
+                {
+                    "home_team": "Sudbury Wolves",
+                    "away_team": "Brampton Steelheads",
+                    "predicted_winner": "Brampton Steelheads",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0,
+                    "odds": {
+                        "Sudbury Wolves": "+135",
+                        "Brampton Steelheads": "-169"
+                    }
+                },
+                {
+                    "home_team": "Erie Otters",
+                    "away_team": "Peterborough Petes",
+                    "predicted_winner": "Erie Otters",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0,
+                    "odds": {
+                        "Erie Otters": "-462",
+                        "Peterborough Petes": "+334"
+                    }
+                },
+                {
+                    "home_team": "Oshawa Generals",
+                    "away_team": "London Knights",
+                    "predicted_winner": "London Knights",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0,
+                    "odds": {
+                        "Oshawa Generals": "+120",
+                        "London Knights": "-149"
+                    }
+                }
+            ]
         }
     ],
-    "total_accuracy": 68.9,
-    "tossup_accuracy": 56.2,
-    "non_tossup_accuracy": 70.8,
-    "total_correct": 84,
-    "total_games": 122,
+    "total_accuracy": 68.3,
+    "tossup_accuracy": 52.9,
+    "non_tossup_accuracy": 70.6,
+    "total_correct": 86,
+    "total_games": 126,
     "tossup_correct": 9,
-    "tossup_games": 16,
-    "non_tossup_correct": 75,
-    "non_tossup_games": 106
+    "tossup_games": 17,
+    "non_tossup_correct": 77,
+    "non_tossup_games": 109
 }

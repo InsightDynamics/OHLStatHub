@@ -1,0 +1,86 @@
+[
+    {
+        "home_team": "North Bay Battalion",
+        "away_team": "Saginaw Spirit",
+        "winner": "Saginaw Spirit",
+        "probabilities": {
+            "North Bay Battalion": "25.30%",
+            "Saginaw Spirit": "74.70%"
+        },
+        "odds": {
+            "North Bay Battalion": "+276",
+            "Saginaw Spirit": "-368"
+        },
+        "game_time": "2:00 pm"
+    },
+    {
+        "home_team": "Ottawa 67's",
+        "away_team": "Windsor Spitfires",
+        "winner": "Windsor Spitfires",
+        "probabilities": {
+            "Ottawa 67's": "23.62%",
+            "Windsor Spitfires": "76.38%"
+        },
+        "odds": {
+            "Ottawa 67's": "+302",
+            "Windsor Spitfires": "-410"
+        },
+        "game_time": "2:00 pm"
+    },
+    {
+        "home_team": "Sarnia Sting",
+        "away_team": "Guelph Storm",
+        "winner": "Guelph Storm",
+        "probabilities": {
+            "Sarnia Sting": "44.09%",
+            "Guelph Storm": "55.91%"
+        },
+        "odds": {
+            "Sarnia Sting": "+115",
+            "Guelph Storm": "-143"
+        },
+        "game_time": "2:05 pm"
+    },
+    {
+        "home_team": "Sudbury Wolves",
+        "away_team": "Brampton Steelheads",
+        "winner": "Brampton Steelheads",
+        "probabilities": {
+            "Sudbury Wolves": "40.37%",
+            "Brampton Steelheads": "59.63%"
+        },
+        "odds": {
+            "Sudbury Wolves": "+135",
+            "Brampton Steelheads": "-169"
+        },
+        "game_time": "2:05 pm"
+    },
+    {
+        "home_team": "Erie Otters",
+        "away_team": "Peterborough Petes",
+        "winner": "Erie Otters",
+        "probabilities": {
+            "Erie Otters": "78.10%",
+            "Peterborough Petes": "21.90%"
+        },
+        "odds": {
+            "Erie Otters": "-462",
+            "Peterborough Petes": "+334"
+        },
+        "game_time": "4:00 pm"
+    },
+    {
+        "home_team": "Oshawa Generals",
+        "away_team": "London Knights",
+        "winner": "London Knights",
+        "probabilities": {
+            "Oshawa Generals": "43.18%",
+            "London Knights": "56.82%"
+        },
+        "odds": {
+            "Oshawa Generals": "+120",
+            "London Knights": "-149"
+        },
+        "game_time": "6:05 pm"
+    }
+]
