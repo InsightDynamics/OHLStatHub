@@ -1415,5 +1415,70 @@
             "Peterborough Petes": "+500",
             "Windsor Spitfires": "-777"
         }
+    },
+    {
+        "date": "2025-02-28",
+        "home_team": "Kitchener Rangers",
+        "away_team": "Sarnia Sting",
+        "predicted_winner": "Kitchener Rangers",
+        "actual_winner": "Kitchener Rangers",
+        "home_score": 4,
+        "away_score": 3,
+        "odds": {
+            "Kitchener Rangers": "-278",
+            "Sarnia Sting": "+215"
+        }
+    },
+    {
+        "date": "2025-02-28",
+        "home_team": "London Knights",
+        "away_team": "Owen Sound Attack",
+        "predicted_winner": "London Knights",
+        "actual_winner": "London Knights",
+        "home_score": 9,
+        "away_score": 1,
+        "odds": {
+            "London Knights": "-384",
+            "Owen Sound Attack": "+286"
+        }
+    },
+    {
+        "date": "2025-02-28",
+        "home_team": "Sudbury Wolves",
+        "away_team": "Saginaw Spirit",
+        "predicted_winner": "Saginaw Spirit",
+        "actual_winner": "Saginaw Spirit",
+        "home_score": 2,
+        "away_score": 7,
+        "odds": {
+            "Sudbury Wolves": "+135",
+            "Saginaw Spirit": "-168"
+        }
+    },
+    {
+        "date": "2025-02-28",
+        "home_team": "Guelph Storm",
+        "away_team": "Flint Firebirds",
+        "predicted_winner": "Flint Firebirds",
+        "actual_winner": "Flint Firebirds",
+        "home_score": 3,
+        "away_score": 5,
+        "odds": {
+            "Guelph Storm": "+114",
+            "Flint Firebirds": "-141"
+        }
+    },
+    {
+        "date": "2025-02-28",
+        "home_team": "Soo Greyhounds",
+        "away_team": "Brampton Steelheads",
+        "predicted_winner": "Brampton Steelheads",
+        "actual_winner": "Brampton Steelheads",
+        "home_score": 3,
+        "away_score": 6,
+        "odds": {
+            "Soo Greyhounds": "+180",
+            "Brampton Steelheads": "-228"
+        }
     }
 ]
