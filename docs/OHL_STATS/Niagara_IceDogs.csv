@@ -1,22 +1,22 @@
 Player_ID,Name,Rookie,JN,BD,BD_Y,Hgt,Wgt,Pos,Team,GP,G,A,PTS,Pts/G,+/-,PPG,PPA,GWG,ENG,PIM,PPP,PPP_Percentage,RNK
-8963,Ryan Roobroeck,NO,25,,2007.0,6.04,190,LW,Niagara IceDogs,55,35,39,74,1.35,-8,10,11,4,4,16,21,28.4,104.5
-9218,Andrei Loshko,NO,27,,2004.0,6.02,184,C,Niagara IceDogs,58,33,31,64,1.1,-13,16,8,4,3,21,24,37.5,78.5
-8756,Kevin He,NO,11,,2006.0,6.00,180,LW,Niagara IceDogs,53,28,36,64,1.21,-4,6,10,3,1,26,16,25.0,80.0
-8964,Ethan Czata,NO,12,,2007.0,6.01,175,C,Niagara IceDogs,58,18,31,49,0.84,-9,4,11,3,1,66,15,30.6,7.5
-9007,Jack Brauti,NO,6,,2006.0,6.00,165,D,Niagara IceDogs,54,8,30,38,0.7,-11,1,14,2,0,37,15,39.5,13.0
-9142,Braidy Wassilyn,YES,66,,2008.0,5.11,194,C,Niagara IceDogs,52,7,29,36,0.69,-14,4,8,0,0,14,12,33.3,29.5
-8638,Mike Levin,NO,16,,2005.0,5.08,158,LW,Niagara IceDogs,52,13,20,33,0.63,-9,1,5,1,1,40,6,18.2,7.0
-8460,Alex Assadourian,NO,8,,2005.0,5.10,172,C,Niagara IceDogs,28,13,14,27,0.96,8,1,5,2,1,22,6,22.2,33.0
-8817,Matthew Virgilio,NO,48,,2006.0,5.11,196,D,Niagara IceDogs,58,4,19,23,0.4,-18,2,8,0,0,61,10,43.5,-42.5
-8747,Sean Doherty,NO,44,,2006.0,6.01,182,RW,Niagara IceDogs,58,12,10,22,0.38,-14,3,2,0,1,18,5,22.7,7.0
-8982,Blake Arrowsmith,YES,18,,2007.0,6.01,186,RW,Niagara IceDogs,49,10,10,20,0.41,-7,1,1,1,0,54,2,10.0,-26.0
-9143,Max Crete,YES,23,,2008.0,5.09,182,C,Niagara IceDogs,58,11,7,18,0.31,-23,2,1,1,1,56,3,16.7,-46.5
-8971,Ivan Galiyanov,NO,92,,2007.0,5.10,174,LW,Niagara IceDogs,58,8,10,18,0.31,-10,0,0,0,0,16,0,0.0,5.0
-8681,Noah Van Vliet,NO,5,,2004.0,6.02,222,D,Niagara IceDogs,58,6,10,16,0.28,2,0,0,2,0,98,0,0.0,-69.0
-8428,Mathieu Paris,NO,54,,2005.0,6.00,182,RW,Niagara IceDogs,21,5,10,15,0.71,10,1,6,2,0,2,7,46.7,33.0
-8473,Andrew Wycisk,NO,75,,2005.0,5.11,170,D,Niagara IceDogs,52,3,12,15,0.29,-12,0,3,1,0,18,3,20.0,-6.0
-8877,Blair Scott,NO,17,,2005.0,6.02,190,D,Niagara IceDogs,58,1,10,11,0.19,-2,0,0,0,0,90,0,0.0,-75.0
-8753,Callum Cheynowski,NO,7,,2006.0,6.00,197,D,Niagara IceDogs,58,0,9,9,0.16,-22,0,2,0,0,38,2,22.2,-46.5
+8963,Ryan Roobroeck,NO,25,,2007.0,6.04,190,LW,Niagara IceDogs,56,36,39,75,1.34,-8,11,11,4,4,18,22,29.3,104.5
+8756,Kevin He,NO,11,,2006.0,6.00,180,LW,Niagara IceDogs,54,31,37,68,1.26,-1,7,10,3,2,28,17,25.0,88.5
+9218,Andrei Loshko,NO,27,,2004.0,6.02,184,C,Niagara IceDogs,59,33,32,65,1.1,-12,16,9,4,3,21,25,38.5,81.0
+8964,Ethan Czata,NO,12,,2007.0,6.01,175,C,Niagara IceDogs,59,19,31,50,0.85,-8,4,11,3,1,66,15,30.0,10.5
+9007,Jack Brauti,NO,6,,2006.0,6.00,165,D,Niagara IceDogs,55,8,31,39,0.71,-12,1,15,2,0,37,16,41.0,13.5
+9142,Braidy Wassilyn,YES,66,,2008.0,5.11,194,C,Niagara IceDogs,53,7,30,37,0.7,-14,4,9,0,0,14,13,35.1,31.0
+8638,Mike Levin,NO,16,,2005.0,5.08,158,LW,Niagara IceDogs,53,13,20,33,0.62,-9,1,5,1,1,40,6,18.2,7.0
+8460,Alex Assadourian,NO,8,,2005.0,5.10,172,C,Niagara IceDogs,29,13,15,28,0.97,9,1,5,2,1,22,6,21.4,35.5
+8817,Matthew Virgilio,NO,48,,2006.0,5.11,196,D,Niagara IceDogs,59,4,20,24,0.41,-18,2,9,0,0,61,11,45.8,-41.0
+8747,Sean Doherty,NO,44,,2006.0,6.01,182,RW,Niagara IceDogs,59,12,10,22,0.37,-14,3,2,0,1,18,5,22.7,7.0
+8982,Blake Arrowsmith,YES,18,,2007.0,6.01,186,RW,Niagara IceDogs,50,10,10,20,0.4,-7,1,1,1,0,54,2,10.0,-26.0
+8971,Ivan Galiyanov,NO,92,,2007.0,5.10,174,LW,Niagara IceDogs,59,9,10,19,0.32,-11,0,0,1,0,16,0,0.0,6.0
+9143,Max Crete,YES,23,,2008.0,5.09,182,C,Niagara IceDogs,59,11,7,18,0.31,-24,2,1,1,1,56,3,16.7,-47.5
+8681,Noah Van Vliet,NO,5,,2004.0,6.02,222,D,Niagara IceDogs,59,6,11,17,0.29,3,0,0,2,0,109,0,0.0,-77.5
+8428,Mathieu Paris,NO,54,,2005.0,6.00,182,RW,Niagara IceDogs,22,5,11,16,0.73,11,1,6,2,0,2,7,43.8,35.5
+8473,Andrew Wycisk,NO,75,,2005.0,5.11,170,D,Niagara IceDogs,53,3,12,15,0.28,-10,0,3,1,0,18,3,20.0,-4.0
+8877,Blair Scott,NO,17,,2005.0,6.02,190,D,Niagara IceDogs,59,1,11,12,0.2,-1,0,0,0,0,90,0,0.0,-72.5
+8753,Callum Cheynowski,NO,7,,2006.0,6.00,197,D,Niagara IceDogs,59,0,10,10,0.17,-21,0,2,0,0,42,2,20.0,-48.0
 9076,Rafek Dianov,YES,22,,2007.0,5.10,175,LW,Niagara IceDogs,22,1,1,2,0.09,-2,0,0,0,0,2,0,0.0,-0.5
 9144,Nick Frasca,YES,78,,2008.0,6.01,185,D,Niagara IceDogs,17,0,1,1,0.06,-3,0,0,0,0,6,0,0.0,-7.5
 9010,Darcy Dewachter,YES,24,,2007.0,5.11,183,D,Niagara IceDogs,25,0,1,1,0.04,1,0,0,0,0,8,0,0.0,-5.5

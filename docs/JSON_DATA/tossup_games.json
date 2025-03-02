@@ -258,5 +258,18 @@
             "Ottawa 67's": "-115",
             "North Bay Battalion": "-108"
         }
+    },
+    {
+        "date": "2025-03-01",
+        "home_team": "Erie Otters",
+        "away_team": "Flint Firebirds",
+        "predicted_winner": "Erie Otters",
+        "actual_winner": "Flint Firebirds",
+        "home_score": 3,
+        "away_score": 6,
+        "odds": {
+            "Erie Otters": "-114",
+            "Flint Firebirds": "-109"
+        }
     }
 ]

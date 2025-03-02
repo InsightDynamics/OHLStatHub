@@ -1878,17 +1878,17 @@
         },
         {
             "date": "2025-03-01",
-            "accuracy": 0,
-            "correct_predictions": 0,
-            "total_games": 0,
+            "accuracy": 20.0,
+            "correct_predictions": 1,
+            "total_games": 5,
             "game_details": [
                 {
                     "home_team": "Brantford Bulldogs",
                     "away_team": "Peterborough Petes",
                     "predicted_winner": "Brantford Bulldogs",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Brantford Bulldogs",
+                    "home_score": 4,
+                    "away_score": 3,
                     "odds": {
                         "Brantford Bulldogs": "-644",
                         "Peterborough Petes": "+435"
@@ -1898,9 +1898,9 @@
                     "home_team": "Erie Otters",
                     "away_team": "Flint Firebirds",
                     "predicted_winner": "Erie Otters",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Flint Firebirds",
+                    "home_score": 3,
+                    "away_score": 6,
                     "odds": {
                         "Erie Otters": "-114",
                         "Flint Firebirds": "-109"
@@ -1910,9 +1910,9 @@
                     "home_team": "Niagara IceDogs",
                     "away_team": "London Knights",
                     "predicted_winner": "London Knights",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Niagara IceDogs",
+                    "home_score": 6,
+                    "away_score": 4,
                     "odds": {
                         "Niagara IceDogs": "+170",
                         "London Knights": "-215"
@@ -1922,9 +1922,9 @@
                     "home_team": "Owen Sound Attack",
                     "away_team": "Kitchener Rangers",
                     "predicted_winner": "Kitchener Rangers",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Owen Sound Attack",
+                    "home_score": 3,
+                    "away_score": 2,
                     "odds": {
                         "Owen Sound Attack": "+194",
                         "Kitchener Rangers": "-248"
@@ -1934,9 +1934,9 @@
                     "home_team": "Barrie Colts",
                     "away_team": "Kingston Frontenacs",
                     "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Barrie Colts",
+                    "home_score": 6,
+                    "away_score": 3,
                     "odds": {
                         "Barrie Colts": "+135",
                         "Kingston Frontenacs": "-168"
@@ -2025,13 +2025,13 @@
             ]
         }
     ],
-    "total_accuracy": 70.1,
-    "tossup_accuracy": 60.0,
-    "non_tossup_accuracy": 71.9,
-    "total_correct": 94,
-    "total_games": 134,
+    "total_accuracy": 68.3,
+    "tossup_accuracy": 57.1,
+    "non_tossup_accuracy": 70.3,
+    "total_correct": 95,
+    "total_games": 139,
     "tossup_correct": 12,
-    "tossup_games": 20,
-    "non_tossup_correct": 82,
-    "non_tossup_games": 114
+    "tossup_games": 21,
+    "non_tossup_correct": 83,
+    "non_tossup_games": 118
 }
