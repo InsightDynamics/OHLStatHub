@@ -26,7 +26,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8641,Patrick Thomas,Thomas,Patrick,C,L,6.00,178.0,2004-08-21,Brantford Bulldogs,East Division,93,0
 8371,Mason Vaccari,Vaccari,Mason,G,L,5.10,184.0,2005-04-29,Kingston Frontenacs,East Division,1,0
 9173,Lukas Moore,Moore,Lukas,D,R,6.02,195.0,2007-04-20,Kingston Frontenacs,East Division,4,1
-8547,Will Bishop,Bishop,Will,RD,R,6.06,210.0,2005-03-17,Kingston Frontenacs,East Division,6,0
+8547,Will Bishop,Bishop,Will,D,R,6.06,210.0,2005-03-17,Kingston Frontenacs,East Division,6,0
 9140,Emil Pieniniemi,Pieniniemi,Emil,D,L,6.03,177.0,2005-03-02,Kingston Frontenacs,East Division,7,0
 8978,Tuomas Uronen,Uronen,Tuomas,RW,R,6.00,194.0,2005-03-19,Kingston Frontenacs,East Division,8,0
 8599,Gage Heyes,Heyes,Gage,RW,R,6.00,172.0,2004-04-21,Kingston Frontenacs,East Division,9,0
@@ -265,7 +265,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8459,Quentin Musty,Musty,Quentin,LW,L,6.02,200.0,2005-07-06,Sudbury Wolves,Central Division,27,0
 8805,Nate Krawchuk,Krawchuk,Nate,G,L,6.02,180.0,2005-07-04,Sudbury Wolves,Central Division,30,0
 9206,Finn Marshall,Marshall,Finn,G,L,6.01,176.0,2006-01-13,Sudbury Wolves,Central Division,31,0
-9353,Noah Beaulne,Beaulne,Noah,G,L,6.02,188.0,2004-06-20,Sudbury Wolves,Central Division,35,0
 9249,Tayjon Street,Street,Tayjon,LW,L,6.01,205.0,2005-05-04,Sudbury Wolves,Central Division,73,0
 9200,Rowan Henderson,Henderson,Rowan,LW,L,5.10,178.0,2007-12-10,Sudbury Wolves,Central Division,77,1
 8716,Henry Mews,Mews,Henry,D,R,6.01,183.0,2006-03-09,Sudbury Wolves,Central Division,88,0
@@ -426,7 +425,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8553,Konnor Smith,Smith,Konnor,D,L,6.06,217.0,2004-11-06,Brampton Steelheads,Central Division,84,0
 8605,Adam Zidlicky,Zidlicky,Adam,LW,L,6.00,170.0,2005-01-28,Brampton Steelheads,Central Division,91,0
 8743,Porter Martone,Martone,Porter,RW,R,6.03,208.0,2006-10-26,Brampton Steelheads,Central Division,94,0
-9101,Charlie Larocque,Larocque,Charlie,G,L,6.01,161.0,2007-07-16,North Bay Battalion,Central Division,1,1
 8940,Adrian Manzo,Manzo,Adrian,D,R,6.00,183.0,2007-08-28,North Bay Battalion,Central Division,2,0
 9322,Jonathan Kapageridis,Kapageridis,Jonathan,D,L,6.00,176.0,2007-05-08,North Bay Battalion,Central Division,3,1
 9232,Aaron Enright,Enright,Aaron,D,L,6.00,211.0,2007-03-28,North Bay Battalion,Central Division,4,1
@@ -477,29 +475,27 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9263,Hayden Jeffery,Jeffery,Hayden,G,R,6.1,175.0,2006-05-08,Niagara IceDogs,Central Division,80,1
 9145,Matthew Humphries,Humphries,Matthew,G,R,6.02,180.0,2008-07-28,Niagara IceDogs,Central Division,82,1
 8971,Ivan Galiyanov,Galiyanov,Ivan,LW,L,5.10,174.0,2007-10-16,Niagara IceDogs,Central Division,92,0
-8774,Josh Glavin,Glavin,Josh,LD,L,6.02,200.0,2006-09-24,Saginaw Spirit,West Division,5,0
-9319,Hayden Barch,Barch,Hayden,RD,R,6.01,190.0,2007-04-14,Saginaw Spirit,West Division,6,1
-8366,Calem Mangone,Mangone,Calem,RW,R,5.09,165.0,2004-11-04,Saginaw Spirit,West Division,7,0
+8774,Josh Glavin,Glavin,Josh,D,L,6.02,200.0,2006-09-24,Saginaw Spirit,West Division,5,0
+9319,Hayden Barch,Barch,Hayden,D,R,6.01,190.0,2007-04-14,Saginaw Spirit,West Division,6,1
+8366,Calem Mangone,Mangone,Calem,LW,R,5.09,165.0,2004-11-04,Saginaw Spirit,West Division,7,0
 9153,Brody Najim,Najim,Brody,LW,L,5.10,145.0,2008-07-16,Saginaw Spirit,West Division,8,1
-9002,Graydon Jones,Jones,Graydon,LD,L,6.00,175.0,2007-01-01,Saginaw Spirit,West Division,9,1
-9347,Candon O'Neill,O'Neill,Candon,LD,L,6.00,190.0,2007-08-11,Saginaw Spirit,West Division,10,0
+9002,Graydon Jones,Jones,Graydon,D,L,6.00,175.0,2007-01-01,Saginaw Spirit,West Division,9,1
 8991,Carson Harmer,Harmer,Carson,C,L,5.10,185.0,2007-01-13,Saginaw Spirit,West Division,13,1
 8505,Sebastien Gervais,Gervais,Sebastien,C,L,6.01,190.0,2005-04-11,Saginaw Spirit,West Division,15,0
-8974,Xander Velliaris,Velliaris,Xander,LD,L,6.03,205.0,2007-04-23,Saginaw Spirit,West Division,17,0
-8773,Zayne Parekh,Parekh,Zayne,RD,R,6.00,185.0,2006-02-15,Saginaw Spirit,West Division,19,0
+8974,Xander Velliaris,Velliaris,Xander,D,L,6.03,205.0,2007-04-23,Saginaw Spirit,West Division,17,1
+8773,Zayne Parekh,Parekh,Zayne,D,R,6.00,185.0,2006-02-15,Saginaw Spirit,West Division,19,0
 8703,Kaeden Johnston,Johnston,Kaeden,RW,R,6.01,175.0,2005-02-03,Saginaw Spirit,West Division,20,0
 8839,Liam Storch,Storch,Liam,RW,R,5.10,150.0,2006-01-20,Saginaw Spirit,West Division,21,0
-9119,Kaden Sienko,Sienko,Kaden,RD,R,6.01,185.0,2008-04-19,Saginaw Spirit,West Division,23,1
+9119,Kaden Sienko,Sienko,Kaden,D,R,6.01,185.0,2008-04-19,Saginaw Spirit,West Division,23,1
 9117,Igor Chernyshov,Chernyshov,Igor,RW,R,6.03,225.0,2005-11-30,Saginaw Spirit,West Division,25,0
-8503,PJ Forgione,Forgione,PJ,LD,L,6.02,215.0,2004-11-12,Saginaw Spirit,West Division,27,0
+8503,PJ Forgione,Forgione,PJ,D,L,6.02,215.0,2004-11-12,Saginaw Spirit,West Division,27,0
 8369,Andrew Oke,Oke,Andrew,G,L,6.02,190.0,2004-03-26,Saginaw Spirit,West Division,29,0
 8993,Kaleb Papineau,Papineau,Kaleb,G,L,6.02,190.0,2006-01-25,Saginaw Spirit,West Division,31,0
 9156,Sammy DiBlasi,DiBlasi,Sammy,G,L,6.04,185.0,2007-01-13,Saginaw Spirit,West Division,35,1
-8973,Ethan Weir,Weir,Ethan,RW,R,5.11,195.0,2007-01-10,Saginaw Spirit,West Division,37,0
+8973,Ethan Weir,Weir,Ethan,RW,R,5.11,195.0,2007-01-10,Saginaw Spirit,West Division,37,1
 8990,Jacob Cloutier,Cloutier,Jacob,RW,R,5.10,170.0,2007-03-22,Saginaw Spirit,West Division,42,1
 9118,Dimian Zhilkin,Zhilkin,Dimian,RW,R,5.09,160.0,2008-10-21,Saginaw Spirit,West Division,71,1
-9155,Blake Barnes,Barnes,Blake,RD,R,5.10,165.0,2008-05-14,Saginaw Spirit,West Division,72,1
-8352,James Guo,Guo,James,RD,R,6.01,195.0,2005-04-02,Saginaw Spirit,West Division,73,0
+8352,James Guo,Guo,James,D,R,6.01,195.0,2005-04-02,Saginaw Spirit,West Division,73,0
 8769,Michael Misa,Misa,Michael,C,L,6.01,185.0,2007-02-16,Saginaw Spirit,West Division,77,0
 9116,Kristian Epperson,Epperson,Kristian,LW,L,6.00,185.0,2006-05-16,Saginaw Spirit,West Division,86,0
 8399,Nic Sima,Sima,Nic,RW,R,6.03,195.0,2005-03-31,Saginaw Spirit,West Division,92,0
