@@ -1,0 +1,58 @@
+[
+    {
+        "home_team": "Brampton Steelheads",
+        "away_team": "Oshawa Generals",
+        "winner": "Brampton Steelheads",
+        "probabilities": {
+            "Brampton Steelheads": "52.78%",
+            "Oshawa Generals": "47.22%"
+        },
+        "odds": {
+            "Brampton Steelheads": "-125",
+            "Oshawa Generals": "+101"
+        },
+        "game_time": "11:00 am"
+    },
+    {
+        "home_team": "Brantford Bulldogs",
+        "away_team": "London Knights",
+        "winner": "London Knights",
+        "probabilities": {
+            "Brantford Bulldogs": "44.35%",
+            "London Knights": "55.65%"
+        },
+        "odds": {
+            "Brantford Bulldogs": "+114",
+            "London Knights": "-141"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Flint Firebirds",
+        "away_team": "Saginaw Spirit",
+        "winner": "Saginaw Spirit",
+        "probabilities": {
+            "Flint Firebirds": "38.09%",
+            "Saginaw Spirit": "61.91%"
+        },
+        "odds": {
+            "Flint Firebirds": "+149",
+            "Saginaw Spirit": "-187"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Sudbury Wolves",
+        "away_team": "Niagara IceDogs",
+        "winner": "Niagara IceDogs",
+        "probabilities": {
+            "Sudbury Wolves": "49.59%",
+            "Niagara IceDogs": "50.41%"
+        },
+        "odds": {
+            "Sudbury Wolves": "-109",
+            "Niagara IceDogs": "-113"
+        },
+        "game_time": "7:05 pm"
+    }
+]
