@@ -116,7 +116,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8992,Aiden Young,Young,Aiden,C,L,5.10,180.0,2007-04-18,Peterborough Petes,East Division,26,0
 9213,Colin Fitzgerald,Fitzgerald,Colin,C,R,6.02,195.0,2008-04-01,Peterborough Petes,East Division,27,1
 9023,Brennan Faulkner,Faulkner,Brennan,LW,L,5.11,176.0,2005-12-28,Peterborough Petes,East Division,28,0
-8799,Braydon McCallum,McCallum,Braydon,RW,R,5.10,185.0,2006-05-03,Peterborough Petes,East Division,29,0
+8799,Braydon McCallum,McCallum,Braydon,C,R,5.10,185.0,2006-05-03,Peterborough Petes,East Division,29,0
 8823,Easton Rye,Rye,Easton,G,L,6.00,196.0,2006-10-28,Peterborough Petes,East Division,30,0
 8832,Zach Bowen,Bowen,Zach,G,L,6.02,190.0,2005-04-25,Peterborough Petes,East Division,31,0
 9210,Masen Johnston,Johnston,Masen,G,L,6.01,186.0,2007-02-08,Peterborough Petes,East Division,34,1
@@ -223,24 +223,24 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8947,Luca Romano,Romano,Luca,C,R,5.11,168.0,2007-06-25,Kitchener Rangers,Midwest Division,86,0
 9162,Alexander Bilecki,Bilecki,Alexander,LD,R,6.01,155.0,2008-05-09,Kitchener Rangers,Midwest Division,89,1
 9165,Jack LaBrash,LaBrash,Jack,LW,L,6.05,196.0,2007-03-04,Kitchener Rangers,Midwest Division,93,1
-8740,Braedyn Rogers,Rogers,Braedyn,RD,R,6.00,180.0,2006-11-22,Owen Sound Attack,Midwest Division,2,0
-9190,Elliot Arnett,Arnett,Elliot,LD,L,6.01,189.0,2008-03-12,Owen Sound Attack,Midwest Division,4,1
-9032,Gabriel Smith,Smith,Gabriel,LD,L,6.03,198.0,2007-01-01,Owen Sound Attack,Midwest Division,5,1
+8740,Braedyn Rogers,Rogers,Braedyn,D,R,6.00,180.0,2006-11-22,Owen Sound Attack,Midwest Division,2,0
+9190,Elliot Arnett,Arnett,Elliot,D,L,6.01,189.0,2008-03-12,Owen Sound Attack,Midwest Division,4,1
+9032,Gabriel Smith,Smith,Gabriel,D,L,6.03,198.0,2007-01-01,Owen Sound Attack,Midwest Division,5,1
 8739,Ben Cormier,Cormier,Ben,C,L,6.00,172.0,2006-07-20,Owen Sound Attack,Midwest Division,8,0
 9192,Ethan Kindree,Kindree,Ethan,RW,R,5.09,165.0,2008-06-02,Owen Sound Attack,Midwest Division,9,1
 8573,Landen Hookey,Hookey,Landen,RW,R,6.05,222.0,2004-01-29,Owen Sound Attack,Midwest Division,10,0
-9193,Max Bleicher,Bleicher,Max,LD,L,5.10,189.0,2007-02-14,Owen Sound Attack,Midwest Division,11,1
+9193,Max Bleicher,Bleicher,Max,D,L,5.10,189.0,2007-02-14,Owen Sound Attack,Midwest Division,11,1
 9194,Easton Mikus,Mikus,Easton,C,L,6.00,183.0,2007-06-19,Owen Sound Attack,Midwest Division,13,1
 9027,Jake Crawford,Crawford,Jake,C,L,6.03,180.0,2007-05-05,Owen Sound Attack,Midwest Division,16,0
 9228,Cole Zurawski,Zurawski,Cole,RW,R,6.00,181.0,2008-02-06,Owen Sound Attack,Midwest Division,17,1
 9195,Rafik Varosyan,Varosyan,Rafik,LW,L,6.00,179.0,2007-10-01,Owen Sound Attack,Midwest Division,18,1
-8472,Alec Leonard,Leonard,Alec,RD,R,5.11,174.0,2004-05-13,Owen Sound Attack,Midwest Division,19,0
+8472,Alec Leonard,Leonard,Alec,D,R,5.11,174.0,2004-05-13,Owen Sound Attack,Midwest Division,19,0
 9191,Pierce Mbuyi,Mbuyi,Pierce,LW,L,5.10,153.0,2008-04-17,Owen Sound Attack,Midwest Division,21,1
 8749,Masen Wray,Wray,Masen,C,L,6.04,185.0,2006-05-15,Owen Sound Attack,Midwest Division,22,0
-9339,Lenny Greenberg,Greenberg,Lenny,RD,R,6.00,180.0,2005-03-07,Owen Sound Attack,Midwest Division,23,0
-8726,David Bedkowski,Bedkowski,David,RD,R,6.05,215.0,2006-12-07,Owen Sound Attack,Midwest Division,25,0
+9339,Lenny Greenberg,Greenberg,Lenny,D,R,6.00,180.0,2005-03-07,Owen Sound Attack,Midwest Division,23,0
+8726,David Bedkowski,Bedkowski,David,D,R,6.05,215.0,2006-12-07,Owen Sound Attack,Midwest Division,25,0
 8471,Declan Waddick,Waddick,Declan,LW,L,5.09,165.0,2005-01-24,Owen Sound Attack,Midwest Division,27,0
-8494,James Petrovski,Petrovski,James,LD,L,6.03,190.0,2005-08-12,Owen Sound Attack,Midwest Division,28,0
+8494,James Petrovski,Petrovski,James,D,L,6.03,190.0,2005-08-12,Owen Sound Attack,Midwest Division,28,0
 8781,Bruce McDonald,McDonald,Bruce,C,L,6.00,177.0,2004-12-18,Owen Sound Attack,Midwest Division,29,0
 9087,Matthew Koprowski,Koprowski,Matthew,G,L,6.03,198.0,2007-02-05,Owen Sound Attack,Midwest Division,31,1
 8819,Carter George,George,Carter,G,L,6.01,190.0,2006-05-20,Owen Sound Attack,Midwest Division,32,0
