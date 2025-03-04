@@ -14,7 +14,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9275,Blake Montgomery,Montgomery,Blake,LW,L,6.04,195.0,2005-05-04,London Knights,Midwest Division,47,0
 8736,Liam Spencer,Spencer,Liam,D,L,6.05,220.0,2006-01-19,London Knights,Midwest Division,49,0
 9043,Jared Woolley,Woolley,Jared,D,L,6.05,207.0,2006-02-27,London Knights,Midwest Division,51,0
-9052,Rene Van Bommel,Van Bommel,Rene,LW,L,5.11,185.0,2006-05-14,London Knights,Midwest Division,55,0
+9052,Rene Van Bommel,Van Bommel,Rene,C,L,5.11,185.0,2006-05-14,London Knights,Midwest Division,55,0
 8426,Oliver Bonk,Bonk,Oliver,D,R,6.02,210.0,2005-01-09,London Knights,Midwest Division,59,0
 8981,PJ Fagan II,Fagan II,PJ,D,L,6.01,205.0,2007-05-02,London Knights,Midwest Division,67,1
 8714,William Nicholl,Nicholl,William,C,L,6.00,184.0,2006-05-24,London Knights,Midwest Division,73,0
@@ -22,4 +22,4 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8983,Aleksei Medvedev,Medvedev,Aleksei,G,L,6.03,180.0,2007-09-10,London Knights,Midwest Division,78,1
 8538,Denver Barkey,Barkey,Denver,LW,L,5.10,171.0,2005-04-27,London Knights,Midwest Division,86,0
 8422,Landon Sim,Sim,Landon,LW,L,5.11,185.0,2004-07-17,London Knights,Midwest Division,90,0
-9242,Noah Read,Read,Noah,C,L,6.00,170.0,2007-01-06,London Knights,Midwest Division,92,1
+9242,Noah Read,Read,Noah,LW,L,6.00,170.0,2007-01-06,London Knights,Midwest Division,92,1

@@ -96,7 +96,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8593,Collin MacKenzie,MacKenzie,Collin,G,L,6.00,175.0,2004-11-30,Ottawa 67's,East Division,33,0
 9181,Filip Ekberg,Ekberg,Filip,C,L,5.10,166.0,2007-04-14,Ottawa 67's,East Division,34,1
 9211,Thanasi Marentette,Marentette,Thanasi,D,L,6.00,205.0,2007-01-30,Peterborough Petes,East Division,3,1
-9350,Calum Hartnell,Hartnell,Calum,D,L,5.08,155.0,2007-06-08,Peterborough Petes,East Division,4,0
 9029,Martin Matejicek,Matejicek,Martin,D,L,6.02,205.0,2005-08-05,Peterborough Petes,East Division,5,0
 8897,Grayden Strohack,Strohack,Grayden,D,L,6.04,198.0,2006-06-09,Peterborough Petes,East Division,6,0
 9212,Genc Ula,Ula,Genc,D,L,6.00,195.0,2008-10-26,Peterborough Petes,East Division,7,1
@@ -112,10 +111,8 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9317,Rio Kaiser,Kaiser,Rio,D,L,6.07,220.0,2006-10-07,Peterborough Petes,East Division,17,0
 9247,Francis Parish,Parish,Francis,RW,R,5.08,160.0,2007-03-06,Peterborough Petes,East Division,18,1
 9011,Caden Taylor,Taylor,Caden,LW,L,6.03,185.0,2007-03-31,Peterborough Petes,East Division,19,0
-9352,Dylan Turcotte,Turcotte,Dylan,LW,L,6.01,164.0,2007-02-06,Peterborough Petes,East Division,21,0
 9031,Nico Addy,Addy,Nico,RW,R,6.04,207.0,2007-08-17,Peterborough Petes,East Division,22,0
 8440,Jonathan Melee,Melee,Jonathan,LW,L,6.00,184.0,2004-01-15,Peterborough Petes,East Division,23,0
-9351,Kaiden Thatcher,Thatcher,Kaiden,D,R,6.03,205.0,2007-02-08,Peterborough Petes,East Division,25,0
 8992,Aiden Young,Young,Aiden,C,L,5.10,180.0,2007-04-18,Peterborough Petes,East Division,26,0
 9213,Colin Fitzgerald,Fitzgerald,Colin,C,R,6.02,195.0,2008-04-01,Peterborough Petes,East Division,27,1
 9023,Brennan Faulkner,Faulkner,Brennan,LW,L,5.11,176.0,2005-12-28,Peterborough Petes,East Division,28,0
@@ -203,29 +200,29 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8873,Jakub Chromiak,Chromiak,Jakub,RD,R,5.11,183.0,2005-11-02,Kitchener Rangers,Midwest Division,3,0
 8465,Matthew Andonovski,Andonovski,Matthew,LD,L,6.02,200.0,2005-03-14,Kitchener Rangers,Midwest Division,5,0
 8748,Carson Campbell,Campbell,Carson,RD,R,6.01,180.0,2006-06-08,Kitchener Rangers,Midwest Division,8,0
-8673,Adrian Misaljevic,Misaljevic,Adrian,RW,L,5.11,175.0,2004-07-10,Kitchener Rangers,Midwest Division,10,0
+8673,Adrian Misaljevic,Misaljevic,Adrian,LW,L,5.11,175.0,2004-07-10,Kitchener Rangers,Midwest Division,10,0
 9078,Cameron Arquette,Arquette,Cameron,RW,R,5.08,170.0,2007-04-27,Kitchener Rangers,Midwest Division,11,1
-9281,Haeden Ellis,Ellis,Haeden,C,R,5.10,161.0,2007-03-07,Kitchener Rangers,Midwest Division,13,0
+9281,Haeden Ellis,Ellis,Haeden,RW,R,5.10,161.0,2007-03-07,Kitchener Rangers,Midwest Division,13,1
 8603,Cameron Mercer,Mercer,Cameron,C,R,6.00,180.0,2005-05-27,Kitchener Rangers,Midwest Division,14,0
 8948,Cameron Reid,Reid,Cameron,LD,L,6.00,175.0,2007-04-08,Kitchener Rangers,Midwest Division,18,0
 8801,Luke Ellinas,Ellinas,Luke,C,L,6.01,186.0,2006-03-12,Kitchener Rangers,Midwest Division,19,0
 9276,Jack Pridham,Pridham,Jack,RW,R,6.02,185.0,2005-10-08,Kitchener Rangers,Midwest Division,24,0
 9081,Max Dirracolo,Dirracolo,Max,LD,L,6.04,216.0,2006-06-29,Kitchener Rangers,Midwest Division,25,0
-8758,Andrew Vermeulen,Vermeulen,Andrew,LW,L,6.02,200.0,2006-02-07,Kitchener Rangers,Midwest Division,27,0
+8758,Andrew Vermeulen,Vermeulen,Andrew,C,L,6.02,200.0,2006-02-07,Kitchener Rangers,Midwest Division,27,0
 8944,Matheas Stark,Stark,Matheas,LW,L,6.00,161.0,2007-01-14,Kitchener Rangers,Midwest Division,28,0
 9053,Owen Edwards,Edwards,Owen,G,R,6.03,170.0,2007-01-02,Kitchener Rangers,Midwest Division,31,1
 8464,Jackson Parsons,Parsons,Jackson,G,L,6.02,202.0,2004-11-23,Kitchener Rangers,Midwest Division,32,0
 8945,Tanner Lam,Lam,Tanner,RW,R,5.08,140.0,2007-07-14,Kitchener Rangers,Midwest Division,37,0
 9163,Jason Schaubel,Schaubel,Jason,G,L,6.00,165.0,2008-08-30,Kitchener Rangers,Midwest Division,39,1
 8946,Andrew MacNiel,MacNiel,Andrew,RD,R,6.02,170.0,2007-07-25,Kitchener Rangers,Midwest Division,43,1
-9324,Christian Humphreys,Humphreys,Christian,RW,R,5.11,170.0,2006-02-04,Kitchener Rangers,Midwest Division,48,0
+9324,Christian Humphreys,Humphreys,Christian,C,R,5.11,170.0,2006-02-04,Kitchener Rangers,Midwest Division,48,0
 8362,Trent Swick,Swick,Trent,LW,L,6.06,208.0,2004-04-25,Kitchener Rangers,Midwest Division,57,0
 9168,Matthew Hlacar,Hlacar,Matthew,LW,L,6.03,205.0,2006-05-31,Kitchener Rangers,Midwest Division,61,0
 9166,Evan Headrick,Headrick,Evan,RW,R,5.07,150.0,2008-01-08,Kitchener Rangers,Midwest Division,81,1
 8450,Chris Grisolia,Grisolia,Chris,LW,L,6.00,187.0,2005-04-30,Kitchener Rangers,Midwest Division,85,0
 8947,Luca Romano,Romano,Luca,C,R,5.11,168.0,2007-06-25,Kitchener Rangers,Midwest Division,86,0
 9162,Alexander Bilecki,Bilecki,Alexander,LD,R,6.01,155.0,2008-05-09,Kitchener Rangers,Midwest Division,89,1
-9165,Jack LaBrash,LaBrash,Jack,C,L,6.05,196.0,2007-03-04,Kitchener Rangers,Midwest Division,93,1
+9165,Jack LaBrash,LaBrash,Jack,LW,L,6.05,196.0,2007-03-04,Kitchener Rangers,Midwest Division,93,1
 8740,Braedyn Rogers,Rogers,Braedyn,RD,R,6.00,180.0,2006-11-22,Owen Sound Attack,Midwest Division,2,0
 9190,Elliot Arnett,Arnett,Elliot,LD,L,6.01,189.0,2008-03-12,Owen Sound Attack,Midwest Division,4,1
 9032,Gabriel Smith,Smith,Gabriel,LD,L,6.03,198.0,2007-01-01,Owen Sound Attack,Midwest Division,5,1
@@ -275,7 +272,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8402,Nick DeAngelis,DeAngelis,Nick,D,L,6.02,188.0,2004-05-22,Sudbury Wolves,Central Division,95,0
 8887,Ondrej Molnar,Molnar,Ondrej,LW,L,5.10,175.0,2005-02-08,Sudbury Wolves,Central Division,96,0
 8539,Blake Smith,Smith,Blake,D,L,6.05,225.0,2004-10-05,Flint Firebirds,West Division,5,0
-9336,James Paul,Paul,James,D,R,6.02,170.0,2007-10-27,Flint Firebirds,West Division,7,1
 8381,Christopher Thibodeau,Thibodeau,Christopher,RW,R,5.10,158.0,2005-10-13,Flint Firebirds,West Division,9,0
 8927,Jimmy Lombardi,Lombardi,Jimmy,C,L,6.00,178.0,2007-02-16,Flint Firebirds,West Division,10,0
 8824,Sam McCue,McCue,Sam,LW,L,6.02,191.0,2005-10-03,Flint Firebirds,West Division,12,0
@@ -297,7 +293,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9241,Christian Colosimo,Colosimo,Christian,D,L,6.05,215.0,2008-12-01,Flint Firebirds,West Division,73,1
 8705,Nathan Aspinall,Aspinall,Nathan,LW,L,6.07,195.0,2006-03-30,Flint Firebirds,West Division,76,0
 8461,Nolan Collins,Collins,Nolan,D,R,6.04,215.0,2004-04-28,Flint Firebirds,West Division,77,0
-9243,Brendan Cooke,Cooke,Brendan,LW,R,5.10,170.0,2007-12-22,Flint Firebirds,West Division,86,0
 8458,Evan Konyen,Konyen,Evan,RW,R,6.00,180.0,2004-02-22,Flint Firebirds,West Division,91,0
 8970,Urban Podrekar,Podrekar,Urban,D,L,6.00,194.0,2005-02-14,Flint Firebirds,West Division,98,0
 9042,Henry Brzustewicz,Brzustewicz,Henry,D,R,6.01,194.0,2007-02-09,London Knights,Midwest Division,2,0
@@ -315,7 +310,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9275,Blake Montgomery,Montgomery,Blake,LW,L,6.04,195.0,2005-05-04,London Knights,Midwest Division,47,0
 8736,Liam Spencer,Spencer,Liam,D,L,6.05,220.0,2006-01-19,London Knights,Midwest Division,49,0
 9043,Jared Woolley,Woolley,Jared,D,L,6.05,207.0,2006-02-27,London Knights,Midwest Division,51,0
-9052,Rene Van Bommel,Van Bommel,Rene,LW,L,5.11,185.0,2006-05-14,London Knights,Midwest Division,55,0
+9052,Rene Van Bommel,Van Bommel,Rene,C,L,5.11,185.0,2006-05-14,London Knights,Midwest Division,55,0
 8426,Oliver Bonk,Bonk,Oliver,D,R,6.02,210.0,2005-01-09,London Knights,Midwest Division,59,0
 8981,PJ Fagan II,Fagan II,PJ,D,L,6.01,205.0,2007-05-02,London Knights,Midwest Division,67,1
 8714,William Nicholl,Nicholl,William,C,L,6.00,184.0,2006-05-24,London Knights,Midwest Division,73,0
@@ -323,7 +318,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8983,Aleksei Medvedev,Medvedev,Aleksei,G,L,6.03,180.0,2007-09-10,London Knights,Midwest Division,78,1
 8538,Denver Barkey,Barkey,Denver,LW,L,5.10,171.0,2005-04-27,London Knights,Midwest Division,86,0
 8422,Landon Sim,Sim,Landon,LW,L,5.11,185.0,2004-07-17,London Knights,Midwest Division,90,0
-9242,Noah Read,Read,Noah,C,L,6.00,170.0,2007-01-06,London Knights,Midwest Division,92,1
+9242,Noah Read,Read,Noah,LW,L,6.00,170.0,2007-01-06,London Knights,Midwest Division,92,1
 8878,Mitch Young,Young,Mitch,D,L,6.02,190.0,2005-04-29,Sarnia Sting,West Division,5,0
 9295,Jack O'Brien,O'Brien,Jack,D,R,6.02,205.0,2005-02-01,Sarnia Sting,West Division,6,0
 9055,Dylan Luecke,Luecke,Dylan,RW,R,6.02,170.0,2007-02-22,Sarnia Sting,West Division,8,1

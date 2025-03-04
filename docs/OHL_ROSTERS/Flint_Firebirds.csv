@@ -1,6 +1,5 @@
 player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team_name,division,jersey_number,rookie
 8539,Blake Smith,Smith,Blake,D,L,6.05,225.0,2004-10-05,Flint Firebirds,West Division,5,0
-9336,James Paul,Paul,James,D,R,6.02,170.0,2007-10-27,Flint Firebirds,West Division,7,1
 8381,Christopher Thibodeau,Thibodeau,Christopher,RW,R,5.10,158.0,2005-10-13,Flint Firebirds,West Division,9,0
 8927,Jimmy Lombardi,Lombardi,Jimmy,C,L,6.00,178.0,2007-02-16,Flint Firebirds,West Division,10,0
 8824,Sam McCue,McCue,Sam,LW,L,6.02,191.0,2005-10-03,Flint Firebirds,West Division,12,0
@@ -22,6 +21,5 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9241,Christian Colosimo,Colosimo,Christian,D,L,6.05,215.0,2008-12-01,Flint Firebirds,West Division,73,1
 8705,Nathan Aspinall,Aspinall,Nathan,LW,L,6.07,195.0,2006-03-30,Flint Firebirds,West Division,76,0
 8461,Nolan Collins,Collins,Nolan,D,R,6.04,215.0,2004-04-28,Flint Firebirds,West Division,77,0
-9243,Brendan Cooke,Cooke,Brendan,LW,R,5.10,170.0,2007-12-22,Flint Firebirds,West Division,86,0
 8458,Evan Konyen,Konyen,Evan,RW,R,6.00,180.0,2004-02-22,Flint Firebirds,West Division,91,0
 8970,Urban Podrekar,Podrekar,Urban,D,L,6.00,194.0,2005-02-14,Flint Firebirds,West Division,98,0
