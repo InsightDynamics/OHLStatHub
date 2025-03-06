@@ -2026,9 +2026,9 @@
         },
         {
             "date": "2025-03-05",
-            "accuracy": 0.0,
-            "correct_predictions": 0,
-            "total_games": 1,
+            "accuracy": 50.0,
+            "correct_predictions": 2,
+            "total_games": 4,
             "game_details": [
                 {
                     "home_team": "Brampton Steelheads",
@@ -2046,9 +2046,9 @@
                     "home_team": "Brantford Bulldogs",
                     "away_team": "London Knights",
                     "predicted_winner": "London Knights",
-                    "actual_winner": "Not Started",
+                    "actual_winner": "London Knights",
                     "home_score": 0,
-                    "away_score": 0,
+                    "away_score": 5,
                     "odds": {
                         "Brantford Bulldogs": "+114",
                         "London Knights": "-141"
@@ -2058,9 +2058,9 @@
                     "home_team": "Flint Firebirds",
                     "away_team": "Saginaw Spirit",
                     "predicted_winner": "Saginaw Spirit",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Saginaw Spirit",
+                    "home_score": 3,
+                    "away_score": 5,
                     "odds": {
                         "Flint Firebirds": "+149",
                         "Saginaw Spirit": "-187"
@@ -2070,9 +2070,9 @@
                     "home_team": "Sudbury Wolves",
                     "away_team": "Niagara IceDogs",
                     "predicted_winner": "Niagara IceDogs",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Sudbury Wolves",
+                    "home_score": 3,
+                    "away_score": 2,
                     "odds": {
                         "Sudbury Wolves": "-109",
                         "Niagara IceDogs": "-113"
@@ -2239,15 +2239,83 @@
                     }
                 }
             ]
+        },
+        {
+            "date": "2025-03-08",
+            "accuracy": 0,
+            "correct_predictions": 0,
+            "total_games": 0,
+            "game_details": [
+                {
+                    "home_team": "Ottawa 67's",
+                    "away_team": "Peterborough Petes",
+                    "predicted_winner": "Ottawa 67's",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0,
+                    "odds": {
+                        "Ottawa 67's": "-262",
+                        "Peterborough Petes": "+204"
+                    }
+                },
+                {
+                    "home_team": "Erie Otters",
+                    "away_team": "Owen Sound Attack",
+                    "predicted_winner": "Erie Otters",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0,
+                    "odds": {
+                        "Erie Otters": "-193",
+                        "Owen Sound Attack": "+154"
+                    }
+                },
+                {
+                    "home_team": "Flint Firebirds",
+                    "away_team": "Sarnia Sting",
+                    "predicted_winner": "Flint Firebirds",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0,
+                    "odds": {
+                        "Flint Firebirds": "-191",
+                        "Sarnia Sting": "+152"
+                    }
+                },
+                {
+                    "home_team": "Saginaw Spirit",
+                    "away_team": "Brantford Bulldogs",
+                    "predicted_winner": "Saginaw Spirit",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0,
+                    "odds": {
+                        "Saginaw Spirit": "-125",
+                        "Brantford Bulldogs": "+101"
+                    }
+                },
+                {
+                    "home_team": "Soo Greyhounds",
+                    "away_team": "Oshawa Generals",
+                    "predicted_winner": "Oshawa Generals",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0,
+                    "odds": {
+                        "Soo Greyhounds": "+157",
+                        "Oshawa Generals": "-197"
+                    }
+                }
+            ]
         }
     ],
     "total_accuracy": 67.1,
-    "tossup_accuracy": 57.1,
-    "non_tossup_accuracy": 68.8,
-    "total_correct": 98,
-    "total_games": 146,
+    "tossup_accuracy": 54.5,
+    "non_tossup_accuracy": 69.3,
+    "total_correct": 100,
+    "total_games": 149,
     "tossup_correct": 12,
-    "tossup_games": 21,
-    "non_tossup_correct": 86,
-    "non_tossup_games": 125
+    "tossup_games": 22,
+    "non_tossup_correct": 88,
+    "non_tossup_games": 127
 }
