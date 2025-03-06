@@ -11,8 +11,8 @@ Player_ID,Name,Rookie,JN,BD,BD_Y,Hgt,Wgt,Pos,Team,GP,G,A,PTS,Pts/G,+/-,PPG,PPA,G
 8724,Beckett Sennecke,NO,45,,2006.0,6.04,195,RW,Oshawa Generals,51,36,47,83,1.63,26,11,19,2,0,61,30,36.1,107.5
 8764,Jacob Battaglia,NO,88,,2006.0,6.01,202,LW,Kingston Frontenacs,59,36,44,80,1.36,7,11,15,4,2,32,26,32.5,113.0
 8978,Tuomas Uronen,NO,8,,2005.0,6.00,194,RW,Kingston Frontenacs,54,35,45,80,1.48,23,10,21,6,2,25,31,38.8,135.5
-8826,Sam Dickinson,NO,3,,2006.0,6.03,210,D,London Knights,48,25,54,79,1.65,56,11,13,5,0,37,24,30.4,150.0
 8438,Luke Misa,NO,33,,2005.0,5.10,176,C,Brampton Steelheads,60,32,46,78,1.3,32,6,8,3,1,4,14,17.9,161.0
+8826,Sam Dickinson,NO,3,,2006.0,6.03,210,D,London Knights,48,25,53,78,1.63,56,11,13,5,0,37,24,30.8,148.5
 8538,Denver Barkey,NO,86,,2005.0,5.10,171,LW,London Knights,49,23,55,78,1.59,44,8,21,2,2,22,29,37.2,150.5
 8349,Carson Rehkopf,NO,16,,2005.0,6.02,202,RW,Brampton Steelheads,51,39,38,77,1.51,17,8,9,2,4,20,17,22.1,132.0
 8384,Cedrick Guindon,NO,93,,2004.0,5.10,182,C,Kingston Frontenacs,59,32,45,77,1.31,26,12,13,1,2,4,25,32.5,153.5
@@ -102,12 +102,12 @@ Player_ID,Name,Rookie,JN,BD,BD_Y,Hgt,Wgt,Pos,Team,GP,G,A,PTS,Pts/G,+/-,PPG,PPA,G
 8675,Easton Wainwright,NO,12,,2005.0,5.10,190,C,Sarnia Sting,56,14,25,39,0.7,-1,3,5,4,0,44,8,20.5,20.5
 8878,Mitch Young,NO,5,,2005.0,6.02,190,D,Sarnia Sting,51,7,32,39,0.76,-1,1,9,1,0,66,10,25.6,-5.0
 8831,Cole Davis,NO,78,,2006.0,5.10,184,LW,Windsor Spitfires,49,17,21,38,0.78,13,2,3,2,2,33,5,13.2,45.5
+9044,Evan Van Gorp,NO,14,,2006.0,5.10,165,LW,London Knights,57,17,21,38,0.67,18,2,3,4,2,10,5,13.2,73.5
 8510,Zach Filak,NO,11,,2004.0,6.01,185,C,Sarnia Sting,59,11,27,38,0.64,-10,3,6,0,1,63,9,23.7,-10.5
 9142,Braidy Wassilyn,YES,66,,2008.0,5.11,194,C,Niagara IceDogs,54,7,31,38,0.7,-13,4,9,0,0,14,13,34.2,33.5
 8657,Matthew Mania,NO,19,,2005.0,6.01,190,D,Flint Firebirds,60,7,31,38,0.63,9,2,8,0,0,49,10,26.3,20.5
 9123,Beckham Edwards,YES,81,,2008.0,6.01,170,C,Sarnia Sting,53,22,15,37,0.7,-7,7,3,1,0,6,10,27.0,53.5
 8560,Chase Coughlan,NO,9,,2005.0,5.11,194,RW,Sudbury Wolves,56,21,16,37,0.66,0,4,6,2,1,99,10,27.0,-33.0
-9044,Evan Van Gorp,NO,14,,2006.0,5.10,165,LW,London Knights,57,17,20,37,0.65,18,2,3,4,2,10,5,13.5,72.0
 9042,Henry Brzustewicz,NO,2,,2007.0,6.01,194,D,London Knights,58,10,27,37,0.64,21,2,9,2,0,73,11,29.7,8.5
 8927,Jimmy Lombardi,NO,10,,2007.0,6.00,178,C,Flint Firebirds,56,13,23,36,0.64,2,2,5,0,1,42,7,19.4,20.5
 9118,Dimian Zhilkin,YES,71,,2008.0,5.09,160,RW,Saginaw Spirit,47,12,24,36,0.77,11,2,5,0,0,45,7,19.4,26.0
@@ -204,13 +204,13 @@ Player_ID,Name,Rookie,JN,BD,BD_Y,Hgt,Wgt,Pos,Team,GP,G,A,PTS,Pts/G,+/-,PPG,PPA,G
 9285,Liam Beamish,YES,40,,2007.0,5.11,179,C,Sarnia Sting,31,10,12,22,0.71,5,2,2,1,0,20,4,18.2,23.0
 8385,Gavin Bryant,NO,13,,2004.0,5.11,188,C,Peterborough Petes,46,9,13,22,0.48,-10,2,3,3,0,31,5,22.7,-3.5
 8570,Andrew Gibson,NO,92,,2005.0,6.04,210,D,Oshawa Generals,48,9,13,22,0.46,18,0,3,3,0,57,3,13.6,-1.5
+8794,Ethan Toms,NO,61,,2006.0,5.11,180,C,Oshawa Generals,57,9,13,22,0.39,-2,0,0,0,0,24,0,0.0,11.5
 8998,Matthew Schaefer,NO,48,,2007.0,6.02,183,D,Erie Otters,17,7,15,22,1.29,21,2,6,2,0,8,8,36.4,49.5
 8389,Cal Uens,NO,44,,2005.0,5.09,168,D,Kingston Frontenacs,59,5,17,22,0.37,24,0,1,0,1,50,1,4.5,9.5
 8395,Anthony Romani,NO,15,,2005.0,6.01,190,RW,Barrie Colts,26,13,8,21,0.81,-3,2,3,0,3,4,5,23.8,31.0
 8739,Ben Cormier,NO,8,,2006.0,6.00,172,C,Owen Sound Attack,56,12,9,21,0.38,-18,2,2,0,1,33,4,19.0,-13.5
 8968,Joshua Avery,YES,86,,2007.0,6.01,170,C,Brantford Bulldogs,52,9,12,21,0.4,0,1,0,0,0,18,1,4.8,18.0
 8962,Parker Snelgrove,NO,9,,2007.0,6.00,189,C,Guelph Storm,57,9,12,21,0.37,-17,0,0,0,0,43,0,0.0,-24.0
-8794,Ethan Toms,NO,61,,2006.0,5.11,180,C,Oshawa Generals,57,9,12,21,0.37,-3,0,0,0,0,24,0,0.0,9.0
 9126,Brooks Rogowski,YES,10,,2008.0,6.06,220,RW,Oshawa Generals,60,9,12,21,0.35,-1,1,0,1,0,9,1,4.8,26.0
 9242,Noah Read,YES,92,,2007.0,6.00,170,LW,London Knights,37,8,13,21,0.57,10,0,2,1,0,18,2,9.5,27.5
 9221,Brady R Smith,YES,12,,2007.0,5.11.,173,LW,Soo Greyhounds,49,7,14,21,0.43,-26,1,1,2,0,16,2,9.5,-7.0
