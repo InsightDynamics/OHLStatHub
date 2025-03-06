@@ -96,6 +96,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8593,Collin MacKenzie,MacKenzie,Collin,G,L,6.00,175.0,2004-11-30,Ottawa 67's,East Division,33,0
 9181,Filip Ekberg,Ekberg,Filip,LW,L,5.10,166.0,2007-04-14,Ottawa 67's,East Division,34,1
 9211,Thanasi Marentette,Marentette,Thanasi,D,L,6.00,205.0,2007-01-30,Peterborough Petes,East Division,3,1
+9350,Calum Hartnell,Hartnell,Calum,D,L,5.08,155.0,2007-06-08,Peterborough Petes,East Division,4,0
 9029,Martin Matejicek,Matejicek,Martin,D,L,6.02,205.0,2005-08-05,Peterborough Petes,East Division,5,0
 8897,Grayden Strohack,Strohack,Grayden,D,L,6.04,198.0,2006-06-09,Peterborough Petes,East Division,6,0
 9212,Genc Ula,Ula,Genc,D,L,6.00,195.0,2008-10-26,Peterborough Petes,East Division,7,1
@@ -187,7 +188,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8562,Charlie Paquette,Paquette,Charlie,RW,R,6.02,207.0,2005-12-06,Guelph Storm,Midwest Division,23,0
 8520,Max Namestnikov,Namestnikov,Max,LW,L,5.08,184.0,2004-02-06,Guelph Storm,Midwest Division,26,0
 9216,Jimmy Sutherland,Sutherland,Jimmy,LW,L,5.09,160.0,2007-02-14,Guelph Storm,Midwest Division,29,1
-9225,Liam Conway,Conway,Liam,G,L,6.00,175.0,2007-06-19,Guelph Storm,Midwest Division,30,0
 9167,Zachary Jovanovski,Jovanovski,Zachary,G,L,6.02,170.0,2007-10-07,Guelph Storm,Midwest Division,30,1
 9291,Lev Katzin,Katzin,Lev,C,L,5.8,176.0,2007-05-13,Guelph Storm,Midwest Division,33,1
 9338,Kayden Newton,Newton,Kayden,G,R,6.03,150.0,2007-11-20,Guelph Storm,Midwest Division,34,1
@@ -262,7 +262,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8459,Quentin Musty,Musty,Quentin,LW,L,6.02,200.0,2005-07-06,Sudbury Wolves,Central Division,27,0
 8805,Nate Krawchuk,Krawchuk,Nate,G,L,6.02,180.0,2005-07-04,Sudbury Wolves,Central Division,30,0
 9206,Finn Marshall,Marshall,Finn,G,L,6.01,176.0,2006-01-13,Sudbury Wolves,Central Division,31,0
-9354,Luke Suys,Suys,Luke,G,L,6.01,165.0,2007-03-12,Sudbury Wolves,Central Division,35,0
+9354,Luke Suys,Suys,Luke,G,L,6.01,165.0,2007-03-12,Sudbury Wolves,Central Division,35,1
 9249,Tayjon Street,Street,Tayjon,LW,L,6.01,205.0,2005-05-04,Sudbury Wolves,Central Division,73,0
 9200,Rowan Henderson,Henderson,Rowan,LW,L,5.10,178.0,2007-12-10,Sudbury Wolves,Central Division,77,1
 8716,Henry Mews,Mews,Henry,D,R,6.01,183.0,2006-03-09,Sudbury Wolves,Central Division,88,0
@@ -294,7 +294,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9241,Christian Colosimo,Colosimo,Christian,D,L,6.05,215.0,2008-12-01,Flint Firebirds,West Division,73,1
 8705,Nathan Aspinall,Aspinall,Nathan,LW,L,6.07,195.0,2006-03-30,Flint Firebirds,West Division,76,0
 8461,Nolan Collins,Collins,Nolan,D,R,6.04,215.0,2004-04-28,Flint Firebirds,West Division,77,0
-9230,Ryland Cunningham,Cunningham,Ryland,LW,L,5.10,185.0,2008-06-28,Flint Firebirds,West Division,88,0
+9230,Ryland Cunningham,Cunningham,Ryland,LW,L,5.10,185.0,2008-06-28,Flint Firebirds,West Division,88,1
 8458,Evan Konyen,Konyen,Evan,RW,R,6.00,180.0,2004-02-22,Flint Firebirds,West Division,91,0
 8970,Urban Podrekar,Podrekar,Urban,D,L,6.00,194.0,2005-02-14,Flint Firebirds,West Division,98,0
 9042,Henry Brzustewicz,Brzustewicz,Henry,D,R,6.01,194.0,2007-02-09,London Knights,Midwest Division,2,0
