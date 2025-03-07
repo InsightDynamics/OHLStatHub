@@ -1,0 +1,72 @@
+[
+    {
+        "home_team": "Kitchener Rangers",
+        "away_team": "Guelph Storm",
+        "winner": "Kitchener Rangers",
+        "probabilities": {
+            "Kitchener Rangers": "65.72%",
+            "Guelph Storm": "34.28%"
+        },
+        "odds": {
+            "Kitchener Rangers": "-224",
+            "Guelph Storm": "+177"
+        },
+        "game_time": "2:00 pm"
+    },
+    {
+        "home_team": "Niagara IceDogs",
+        "away_team": "Kingston Frontenacs",
+        "winner": "Kingston Frontenacs",
+        "probabilities": {
+            "Niagara IceDogs": "38.17%",
+            "Kingston Frontenacs": "61.83%"
+        },
+        "odds": {
+            "Niagara IceDogs": "+149",
+            "Kingston Frontenacs": "-186"
+        },
+        "game_time": "2:00 pm"
+    },
+    {
+        "home_team": "North Bay Battalion",
+        "away_team": "Ottawa 67's",
+        "winner": "Ottawa 67's",
+        "probabilities": {
+            "North Bay Battalion": "44.50%",
+            "Ottawa 67's": "55.50%"
+        },
+        "odds": {
+            "North Bay Battalion": "+113",
+            "Ottawa 67's": "-140"
+        },
+        "game_time": "2:00 pm"
+    },
+    {
+        "home_team": "Sarnia Sting",
+        "away_team": "London Knights",
+        "winner": "London Knights",
+        "probabilities": {
+            "Sarnia Sting": "23.58%",
+            "London Knights": "76.42%"
+        },
+        "odds": {
+            "Sarnia Sting": "+303",
+            "London Knights": "-411"
+        },
+        "game_time": "2:05 pm"
+    },
+    {
+        "home_team": "Sudbury Wolves",
+        "away_team": "Barrie Colts",
+        "winner": "Barrie Colts",
+        "probabilities": {
+            "Sudbury Wolves": "45.88%",
+            "Barrie Colts": "54.12%"
+        },
+        "odds": {
+            "Sudbury Wolves": "+107",
+            "Barrie Colts": "-132"
+        },
+        "game_time": "2:05 pm"
+    }
+]

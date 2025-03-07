@@ -284,5 +284,18 @@
             "Sudbury Wolves": "-109",
             "Niagara IceDogs": "-113"
         }
+    },
+    {
+        "date": "2025-03-06",
+        "home_team": "Windsor Spitfires",
+        "away_team": "Kingston Frontenacs",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Windsor Spitfires",
+        "home_score": 7,
+        "away_score": 1,
+        "odds": {
+            "Windsor Spitfires": "-112",
+            "Kingston Frontenacs": "-110"
+        }
     }
 ]

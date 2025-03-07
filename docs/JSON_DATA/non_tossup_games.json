@@ -1649,5 +1649,44 @@
             "Flint Firebirds": "+149",
             "Saginaw Spirit": "-187"
         }
+    },
+    {
+        "date": "2025-03-06",
+        "home_team": "North Bay Battalion",
+        "away_team": "Niagara IceDogs",
+        "predicted_winner": "Niagara IceDogs",
+        "actual_winner": "North Bay Battalion",
+        "home_score": 4,
+        "away_score": 3,
+        "odds": {
+            "North Bay Battalion": "+197",
+            "Niagara IceDogs": "-251"
+        }
+    },
+    {
+        "date": "2025-03-06",
+        "home_team": "Peterborough Petes",
+        "away_team": "Ottawa 67's",
+        "predicted_winner": "Ottawa 67's",
+        "actual_winner": "Peterborough Petes",
+        "home_score": 4,
+        "away_score": 3,
+        "odds": {
+            "Peterborough Petes": "+180",
+            "Ottawa 67's": "-229"
+        }
+    },
+    {
+        "date": "2025-03-06",
+        "home_team": "Saginaw Spirit",
+        "away_team": "Barrie Colts",
+        "predicted_winner": "Saginaw Spirit",
+        "actual_winner": "Saginaw Spirit",
+        "home_score": 7,
+        "away_score": 4,
+        "odds": {
+            "Saginaw Spirit": "-154",
+            "Barrie Colts": "+124"
+        }
     }
 ]
