@@ -25,4 +25,4 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9000,Martin Misiak,Misiak,Martin,C,L,6.02,200.0,2004-09-30,Erie Otters,Midwest Division,90,0
 8996,Brett Hammond,Hammond,Brett,RW,R,6.02,188.0,2006-09-08,Erie Otters,Midwest Division,91,0
 8469,Pano Fimis,Fimis,Pano,C,R,5.11,183.0,2004-06-17,Erie Otters,Midwest Division,98,0
-9355,Hudson Wozney,Wozney,Hudson,RW,R,,,,Erie Otters,Midwest Division,99,0
+9355,Hudson Wozney,Wozney,Hudson,RW,R,6.03,194.0,2008-07-03,Erie Otters,Midwest Division,99,1
