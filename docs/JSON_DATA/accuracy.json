@@ -2242,17 +2242,17 @@
         },
         {
             "date": "2025-03-08",
-            "accuracy": 0,
+            "accuracy": 0.0,
             "correct_predictions": 0,
-            "total_games": 0,
+            "total_games": 1,
             "game_details": [
                 {
                     "home_team": "Ottawa 67's",
                     "away_team": "Peterborough Petes",
                     "predicted_winner": "Ottawa 67's",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Peterborough Petes",
+                    "home_score": 3,
+                    "away_score": 4,
                     "odds": {
                         "Ottawa 67's": "-262",
                         "Peterborough Petes": "+204"
@@ -2377,13 +2377,13 @@
             ]
         }
     ],
-    "total_accuracy": 66.5,
+    "total_accuracy": 66.0,
     "tossup_accuracy": 56.5,
-    "non_tossup_accuracy": 68.1,
+    "non_tossup_accuracy": 67.6,
     "total_correct": 107,
-    "total_games": 161,
+    "total_games": 162,
     "tossup_correct": 13,
     "tossup_games": 23,
     "non_tossup_correct": 94,
-    "non_tossup_games": 138
+    "non_tossup_games": 139
 }

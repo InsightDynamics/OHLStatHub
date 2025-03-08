@@ -1792,5 +1792,18 @@
             "Soo Greyhounds": "+134",
             "Barrie Colts": "-167"
         }
+    },
+    {
+        "date": "2025-03-08",
+        "home_team": "Ottawa 67's",
+        "away_team": "Peterborough Petes",
+        "predicted_winner": "Ottawa 67's",
+        "actual_winner": "Peterborough Petes",
+        "home_score": 3,
+        "away_score": 4,
+        "odds": {
+            "Ottawa 67's": "-262",
+            "Peterborough Petes": "+204"
+        }
     }
 ]
