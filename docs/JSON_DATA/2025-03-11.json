@@ -1,0 +1,58 @@
+[
+    {
+        "home_team": "Brampton Steelheads",
+        "away_team": "Sudbury Wolves",
+        "winner": "Brampton Steelheads",
+        "probabilities": {
+            "Brampton Steelheads": "58.82%",
+            "Sudbury Wolves": "41.18%"
+        },
+        "odds": {
+            "Brampton Steelheads": "-163",
+            "Sudbury Wolves": "+131"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "London Knights",
+        "away_team": "Guelph Storm",
+        "winner": "London Knights",
+        "probabilities": {
+            "London Knights": "73.86%",
+            "Guelph Storm": "26.14%"
+        },
+        "odds": {
+            "London Knights": "-349",
+            "Guelph Storm": "+263"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Niagara IceDogs",
+        "away_team": "Barrie Colts",
+        "winner": "Barrie Colts",
+        "probabilities": {
+            "Niagara IceDogs": "46.24%",
+            "Barrie Colts": "53.76%"
+        },
+        "odds": {
+            "Niagara IceDogs": "+105",
+            "Barrie Colts": "-130"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Windsor Spitfires",
+        "away_team": "Erie Otters",
+        "winner": "Windsor Spitfires",
+        "probabilities": {
+            "Windsor Spitfires": "62.04%",
+            "Erie Otters": "37.96%"
+        },
+        "odds": {
+            "Windsor Spitfires": "-188",
+            "Erie Otters": "+150"
+        },
+        "game_time": "7:05 pm"
+    }
+]

@@ -1805,5 +1805,57 @@
             "Ottawa 67's": "-262",
             "Peterborough Petes": "+204"
         }
+    },
+    {
+        "date": "2025-03-08",
+        "home_team": "Erie Otters",
+        "away_team": "Owen Sound Attack",
+        "predicted_winner": "Erie Otters",
+        "actual_winner": "Erie Otters",
+        "home_score": 7,
+        "away_score": 3,
+        "odds": {
+            "Erie Otters": "-193",
+            "Owen Sound Attack": "+154"
+        }
+    },
+    {
+        "date": "2025-03-08",
+        "home_team": "Flint Firebirds",
+        "away_team": "Sarnia Sting",
+        "predicted_winner": "Flint Firebirds",
+        "actual_winner": "Flint Firebirds",
+        "home_score": 6,
+        "away_score": 2,
+        "odds": {
+            "Flint Firebirds": "-191",
+            "Sarnia Sting": "+152"
+        }
+    },
+    {
+        "date": "2025-03-08",
+        "home_team": "Saginaw Spirit",
+        "away_team": "Brantford Bulldogs",
+        "predicted_winner": "Saginaw Spirit",
+        "actual_winner": "Brantford Bulldogs",
+        "home_score": 3,
+        "away_score": 11,
+        "odds": {
+            "Saginaw Spirit": "-125",
+            "Brantford Bulldogs": "+101"
+        }
+    },
+    {
+        "date": "2025-03-08",
+        "home_team": "Soo Greyhounds",
+        "away_team": "Oshawa Generals",
+        "predicted_winner": "Oshawa Generals",
+        "actual_winner": "Oshawa Generals",
+        "home_score": 3,
+        "away_score": 4,
+        "odds": {
+            "Soo Greyhounds": "+157",
+            "Oshawa Generals": "-197"
+        }
     }
 ]
