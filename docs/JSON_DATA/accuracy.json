@@ -2310,17 +2310,17 @@
         },
         {
             "date": "2025-03-09",
-            "accuracy": 0,
-            "correct_predictions": 0,
-            "total_games": 0,
+            "accuracy": 60.0,
+            "correct_predictions": 3,
+            "total_games": 5,
             "game_details": [
                 {
                     "home_team": "Kitchener Rangers",
                     "away_team": "Guelph Storm",
                     "predicted_winner": "Kitchener Rangers",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Kitchener Rangers",
+                    "home_score": 4,
+                    "away_score": 3,
                     "odds": {
                         "Kitchener Rangers": "-224",
                         "Guelph Storm": "+177"
@@ -2330,9 +2330,9 @@
                     "home_team": "Niagara IceDogs",
                     "away_team": "Kingston Frontenacs",
                     "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Kingston Frontenacs",
+                    "home_score": 3,
+                    "away_score": 4,
                     "odds": {
                         "Niagara IceDogs": "+149",
                         "Kingston Frontenacs": "-186"
@@ -2342,9 +2342,9 @@
                     "home_team": "North Bay Battalion",
                     "away_team": "Ottawa 67's",
                     "predicted_winner": "Ottawa 67's",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "North Bay Battalion",
+                    "home_score": 5,
+                    "away_score": 2,
                     "odds": {
                         "North Bay Battalion": "+113",
                         "Ottawa 67's": "-140"
@@ -2354,9 +2354,9 @@
                     "home_team": "Sarnia Sting",
                     "away_team": "London Knights",
                     "predicted_winner": "London Knights",
-                    "actual_winner": "Not Started",
+                    "actual_winner": "London Knights",
                     "home_score": 0,
-                    "away_score": 0,
+                    "away_score": 9,
                     "odds": {
                         "Sarnia Sting": "+303",
                         "London Knights": "-411"
@@ -2366,9 +2366,9 @@
                     "home_team": "Sudbury Wolves",
                     "away_team": "Barrie Colts",
                     "predicted_winner": "Barrie Colts",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Sudbury Wolves",
+                    "home_score": 7,
+                    "away_score": 2,
                     "odds": {
                         "Sudbury Wolves": "+107",
                         "Barrie Colts": "-132"
@@ -2433,13 +2433,13 @@
             ]
         }
     ],
-    "total_accuracy": 66.3,
+    "total_accuracy": 66.1,
     "tossup_accuracy": 56.5,
-    "non_tossup_accuracy": 67.8,
-    "total_correct": 110,
-    "total_games": 166,
+    "non_tossup_accuracy": 67.6,
+    "total_correct": 113,
+    "total_games": 171,
     "tossup_correct": 13,
     "tossup_games": 23,
-    "non_tossup_correct": 97,
-    "non_tossup_games": 143
+    "non_tossup_correct": 100,
+    "non_tossup_games": 148
 }

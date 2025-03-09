@@ -263,7 +263,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8459,Quentin Musty,Musty,Quentin,LW,L,6.02,200.0,2005-07-06,Sudbury Wolves,Central Division,27,0
 8805,Nate Krawchuk,Krawchuk,Nate,G,L,6.02,180.0,2005-07-04,Sudbury Wolves,Central Division,30,0
 9206,Finn Marshall,Marshall,Finn,G,L,6.01,176.0,2006-01-13,Sudbury Wolves,Central Division,31,0
-9354,Luke Suys,Suys,Luke,G,L,6.01,165.0,2007-03-12,Sudbury Wolves,Central Division,35,1
 9249,Tayjon Street,Street,Tayjon,LW,L,6.01,205.0,2005-05-04,Sudbury Wolves,Central Division,73,0
 9200,Rowan Henderson,Henderson,Rowan,LW,L,5.10,178.0,2007-12-10,Sudbury Wolves,Central Division,77,1
 8716,Henry Mews,Mews,Henry,D,R,6.01,183.0,2006-03-09,Sudbury Wolves,Central Division,88,0
@@ -311,6 +310,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8566,Cam Allen,Allen,Cam,D,R,6.00,197.0,2005-01-07,London Knights,Midwest Division,17,0
 8712,Sam O'Reilly,O'Reilly,Sam,C,R,6.01,190.0,2006-03-30,London Knights,Midwest Division,23,0
 9264,Austin Elliott,Elliott,Austin,G,L,6.01,180.0,2004-05-14,London Knights,Midwest Division,31,0
+9111,Cohen Bidgood,Bidgood,Cohen,RW,R,6.00,185.0,2007-01-11,London Knights,Midwest Division,34,1
 9109,Jesse Nurmi,Nurmi,Jesse,LW,L,6.00,180.0,2005-03-07,London Knights,Midwest Division,44,0
 9275,Blake Montgomery,Montgomery,Blake,LW,L,6.04,195.0,2005-05-04,London Knights,Midwest Division,47,0
 8736,Liam Spencer,Spencer,Liam,D,L,6.05,220.0,2006-01-19,London Knights,Midwest Division,49,0

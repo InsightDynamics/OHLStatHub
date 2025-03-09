@@ -1857,5 +1857,70 @@
             "Soo Greyhounds": "+157",
             "Oshawa Generals": "-197"
         }
+    },
+    {
+        "date": "2025-03-09",
+        "home_team": "Kitchener Rangers",
+        "away_team": "Guelph Storm",
+        "predicted_winner": "Kitchener Rangers",
+        "actual_winner": "Kitchener Rangers",
+        "home_score": 4,
+        "away_score": 3,
+        "odds": {
+            "Kitchener Rangers": "-224",
+            "Guelph Storm": "+177"
+        }
+    },
+    {
+        "date": "2025-03-09",
+        "home_team": "Niagara IceDogs",
+        "away_team": "Kingston Frontenacs",
+        "predicted_winner": "Kingston Frontenacs",
+        "actual_winner": "Kingston Frontenacs",
+        "home_score": 3,
+        "away_score": 4,
+        "odds": {
+            "Niagara IceDogs": "+149",
+            "Kingston Frontenacs": "-186"
+        }
+    },
+    {
+        "date": "2025-03-09",
+        "home_team": "North Bay Battalion",
+        "away_team": "Ottawa 67's",
+        "predicted_winner": "Ottawa 67's",
+        "actual_winner": "North Bay Battalion",
+        "home_score": 5,
+        "away_score": 2,
+        "odds": {
+            "North Bay Battalion": "+113",
+            "Ottawa 67's": "-140"
+        }
+    },
+    {
+        "date": "2025-03-09",
+        "home_team": "Sarnia Sting",
+        "away_team": "London Knights",
+        "predicted_winner": "London Knights",
+        "actual_winner": "London Knights",
+        "home_score": 0,
+        "away_score": 9,
+        "odds": {
+            "Sarnia Sting": "+303",
+            "London Knights": "-411"
+        }
+    },
+    {
+        "date": "2025-03-09",
+        "home_team": "Sudbury Wolves",
+        "away_team": "Barrie Colts",
+        "predicted_winner": "Barrie Colts",
+        "actual_winner": "Sudbury Wolves",
+        "home_score": 7,
+        "away_score": 2,
+        "odds": {
+            "Sudbury Wolves": "+107",
+            "Barrie Colts": "-132"
+        }
     }
 ]
