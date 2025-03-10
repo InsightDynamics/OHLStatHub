@@ -78,7 +78,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8715,Frankie Marrelli,Marrelli,Frankie,D,L,5.11,187.0,2006-02-16,Ottawa 67's,East Division,8,0
 8585,Chris Barlas,Barlas,Chris,C,L,5.10,182.0,2005-01-10,Ottawa 67's,East Division,9,0
 8976,Nic Whitehead,Whitehead,Nic,C,L,5.10,159.0,2007-02-11,Ottawa 67's,East Division,10,0
-9321,Spencer Bowes,Bowes,Spencer,C,L,5.11,160.0,2007-09-19,Ottawa 67's,East Division,11,0
+9321,Spencer Bowes,Bowes,Spencer,C,L,5.11,160.0,2007-09-19,Ottawa 67's,East Division,11,1
 9309,Shaan Kingwell,Kingwell,Shaan,LW,L,5.11,168.0,2007-02-07,Ottawa 67's,East Division,12,1
 8977,Chase Yanni,Yanni,Chase,LW,L,5.11,183.0,2007-01-08,Ottawa 67's,East Division,16,1
 8594,Jack Dever,Dever,Jack,C,R,5.10,181.0,2005-09-05,Ottawa 67's,East Division,18,0
@@ -232,6 +232,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8573,Landen Hookey,Hookey,Landen,RW,R,6.05,222.0,2004-01-29,Owen Sound Attack,Midwest Division,10,0
 9193,Max Bleicher,Bleicher,Max,D,L,5.10,189.0,2007-02-14,Owen Sound Attack,Midwest Division,11,1
 9194,Easton Mikus,Mikus,Easton,C,L,6.00,183.0,2007-06-19,Owen Sound Attack,Midwest Division,13,1
+9313,Michael Dec,Dec,Michael,RW,R,5.09,152.0,2007-01-29,Owen Sound Attack,Midwest Division,15,0
 9027,Jake Crawford,Crawford,Jake,C,L,6.03,180.0,2007-05-05,Owen Sound Attack,Midwest Division,16,0
 9228,Cole Zurawski,Zurawski,Cole,RW,R,6.00,181.0,2008-02-06,Owen Sound Attack,Midwest Division,17,1
 9195,Rafik Varosyan,Varosyan,Rafik,LW,L,6.00,179.0,2007-10-01,Owen Sound Attack,Midwest Division,18,1
@@ -493,6 +494,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8973,Ethan Weir,Weir,Ethan,RW,R,5.11,195.0,2007-01-10,Saginaw Spirit,West Division,37,1
 8990,Jacob Cloutier,Cloutier,Jacob,RW,R,5.10,170.0,2007-03-22,Saginaw Spirit,West Division,42,1
 9118,Dimian Zhilkin,Zhilkin,Dimian,RW,R,5.09,160.0,2008-10-21,Saginaw Spirit,West Division,71,1
+9155,Blake Barnes,Barnes,Blake,D,R,5.10,165.0,2008-05-14,Saginaw Spirit,West Division,72,1
 8352,James Guo,Guo,James,D,R,6.01,195.0,2005-04-02,Saginaw Spirit,West Division,73,0
 8769,Michael Misa,Misa,Michael,C,L,6.01,185.0,2007-02-16,Saginaw Spirit,West Division,77,0
 9116,Kristian Epperson,Epperson,Kristian,LW,L,6.00,185.0,2006-05-16,Saginaw Spirit,West Division,86,0
