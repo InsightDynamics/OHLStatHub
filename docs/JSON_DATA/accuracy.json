@@ -2378,17 +2378,17 @@
         },
         {
             "date": "2025-03-11",
-            "accuracy": 0,
-            "correct_predictions": 0,
-            "total_games": 0,
+            "accuracy": 75.0,
+            "correct_predictions": 3,
+            "total_games": 4,
             "game_details": [
                 {
                     "home_team": "Brampton Steelheads",
                     "away_team": "Sudbury Wolves",
                     "predicted_winner": "Brampton Steelheads",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Brampton Steelheads",
+                    "home_score": 3,
+                    "away_score": 2,
                     "odds": {
                         "Brampton Steelheads": "-163",
                         "Sudbury Wolves": "+131"
@@ -2398,9 +2398,9 @@
                     "home_team": "London Knights",
                     "away_team": "Guelph Storm",
                     "predicted_winner": "London Knights",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Guelph Storm",
+                    "home_score": 1,
+                    "away_score": 1,
                     "odds": {
                         "London Knights": "-349",
                         "Guelph Storm": "+263"
@@ -2410,9 +2410,9 @@
                     "home_team": "Niagara IceDogs",
                     "away_team": "Barrie Colts",
                     "predicted_winner": "Barrie Colts",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Barrie Colts",
+                    "home_score": 1,
+                    "away_score": 1,
                     "odds": {
                         "Niagara IceDogs": "+105",
                         "Barrie Colts": "-130"
@@ -2422,9 +2422,9 @@
                     "home_team": "Windsor Spitfires",
                     "away_team": "Erie Otters",
                     "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Windsor Spitfires",
+                    "home_score": 5,
+                    "away_score": 1,
                     "odds": {
                         "Windsor Spitfires": "-188",
                         "Erie Otters": "+150"
@@ -2533,13 +2533,13 @@
             ]
         }
     ],
-    "total_accuracy": 66.1,
+    "total_accuracy": 66.3,
     "tossup_accuracy": 56.5,
-    "non_tossup_accuracy": 67.6,
-    "total_correct": 113,
-    "total_games": 171,
+    "non_tossup_accuracy": 67.8,
+    "total_correct": 116,
+    "total_games": 175,
     "tossup_correct": 13,
     "tossup_games": 23,
-    "non_tossup_correct": 100,
-    "non_tossup_games": 148
+    "non_tossup_correct": 103,
+    "non_tossup_games": 152
 }
