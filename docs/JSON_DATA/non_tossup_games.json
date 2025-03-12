@@ -1928,9 +1928,9 @@
         "home_team": "Brampton Steelheads",
         "away_team": "Sudbury Wolves",
         "predicted_winner": "Brampton Steelheads",
-        "actual_winner": "Brampton Steelheads",
-        "home_score": 3,
-        "away_score": 2,
+        "actual_winner": "Sudbury Wolves",
+        "home_score": 6,
+        "away_score": 8,
         "odds": {
             "Brampton Steelheads": "-163",
             "Sudbury Wolves": "+131"
@@ -1941,9 +1941,9 @@
         "home_team": "London Knights",
         "away_team": "Guelph Storm",
         "predicted_winner": "London Knights",
-        "actual_winner": "Guelph Storm",
-        "home_score": 1,
-        "away_score": 1,
+        "actual_winner": "London Knights",
+        "home_score": 7,
+        "away_score": 3,
         "odds": {
             "London Knights": "-349",
             "Guelph Storm": "+263"
@@ -1955,8 +1955,8 @@
         "away_team": "Barrie Colts",
         "predicted_winner": "Barrie Colts",
         "actual_winner": "Barrie Colts",
-        "home_score": 1,
-        "away_score": 1,
+        "home_score": 4,
+        "away_score": 7,
         "odds": {
             "Niagara IceDogs": "+105",
             "Barrie Colts": "-130"
@@ -1968,8 +1968,8 @@
         "away_team": "Erie Otters",
         "predicted_winner": "Windsor Spitfires",
         "actual_winner": "Windsor Spitfires",
-        "home_score": 5,
-        "away_score": 1,
+        "home_score": 7,
+        "away_score": 5,
         "odds": {
             "Windsor Spitfires": "-188",
             "Erie Otters": "+150"
