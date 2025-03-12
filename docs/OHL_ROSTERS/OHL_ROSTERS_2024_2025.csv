@@ -56,6 +56,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9088,Harrison Franssen,Franssen,Harrison,C,R,6.03,190.0,2006-05-06,Oshawa Generals,East Division,12,0
 8412,Ethan Martin,Martin,Ethan,LW,L,6.06,222.0,2005-03-25,Oshawa Generals,East Division,14,0
 9325,Noah Powell,Powell,Noah,RW,R,6.02,205.0,2005-02-02,Oshawa Generals,East Division,15,0
+9127,Brady Blaseg,Blaseg,Brady,D,L,6.03,196.0,2008-07-21,Oshawa Generals,East Division,16,1
 8540,Luke Torrance,Torrance,Luke,LW,L,6.01,201.0,2004-03-30,Oshawa Generals,East Division,17,0
 8543,Luca Marrelli,Marrelli,Luca,D,R,6.02,185.0,2005-10-04,Oshawa Generals,East Division,19,0
 8413,Calum Ritchie,Ritchie,Calum,C,R,6.03,190.0,2005-01-21,Oshawa Generals,East Division,21,0
@@ -113,6 +114,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9317,Rio Kaiser,Kaiser,Rio,D,L,6.07,220.0,2006-10-07,Peterborough Petes,East Division,17,0
 9247,Francis Parish,Parish,Francis,RW,R,5.08,160.0,2007-03-06,Peterborough Petes,East Division,18,1
 9011,Caden Taylor,Taylor,Caden,LW,L,6.03,185.0,2007-03-31,Peterborough Petes,East Division,19,0
+9356,Luis Sturgeon,Sturgeon,Luis,D,L,6.03,194.0,2008-12-11,Peterborough Petes,East Division,20,0
 9031,Nico Addy,Addy,Nico,RW,R,6.04,207.0,2007-08-17,Peterborough Petes,East Division,22,0
 8440,Jonathan Melee,Melee,Jonathan,LW,L,6.00,184.0,2004-01-15,Peterborough Petes,East Division,23,0
 8992,Aiden Young,Young,Aiden,C,L,5.10,180.0,2007-04-18,Peterborough Petes,East Division,26,0
@@ -299,6 +301,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9243,Brendan Cooke,Cooke,Brendan,LW,R,5.10,170.0,2007-12-22,Flint Firebirds,West Division,86,1
 9230,Ryland Cunningham,Cunningham,Ryland,LW,L,5.10,185.0,2008-06-28,Flint Firebirds,West Division,88,1
 8458,Evan Konyen,Konyen,Evan,RW,R,6.00,180.0,2004-02-22,Flint Firebirds,West Division,91,0
+9231,Gage Brandon,Brandon,Gage,C,L,5.11,160.0,2008-06-10,Flint Firebirds,West Division,92,0
 8970,Urban Podrekar,Podrekar,Urban,D,L,6.00,194.0,2005-02-14,Flint Firebirds,West Division,98,0
 9042,Henry Brzustewicz,Brzustewicz,Henry,D,R,6.01,194.0,2007-02-09,London Knights,Midwest Division,2,0
 8826,Sam Dickinson,Dickinson,Sam,D,L,6.03,210.0,2006-06-07,London Knights,Midwest Division,3,0
