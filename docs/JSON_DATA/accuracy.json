@@ -2443,8 +2443,8 @@
                     "away_team": "London Knights",
                     "predicted_winner": "London Knights",
                     "actual_winner": "London Knights",
-                    "home_score": 1,
-                    "away_score": 2,
+                    "home_score": 3,
+                    "away_score": 6,
                     "odds": {
                         "Guelph Storm": "+262",
                         "London Knights": "-348"
@@ -2455,8 +2455,8 @@
                     "away_team": "Ottawa 67's",
                     "predicted_winner": "Kingston Frontenacs",
                     "actual_winner": "Kingston Frontenacs",
-                    "home_score": 1,
-                    "away_score": 0,
+                    "home_score": 7,
+                    "away_score": 1,
                     "odds": {
                         "Kingston Frontenacs": "-330",
                         "Ottawa 67's": "+251"
@@ -2467,8 +2467,8 @@
                     "away_team": "Flint Firebirds",
                     "predicted_winner": "Flint Firebirds",
                     "actual_winner": "Owen Sound Attack",
-                    "home_score": 2,
-                    "away_score": 0,
+                    "home_score": 6,
+                    "away_score": 3,
                     "odds": {
                         "Owen Sound Attack": "+157",
                         "Flint Firebirds": "-197"
@@ -2479,8 +2479,8 @@
                     "away_team": "Brampton Steelheads",
                     "predicted_winner": "Brampton Steelheads",
                     "actual_winner": "Brampton Steelheads",
-                    "home_score": 0,
-                    "away_score": 1,
+                    "home_score": 3,
+                    "away_score": 6,
                     "odds": {
                         "Peterborough Petes": "+432",
                         "Brampton Steelheads": "-639"
@@ -2491,8 +2491,8 @@
                     "away_team": "Erie Otters",
                     "predicted_winner": "Erie Otters",
                     "actual_winner": "Erie Otters",
-                    "home_score": 2,
-                    "away_score": 2,
+                    "home_score": 5,
+                    "away_score": 6,
                     "odds": {
                         "Sarnia Sting": "+169",
                         "Erie Otters": "-213"
@@ -2632,6 +2632,86 @@
                     "odds": {
                         "Guelph Storm": "-126",
                         "Owen Sound Attack": "+102"
+                    }
+                }
+            ]
+        },
+        {
+            "date": "2025-03-15",
+            "accuracy": 0,
+            "correct_predictions": 0,
+            "total_games": 0,
+            "game_details": [
+                {
+                    "home_team": "Erie Otters",
+                    "away_team": "Niagara IceDogs",
+                    "predicted_winner": "Erie Otters",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0,
+                    "odds": {
+                        "Erie Otters": "-119",
+                        "Niagara IceDogs": "-104"
+                    }
+                },
+                {
+                    "home_team": "Flint Firebirds",
+                    "away_team": "Soo Greyhounds",
+                    "predicted_winner": "Flint Firebirds",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0,
+                    "odds": {
+                        "Flint Firebirds": "-136",
+                        "Soo Greyhounds": "+110"
+                    }
+                },
+                {
+                    "home_team": "Owen Sound Attack",
+                    "away_team": "Kitchener Rangers",
+                    "predicted_winner": "Kitchener Rangers",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0,
+                    "odds": {
+                        "Owen Sound Attack": "+197",
+                        "Kitchener Rangers": "-252"
+                    }
+                },
+                {
+                    "home_team": "Peterborough Petes",
+                    "away_team": "Sudbury Wolves",
+                    "predicted_winner": "Sudbury Wolves",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0,
+                    "odds": {
+                        "Peterborough Petes": "+327",
+                        "Sudbury Wolves": "-451"
+                    }
+                },
+                {
+                    "home_team": "Saginaw Spirit",
+                    "away_team": "Windsor Spitfires",
+                    "predicted_winner": "Windsor Spitfires",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0,
+                    "odds": {
+                        "Saginaw Spirit": "-101",
+                        "Windsor Spitfires": "-122"
+                    }
+                },
+                {
+                    "home_team": "Barrie Colts",
+                    "away_team": "Sarnia Sting",
+                    "predicted_winner": "Barrie Colts",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0,
+                    "odds": {
+                        "Barrie Colts": "-239",
+                        "Sarnia Sting": "+188"
                     }
                 }
             ]

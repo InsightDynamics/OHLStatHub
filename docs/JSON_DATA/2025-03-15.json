@@ -1,0 +1,86 @@
+[
+    {
+        "home_team": "Erie Otters",
+        "away_team": "Niagara IceDogs",
+        "winner": "Erie Otters",
+        "probabilities": {
+            "Erie Otters": "51.64%",
+            "Niagara IceDogs": "48.36%"
+        },
+        "odds": {
+            "Erie Otters": "-119",
+            "Niagara IceDogs": "-104"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Flint Firebirds",
+        "away_team": "Soo Greyhounds",
+        "winner": "Flint Firebirds",
+        "probabilities": {
+            "Flint Firebirds": "54.72%",
+            "Soo Greyhounds": "45.28%"
+        },
+        "odds": {
+            "Flint Firebirds": "-136",
+            "Soo Greyhounds": "+110"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Owen Sound Attack",
+        "away_team": "Kitchener Rangers",
+        "winner": "Kitchener Rangers",
+        "probabilities": {
+            "Owen Sound Attack": "31.97%",
+            "Kitchener Rangers": "68.03%"
+        },
+        "odds": {
+            "Owen Sound Attack": "+197",
+            "Kitchener Rangers": "-252"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Peterborough Petes",
+        "away_team": "Sudbury Wolves",
+        "winner": "Sudbury Wolves",
+        "probabilities": {
+            "Peterborough Petes": "22.24%",
+            "Sudbury Wolves": "77.76%"
+        },
+        "odds": {
+            "Peterborough Petes": "+327",
+            "Sudbury Wolves": "-451"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Saginaw Spirit",
+        "away_team": "Windsor Spitfires",
+        "winner": "Windsor Spitfires",
+        "probabilities": {
+            "Saginaw Spirit": "47.79%",
+            "Windsor Spitfires": "52.21%"
+        },
+        "odds": {
+            "Saginaw Spirit": "-101",
+            "Windsor Spitfires": "-122"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Barrie Colts",
+        "away_team": "Sarnia Sting",
+        "winner": "Barrie Colts",
+        "probabilities": {
+            "Barrie Colts": "66.97%",
+            "Sarnia Sting": "33.03%"
+        },
+        "odds": {
+            "Barrie Colts": "-239",
+            "Sarnia Sting": "+188"
+        },
+        "game_time": "7:30 pm"
+    }
+]
