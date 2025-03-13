@@ -2502,9 +2502,9 @@
         },
         {
             "date": "2025-03-13",
-            "accuracy": 0,
+            "accuracy": 0.0,
             "correct_predictions": 0,
-            "total_games": 0,
+            "total_games": 1,
             "game_details": [
                 {
                     "home_team": "North Bay Battalion",
@@ -2522,9 +2522,9 @@
                     "home_team": "Windsor Spitfires",
                     "away_team": "Soo Greyhounds",
                     "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Soo Greyhounds",
+                    "home_score": 2,
+                    "away_score": 2,
                     "odds": {
                         "Windsor Spitfires": "-247",
                         "Soo Greyhounds": "+193"
@@ -2717,13 +2717,13 @@
             ]
         }
     ],
-    "total_accuracy": 66.7,
+    "total_accuracy": 66.3,
     "tossup_accuracy": 56.5,
-    "non_tossup_accuracy": 68.2,
+    "non_tossup_accuracy": 67.7,
     "total_correct": 120,
-    "total_games": 180,
+    "total_games": 181,
     "tossup_correct": 13,
     "tossup_games": 23,
     "non_tossup_correct": 107,
-    "non_tossup_games": 157
+    "non_tossup_games": 158
 }
