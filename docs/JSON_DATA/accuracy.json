@@ -2534,9 +2534,9 @@
         },
         {
             "date": "2025-03-14",
-            "accuracy": 0,
-            "correct_predictions": 0,
-            "total_games": 0,
+            "accuracy": 33.3,
+            "correct_predictions": 2,
+            "total_games": 6,
             "game_details": [
                 {
                     "home_team": "Brampton Steelheads",
@@ -2554,9 +2554,9 @@
                     "home_team": "Kingston Frontenacs",
                     "away_team": "Peterborough Petes",
                     "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Kingston Frontenacs",
+                    "home_score": 2,
+                    "away_score": 1,
                     "odds": {
                         "Kingston Frontenacs": "-797",
                         "Peterborough Petes": "+509"
@@ -2578,9 +2578,9 @@
                     "home_team": "London Knights",
                     "away_team": "Saginaw Spirit",
                     "predicted_winner": "London Knights",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Saginaw Spirit",
+                    "home_score": 1,
+                    "away_score": 1,
                     "odds": {
                         "London Knights": "-135",
                         "Saginaw Spirit": "+109"
@@ -2590,9 +2590,9 @@
                     "home_team": "Ottawa 67's",
                     "away_team": "Oshawa Generals",
                     "predicted_winner": "Oshawa Generals",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Ottawa 67's",
+                    "home_score": 2,
+                    "away_score": 1,
                     "odds": {
                         "Ottawa 67's": "+203",
                         "Oshawa Generals": "-261"
@@ -2602,8 +2602,8 @@
                     "home_team": "Sarnia Sting",
                     "away_team": "Soo Greyhounds",
                     "predicted_winner": "Soo Greyhounds",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
+                    "actual_winner": "Sarnia Sting",
+                    "home_score": 1,
                     "away_score": 0,
                     "odds": {
                         "Sarnia Sting": "+131",
@@ -2614,9 +2614,9 @@
                     "home_team": "Sudbury Wolves",
                     "away_team": "Brantford Bulldogs",
                     "predicted_winner": "Brantford Bulldogs",
-                    "actual_winner": "Not Started",
+                    "actual_winner": "Brantford Bulldogs",
                     "home_score": 0,
-                    "away_score": 0,
+                    "away_score": 1,
                     "odds": {
                         "Sudbury Wolves": "+126",
                         "Brantford Bulldogs": "-156"
@@ -2626,9 +2626,9 @@
                     "home_team": "Guelph Storm",
                     "away_team": "Owen Sound Attack",
                     "predicted_winner": "Guelph Storm",
-                    "actual_winner": "Not Started",
+                    "actual_winner": "Owen Sound Attack",
                     "home_score": 0,
-                    "away_score": 0,
+                    "away_score": 3,
                     "odds": {
                         "Guelph Storm": "-126",
                         "Owen Sound Attack": "+102"
@@ -2797,13 +2797,13 @@
             ]
         }
     ],
-    "total_accuracy": 67.0,
+    "total_accuracy": 66.0,
     "tossup_accuracy": 56.5,
-    "non_tossup_accuracy": 68.6,
-    "total_correct": 122,
-    "total_games": 182,
+    "non_tossup_accuracy": 67.3,
+    "total_correct": 124,
+    "total_games": 188,
     "tossup_correct": 13,
     "tossup_games": 23,
-    "non_tossup_correct": 109,
-    "non_tossup_games": 159
+    "non_tossup_correct": 111,
+    "non_tossup_games": 165
 }
