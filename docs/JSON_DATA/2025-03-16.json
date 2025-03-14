@@ -1,0 +1,86 @@
+[
+    {
+        "home_team": "Niagara IceDogs",
+        "away_team": "Brampton Steelheads",
+        "winner": "Brampton Steelheads",
+        "probabilities": {
+            "Niagara IceDogs": "40.33%",
+            "Brampton Steelheads": "59.67%"
+        },
+        "odds": {
+            "Niagara IceDogs": "+136",
+            "Brampton Steelheads": "-169"
+        },
+        "game_time": "2:00 pm"
+    },
+    {
+        "home_team": "North Bay Battalion",
+        "away_team": "Barrie Colts",
+        "winner": "Barrie Colts",
+        "probabilities": {
+            "North Bay Battalion": "28.81%",
+            "Barrie Colts": "71.19%"
+        },
+        "odds": {
+            "North Bay Battalion": "+230",
+            "Barrie Colts": "-299"
+        },
+        "game_time": "2:00 pm"
+    },
+    {
+        "home_team": "Ottawa 67's",
+        "away_team": "Kingston Frontenacs",
+        "winner": "Kingston Frontenacs",
+        "probabilities": {
+            "Ottawa 67's": "26.28%",
+            "Kingston Frontenacs": "73.72%"
+        },
+        "odds": {
+            "Ottawa 67's": "+261",
+            "Kingston Frontenacs": "-346"
+        },
+        "game_time": "2:00 pm"
+    },
+    {
+        "home_team": "Erie Otters",
+        "away_team": "Guelph Storm",
+        "winner": "Erie Otters",
+        "probabilities": {
+            "Erie Otters": "61.67%",
+            "Guelph Storm": "38.33%"
+        },
+        "odds": {
+            "Erie Otters": "-185",
+            "Guelph Storm": "+148"
+        },
+        "game_time": "4:00 pm"
+    },
+    {
+        "home_team": "Windsor Spitfires",
+        "away_team": "London Knights",
+        "winner": "London Knights",
+        "probabilities": {
+            "Windsor Spitfires": "47.66%",
+            "London Knights": "52.34%"
+        },
+        "odds": {
+            "Windsor Spitfires": "-101",
+            "London Knights": "-123"
+        },
+        "game_time": "4:05 pm"
+    },
+    {
+        "home_team": "Oshawa Generals",
+        "away_team": "Sudbury Wolves",
+        "winner": "Oshawa Generals",
+        "probabilities": {
+            "Oshawa Generals": "54.28%",
+            "Sudbury Wolves": "45.72%"
+        },
+        "odds": {
+            "Oshawa Generals": "-133",
+            "Sudbury Wolves": "+108"
+        },
+        "game_time": "6:05 pm"
+    }
+]
