@@ -421,7 +421,6 @@ Player_ID,Name,Rookie,JN,BD,BD_Y,Hgt,Wgt,Pos,Team,GP,G,A,PTS,Pts/G,+/-,PPG,PPA,G
 9096,Tyler O'Toole,NO,23,,2006.0,6.01,198,RW,Oshawa Generals,32,2,0,2,0.06,-4,0,0,0,0,74,0,0.0,-74.0
 9076,Rafek Dianov,YES,22,,2007.0,5.10,175,LW,Niagara IceDogs,22,1,1,2,0.09,-2,0,0,0,0,2,0,0.0,-0.5
 8768,Tanner Winegard,NO,91,,2005.0,6.06,226,D,Windsor Spitfires,33,1,1,2,0.06,0,0,0,0,0,25,0,0.0,-21.5
-9127,Brady Blaseg,YES,16,,2008.0,6.03,196,D,Oshawa Generals,9,0,2,2,0.22,1,0,0,0,0,2,0,0.0,2.0
 9293,Simon Wang,YES,7,,2007.0,6.06,210,D,Oshawa Generals,28,0,2,2,0.07,2,0,0,0,0,17,0,0.0,-12.0
 8736,Liam Spencer,NO,49,,2006.0,6.05,220,D,London Knights,32,0,2,2,0.06,5,0,0,0,0,38,0,0.0,-30.0
 9336,James Paul,YES,7,,2007.0,6.02,170,D,Flint Firebirds,4,1,0,1,0.25,0,0,0,0,0,0,0,0.0,2.0
@@ -454,7 +453,9 @@ Player_ID,Name,Rookie,JN,BD,BD_Y,Hgt,Wgt,Pos,Team,GP,G,A,PTS,Pts/G,+/-,PPG,PPA,G
 9243,Brendan Cooke,NO,86,,2007.0,5.10,170,LW,Flint Firebirds,5,0,0,0,0.0,0,0,0,0,0,0,0,,0.0
 8951,Luke Dragusica,NO,23,,2007.0,6.01,178,D,Brampton Steelheads,5,0,0,0,0.0,0,0,0,0,0,4,0,,-4.0
 9288,Michael D'Alessio,YES,7,,2008.0,6.01,170,D,Erie Otters,6,0,0,0,0.0,-3,0,0,0,0,2,0,,-5.0
+9311,Jacob Xu,YES,96,,2008.0,6.02,181,LD,Kitchener Rangers,7,0,0,0,0.0,-2,0,0,0,0,0,0,,-2.0
 9328,Theo Avila,YES,6,,2007.0,5.11,176,D,Ottawa 67's,10,0,0,0,0.0,0,0,0,0,0,0,0,,0.0
+9199,Henry Doucet,YES,5,,2008.0,6.00,176,LW,Sudbury Wolves,11,0,0,0,0.0,-2,0,0,0,0,6,0,,-8.0
 9100,Keagan Knight,YES,23,,2007.0,6.01,197,D,Erie Otters,17,0,0,0,0.0,-3,0,0,0,0,8,0,,-11.0
 9184,Owen Cartwright,YES,44,,2008.0,6.01,172,D,Brampton Steelheads,20,0,0,0,0.0,3,0,0,0,0,12,0,,-9.0
 9239,Ryan Chamberlain,YES,22,,2008.0,6.02,175,LW,Sarnia Sting,20,0,0,0,0.0,-6,0,0,0,0,4,0,,-10.0

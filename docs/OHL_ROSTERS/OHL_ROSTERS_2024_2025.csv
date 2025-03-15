@@ -56,7 +56,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9088,Harrison Franssen,Franssen,Harrison,C,R,6.03,190.0,2006-05-06,Oshawa Generals,East Division,12,0
 8412,Ethan Martin,Martin,Ethan,LW,L,6.06,222.0,2005-03-25,Oshawa Generals,East Division,14,0
 9325,Noah Powell,Powell,Noah,RW,R,6.02,205.0,2005-02-02,Oshawa Generals,East Division,15,0
-9127,Brady Blaseg,Blaseg,Brady,D,L,6.03,196.0,2008-07-21,Oshawa Generals,East Division,16,1
 8540,Luke Torrance,Torrance,Luke,LW,L,6.01,201.0,2004-03-30,Oshawa Generals,East Division,17,0
 8543,Luca Marrelli,Marrelli,Luca,D,R,6.02,185.0,2005-10-04,Oshawa Generals,East Division,19,0
 8413,Calum Ritchie,Ritchie,Calum,C,R,6.03,190.0,2005-01-21,Oshawa Generals,East Division,21,0
@@ -178,6 +177,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8996,Brett Hammond,Hammond,Brett,RW,R,6.02,188.0,2006-09-08,Erie Otters,Midwest Division,91,0
 8469,Pano Fimis,Fimis,Pano,C,R,5.11,183.0,2004-06-17,Erie Otters,Midwest Division,98,0
 9355,Hudson Wozney,Wozney,Hudson,RW,R,6.03,194.0,2008-07-03,Erie Otters,Midwest Division,99,1
+9361,Kayden Edwards,Edwards,Kayden,LW,R,,,,Erie Otters,Midwest Division,100,0
 8792,Rowan Topp,Topp,Rowan,D,R,6.02,203.0,2006-04-02,Guelph Storm,Midwest Division,2,0
 9318,Eric Frossard,Frossard,Eric,D,L,6.04,195.0,2008-01-12,Guelph Storm,Midwest Division,3,1
 8961,Rylan Singh,Singh,Rylan,D,R,5.11,187.0,2007-10-04,Guelph Storm,Midwest Division,4,0
@@ -228,6 +228,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8947,Luca Romano,Romano,Luca,C,R,5.11,170.0,2007-06-25,Kitchener Rangers,Midwest Division,86,0
 9162,Alexander Bilecki,Bilecki,Alexander,LD,R,6.01,155.0,2008-05-09,Kitchener Rangers,Midwest Division,89,1
 9165,Jack LaBrash,LaBrash,Jack,LW,L,6.05,196.0,2007-03-04,Kitchener Rangers,Midwest Division,93,1
+9311,Jacob Xu,Xu,Jacob,LD,L,6.02,181.0,2008-03-13,Kitchener Rangers,Midwest Division,96,1
 8740,Braedyn Rogers,Rogers,Braedyn,D,R,6.00,180.0,2006-11-22,Owen Sound Attack,Midwest Division,2,0
 9190,Elliot Arnett,Arnett,Elliot,D,L,6.01,189.0,2008-03-12,Owen Sound Attack,Midwest Division,4,1
 9032,Gabriel Smith,Smith,Gabriel,D,L,6.03,198.0,2007-01-01,Owen Sound Attack,Midwest Division,5,1
@@ -255,6 +256,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8934,Tristan Delisle,Delisle,Tristan,C,L,5.11,172.0,2007-05-15,Owen Sound Attack,Midwest Division,40,0
 9357,Finn Kearns,Kearns,Finn,D,L,6.03,203.0,2008-06-08,Sudbury Wolves,Central Division,2,1
 9049,Trevor O’Dell,O’Dell,Trevor,D,L,6.03,172.0,2006-07-17,Sudbury Wolves,Central Division,4,0
+9199,Henry Doucet,Doucet,Henry,LW,L,6.00,176.0,2008-08-11,Sudbury Wolves,Central Division,5,1
 8671,Gavin Ewles,Ewles,Gavin,D,R,6.01,188.0,2005-03-01,Sudbury Wolves,Central Division,7,0
 8560,Chase Coughlan,Coughlan,Chase,RW,R,5.11,194.0,2005-06-17,Sudbury Wolves,Central Division,9,0
 9198,Ethan Dean,Dean,Ethan,C,L,5.10,166.0,2008-03-11,Sudbury Wolves,Central Division,11,1
