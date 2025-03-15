@@ -297,5 +297,18 @@
             "Windsor Spitfires": "-112",
             "Kingston Frontenacs": "-110"
         }
+    },
+    {
+        "date": "2025-03-15",
+        "home_team": "Saginaw Spirit",
+        "away_team": "Windsor Spitfires",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Saginaw Spirit",
+        "home_score": 2,
+        "away_score": 1,
+        "odds": {
+            "Saginaw Spirit": "-101",
+            "Windsor Spitfires": "-122"
+        }
     }
 ]

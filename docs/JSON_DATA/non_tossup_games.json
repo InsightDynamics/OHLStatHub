@@ -2169,5 +2169,57 @@
             "Guelph Storm": "-126",
             "Owen Sound Attack": "+102"
         }
+    },
+    {
+        "date": "2025-03-15",
+        "home_team": "Flint Firebirds",
+        "away_team": "Soo Greyhounds",
+        "predicted_winner": "Flint Firebirds",
+        "actual_winner": "Soo Greyhounds",
+        "home_score": 0,
+        "away_score": 2,
+        "odds": {
+            "Flint Firebirds": "-136",
+            "Soo Greyhounds": "+110"
+        }
+    },
+    {
+        "date": "2025-03-15",
+        "home_team": "Owen Sound Attack",
+        "away_team": "Kitchener Rangers",
+        "predicted_winner": "Kitchener Rangers",
+        "actual_winner": "Kitchener Rangers",
+        "home_score": 1,
+        "away_score": 1,
+        "odds": {
+            "Owen Sound Attack": "+197",
+            "Kitchener Rangers": "-252"
+        }
+    },
+    {
+        "date": "2025-03-15",
+        "home_team": "Peterborough Petes",
+        "away_team": "Sudbury Wolves",
+        "predicted_winner": "Sudbury Wolves",
+        "actual_winner": "Peterborough Petes",
+        "home_score": 1,
+        "away_score": 0,
+        "odds": {
+            "Peterborough Petes": "+327",
+            "Sudbury Wolves": "-451"
+        }
+    },
+    {
+        "date": "2025-03-15",
+        "home_team": "Barrie Colts",
+        "away_team": "Sarnia Sting",
+        "predicted_winner": "Barrie Colts",
+        "actual_winner": "Sarnia Sting",
+        "home_score": 1,
+        "away_score": 1,
+        "odds": {
+            "Barrie Colts": "-239",
+            "Sarnia Sting": "+188"
+        }
     }
 ]
