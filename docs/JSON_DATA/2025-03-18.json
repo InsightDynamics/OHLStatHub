@@ -1,0 +1,30 @@
+[
+    {
+        "home_team": "Flint Firebirds",
+        "away_team": "Guelph Storm",
+        "winner": "Flint Firebirds",
+        "probabilities": {
+            "Flint Firebirds": "59.47%",
+            "Guelph Storm": "40.53%"
+        },
+        "odds": {
+            "Flint Firebirds": "-167",
+            "Guelph Storm": "+134"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Kitchener Rangers",
+        "away_team": "London Knights",
+        "winner": "London Knights",
+        "probabilities": {
+            "Kitchener Rangers": "41.36%",
+            "London Knights": "58.64%"
+        },
+        "odds": {
+            "Kitchener Rangers": "+130",
+            "London Knights": "-161"
+        },
+        "game_time": "7:00 pm"
+    }
+]

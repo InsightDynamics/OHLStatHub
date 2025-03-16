@@ -2638,17 +2638,17 @@
         },
         {
             "date": "2025-03-15",
-            "accuracy": 20.0,
-            "correct_predictions": 1,
-            "total_games": 5,
+            "accuracy": 50.0,
+            "correct_predictions": 3,
+            "total_games": 6,
             "game_details": [
                 {
                     "home_team": "Erie Otters",
                     "away_team": "Niagara IceDogs",
                     "predicted_winner": "Erie Otters",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Niagara IceDogs",
+                    "home_score": 2,
+                    "away_score": 5,
                     "odds": {
                         "Erie Otters": "-119",
                         "Niagara IceDogs": "-104"
@@ -2659,8 +2659,8 @@
                     "away_team": "Soo Greyhounds",
                     "predicted_winner": "Flint Firebirds",
                     "actual_winner": "Soo Greyhounds",
-                    "home_score": 0,
-                    "away_score": 2,
+                    "home_score": 3,
+                    "away_score": 6,
                     "odds": {
                         "Flint Firebirds": "-136",
                         "Soo Greyhounds": "+110"
@@ -2671,8 +2671,8 @@
                     "away_team": "Kitchener Rangers",
                     "predicted_winner": "Kitchener Rangers",
                     "actual_winner": "Kitchener Rangers",
-                    "home_score": 1,
-                    "away_score": 1,
+                    "home_score": 2,
+                    "away_score": 3,
                     "odds": {
                         "Owen Sound Attack": "+197",
                         "Kitchener Rangers": "-252"
@@ -2682,9 +2682,9 @@
                     "home_team": "Peterborough Petes",
                     "away_team": "Sudbury Wolves",
                     "predicted_winner": "Sudbury Wolves",
-                    "actual_winner": "Peterborough Petes",
+                    "actual_winner": "Sudbury Wolves",
                     "home_score": 1,
-                    "away_score": 0,
+                    "away_score": 2,
                     "odds": {
                         "Peterborough Petes": "+327",
                         "Sudbury Wolves": "-451"
@@ -2695,8 +2695,8 @@
                     "away_team": "Windsor Spitfires",
                     "predicted_winner": "Windsor Spitfires",
                     "actual_winner": "Saginaw Spirit",
-                    "home_score": 2,
-                    "away_score": 1,
+                    "home_score": 6,
+                    "away_score": 5,
                     "odds": {
                         "Saginaw Spirit": "-101",
                         "Windsor Spitfires": "-122"
@@ -2706,9 +2706,9 @@
                     "home_team": "Barrie Colts",
                     "away_team": "Sarnia Sting",
                     "predicted_winner": "Barrie Colts",
-                    "actual_winner": "Sarnia Sting",
-                    "home_score": 1,
-                    "away_score": 1,
+                    "actual_winner": "Barrie Colts",
+                    "home_score": 4,
+                    "away_score": 3,
                     "odds": {
                         "Barrie Colts": "-239",
                         "Sarnia Sting": "+188"
@@ -2795,15 +2795,47 @@
                     }
                 }
             ]
+        },
+        {
+            "date": "2025-03-18",
+            "accuracy": 0,
+            "correct_predictions": 0,
+            "total_games": 0,
+            "game_details": [
+                {
+                    "home_team": "Flint Firebirds",
+                    "away_team": "Guelph Storm",
+                    "predicted_winner": "Flint Firebirds",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0,
+                    "odds": {
+                        "Flint Firebirds": "-167",
+                        "Guelph Storm": "+134"
+                    }
+                },
+                {
+                    "home_team": "Kitchener Rangers",
+                    "away_team": "London Knights",
+                    "predicted_winner": "London Knights",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0,
+                    "odds": {
+                        "Kitchener Rangers": "+130",
+                        "London Knights": "-161"
+                    }
+                }
+            ]
         }
     ],
-    "total_accuracy": 66.2,
-    "tossup_accuracy": 54.2,
-    "non_tossup_accuracy": 67.8,
-    "total_correct": 129,
-    "total_games": 195,
+    "total_accuracy": 66.8,
+    "tossup_accuracy": 52.0,
+    "non_tossup_accuracy": 69.0,
+    "total_correct": 131,
+    "total_games": 196,
     "tossup_correct": 13,
-    "tossup_games": 24,
-    "non_tossup_correct": 116,
+    "tossup_games": 25,
+    "non_tossup_correct": 118,
     "non_tossup_games": 171
 }
