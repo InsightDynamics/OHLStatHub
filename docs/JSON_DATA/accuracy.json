@@ -2718,17 +2718,17 @@
         },
         {
             "date": "2025-03-16",
-            "accuracy": 0,
-            "correct_predictions": 0,
-            "total_games": 0,
+            "accuracy": 83.3,
+            "correct_predictions": 5,
+            "total_games": 6,
             "game_details": [
                 {
                     "home_team": "Niagara IceDogs",
                     "away_team": "Brampton Steelheads",
                     "predicted_winner": "Brampton Steelheads",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Brampton Steelheads",
+                    "home_score": 2,
+                    "away_score": 6,
                     "odds": {
                         "Niagara IceDogs": "+136",
                         "Brampton Steelheads": "-169"
@@ -2738,9 +2738,9 @@
                     "home_team": "North Bay Battalion",
                     "away_team": "Barrie Colts",
                     "predicted_winner": "Barrie Colts",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Barrie Colts",
+                    "home_score": 4,
+                    "away_score": 5,
                     "odds": {
                         "North Bay Battalion": "+230",
                         "Barrie Colts": "-299"
@@ -2750,9 +2750,9 @@
                     "home_team": "Ottawa 67's",
                     "away_team": "Kingston Frontenacs",
                     "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Kingston Frontenacs",
+                    "home_score": 2,
+                    "away_score": 3,
                     "odds": {
                         "Ottawa 67's": "+261",
                         "Kingston Frontenacs": "-346"
@@ -2762,9 +2762,9 @@
                     "home_team": "Erie Otters",
                     "away_team": "Guelph Storm",
                     "predicted_winner": "Erie Otters",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Erie Otters",
+                    "home_score": 6,
+                    "away_score": 4,
                     "odds": {
                         "Erie Otters": "-185",
                         "Guelph Storm": "+148"
@@ -2774,9 +2774,9 @@
                     "home_team": "Windsor Spitfires",
                     "away_team": "London Knights",
                     "predicted_winner": "London Knights",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Windsor Spitfires",
+                    "home_score": 8,
+                    "away_score": 5,
                     "odds": {
                         "Windsor Spitfires": "-101",
                         "London Knights": "-123"
@@ -2786,9 +2786,9 @@
                     "home_team": "Oshawa Generals",
                     "away_team": "Sudbury Wolves",
                     "predicted_winner": "Oshawa Generals",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Oshawa Generals",
+                    "home_score": 3,
+                    "away_score": 1,
                     "odds": {
                         "Oshawa Generals": "-133",
                         "Sudbury Wolves": "+108"
@@ -2829,13 +2829,13 @@
             ]
         }
     ],
-    "total_accuracy": 66.8,
-    "tossup_accuracy": 52.0,
-    "non_tossup_accuracy": 69.0,
-    "total_correct": 131,
-    "total_games": 196,
+    "total_accuracy": 67.3,
+    "tossup_accuracy": 50.0,
+    "non_tossup_accuracy": 69.9,
+    "total_correct": 136,
+    "total_games": 202,
     "tossup_correct": 13,
-    "tossup_games": 25,
-    "non_tossup_correct": 118,
-    "non_tossup_games": 171
+    "tossup_games": 26,
+    "non_tossup_correct": 123,
+    "non_tossup_games": 176
 }

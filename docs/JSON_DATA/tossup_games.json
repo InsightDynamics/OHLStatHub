@@ -323,5 +323,18 @@
             "Saginaw Spirit": "-101",
             "Windsor Spitfires": "-122"
         }
+    },
+    {
+        "date": "2025-03-16",
+        "home_team": "Windsor Spitfires",
+        "away_team": "London Knights",
+        "predicted_winner": "London Knights",
+        "actual_winner": "Windsor Spitfires",
+        "home_score": 8,
+        "away_score": 5,
+        "odds": {
+            "Windsor Spitfires": "-101",
+            "London Knights": "-123"
+        }
     }
 ]

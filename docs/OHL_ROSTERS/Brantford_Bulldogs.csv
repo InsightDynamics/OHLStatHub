@@ -1,5 +1,4 @@
 player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team_name,division,jersey_number,rookie
-9097,Logan Snyder,Snyder,Logan,G,R,6.00,168.0,2007-08-14,Brantford Bulldogs,East Division,1,0
 8433,Lucas Moore,Moore,Lucas,D,R,5.10,193.0,2005-06-07,Brantford Bulldogs,East Division,4,0
 9268,Adam Jiricek,Jiricek,Adam,D,R,6.03,180.0,2006-06-28,Brantford Bulldogs,East Division,5,0
 8798,Tomáš Hamara,Hamara,Tomáš,D,L,6.00,192.0,2004-03-09,Brantford Bulldogs,East Division,9,0
@@ -20,7 +19,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8752,Marek Vanacker,Vanacker,Marek,LW,L,6.01,170.0,2006-04-12,Brantford Bulldogs,East Division,78,0
 8968,Joshua Avery,Avery,Joshua,C,L,6.01,170.0,2007-01-30,Brantford Bulldogs,East Division,86,1
 8754,David Egorov,Egorov,David,G,R,6.00,180.0,2006-05-18,Brantford Bulldogs,East Division,88,0
-8419,Ben Bujold,Bujold,Ben,C,L,5.11,181.0,2004-03-03,Brantford Bulldogs,East Division,89,0
 8713,Luca Testa,Testa,Luca,C,L,6.01,184.0,2006-04-10,Brantford Bulldogs,East Division,91,0
 8430,Cole Brown,Brown,Cole,RW,L,6.03,189.0,2005-04-27,Brantford Bulldogs,East Division,92,0
 8641,Patrick Thomas,Thomas,Patrick,C,L,6.00,178.0,2004-08-21,Brantford Bulldogs,East Division,93,0
