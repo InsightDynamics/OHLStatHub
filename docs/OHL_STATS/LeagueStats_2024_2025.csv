@@ -108,7 +108,7 @@ Player_ID,Name,Rookie,JN,BD,BD_Y,Hgt,Wgt,Pos,Team,GP,G,A,PTS,Pts/G,+/-,PPG,PPA,G
 9044,Evan Van Gorp,NO,14,,2006.0,5.10,165,LW,London Knights,61,19,22,41,0.67,16,2,3,4,4,12,5,12.2,75.0
 8927,Jimmy Lombardi,NO,10,,2007.0,6.00,178,C,Flint Firebirds,60,13,28,41,0.68,-2,2,7,0,1,42,9,22.0,24.0
 8920,Ryan Brown,NO,23,,2007.0,5.11,172,LW,Sarnia Sting,65,15,25,40,0.62,-7,1,4,2,2,36,5,12.5,24.5
-9118,Dimian Zhilkin,YES,71,,2008.0,5.09,160,RW,Saginaw Spirit,51,13,27,40,0.78,15,2,5,0,0,47,7,17.5,34.5
+9118,Dimian Zhilkin,YES,71,,2008.0,5.10,165,RW,Saginaw Spirit,51,13,27,40,0.78,15,2,5,0,0,47,7,17.5,34.5
 8588,Matthew Mayich,NO,22,,2004.0,6.02,197,D,Ottawa 67's,63,7,33,40,0.63,-15,1,8,0,0,73,9,22.5,-24.5
 8535,Carey Terrance,NO,10,,2005.0,6.01,186,C,Erie Otters,45,20,19,39,0.87,0,2,6,1,2,14,8,20.5,54.5
 8931,Kasper Halttunen,NO,12,,2005.0,6.03,207,RW,London Knights,37,19,20,39,1.05,13,8,5,4,0,38,13,33.3,43.0
@@ -121,7 +121,7 @@ Player_ID,Name,Rookie,JN,BD,BD_Y,Hgt,Wgt,Pos,Team,GP,G,A,PTS,Pts/G,+/-,PPG,PPA,G
 8494,James Petrovski,NO,28,,2005.0,6.03,190,D,Owen Sound Attack,65,4,34,38,0.58,-12,1,19,1,1,98,20,52.6,-51.0
 8907,Carson Woodall,NO,24,,2006.0,5.11,183,D,Windsor Spitfires,65,3,35,38,0.58,3,0,16,0,0,20,16,42.1,41.5
 8801,Luke Ellinas,NO,19,,2006.0,6.01,186,C,Kitchener Rangers,48,20,17,37,0.77,17,6,2,6,1,46,8,21.6,36.5
-8719,Jacob Therrien,NO,6,,2006.0,5.08,170,RW,North Bay Battalion,54,17,20,37,0.69,-40,11,13,1,1,90,24,64.9,-66.0
+8719,Jacob Therrien,NO,6,,2006.0,5.08,170,RW,North Bay Battalion,54,17,20,37,0.69,-40,11,13,1,0,90,24,64.9,-66.0
 8802,Jack Van Volsen,NO,14,,2006.0,6.02,190,C,Brampton Steelheads,64,16,21,37,0.58,0,4,5,1,1,20,9,24.3,43.5
 8402,Nick DeAngelis,NO,95,,2004.0,6.02,188,D,Sudbury Wolves,64,6,31,37,0.58,9,3,20,0,1,42,23,62.2,25.5
 8589,Brad Gardiner,NO,25,,2005.0,6.01,185,C,Barrie Colts,64,16,20,36,0.56,8,3,2,4,0,25,5,13.9,45.0
@@ -456,7 +456,6 @@ Player_ID,Name,Rookie,JN,BD,BD_Y,Hgt,Wgt,Pos,Team,GP,G,A,PTS,Pts/G,+/-,PPG,PPA,G
 8951,Luke Dragusica,NO,23,,2007.0,6.01,178,D,Brampton Steelheads,6,0,0,0,0.0,-1,0,0,0,0,4,0,,-5.0
 9311,Jacob Xu,YES,96,,2008.0,6.02,181,LD,Kitchener Rangers,7,0,0,0,0.0,-2,0,0,0,0,0,0,,-2.0
 9328,Theo Avila,YES,6,,2007.0,5.11,176,D,Ottawa 67's,10,0,0,0,0.0,0,0,0,0,0,0,0,,0.0
-9199,Henry Doucet,YES,5,,2008.0,6.00,176,LW,Sudbury Wolves,13,0,0,0,0.0,-2,0,0,0,0,6,0,,-8.0
 9100,Keagan Knight,YES,23,,2007.0,6.01,197,D,Erie Otters,17,0,0,0,0.0,-3,0,0,0,0,8,0,,-11.0
 9184,Owen Cartwright,YES,44,,2008.0,6.01,172,D,Brampton Steelheads,20,0,0,0,0.0,3,0,0,0,0,12,0,,-9.0
 9239,Ryan Chamberlain,YES,22,,2008.0,6.02,175,LW,Sarnia Sting,20,0,0,0,0.0,-6,0,0,0,0,4,0,,-10.0
