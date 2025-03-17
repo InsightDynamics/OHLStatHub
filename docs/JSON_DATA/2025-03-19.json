@@ -1,0 +1,30 @@
+[
+    {
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Brampton Steelheads",
+        "winner": "Brantford Bulldogs",
+        "probabilities": {
+            "Brantford Bulldogs": "50.34%",
+            "Brampton Steelheads": "49.66%"
+        },
+        "odds": {
+            "Brantford Bulldogs": "-113",
+            "Brampton Steelheads": "-110"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Sudbury Wolves",
+        "away_team": "Soo Greyhounds",
+        "winner": "Sudbury Wolves",
+        "probabilities": {
+            "Sudbury Wolves": "55.11%",
+            "Soo Greyhounds": "44.89%"
+        },
+        "odds": {
+            "Sudbury Wolves": "-138",
+            "Soo Greyhounds": "+112"
+        },
+        "game_time": "7:05 pm"
+    }
+]

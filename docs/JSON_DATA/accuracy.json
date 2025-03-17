@@ -2788,7 +2788,7 @@
                     "predicted_winner": "Oshawa Generals",
                     "actual_winner": "Oshawa Generals",
                     "home_score": 3,
-                    "away_score": 1,
+                    "away_score": 2,
                     "odds": {
                         "Oshawa Generals": "-133",
                         "Sudbury Wolves": "+108"
@@ -2824,6 +2824,38 @@
                     "odds": {
                         "Kitchener Rangers": "+130",
                         "London Knights": "-161"
+                    }
+                }
+            ]
+        },
+        {
+            "date": "2025-03-19",
+            "accuracy": 0,
+            "correct_predictions": 0,
+            "total_games": 0,
+            "game_details": [
+                {
+                    "home_team": "Brantford Bulldogs",
+                    "away_team": "Brampton Steelheads",
+                    "predicted_winner": "Brantford Bulldogs",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0,
+                    "odds": {
+                        "Brantford Bulldogs": "-113",
+                        "Brampton Steelheads": "-110"
+                    }
+                },
+                {
+                    "home_team": "Sudbury Wolves",
+                    "away_team": "Soo Greyhounds",
+                    "predicted_winner": "Sudbury Wolves",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0,
+                    "odds": {
+                        "Sudbury Wolves": "-138",
+                        "Soo Greyhounds": "+112"
                     }
                 }
             ]
