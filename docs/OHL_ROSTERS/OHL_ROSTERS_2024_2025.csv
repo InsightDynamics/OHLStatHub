@@ -35,10 +35,12 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8407,Ethan Miedema,Miedema,Ethan,LW,L,6.04,212.0,2005-03-22,Kingston Frontenacs,East Division,15,0
 9262,Riley Clark,Clark,Riley,LW,L,6.01,185.0,2006-05-03,Kingston Frontenacs,East Division,17,0
 9137,Nolan Buttar,Buttar,Nolan,C,L,6.01,181.0,2008-05-23,Kingston Frontenacs,East Division,22,1
+9307,André Mondoux,Mondoux,André,D,L,6.04,198.0,2007-03-16,Kingston Frontenacs,East Division,25,1
 8820,Vann Williamson,Williamson,Vann,D,R,6.01,188.0,2006-07-19,Kingston Frontenacs,East Division,27,0
 9327,Landon Wright,Wright,Landon,RW,R,5.11,181.0,2006-01-17,Kingston Frontenacs,East Division,36,0
 8558,Charlie Schenkel,Schenkel,Charlie,G,R,6.05.,203.0,2004-08-16,Kingston Frontenacs,East Division,37,0
 8376,Quinton Burns,Burns,Quinton,D,L,6.02,199.0,2005-04-14,Kingston Frontenacs,East Division,41,0
+9138,Gavin Betts,Betts,Gavin,G,L,5.11,173.0,2008-04-03,Kingston Frontenacs,East Division,43,1
 8389,Cal Uens,Uens,Cal,D,R,5.09,168.0,2005-02-11,Kingston Frontenacs,East Division,44,0
 9139,Adam Kelly,Kelly,Adam,C,R,5.11,177.0,2008-09-19,Kingston Frontenacs,East Division,47,1
 8480,Ethan Hay,Hay,Ethan,C,L,6.01,195.0,2005-01-15,Kingston Frontenacs,East Division,68,0
@@ -80,7 +82,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9321,Spencer Bowes,Bowes,Spencer,C,L,5.11,160.0,2007-09-19,Ottawa 67's,East Division,11,1
 9309,Shaan Kingwell,Kingwell,Shaan,LW,L,5.11,168.0,2007-02-07,Ottawa 67's,East Division,12,1
 8977,Chase Yanni,Yanni,Chase,LW,L,5.11,183.0,2007-01-08,Ottawa 67's,East Division,16,1
-9360,Clarence Allain,Allain,Clarence,LW,L,5.10,174.0,2008-06-13,Ottawa 67's,East Division,17,1
 8594,Jack Dever,Dever,Jack,C,R,5.10,181.0,2005-09-05,Ottawa 67's,East Division,18,0
 9176,Kohyn Eshkawkogan,Eshkawkogan,Kohyn,D,R,5.10,164.0,2008-11-19,Ottawa 67's,East Division,19,1
 8587,Luca Pinelli,Pinelli,Luca,LW,L,5.09,169.0,2005-04-05,Ottawa 67's,East Division,20,0
@@ -115,7 +116,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9356,Luis Sturgeon,Sturgeon,Luis,D,L,6.03,194.0,2008-12-11,Peterborough Petes,East Division,20,0
 9031,Nico Addy,Addy,Nico,RW,R,6.04,207.0,2007-08-17,Peterborough Petes,East Division,22,0
 8440,Jonathan Melee,Melee,Jonathan,LW,L,6.00,184.0,2004-01-15,Peterborough Petes,East Division,23,0
-9359,Raiden Doxtator,Doxtator,Raiden,LW,L,5.11,161.0,2008-08-24,Peterborough Petes,East Division,24,1
 8992,Aiden Young,Young,Aiden,C,L,5.10,180.0,2007-04-18,Peterborough Petes,East Division,26,0
 9213,Colin Fitzgerald,Fitzgerald,Colin,C,R,6.02,195.0,2008-04-01,Peterborough Petes,East Division,27,1
 9023,Brennan Faulkner,Faulkner,Brennan,LW,L,5.11,176.0,2005-12-28,Peterborough Petes,East Division,28,0

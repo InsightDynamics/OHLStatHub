@@ -4,7 +4,7 @@ Player_ID,Name,Rookie,JN,BD,BD_Y,Hgt,Wgt,Pos,Team,GP,G,A,PTS,Pts/G,+/-,PPG,PPA,G
 8438,Luke Misa,NO,33,,2005.0,5.10,176,C,Brampton Steelheads,65,34,48,82,1.26,34,6,8,3,1,6,14,17.1,168.0
 8775,Finn Harding,NO,7,,2005.0,6.01,206,D,Brampton Steelheads,65,7,50,57,0.88,46,2,13,1,0,67,15,26.3,68.0
 8517,Angus MacDonell,NO,17,,2005.0,5.10,185,C,Brampton Steelheads,43,27,25,52,1.21,5,11,8,3,2,76,19,36.5,20.5
-8802,Jack Van Volsen,NO,14,,2006.0,6.02,190,C,Brampton Steelheads,64,16,21,37,0.58,0,4,5,1,1,20,9,24.3,43.5
+8802,Jack Van Volsen,NO,14,,2006.0,6.02,190,C,Brampton Steelheads,64,16,21,37,0.58,-1,4,5,1,1,20,9,24.3,42.5
 8605,Adam Zidlicky,NO,91,,2005.0,6.00,170,LW,Brampton Steelheads,50,20,15,35,0.7,12,0,1,2,2,58,1,2.9,16.5
 8957,Vilmer Alriksson,NO,25,,2005.0,6.06,234,LW,Brampton Steelheads,43,15,19,34,0.79,-5,5,7,1,0,26,12,35.3,27.5
 8731,Lucas Karmiris,NO,27,,2006.0,5.11,190,C,Brampton Steelheads,37,13,20,33,0.89,16,2,2,2,0,26,4,12.1,46.0
@@ -15,7 +15,7 @@ Player_ID,Name,Rookie,JN,BD,BD_Y,Hgt,Wgt,Pos,Team,GP,G,A,PTS,Pts/G,+/-,PPG,PPA,G
 8950,Kieran Witkowski,NO,13,,2007.0,5.11,176,LW,Brampton Steelheads,65,11,16,27,0.42,6,0,0,1,0,14,0,0.0,38.0
 8733,Parker Von Richter,NO,6,,2006.0,6.01,195,D,Brampton Steelheads,59,8,18,26,0.44,21,3,2,2,0,22,5,19.2,42.0
 8553,Konnor Smith,NO,84,,2004.0,6.06,217,D,Brampton Steelheads,37,6,13,19,0.51,8,1,0,1,1,32,1,5.3,7.5
-8738,MacGregor Richmond,NO,73,,2006.0,5.09,180,RW,Brampton Steelheads,65,5,7,12,0.18,-9,0,0,1,0,10,0,0.0,1.5
+8738,MacGregor Richmond,NO,73,,2006.0,5.09,180,RW,Brampton Steelheads,65,5,7,12,0.18,-8,0,0,1,0,10,0,0.0,2.5
 9301,Aidan Lane,YES,11,,2007.0,6.01,193,RW,Brampton Steelheads,10,6,4,10,1.0,7,1,0,1,0,2,1,10.0,23.0
 8706,Reed Gee,NO,8,,2006.0,6.00,185,D,Brampton Steelheads,51,0,9,9,0.18,11,0,0,0,0,80,0,0.0,-55.5
 9186,Troy Patton,YES,77,,2008.0,5.10,178,C,Brampton Steelheads,33,5,2,7,0.21,4,0,0,1,0,24,0,0.0,-7.0

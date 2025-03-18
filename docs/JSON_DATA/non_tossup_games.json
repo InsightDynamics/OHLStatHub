@@ -2286,5 +2286,31 @@
             "Oshawa Generals": "-133",
             "Sudbury Wolves": "+108"
         }
+    },
+    {
+        "date": "2025-03-18",
+        "home_team": "Flint Firebirds",
+        "away_team": "Guelph Storm",
+        "predicted_winner": "Flint Firebirds",
+        "actual_winner": "Guelph Storm",
+        "home_score": 1,
+        "away_score": 1,
+        "odds": {
+            "Flint Firebirds": "-167",
+            "Guelph Storm": "+134"
+        }
+    },
+    {
+        "date": "2025-03-18",
+        "home_team": "Kitchener Rangers",
+        "away_team": "London Knights",
+        "predicted_winner": "London Knights",
+        "actual_winner": "London Knights",
+        "home_score": 0,
+        "away_score": 1,
+        "odds": {
+            "Kitchener Rangers": "+130",
+            "London Knights": "-161"
+        }
     }
 ]

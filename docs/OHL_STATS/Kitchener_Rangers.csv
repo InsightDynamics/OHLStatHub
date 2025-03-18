@@ -1,18 +1,18 @@
 Player_ID,Name,Rookie,JN,BD,BD_Y,Hgt,Wgt,Pos,Team,GP,G,A,PTS,Pts/G,+/-,PPG,PPA,GWG,ENG,PIM,PPP,PPP_Percentage,RNK
 8673,Adrian Misaljevic,NO,10,,2004.0,5.11,175,LW,Kitchener Rangers,65,31,38,69,1.06,20,9,16,7,3,14,25,36.2,125.0
 8362,Trent Swick,NO,57,,2004.0,6.06,208,LW,Kitchener Rangers,59,26,33,59,1.0,9,6,6,3,2,44,12,20.3,66.5
-8948,Cameron Reid,NO,18,,2007.0,6.00,175,LD,Kitchener Rangers,65,14,39,53,0.82,38,3,21,3,0,44,24,45.3,80.5
-8945,Tanner Lam,NO,37,,2007.0,5.10,160,RW,Kitchener Rangers,64,13,40,53,0.83,20,2,7,1,0,22,9,17.0,84.0
+8948,Cameron Reid,NO,18,,2007.0,6.00,175,LD,Kitchener Rangers,66,14,39,53,0.8,37,3,21,3,0,44,24,45.3,79.5
+8945,Tanner Lam,NO,37,,2007.0,5.10,160,RW,Kitchener Rangers,65,13,40,53,0.82,20,2,7,1,0,24,9,17.0,82.0
 9276,Jack Pridham,NO,24,,2005.0,6.02,185,RW,Kitchener Rangers,46,26,25,51,1.11,21,10,7,5,1,36,17,33.3,74.5
-8947,Luca Romano,NO,86,,2007.0,5.11,170,C,Kitchener Rangers,64,25,25,50,0.78,6,8,10,3,1,20,18,36.0,73.5
-8801,Luke Ellinas,NO,19,,2006.0,6.01,186,C,Kitchener Rangers,48,20,17,37,0.77,17,6,2,6,1,46,8,21.6,36.5
-8758,Andrew Vermeulen,NO,27,,2006.0,6.02,200,C,Kitchener Rangers,61,14,17,31,0.51,14,3,2,1,1,20,5,16.1,47.5
-9324,Christian Humphreys,NO,48,,2006.0,5.11,170,C,Kitchener Rangers,26,10,21,31,1.19,7,2,7,3,0,8,9,29.0,50.5
-8873,Jakub Chromiak,NO,3,,2005.0,5.11,183,RD,Kitchener Rangers,51,4,27,31,0.61,14,2,12,1,0,18,14,45.2,44.5
-8748,Carson Campbell,NO,8,,2006.0,6.01,180,RD,Kitchener Rangers,63,3,25,28,0.44,33,0,0,0,0,39,0,0.0,37.5
+8947,Luca Romano,NO,86,,2007.0,5.11,170,C,Kitchener Rangers,65,25,25,50,0.77,6,8,10,3,1,20,18,36.0,73.5
+8801,Luke Ellinas,NO,19,,2006.0,6.01,186,C,Kitchener Rangers,49,20,17,37,0.76,16,6,2,6,1,46,8,21.6,35.5
+8758,Andrew Vermeulen,NO,27,,2006.0,6.02,200,C,Kitchener Rangers,62,14,17,31,0.5,14,3,2,1,1,20,5,16.1,47.5
+9324,Christian Humphreys,NO,48,,2006.0,5.11,170,C,Kitchener Rangers,27,10,21,31,1.15,7,2,7,3,0,8,9,29.0,50.5
+8873,Jakub Chromiak,NO,3,,2005.0,5.11,183,RD,Kitchener Rangers,52,4,27,31,0.6,13,2,12,1,0,18,14,45.2,43.5
+8748,Carson Campbell,NO,8,,2006.0,6.01,180,RD,Kitchener Rangers,64,3,25,28,0.44,33,0,0,0,0,41,0,0.0,35.5
 8465,Matthew Andonovski,NO,5,,2005.0,6.02,200,LD,Kitchener Rangers,63,5,15,20,0.32,11,1,4,2,0,126,5,25.0,-82.5
 8450,Chris Grisolia,NO,85,,2005.0,6.00,187,LW,Kitchener Rangers,53,10,9,19,0.36,14,0,0,0,3,26,0,0.0,21.5
-8603,Cameron Mercer,NO,14,,2005.0,6.00,180,C,Kitchener Rangers,60,7,12,19,0.32,14,0,0,1,0,34,0,0.0,12.0
+8603,Cameron Mercer,NO,14,,2005.0,6.00,180,C,Kitchener Rangers,61,7,12,19,0.31,13,0,0,1,0,34,0,0.0,11.0
 9078,Cameron Arquette,YES,11,,2007.0,5.08,170,RW,Kitchener Rangers,50,8,6,14,0.28,-3,0,0,1,0,11,0,0.0,11.0
 9162,Alexander Bilecki,YES,89,,2008.0,6.01,155,LD,Kitchener Rangers,44,3,11,14,0.32,6,0,1,0,0,29,1,7.1,-0.5
 9081,Max Dirracolo,NO,25,,2006.0,6.04,216,LD,Kitchener Rangers,62,3,7,10,0.16,2,0,1,1,0,72,1,10.0,-53.5

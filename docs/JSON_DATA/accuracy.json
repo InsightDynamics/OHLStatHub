@@ -2762,17 +2762,17 @@
         },
         {
             "date": "2025-03-18",
-            "accuracy": 0,
-            "correct_predictions": 0,
-            "total_games": 0,
+            "accuracy": 50.0,
+            "correct_predictions": 1,
+            "total_games": 2,
             "game_details": [
                 {
                     "home_team": "Flint Firebirds",
                     "away_team": "Guelph Storm",
                     "predicted_winner": "Flint Firebirds",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Guelph Storm",
+                    "home_score": 1,
+                    "away_score": 1,
                     "odds": {
                         "Flint Firebirds": "-167",
                         "Guelph Storm": "+134"
@@ -2782,9 +2782,9 @@
                     "home_team": "Kitchener Rangers",
                     "away_team": "London Knights",
                     "predicted_winner": "London Knights",
-                    "actual_winner": "Not Started",
+                    "actual_winner": "London Knights",
                     "home_score": 0,
-                    "away_score": 0,
+                    "away_score": 1,
                     "odds": {
                         "Kitchener Rangers": "+130",
                         "London Knights": "-161"
@@ -2905,13 +2905,13 @@
             ]
         }
     ],
-    "total_accuracy": 67.3,
+    "total_accuracy": 67.2,
     "tossup_accuracy": 50.0,
-    "non_tossup_accuracy": 69.9,
-    "total_correct": 136,
-    "total_games": 202,
+    "non_tossup_accuracy": 69.7,
+    "total_correct": 137,
+    "total_games": 204,
     "tossup_correct": 13,
     "tossup_games": 26,
-    "non_tossup_correct": 123,
-    "non_tossup_games": 176
+    "non_tossup_correct": 124,
+    "non_tossup_games": 178
 }
