@@ -2294,7 +2294,7 @@
         "predicted_winner": "Flint Firebirds",
         "actual_winner": "Guelph Storm",
         "home_score": 1,
-        "away_score": 1,
+        "away_score": 2,
         "odds": {
             "Flint Firebirds": "-167",
             "Guelph Storm": "+134"
@@ -2306,8 +2306,8 @@
         "away_team": "London Knights",
         "predicted_winner": "London Knights",
         "actual_winner": "London Knights",
-        "home_score": 0,
-        "away_score": 1,
+        "home_score": 1,
+        "away_score": 2,
         "odds": {
             "Kitchener Rangers": "+130",
             "London Knights": "-161"
