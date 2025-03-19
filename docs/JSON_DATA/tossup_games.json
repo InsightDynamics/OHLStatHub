@@ -336,5 +336,18 @@
             "Windsor Spitfires": "-101",
             "London Knights": "-123"
         }
+    },
+    {
+        "date": "2025-03-19",
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Brampton Steelheads",
+        "predicted_winner": "Brantford Bulldogs",
+        "actual_winner": "Brampton Steelheads",
+        "home_score": 0,
+        "away_score": 3,
+        "odds": {
+            "Brantford Bulldogs": "-113",
+            "Brampton Steelheads": "-110"
+        }
     }
 ]
