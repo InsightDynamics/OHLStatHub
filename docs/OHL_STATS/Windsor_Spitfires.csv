@@ -1,14 +1,14 @@
 Player_ID,Name,Rookie,JN,BD,BD_Y,Hgt,Wgt,Pos,Team,GP,G,A,PTS,Pts/G,+/-,PPG,PPA,GWG,ENG,PIM,PPP,PPP_Percentage,RNK
-9103,Ilya Protas,NO,37,,2006.0,6.05,200,C,Windsor Spitfires,60,50,69,119,1.98,55,15,21,8,2,34,36,30.3,224.5
+9103,Ilya Protas,NO,37,,2006.0,6.05,200,C,Windsor Spitfires,61,50,69,119,1.95,55,15,21,8,2,34,36,30.3,224.5
 8709,Liam Greentree,NO,66,,2006.0,6.03,216,LW,Windsor Spitfires,64,49,70,119,1.86,55,12,23,5,7,59,35,29.4,199.0
 8711,Noah Morneau,NO,11,,2004.0,6.00,182,C,Windsor Spitfires,66,29,41,70,1.06,28,7,14,5,3,20,21,30.0,127.5
 8401,Ryan Abraham,NO,12,,2004.0,5.08,168,C,Windsor Spitfires,64,27,36,63,0.98,9,10,9,2,1,53,19,30.2,64.0
-8942,Jack Nesbitt,NO,71,,2007.0,6.04,182,C,Windsor Spitfires,63,24,39,63,1.0,13,6,13,4,2,72,19,30.2,47.5
+8942,Jack Nesbitt,NO,71,,2007.0,6.04,182,C,Windsor Spitfires,64,24,39,63,0.98,13,6,13,4,2,72,19,30.2,47.5
 8708,Anthony Cristoforo,NO,44,,2006.0,6.00,180,D,Windsor Spitfires,64,12,48,60,0.94,53,7,19,3,1,45,26,43.3,104.0
-8831,Cole Davis,NO,78,,2006.0,5.10,184,LW,Windsor Spitfires,55,21,23,44,0.8,16,2,3,3,2,46,5,11.4,46.5
+8831,Cole Davis,NO,78,,2006.0,5.10,184,LW,Windsor Spitfires,56,21,23,44,0.79,16,2,3,3,2,46,5,11.4,46.5
 9102,Ethan Belchetz,YES,61,,2008.0,6.05,226,LW,Windsor Spitfires,55,17,21,38,0.69,-3,4,6,2,0,48,10,26.3,14.5
 8907,Carson Woodall,NO,24,,2006.0,5.11,183,D,Windsor Spitfires,65,3,35,38,0.58,3,0,16,0,0,20,16,42.1,41.5
-8710,AJ Spellacy,NO,8,,2006.0,6.03,204,C,Windsor Spitfires,60,17,18,35,0.58,3,3,2,2,2,72,5,14.3,-8.0
+8710,AJ Spellacy,NO,8,,2006.0,6.03,204,C,Windsor Spitfires,61,17,18,35,0.57,3,3,2,2,2,72,5,14.3,-8.0
 8364,Luke McNamara,NO,29,,2005.0,6.03,182,C,Windsor Spitfires,61,12,16,28,0.46,8,2,1,0,0,55,3,10.7,1.0
 8393,Tnias Mathurin,NO,74,,2004.0,6.03,200,D,Windsor Spitfires,49,7,16,23,0.47,30,0,0,2,0,20,0,0.0,48.0
 8602,Wyatt Kennedy,NO,2,,2005.0,6.05,202,D,Windsor Spitfires,63,3,17,20,0.32,-4,0,4,0,0,58,4,20.0,-30.5
@@ -19,5 +19,5 @@ Player_ID,Name,Rookie,JN,BD,BD_Y,Hgt,Wgt,Pos,Team,GP,G,A,PTS,Pts/G,+/-,PPG,PPA,G
 9107,Carter Hicks,YES,58,,2008.0,6.01,166,D,Windsor Spitfires,50,3,11,14,0.28,12,1,0,0,0,23,1,7.1,11.5
 8778,Conor Walton,NO,28,,2006.0,6.05,204,D,Windsor Spitfires,63,3,10,13,0.21,17,0,0,2,1,53,0,0.0,-15.0
 9095,Nathan Gaymes,NO,19,,2006.0,5.11,177,RW,Windsor Spitfires,50,4,6,10,0.2,-4,0,0,0,0,64,0,0.0,-51.0
-8955,Shawn Costello,YES,10,,2007.0,6.02,188,C,Windsor Spitfires,37,0,7,7,0.19,2,0,0,0,0,14,0,0.0,-1.5
+8955,Shawn Costello,YES,10,,2007.0,6.02,188,C,Windsor Spitfires,38,0,7,7,0.18,2,0,0,0,0,14,0,0.0,-1.5
 8768,Tanner Winegard,NO,91,,2005.0,6.06,226,D,Windsor Spitfires,35,1,1,2,0.06,0,0,0,0,0,25,0,0.0,-21.5
