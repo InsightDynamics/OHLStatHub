@@ -99,6 +99,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9075,Jaeden Nelson,Nelson,Jaeden,G,L,6.01,208.0,2007-04-11,Ottawa 67's,East Division,32,1
 8593,Collin MacKenzie,MacKenzie,Collin,G,L,6.00,175.0,2004-11-30,Ottawa 67's,East Division,33,0
 9181,Filip Ekberg,Ekberg,Filip,LW,L,5.10,166.0,2007-04-14,Ottawa 67's,East Division,34,1
+9363,Marcus Sulug,Sulug,Marcus,D,L,6.01,168.0,2008-02-07,Peterborough Petes,East Division,2,0
 9211,Thanasi Marentette,Marentette,Thanasi,D,L,6.00,205.0,2007-01-30,Peterborough Petes,East Division,3,1
 9029,Martin Matejicek,Matejicek,Martin,D,L,6.02,205.0,2005-08-05,Peterborough Petes,East Division,5,0
 8897,Grayden Strohack,Strohack,Grayden,D,L,6.04,198.0,2006-06-09,Peterborough Petes,East Division,6,0
@@ -388,7 +389,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8955,Shawn Costello,Costello,Shawn,C,L,6.02,188.0,2007-01-20,Windsor Spitfires,West Division,10,0
 8711,Noah Morneau,Morneau,Noah,C,L,6.00,182.0,2004-05-07,Windsor Spitfires,West Division,11,0
 8401,Ryan Abraham,Abraham,Ryan,C,L,5.08,168.0,2004-04-05,Windsor Spitfires,West Division,12,0
-9358,Andrew Robinson,Robinson,Andrew,D,L,6.00,185.0,2008-01-08,Windsor Spitfires,West Division,13,1
 9095,Nathan Gaymes,Gaymes,Nathan,RW,R,5.11,177.0,2006-02-03,Windsor Spitfires,West Division,19,0
 9106,Jean-Christoph Lemieux,Lemieux,Jean-Christoph,C,L,5.11,176.0,2008-06-19,Windsor Spitfires,West Division,22,1
 8907,Carson Woodall,Woodall,Carson,D,L,5.11,183.0,2006-05-25,Windsor Spitfires,West Division,24,0
