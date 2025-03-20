@@ -2318,9 +2318,9 @@
         "home_team": "Sudbury Wolves",
         "away_team": "Soo Greyhounds",
         "predicted_winner": "Sudbury Wolves",
-        "actual_winner": "Sudbury Wolves",
-        "home_score": 1,
-        "away_score": 0,
+        "actual_winner": "Soo Greyhounds",
+        "home_score": 2,
+        "away_score": 3,
         "odds": {
             "Sudbury Wolves": "-138",
             "Soo Greyhounds": "+112"

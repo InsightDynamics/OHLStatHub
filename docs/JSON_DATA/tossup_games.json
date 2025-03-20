@@ -343,8 +343,8 @@
         "away_team": "Brampton Steelheads",
         "predicted_winner": "Brantford Bulldogs",
         "actual_winner": "Brampton Steelheads",
-        "home_score": 0,
-        "away_score": 3,
+        "home_score": 2,
+        "away_score": 7,
         "odds": {
             "Brantford Bulldogs": "-113",
             "Brampton Steelheads": "-110"
