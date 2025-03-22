@@ -1,6 +1,6 @@
 Player_ID,Name,Rookie,JN,BD,BD_Y,Hgt,Wgt,Pos,Team,GP,G,A,PTS,Pts/G,+/-,PPG,PPA,GWG,ENG,PIM,PPP,PPP_Percentage,RNK
+8348,Sam Alfano,NO,33,,2004.0,6.04,204,RW,Erie Otters,66,40,43,83,1.26,4,13,9,3,1,55,22,26.5,93.5
 8469,Pano Fimis,NO,98,,2004.0,5.11,183,C,Erie Otters,66,31,52,83,1.26,11,8,22,3,1,32,30,36.1,119.0
-8348,Sam Alfano,NO,33,,2004.0,6.04,204,RW,Erie Otters,66,40,42,82,1.24,4,13,9,3,1,55,22,26.8,92.0
 8785,Malcolm Spence,NO,17,,2006.0,6.02,201,LW,Erie Otters,63,32,39,71,1.13,11,5,8,7,2,57,13,18.3,76.5
 9000,Martin Misiak,NO,90,,2004.0,6.02,200,C,Erie Otters,58,23,33,56,0.97,-16,9,9,5,0,14,18,32.1,65.5
 8537,Dylan Edwards,NO,11,,2005.0,5.08,169,RW,Erie Otters,64,19,35,54,0.84,-4,7,9,3,1,29,16,29.6,57.5
@@ -18,7 +18,7 @@ Player_ID,Name,Rookie,JN,BD,BD_Y,Hgt,Wgt,Pos,Team,GP,G,A,PTS,Pts/G,+/-,PPG,PPA,G
 8524,Nathan Sauder,NO,5,,2005.0,6.01,202,D,Erie Otters,66,1,8,9,0.14,24,0,0,0,1,47,0,0.0,-9.0
 8784,Alex Messier,NO,21,,2005.0,6.03,213,LW,Erie Otters,57,2,4,6,0.11,-8,0,0,0,0,42,0,0.0,-40.0
 9323,Garrett Frazer,NO,8,,2006.0,6.00,180,D,Erie Otters,31,1,5,6,0.19,-15,0,0,0,0,26,0,0.0,-31.5
-8782,Nicholas Holomego,NO,65,,2006.0,6.05,203,D,Erie Otters,46,0,6,6,0.13,-12,0,0,0,0,25,0,0.0,-28.0
+8782,Nicholas Holomego,NO,65,,2006.0,6.05,203,D,Erie Otters,45,0,6,6,0.13,-12,0,0,0,0,25,0,0.0,-28.0
 9132,Oliver Phillips,YES,71,,2007.0,6.06,207,LW,Erie Otters,45,0,4,4,0.09,-5,0,0,0,0,10,0,0.0,-9.0
 9302,Andrew Willis,YES,39,,2008.0,6.00,160,D,Erie Otters,5,0,1,1,0.2,1,0,0,0,0,0,0,0.0,2.5
 9361,Kayden Edwards,NO,100,,,,,LW,Erie Otters,3,0,0,0,0.0,-1,0,0,0,0,2,0,,-3.0
