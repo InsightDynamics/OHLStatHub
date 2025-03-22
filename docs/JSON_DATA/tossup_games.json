@@ -362,5 +362,18 @@
             "Kingston Frontenacs": "-123",
             "Brantford Bulldogs": "-100"
         }
+    },
+    {
+        "date": "2025-03-22",
+        "home_team": "Owen Sound Attack",
+        "away_team": "Guelph Storm",
+        "predicted_winner": "Guelph Storm",
+        "actual_winner": "Guelph Storm",
+        "home_score": 1,
+        "away_score": 1,
+        "odds": {
+            "Owen Sound Attack": "-106",
+            "Guelph Storm": "-117"
+        }
     }
 ]
