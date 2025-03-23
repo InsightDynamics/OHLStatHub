@@ -368,9 +368,9 @@
         "home_team": "Owen Sound Attack",
         "away_team": "Guelph Storm",
         "predicted_winner": "Guelph Storm",
-        "actual_winner": "Guelph Storm",
-        "home_score": 1,
-        "away_score": 1,
+        "actual_winner": "Owen Sound Attack",
+        "home_score": 4,
+        "away_score": 2,
         "odds": {
             "Owen Sound Attack": "-106",
             "Guelph Storm": "-117"
