@@ -425,17 +425,20 @@ Player_ID,Name,Rookie,JN,BD,BD_Y,Hgt,Wgt,Pos,Team,GP,G,A,PTS,Pts/G,+/-,PPG,PPA,G
 9147,Charlie Hotles,YES,74,,2008.0,6.02,180,C,Niagara IceDogs,33,0,2,2,0.06,-6,0,0,0,0,6,0,0.0,-9.0
 8736,Liam Spencer,NO,49,,2006.0,6.05,220,D,London Knights,34,0,2,2,0.06,5,0,0,0,0,38,0,0.0,-30.0
 9362,Greg Najda,NO,47,,2008.0,6.02,196,LW,Sudbury Wolves,2,1,0,1,0.5,0,0,0,0,0,0,0,0.0,2.0
+9345,Marshall McCharles,NO,23,,2006.0,6.01,190,LW,Sudbury Wolves,4,1,0,1,0.25,-2,0,0,0,0,0,0,0.0,0.0
 9329,Ryan White,YES,21,,2007.0,5.09,154,D,Ottawa 67's,7,1,0,1,0.14,1,0,0,0,0,2,0,0.0,1.0
 9274,Jared Harding,YES,24,,2007.0,5.08,162,D,Brampton Steelheads,14,1,0,1,0.07,-1,0,0,0,0,4,0,0.0,-3.0
 9152,Parker Holmes,YES,53,,2007.0,6.04,214,LW,Brantford Bulldogs,21,1,0,1,0.05,-8,0,0,0,0,14,0,0.0,-20.0
 8899,Tate Vader,NO,9,,2006.0,5.11,190,C,Soo Greyhounds,55,1,0,1,0.02,-21,0,0,0,0,22,0,0.0,-41.0
 9364,Jonah McCormick,NO,83,,2008.0,6.02,202,LW,Barrie Colts,1,0,1,1,1.0,0,0,0,0,0,0,0,0.0,1.5
+9322,Jonathan Kapageridis,YES,3,,2007.0,6.00,176,D,North Bay Battalion,4,0,1,1,0.25,-3,0,0,0,0,2,0,0.0,-3.5
 9308,Julian Demiglio,NO,9,,2006.0,5.11,180,C,Brampton Steelheads,5,0,1,1,0.2,1,0,0,0,0,4,0,0.0,-1.5
 9302,Andrew Willis,YES,39,,2008.0,6.00,160,D,Erie Otters,5,0,1,1,0.2,1,0,0,0,0,0,0,0.0,2.5
 9307,André Mondoux,YES,25,,2007.0,6.04,198,D,Kingston Frontenacs,7,0,1,1,0.14,0,0,0,0,0,0,0,0.0,1.5
 9230,Ryland Cunningham,YES,88,,2008.0,5.10,185,LW,Flint Firebirds,8,0,1,1,0.13,-1,0,0,0,0,2,0,0.0,-1.5
 9337,Layne Gallacher,YES,29,,2008.0,6.01,165,C,Brantford Bulldogs,8,0,1,1,0.13,0,0,0,0,0,2,0,0.0,-0.5
 9155,Blake Barnes,YES,72,,2008.0,5.10,165,D,Saginaw Spirit,13,0,1,1,0.08,-5,0,0,0,0,8,0,0.0,-11.5
+9161,Kaden Schneider,YES,21,,2007.0,6.03,181,LD,Kitchener Rangers,13,0,1,1,0.08,-4,0,0,0,0,0,0,0.0,-2.5
 9144,Nick Frasca,YES,78,,2008.0,6.01,185,D,Niagara IceDogs,17,0,1,1,0.06,-3,0,0,0,0,6,0,0.0,-7.5
 9306,Jack Martin,NO,74,,2006.0,5.11,170,RW,Barrie Colts,21,0,1,1,0.05,-2,0,0,0,0,2,0,0.0,-2.5
 9098,Cole Dubowsky,YES,27,,2007.0,6.00,184,LW,Barrie Colts,22,0,1,1,0.05,-8,0,0,0,0,35,0,0.0,-41.5
@@ -446,6 +449,7 @@ Player_ID,Name,Rookie,JN,BD,BD_Y,Hgt,Wgt,Pos,Team,GP,G,A,PTS,Pts/G,+/-,PPG,PPA,G
 9231,Gage Brandon,NO,92,,2008.0,5.11,160,C,Flint Firebirds,2,0,0,0,0.0,-1,0,0,0,0,0,0,,-1.0
 9363,Marcus Sulug,NO,2,,2008.0,6.01,168,D,Peterborough Petes,2,0,0,0,0.0,-1,0,0,0,0,0,0,,-1.0
 9021,Joseph Cadorin,NO,24,,2007.0,5.11,180,LW,Peterborough Petes,3,0,0,0,0.0,-1,0,0,0,0,4,0,,-5.0
+9169,Weston Cameron,YES,17,,2008.0,6.03,170,LW,Kitchener Rangers,4,0,0,0,0.0,-3,0,0,0,0,6,0,,-9.0
 9361,Kayden Edwards,NO,100,,,,,LW,Erie Otters,4,0,0,0,0.0,-1,0,0,0,0,2,0,,-3.0
 9357,Finn Kearns,YES,2,,2008.0,6.03,203,D,Sudbury Wolves,4,0,0,0,0.0,-1,0,0,0,0,2,0,,-3.0
 9351,Kaiden Thatcher,NO,25,,2007.0,6.03,205,D,Peterborough Petes,4,0,0,0,0.0,-5,0,0,0,0,6,0,,-11.0

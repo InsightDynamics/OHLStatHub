@@ -1,4 +1,5 @@
 player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team_name,division,jersey_number,rookie
+9097,Logan Snyder,Snyder,Logan,G,R,6.00,168.0,2007-08-14,Brantford Bulldogs,East Division,1,0
 8433,Lucas Moore,Moore,Lucas,D,R,5.10,193.0,2005-06-07,Brantford Bulldogs,East Division,4,0
 9268,Adam Jiricek,Jiricek,Adam,D,R,6.03,180.0,2006-06-28,Brantford Bulldogs,East Division,5,0
 8798,Tomáš Hamara,Hamara,Tomáš,D,L,6.00,192.0,2004-03-09,Brantford Bulldogs,East Division,9,0
@@ -9,6 +10,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8350,Nick Lardis,Lardis,Nick,RW,L,5.11,185.0,2005-07-08,Brantford Bulldogs,East Division,16,0
 8967,Dylan Tsherna,Tsherna,Dylan,RW,R,6.00,177.0,2007-02-22,Brantford Bulldogs,East Division,18,0
 9151,Nikolas Rossetto,Rossetto,Nikolas,RW,R,5.09,156.0,2008-08-02,Brantford Bulldogs,East Division,19,1
+9366,Luca Diplacido,Diplacido,Luca,D,R,6.01,187.0,2008-09-11,Brantford Bulldogs,East Division,20,0
 9149,Aiden O'Donnell,O'Donnell,Aiden,LW,L,6.01,172.0,2008-01-03,Brantford Bulldogs,East Division,22,1
 8670,Braeden O'Keefe,O'Keefe,Braeden,C,L,5.09,170.0,2005-06-08,Brantford Bulldogs,East Division,23,0
 8377,Thomas Budnick,Budnick,Thomas,D,L,6.01,210.0,2004-02-14,Brantford Bulldogs,East Division,24,0
