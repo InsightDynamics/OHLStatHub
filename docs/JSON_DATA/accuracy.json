@@ -3147,7 +3147,7 @@
                     "away_team": "Flint Firebirds",
                     "predicted_winner": "Saginaw Spirit",
                     "actual_winner": "Saginaw Spirit",
-                    "home_score": 7,
+                    "home_score": 9,
                     "away_score": 2,
                     "odds": {
                         "Saginaw Spirit": "-193",
@@ -3159,8 +3159,8 @@
                     "away_team": "Peterborough Petes",
                     "predicted_winner": "Oshawa Generals",
                     "actual_winner": "Oshawa Generals",
-                    "home_score": 2,
-                    "away_score": 1,
+                    "home_score": 5,
+                    "away_score": 2,
                     "odds": {
                         "Oshawa Generals": "-536",
                         "Peterborough Petes": "+377"
