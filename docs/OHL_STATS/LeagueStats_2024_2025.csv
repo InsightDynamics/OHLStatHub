@@ -243,6 +243,7 @@ Player_ID,Name,Rookie,JN,BD,BD_Y,Hgt,Wgt,Pos,Team,GP,G,A,PTS,Pts/G,+/-,PPG,PPA,G
 9125,Brady T Smith,YES,11,,2008.0,6.00,181,RW,Soo Greyhounds,66,8,12,20,0.3,-14,4,4,1,0,20,8,40.0,0.0
 8681,Noah Van Vliet,NO,5,,2004.0,6.02,222,D,Niagara IceDogs,67,8,12,20,0.3,-5,0,0,2,0,113,0,0.0,-84.0
 8446,Grayson Tiller,NO,8,,2005.0,5.10,193,D,Barrie Colts,67,7,13,20,0.3,-4,0,2,1,0,86,2,10.0,-56.5
+8435,Zakary Lavoie,NO,29,,2004.0,5.11,194,RW,Brantford Bulldogs,35,5,15,20,0.57,-2,1,2,0,0,12,3,15.0,18.5
 9176,Kohyn Eshkawkogan,YES,19,,2008.0,5.10,164,D,Ottawa 67's,52,4,16,20,0.38,-5,1,5,0,0,37,6,30.0,-10.0
 8602,Wyatt Kennedy,NO,2,,2005.0,6.05,202,D,Windsor Spitfires,65,3,17,20,0.31,-4,0,4,0,0,58,4,20.0,-30.5
 9143,Max Crete,YES,23,,2008.0,5.09,182,C,Niagara IceDogs,68,11,8,19,0.28,-27,2,1,1,1,64,3,15.8,-57.0
@@ -387,36 +388,45 @@ Player_ID,Name,Rookie,JN,BD,BD_Y,Hgt,Wgt,Pos,Team,GP,G,A,PTS,Pts/G,+/-,PPG,PPA,G
 9120,Jack Bodin,NO,9,,2006.0,6.02,220,D,Sarnia Sting,41,0,6,6,0.15,-31,0,0,0,0,32,0,0.0,-54.0
 8718,Brayden Turley,NO,7,,2006.0,6.01,195,D,North Bay Battalion,57,0,6,6,0.11,-17,0,0,0,0,70,0,0.0,-78.0
 9063,Grant Spada,YES,21,,2007.0,6.04,185,D,Guelph Storm,58,0,6,6,0.1,-29,0,0,0,0,85,0,0.0,-105.0
+8727,Tyler Graham,NO,28,,2006.0,5.11,190,LW,Oshawa Generals,25,4,1,5,0.2,-8,2,0,1,0,4,2,40.0,-2.5
 9327,Landon Wright,NO,36,,2006.0,5.11,181,RW,Kingston Frontenacs,25,3,2,5,0.2,-3,0,1,0,0,4,1,20.0,2.0
 9194,Easton Mikus,YES,13,,2007.0,6.00,183,C,Owen Sound Attack,46,3,2,5,0.11,-17,0,0,0,0,23,0,0.0,-31.0
 9249,Tayjon Street,NO,73,,2005.0,6.01,205,LW,Sudbury Wolves,62,3,2,5,0.08,-13,1,1,0,0,71,2,40.0,-75.0
 8737,William Eggleton,NO,18,,2006.0,5.11,180,LW,Brampton Steelheads,31,2,3,5,0.16,0,0,0,0,0,15,0,0.0,-6.5
 8981,PJ Fagan II,YES,67,,2007.0,6.01,205,D,London Knights,44,2,3,5,0.11,6,0,0,1,0,39,0,0.0,-24.5
 8929,Max Anderson,NO,22,,2007.0,5.10,160,C,Flint Firebirds,47,2,3,5,0.11,-1,0,0,0,0,33,0,0.0,-25.5
+9309,Shaan Kingwell,YES,12,,2007.0,5.11,168,LW,Ottawa 67's,11,1,4,5,0.45,3,0,0,0,0,0,0,0.0,11.0
+8354,Justin DeZoete,NO,11,,2004.0,6.00.,196,LW,Soo Greyhounds,17,1,4,5,0.29,3,1,1,0,0,0,2,40.0,11.0
 9319,Hayden Barch,YES,6,,2007.0,6.01,190,D,Saginaw Spirit,27,1,4,5,0.19,-1,0,0,0,0,29,0,0.0,-22.0
 8930,Jack D'Arcy,YES,25,,2007.0,5.10,162,D,Flint Firebirds,46,1,4,5,0.11,-1,0,0,0,0,14,0,0.0,-7.0
 9132,Oliver Phillips,YES,71,,2007.0,6.06,207,LW,Erie Otters,47,1,4,5,0.11,-2,0,0,1,0,10,0,0.0,-4.0
 9049,Trevor O’Dell,NO,4,,2006.0,6.03,172,D,Sudbury Wolves,58,0,5,5,0.09,-8,0,0,0,0,29,0,0.0,-29.5
 9166,Evan Headrick,YES,81,,2008.0,5.07,150,RW,Kitchener Rangers,19,3,1,4,0.21,0,0,1,1,0,0,1,25.0,7.5
 9033,Zach Houben,YES,25,,2007.0,6.05,207,LW,Ottawa 67's,51,3,1,4,0.08,-22,0,0,0,0,35,0,0.0,-49.5
+8772,Lincoln Moore,NO,18,,2005.0,6.02,215,RW,Saginaw Spirit,13,2,2,4,0.31,2,1,1,0,0,12,2,50.0,-3.0
 8944,Matheas Stark,NO,28,,2007.0,6.00,161,LW,Kitchener Rangers,13,2,2,4,0.31,-9,0,1,0,0,2,1,25.0,-4.0
 9305,Anthony Figliomeni,NO,8,,2008.0,5.11,195,RW,Oshawa Generals,15,2,2,4,0.27,2,0,0,1,0,14,0,0.0,-5.0
 9111,Cohen Bidgood,YES,34,,2007.0,6.00,185,RW,London Knights,19,2,2,4,0.21,-5,1,0,0,0,30,1,25.0,-28.0
 9173,Lukas Moore,YES,4,,2007.0,6.02,195,D,Kingston Frontenacs,32,2,2,4,0.13,0,0,0,0,0,6,0,0.0,1.0
 8988,Zach Wilson,YES,22,,2007.0,6.06,187,D,North Bay Battalion,47,2,2,4,0.09,-11,0,0,0,0,24,0,0.0,-28.0
+9236,Natan Teshome,NO,26,,2006.0,6.00,171,LW,North Bay Battalion,22,1,3,4,0.18,-8,0,0,0,0,11,0,0.0,-12.5
 9032,Gabriel Smith,YES,5,,2007.0,6.03,198,D,Owen Sound Attack,64,1,3,4,0.06,-1,0,0,0,0,37,0,0.0,-31.5
 8827,Braydon Bruce,NO,20,,2006.0,6.05,212,D,Sudbury Wolves,24,0,4,4,0.17,-1,0,0,0,0,6,0,0.0,-1.0
 9037,Justin Handsor,YES,16,,2007.0,6.01,196,D,Barrie Colts,50,0,4,4,0.08,-9,0,0,0,0,16,0,0.0,-19.0
 8975,Kaleb Dietsch,YES,4,,2007.0,6.03,191,D,Ottawa 67's,61,0,4,4,0.07,-6,0,0,0,0,36,0,0.0,-36.0
+9217,Dawson Morris,NO,3,,2008.0,6.00,184,D,Guelph Storm,10,2,1,3,0.3,-2,0,0,0,0,0,0,0.0,3.5
 9159,Sam Johnston,YES,14,,2007.0,6.04,187,RW,Guelph Storm,23,2,1,3,0.13,-1,0,0,0,0,12,0,0.0,-7.5
 8889,Carson Hall,NO,10,,2006.0,6.02,190,LW,Sarnia Sting,35,2,1,3,0.09,-10,0,0,0,0,31,0,0.0,-35.5
 9093,Niko Krmpotic,YES,10,,2007.0,6.01,191,D,Brantford Bulldogs,44,2,1,3,0.07,-1,0,0,0,0,26,0,0.0,-21.5
 9300,Kieren Dervin,YES,10,,2007.0,6.02,181,C,Kingston Frontenacs,10,1,2,3,0.3,2,0,0,0,0,6,0,0.0,1.0
 9335,Ethan Armstrong,YES,23,,2007.0,6.02,172,D,Barrie Colts,14,1,2,3,0.21,-1,0,0,0,0,2,0,0.0,2.0
+9224,Sam Bowness,NO,21,,2005.0,6.01.,194,LW,Soo Greyhounds,19,1,2,3,0.16,-10,0,0,0,0,21,0,0.0,-26.0
 9216,Jimmy Sutherland,YES,29,,2007.0,5.09,160,LW,Guelph Storm,23,1,2,3,0.13,-9,0,0,0,0,6,0,0.0,-10.0
+8728,Lucas Rodriguez,NO,26,,2006.0,6.02,192,D,Oshawa Generals,31,1,2,3,0.1,4,0,0,0,0,14,0,0.0,-5.0
 8980,Kimi Körbler,NO,24,,2006.0,5.11,166,RW,Ottawa 67's,39,1,2,3,0.08,-15,0,0,0,0,2,0,0.0,-12.0
 8923,Nathan Omeri,NO,27,,2006.0,5.11,175,D,Sarnia Sting,40,1,2,3,0.08,1,0,1,1,0,12,1,33.3,-6.0
 9119,Kaden Sienko,YES,23,,2008.0,6.01,185,D,Saginaw Spirit,18,0,3,3,0.17,4,0,0,0,0,17,0,0.0,-8.5
+8914,Dylan Richter,NO,10,,2006.0,5.08,185,C,North Bay Battalion,22,0,3,3,0.14,3,0,0,0,0,4,0,0.0,3.5
 8946,Andrew MacNiel,YES,43,,2007.0,6.02,170,RD,Kitchener Rangers,33,0,3,3,0.09,6,0,0,0,0,25,0,0.0,-14.5
 9096,Tyler O'Toole,NO,23,,2006.0,6.01,198,RW,Oshawa Generals,36,2,0,2,0.06,-4,0,0,0,0,78,0,0.0,-78.0
 8670,Braeden O'Keefe,NO,23,,2005.0,5.09,170,C,Brantford Bulldogs,6,1,1,2,0.33,-2,0,0,0,0,0,0,0.0,1.5
@@ -425,27 +435,42 @@ Player_ID,Name,Rookie,JN,BD,BD_Y,Hgt,Wgt,Pos,Team,GP,G,A,PTS,Pts/G,+/-,PPG,PPA,G
 8768,Tanner Winegard,NO,91,,2005.0,6.06,226,D,Windsor Spitfires,37,1,1,2,0.05,0,0,0,0,0,25,0,0.0,-21.5
 9366,Luca Diplacido,NO,20,,2008.0,6.01,187,D,Brantford Bulldogs,1,0,2,2,2.0,3,0,0,0,0,0,0,0.0,6.0
 9333,Jaxon Cover,YES,24,,2008.0,6.01,185,LW,London Knights,3,0,2,2,0.67,3,0,0,0,0,2,0,0.0,4.0
+9277,Lucas Teixeira,YES,27,,2007.0,6.01,185,C,Guelph Storm,6,0,2,2,0.33,0,0,0,0,0,0,0,0.0,3.0
+9127,Brady Blaseg,YES,16,,2008.0,6.03,196,D,Oshawa Generals,9,0,2,2,0.22,1,0,0,0,0,2,0,0.0,2.0
 9337,Layne Gallacher,YES,29,,2008.0,6.01,165,C,Brantford Bulldogs,9,0,2,2,0.22,3,0,0,0,0,2,0,0.0,4.0
+9197,Trent Gates,YES,7,,2007.0,5.11,164,LW,Owen Sound Attack,12,0,2,2,0.17,-4,0,0,0,0,0,0,0.0,-1.0
 9318,Eric Frossard,YES,3,,2008.0,6.04,195,D,Guelph Storm,30,0,2,2,0.07,-8,0,0,0,0,15,0,0.0,-20.0
 9293,Simon Wang,YES,7,,2007.0,6.06,210,D,Oshawa Generals,32,0,2,2,0.06,3,0,0,0,0,19,0,0.0,-13.0
 9147,Charlie Hotles,YES,74,,2008.0,6.02,180,C,Niagara IceDogs,33,0,2,2,0.06,-6,0,0,0,0,6,0,0.0,-9.0
 8736,Liam Spencer,NO,49,,2006.0,6.05,220,D,London Knights,35,0,2,2,0.06,4,0,0,0,0,38,0,0.0,-31.0
 9036,Brayden Velliaris,NO,18,,2005.0,6.04,220,D,Soo Greyhounds,35,0,2,2,0.06,-6,0,0,0,0,43,0,0.0,-46.0
+9362,Greg Najda,NO,47,,2008.0,6.02,196,LW,Sudbury Wolves,3,1,0,1,0.33,0,0,0,0,0,0,0,0.0,2.0
+9229,Xavier Tessier,YES,81,,2008.0,6.01,185,LW,Flint Firebirds,4,1,0,1,0.25,1,0,0,0,0,0,0,0.0,3.0
 9361,Kayden Edwards,NO,100,,,,,LW,Erie Otters,5,1,0,1,0.2,-1,0,0,0,0,2,0,0.0,-1.0
 9345,Marshall McCharles,NO,23,,2006.0,6.01,190,LW,Sudbury Wolves,5,1,0,1,0.2,-2,0,0,0,0,0,0,0.0,0.0
 9083,Brendan Gerber,YES,89,,2007.0,5.09,179,LW,London Knights,6,1,0,1,0.17,-1,0,0,0,0,0,0,0.0,1.0
 9329,Ryan White,YES,21,,2007.0,5.09,154,D,Ottawa 67's,8,1,0,1,0.13,1,0,0,0,0,2,0,0.0,1.0
+9254,Camerin Cardona,NO,27,,2006.0,5.11,170,RW,Soo Greyhounds,13,1,0,1,0.08,-2,0,0,1,0,2,0,0.0,-2.0
 9274,Jared Harding,YES,24,,2007.0,5.08,162,D,Brampton Steelheads,14,1,0,1,0.07,-1,0,0,0,0,4,0,0.0,-3.0
 9152,Parker Holmes,YES,53,,2007.0,6.04,214,LW,Brantford Bulldogs,21,1,0,1,0.05,-8,0,0,0,0,14,0,0.0,-20.0
 8899,Tate Vader,NO,9,,2006.0,5.11,190,C,Soo Greyhounds,56,1,0,1,0.02,-21,0,0,0,0,22,0,0.0,-41.0
 9182,Jonah McCormick,YES,83,,2008.0,6.02,200,LW,Barrie Colts,1,0,1,1,1.0,0,0,0,0,0,0,0,0.0,1.5
+9286,Kimani Eccleston,YES,47,,2007.0,6.03,184,LW,Sudbury Wolves,2,0,1,1,0.5,1,0,0,0,0,0,0,0.0,2.5
+9341,Bodhi Ryan,YES,2,,2008.0,5.11,146,C,Sudbury Wolves,3,0,1,1,0.33,0,0,0,0,0,2,0,0.0,-0.5
+9278,Daniel Berehowsky,NO,16,,2006.0,5.10,180,C,Guelph Storm,5,0,1,1,0.2,-3,0,0,0,0,0,0,0.0,-1.5
 9308,Julian Demiglio,NO,9,,2006.0,5.11,180,C,Brampton Steelheads,5,0,1,1,0.2,1,0,0,0,0,4,0,0.0,-1.5
 9322,Jonathan Kapageridis,YES,3,,2007.0,6.00,176,D,North Bay Battalion,5,0,1,1,0.2,-2,0,0,0,0,2,0,0.0,-2.5
 9302,Andrew Willis,YES,39,,2008.0,6.00,160,D,Erie Otters,5,0,1,1,0.2,1,0,0,0,0,0,0,0.0,2.5
+9271,Ryder Simpson,YES,28,,2008.0,6.03,190,LW,Sarnia Sting,6,0,1,1,0.17,-6,0,0,0,0,0,0,0.0,-4.5
+9201,Noah Kohan,NO,18,,2005.0,5.10,160,LW,Sudbury Wolves,7,0,1,1,0.14,-1,0,0,0,0,10,0,0.0,-9.5
+9039,Fraser McDonell,NO,6,,2006.0,6.07,215,D,Oshawa Generals,7,0,1,1,0.14,-3,0,0,0,0,0,0,0.0,-1.5
+8633,Tai York,NO,23,,2004.0,6.01,185,LW,Barrie Colts,7,0,1,1,0.14,-1,0,0,0,0,0,0,0.0,0.5
 9307,André Mondoux,YES,25,,2007.0,6.04,198,D,Kingston Frontenacs,8,0,1,1,0.13,0,0,0,0,0,0,0,0.0,1.5
 9230,Ryland Cunningham,YES,88,,2008.0,5.10,185,LW,Flint Firebirds,9,0,1,1,0.11,-2,0,0,0,0,4,0,0.0,-4.5
 9155,Blake Barnes,YES,72,,2008.0,5.10,165,D,Saginaw Spirit,13,0,1,1,0.08,-5,0,0,0,0,8,0,0.0,-11.5
+8882,William Haley,NO,17,,2005.0,6.00,177,D,Guelph Storm,13,0,1,1,0.08,2,0,0,0,0,12,0,0.0,-8.5
 9161,Kaden Schneider,YES,21,,2007.0,6.03,181,LD,Kitchener Rangers,14,0,1,1,0.07,-5,0,0,0,0,0,0,0.0,-3.5
+9185,Sam Black,YES,17,,2007.0,6.01,182,LW,Barrie Colts,16,0,1,1,0.06,-3,0,0,0,0,4,0,0.0,-5.5
 9144,Nick Frasca,YES,78,,2008.0,6.01,185,D,Niagara IceDogs,17,0,1,1,0.06,-3,0,0,0,0,6,0,0.0,-7.5
 9306,Jack Martin,NO,74,,2006.0,5.11,170,RW,Barrie Colts,21,0,1,1,0.05,-2,0,0,0,0,2,0,0.0,-2.5
 9098,Cole Dubowsky,YES,27,,2007.0,6.00,184,LW,Barrie Colts,22,0,1,1,0.05,-8,0,0,0,0,35,0,0.0,-41.5
@@ -453,21 +478,66 @@ Player_ID,Name,Rookie,JN,BD,BD_Y,Hgt,Wgt,Pos,Team,GP,G,A,PTS,Pts/G,+/-,PPG,PPA,G
 9211,Thanasi Marentette,YES,3,,2007.0,6.00,205,D,Peterborough Petes,28,0,1,1,0.04,-6,0,0,0,0,33,0,0.0,-37.5
 9010,Darcy Dewachter,YES,24,,2007.0,5.11,183,D,Niagara IceDogs,32,0,1,1,0.03,0,0,0,0,0,10,0,0.0,-8.5
 9170,Avry Anstis,YES,9,,2008.0,6.00,165,RW,Kitchener Rangers,1,0,0,0,0.0,0,0,0,0,0,0,0,,0.0
+9326,Joey Brehmer,NO,47,,2006.0,6.01,205,LW,Sudbury Wolves,1,0,0,0,0.0,0,0,0,0,0,0,0,,0.0
+9105,Max Brocklehurst,NO,42,,2008.0,5.09,155,RW,Windsor Spitfires,1,0,0,0,0.0,0,0,0,0,0,0,0,,0.0
+9365,Jayden Connors,NO,5,,2007.0,5.09,179,D,Sudbury Wolves,1,0,0,0,0.0,0,0,0,0,0,0,0,,0.0
 9367,Brody Cook,NO,27,,2007.0,5.11,180,RW,London Knights,1,0,0,0,0.0,-2,0,0,0,0,0,0,,-2.0
+9133,Diego Da Silva,NO,9,,2005.0,5.11,208,LW,Erie Otters,1,0,0,0,0.0,0,0,0,0,0,5,0,,-5.0
+9343,Ethan Facchina,NO,28,,2006.0,6.00,185,C,Brantford Bulldogs,1,0,0,0,0.0,1,0,0,0,0,0,0,,1.0
+9054,Declan Gallivan,YES,10,,2007.0,6.01,194,D,North Bay Battalion,1,0,0,0,0.0,-1,0,0,0,0,0,0,,-1.0
 9368,Eddie Hickson,NO,10,,,5.10,180,C,London Knights,1,0,0,0,0.0,-1,0,0,0,0,0,0,,-1.0
+9050,Evan Hjelholt,NO,7,,2006.0,6.03,209,D,Windsor Spitfires,1,0,0,0,0.0,1,0,0,0,0,0,0,,1.0
+9115,Caleb Mitchell,NO,77,,2008.0,5.11,165,D,London Knights,1,0,0,0,0.0,-1,0,0,0,0,0,0,,-1.0
+9294,Sam Rivet,YES,8,,2008.0,6.00,181,D,North Bay Battalion,1,0,0,0,0.0,0,0,0,0,0,0,0,,0.0
+9290,Adam Smeeton,YES,12,,2007.0,6.02,170,C,North Bay Battalion,1,0,0,0,0.0,0,0,0,0,0,0,0,,0.0
+9188,Teague Vader,YES,6,,2007.0,6.00,185,D,Barrie Colts,1,0,0,0,0.0,0,0,0,0,0,0,0,,0.0
+9261,Mason Walker,YES,16,,2008.0,5.09,148,LW,Sudbury Wolves,1,0,0,0,0.0,0,0,0,0,0,0,0,,0.0
+9360,Clarence Allain,YES,17,,2008.0,5.10,174,LW,Ottawa 67's,2,0,0,0,0.0,0,0,0,0,0,0,0,,0.0
+9177,Noah Barton,NO,7,,2008.0,6.02,183,D,Barrie Colts,2,0,0,0,0.0,-1,0,0,0,0,0,0,,-1.0
+9359,Raiden Doxtator,YES,24,,2008.0,5.11,161,LW,Peterborough Petes,2,0,0,0,0.0,0,0,0,0,0,0,0,,0.0
+9071,Spencer Horgan,NO,2,,2005.0,5.11,165,D,Sudbury Wolves,2,0,0,0,0.0,-2,0,0,0,0,0,0,,-2.0
+8632,Taos Jordan,NO,24,,2004.0,5.11,190,D,Owen Sound Attack,2,0,0,0,0.0,-3,0,0,0,0,0,0,,-3.0
+8941,Michael Lavigne,NO,3,,2007.0,6.05,213,D,Windsor Spitfires,2,0,0,0,0.0,0,0,0,0,0,0,0,,0.0
+9267,Nathan McHattie,YES,5,,2007.0,6.03,190,D,Guelph Storm,2,0,0,0,0.0,-3,0,0,0,0,2,0,,-5.0
+8898,Alec Stewart,NO,25,,2005.0,6.00,186,C,Windsor Spitfires,2,0,0,0,0.0,-1,0,0,0,0,2,0,,-3.0
+9352,Dylan Turcotte,NO,21,,2007.0,6.01,164,LW,Peterborough Petes,2,0,0,0,0.0,-1,0,0,0,0,0,0,,-1.0
+9315,Oliver Turner,YES,3,,2007.0,6.05,194,D,Erie Otters,2,0,0,0,0.0,-1,0,0,0,0,0,0,,-1.0
+9202,Grant Booth,YES,41,,2007.0,5.09,180,LW,Sudbury Wolves,3,0,0,0,0.0,2,0,0,0,0,0,0,,2.0
 9231,Gage Brandon,NO,92,,2008.0,5.11,160,C,Flint Firebirds,3,0,0,0,0.0,0,0,0,0,0,0,0,,0.0
+9280,Dallys Hibbert,NO,28,,2006.0,6.02,178,D,Sarnia Sting,3,0,0,0,0.0,2,0,0,0,0,0,0,,2.0
+9347,Candon O'Neill,NO,10,,2007.0,6.00,190,D,Saginaw Spirit,3,0,0,0,0.0,4,0,0,0,0,0,0,,4.0
+8834,Tyson Rismond,NO,17,,2006.0,6.02,187,D,North Bay Battalion,3,0,0,0,0.0,1,0,0,0,0,0,0,,1.0
+9204,Brady Smith,NO,3,,2008.0,6.02,190,D,Sudbury Wolves,3,0,0,0,0.0,2,0,0,0,0,0,0,,2.0
 9363,Marcus Sulug,NO,2,,2008.0,6.01,168,D,Peterborough Petes,3,0,0,0,0.0,-1,0,0,0,0,0,0,,-1.0
 9021,Joseph Cadorin,NO,24,,2007.0,5.11,180,LW,Peterborough Petes,4,0,0,0,0.0,-2,0,0,0,0,4,0,,-6.0
+9350,Calum Hartnell,NO,4,,2007.0,5.08,155,D,Peterborough Petes,4,0,0,0,0.0,-4,0,0,0,0,0,0,,-4.0
+9141,Camden McCuaig,YES,20,,2008.0,6.02,174,LW,Kingston Frontenacs,4,0,0,0,0.0,1,0,0,0,0,0,0,,1.0
+9072,Nolan Newton,NO,61,,2006.0,5.09,165,RW,Barrie Colts,4,0,0,0,0.0,-2,0,0,0,0,0,0,,-2.0
+9358,Andrew Robinson,YES,13,,2008.0,6.00,185,D,Windsor Spitfires,4,0,0,0,0.0,-2,0,0,0,0,0,0,,-2.0
 9351,Kaiden Thatcher,NO,25,,2007.0,6.03,205,D,Peterborough Petes,4,0,0,0,0.0,-5,0,0,0,0,6,0,,-11.0
 9355,Hudson Wozney,YES,99,,2008.0,6.03,194,RW,Erie Otters,4,0,0,0,0.0,-1,0,0,0,0,0,0,,-1.0
+9321,Spencer Bowes,YES,11,,2007.0,5.11,160,C,Ottawa 67's,5,0,0,0,0.0,0,0,0,0,0,2,0,,-2.0
+9310,Ryder Cali,YES,17,,2008.0,6.02,201,C,North Bay Battalion,5,0,0,0,0.0,-3,0,0,0,0,2,0,,-5.0
 9169,Weston Cameron,YES,17,,2008.0,6.03,170,LW,Kitchener Rangers,5,0,0,0,0.0,-3,0,0,0,0,8,0,,-11.0
+9154,Liam Campbell,YES,28,,2008.0,5.10,160,LW,Saginaw Spirit,5,0,0,0,0.0,-1,0,0,0,0,0,0,,-1.0
+9320,Tommy Karmiris,NO,74,,2006.0,6.00,185,LW,Brantford Bulldogs,5,0,0,0,0.0,-1,0,0,0,0,2,0,,-3.0
 9357,Finn Kearns,YES,2,,2008.0,6.03,203,D,Sudbury Wolves,5,0,0,0,0.0,-2,0,0,0,0,2,0,,-4.0
+8936,Jonathon Pylypuik,NO,18,,2006.0,6.00,163,LW,Oshawa Generals,5,0,0,0,0.0,0,0,0,0,0,5,0,,-5.0
+9272,Mason Roy,YES,3,,2008.0,6.02,178,D,Owen Sound Attack,5,0,0,0,0.0,-4,0,0,0,0,2,0,,-6.0
+9150,Patrick Babin,YES,17,,2008.0,5.11,168,D,Brantford Bulldogs,6,0,0,0,0.0,-1,0,0,0,0,0,0,,-1.0
 9241,Christian Colosimo,YES,73,,2008.0,6.05,215,D,Flint Firebirds,6,0,0,0,0.0,-2,0,0,0,0,4,0,,-6.0
 9356,Luis Sturgeon,NO,20,,2008.0,6.03,194,D,Peterborough Petes,6,0,0,0,0.0,-3,0,0,0,0,2,0,,-5.0
+9287,Trevor Theuer,YES,26,,2008.0,5.11,180,LW,Saginaw Spirit,6,0,0,0,0.0,-3,0,0,0,0,0,0,,-3.0
 9243,Brendan Cooke,NO,86,,2007.0,5.10,170,LW,Flint Firebirds,7,0,0,0,0.0,-1,0,0,0,0,0,0,,-1.0
 9288,Michael D'Alessio,YES,7,,2008.0,6.01,170,D,Erie Otters,7,0,0,0,0.0,-3,0,0,0,0,2,0,,-5.0
+9122,Chase Gaughan,YES,71,,2008.0,6.02,167,RW,Sarnia Sting,7,0,0,0,0.0,0,0,0,0,0,0,0,,0.0
 8951,Luke Dragusica,NO,23,,2007.0,6.01,178,D,Brampton Steelheads,8,0,0,0,0.0,1,0,0,0,0,4,0,,-3.0
 9311,Jacob Xu,YES,96,,2008.0,6.02,181,LD,Kitchener Rangers,8,0,0,0,0.0,-2,0,0,0,0,0,0,,-2.0
+9266,Jackson Young,NO,6,,2005.0,6.05,190,D,Guelph Storm,8,0,0,0,0.0,-6,0,0,0,0,0,0,,-6.0
+9328,Theo Avila,YES,6,,2007.0,5.11,176,D,Ottawa 67's,10,0,0,0,0.0,0,0,0,0,0,0,0,,0.0
+8483,Daks Klinkhammer,NO,48,,2005.0,6.01,186,LW,Sudbury Wolves,12,0,0,0,0.0,-4,0,0,0,0,5,0,,-9.0
+9199,Henry Doucet,YES,5,,2008.0,6.00,176,LW,Sudbury Wolves,13,0,0,0,0.0,-2,0,0,0,0,6,0,,-8.0
 9100,Keagan Knight,YES,23,,2007.0,6.01,197,D,Erie Otters,17,0,0,0,0.0,-3,0,0,0,0,8,0,,-11.0
 9184,Owen Cartwright,YES,44,,2008.0,6.01,172,D,Brampton Steelheads,20,0,0,0,0.0,3,0,0,0,0,12,0,,-9.0
 9239,Ryan Chamberlain,YES,22,,2008.0,6.02,175,LW,Sarnia Sting,20,0,0,0,0.0,-6,0,0,0,0,4,0,,-10.0
+9092,Matthew Andersen,YES,21,,2007.0,6.00,174,D,Sarnia Sting,22,0,0,0,0.0,-7,0,0,0,0,37,0,,-44.0

@@ -10,10 +10,13 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8879,Jacob Julien,Julien,Jacob,C,L,6.04,190.0,2004-09-12,London Knights,Midwest Division,13,0
 9044,Evan Van Gorp,Van Gorp,Evan,LW,L,5.10,165.0,2006-05-18,London Knights,Midwest Division,14,0
 8566,Cam Allen,Allen,Cam,D,R,6.00,197.0,2005-01-07,London Knights,Midwest Division,17,0
+8982,Blake Arrowsmith,Arrowsmith,Blake,RW,R,6.01,186.0,2007-04-17,London Knights,Midwest Division,18,1
 8712,Sam O'Reilly,O'Reilly,Sam,C,R,6.01,190.0,2006-03-30,London Knights,Midwest Division,23,0
 9333,Jaxon Cover,Cover,Jaxon,LW,L,6.01,185.0,2008-02-13,London Knights,Midwest Division,24,1
+9064,Noah Jenken,Jenken,Noah,D,L,6.03,190.0,2007-03-08,London Knights,Midwest Division,24,1
 9110,Logan Hawery,Hawery,Logan,C,R,5.10,170.0,2008-03-15,London Knights,Midwest Division,26,1
 9367,Brody Cook,Cook,Brody,RW,R,5.11,180.0,2007-04-04,London Knights,Midwest Division,27,0
+8472,Alec Leonard,Leonard,Alec,D,R,5.11,174.0,2004-05-13,London Knights,Midwest Division,27,0
 9264,Austin Elliott,Elliott,Austin,G,L,6.01,180.0,2004-05-14,London Knights,Midwest Division,31,0
 9111,Cohen Bidgood,Bidgood,Cohen,RW,R,6.00,185.0,2007-01-11,London Knights,Midwest Division,34,1
 9109,Jesse Nurmi,Nurmi,Jesse,LW,L,6.00,180.0,2005-03-07,London Knights,Midwest Division,44,0
@@ -30,3 +33,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9083,Brendan Gerber,Gerber,Brendan,LW,L,5.09,179.0,2007-02-24,London Knights,Midwest Division,89,1
 8422,Landon Sim,Sim,Landon,LW,L,5.11,185.0,2004-07-17,London Knights,Midwest Division,90,0
 9242,Noah Read,Read,Noah,LW,L,6.00,170.0,2007-01-06,London Knights,Midwest Division,92,1
+8655,Ruslan Gazizov,Gazizov,Ruslan,RW,L,5.11,185.0,2004-01-21,London Knights,Midwest Division,70,0
+9115,Caleb Mitchell,Mitchell,Caleb,D,L,5.11,165.0,2008-03-17,London Knights,Midwest Division,77,0
+8695,Owen Willmore,Willmore,Owen,G,L,6.03,180.0,2004-12-14,London Knights,Midwest Division,80,0
