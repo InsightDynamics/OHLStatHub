@@ -3167,6 +3167,50 @@
                     }
                 }
             ]
+        },
+        {
+            "date": "2025-03-27",
+            "accuracy": 0,
+            "correct_predictions": 0,
+            "total_games": 0,
+            "game_details": [
+                {
+                    "home_team": "Barrie Colts",
+                    "away_team": "Niagara IceDogs",
+                    "predicted_winner": "Barrie Colts",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0,
+                    "odds": {
+                        "Barrie Colts": "-144",
+                        "Niagara IceDogs": "+117"
+                    }
+                },
+                {
+                    "home_team": "Windsor Spitfires",
+                    "away_team": "Soo Greyhounds",
+                    "predicted_winner": "Windsor Spitfires",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0,
+                    "odds": {
+                        "Windsor Spitfires": "-218",
+                        "Soo Greyhounds": "+173"
+                    }
+                },
+                {
+                    "home_team": "Saginaw Spirit",
+                    "away_team": "Erie Otters",
+                    "predicted_winner": "Saginaw Spirit",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0,
+                    "odds": {
+                        "Saginaw Spirit": "-164",
+                        "Erie Otters": "+132"
+                    }
+                }
+            ]
         }
     ],
     "total_accuracy": 63.8,
