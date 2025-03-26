@@ -1,0 +1,72 @@
+[
+    {
+        "home_team": "Brantford Bulldogs",
+        "away_team": "North Bay Battalion",
+        "winner": "Brantford Bulldogs",
+        "probabilities": {
+            "Brantford Bulldogs": "71.32%",
+            "North Bay Battalion": "28.68%"
+        },
+        "odds": {
+            "Brantford Bulldogs": "-301",
+            "North Bay Battalion": "+231"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Kingston Frontenacs",
+        "away_team": "Sudbury Wolves",
+        "winner": "Kingston Frontenacs",
+        "probabilities": {
+            "Kingston Frontenacs": "61.87%",
+            "Sudbury Wolves": "38.13%"
+        },
+        "odds": {
+            "Kingston Frontenacs": "-187",
+            "Sudbury Wolves": "+149"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "London Knights",
+        "away_team": "Owen Sound Attack",
+        "winner": "London Knights",
+        "probabilities": {
+            "London Knights": "72.36%",
+            "Owen Sound Attack": "27.64%"
+        },
+        "odds": {
+            "London Knights": "-320",
+            "Owen Sound Attack": "+244"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Kitchener Rangers",
+        "away_team": "Flint Firebirds",
+        "winner": "Kitchener Rangers",
+        "probabilities": {
+            "Kitchener Rangers": "57.72%",
+            "Flint Firebirds": "42.28%"
+        },
+        "odds": {
+            "Kitchener Rangers": "-155",
+            "Flint Firebirds": "+125"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Oshawa Generals",
+        "away_team": "Brampton Steelheads",
+        "winner": "Brampton Steelheads",
+        "probabilities": {
+            "Oshawa Generals": "44.41%",
+            "Brampton Steelheads": "55.59%"
+        },
+        "odds": {
+            "Oshawa Generals": "+114",
+            "Brampton Steelheads": "-141"
+        },
+        "game_time": "7:05 pm"
+    }
+]
