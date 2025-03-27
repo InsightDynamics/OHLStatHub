@@ -2637,5 +2637,31 @@
             "Oshawa Generals": "-536",
             "Peterborough Petes": "+377"
         }
+    },
+    {
+        "date": "2025-03-27",
+        "home_team": "Barrie Colts",
+        "away_team": "Niagara IceDogs",
+        "predicted_winner": "Barrie Colts",
+        "actual_winner": "Niagara IceDogs",
+        "home_score": 1,
+        "away_score": 1,
+        "odds": {
+            "Barrie Colts": "-144",
+            "Niagara IceDogs": "+117"
+        }
+    },
+    {
+        "date": "2025-03-27",
+        "home_team": "Windsor Spitfires",
+        "away_team": "Soo Greyhounds",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Windsor Spitfires",
+        "home_score": 2,
+        "away_score": 0,
+        "odds": {
+            "Windsor Spitfires": "-218",
+            "Soo Greyhounds": "+173"
+        }
     }
 ]
