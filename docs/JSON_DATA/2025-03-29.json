@@ -1,0 +1,30 @@
+[
+    {
+        "home_team": "Windsor Spitfires",
+        "away_team": "Soo Greyhounds",
+        "winner": "Windsor Spitfires",
+        "probabilities": {
+            "Windsor Spitfires": "64.06%",
+            "Soo Greyhounds": "35.94%"
+        },
+        "odds": {
+            "Windsor Spitfires": "-207",
+            "Soo Greyhounds": "+164"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Saginaw Spirit",
+        "away_team": "Erie Otters",
+        "winner": "Saginaw Spirit",
+        "probabilities": {
+            "Saginaw Spirit": "58.45%",
+            "Erie Otters": "41.55%"
+        },
+        "odds": {
+            "Saginaw Spirit": "-160",
+            "Erie Otters": "+129"
+        },
+        "game_time": "7:05 pm"
+    }
+]
