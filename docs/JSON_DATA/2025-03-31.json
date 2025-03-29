@@ -1,0 +1,30 @@
+[
+    {
+        "home_team": "Barrie Colts",
+        "away_team": "Niagara IceDogs",
+        "winner": "Barrie Colts",
+        "probabilities": {
+            "Barrie Colts": "55.30%",
+            "Niagara IceDogs": "44.70%"
+        },
+        "odds": {
+            "Barrie Colts": "-139",
+            "Niagara IceDogs": "+113"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Soo Greyhounds",
+        "away_team": "Windsor Spitfires",
+        "winner": "Windsor Spitfires",
+        "probabilities": {
+            "Soo Greyhounds": "35.92%",
+            "Windsor Spitfires": "64.08%"
+        },
+        "odds": {
+            "Soo Greyhounds": "+165",
+            "Windsor Spitfires": "-207"
+        },
+        "game_time": "7:07 pm"
+    }
+]
