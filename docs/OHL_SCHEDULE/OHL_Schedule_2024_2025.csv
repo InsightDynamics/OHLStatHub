@@ -1,14 +1,4 @@
 Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
-2024-09-27,7:00 pm,Brampton Steelheads,7,Brantford Bulldogs,0,27314
-2024-09-27,7:00 pm,Kingston Frontenacs,2,Oshawa Generals,3,27316
-2024-09-27,7:00 pm,Kitchener Rangers,2,Erie Otters,5,27317
-2024-09-27,7:00 pm,London Knights,4,Flint Firebirds,7,27318
-2024-09-27,7:00 pm,North Bay Battalion,4,Peterborough Petes,0,27319
-2024-09-27,7:00 pm,Ottawa 67's,2,Niagara IceDogs,3,27320
-2024-09-27,7:05 pm,Sarnia Sting,5,Windsor Spitfires,4,27322
-2024-09-27,7:05 pm,Sudbury Wolves,1,Barrie Colts,3,27323
-2024-09-27,7:07 pm,Guelph Storm,6,Owen Sound Attack,4,27315
-2024-09-27,7:07 pm,Soo Greyhounds,4,Saginaw Spirit,6,27321
 2024-09-28,7:00 pm,Brantford Bulldogs,6,Oshawa Generals,2,27325
 2024-09-28,7:00 pm,Erie Otters,2,Brampton Steelheads,5,27326
 2024-09-28,7:00 pm,Flint Firebirds,2,London Knights,5,27327
@@ -686,8 +676,8 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2025-03-28,7:00 pm,London Knights,6,Owen Sound Attack,1,28073
 2025-03-28,7:00 pm,Kitchener Rangers,4,Flint Firebirds,3,28087
 2025-03-28,7:05 pm,Oshawa Generals,7,Brampton Steelheads,4,28066
-2025-03-29,7:05 pm,Windsor Spitfires,0,Soo Greyhounds,0,28081
-2025-03-29,7:05 pm,Saginaw Spirit,0,Erie Otters,0,28095
+2025-03-29,7:05 pm,Windsor Spitfires,2,Soo Greyhounds,1,28081
+2025-03-29,7:05 pm,Saginaw Spirit,2,Erie Otters,2,28095
 2025-03-30,2:00 pm,Kingston Frontenacs,0,Sudbury Wolves,0,28060
 2025-03-30,2:00 pm,London Knights,0,Owen Sound Attack,0,28074
 2025-03-30,2:00 pm,Kitchener Rangers,0,Flint Firebirds,0,28088
