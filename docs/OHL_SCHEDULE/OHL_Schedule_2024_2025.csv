@@ -1,12 +1,4 @@
 Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
-2024-09-28,7:00 pm,Brantford Bulldogs,6,Oshawa Generals,2,27325
-2024-09-28,7:00 pm,Erie Otters,2,Brampton Steelheads,5,27326
-2024-09-28,7:00 pm,Flint Firebirds,2,London Knights,5,27327
-2024-09-28,7:00 pm,Owen Sound Attack,1,Guelph Storm,2,27328
-2024-09-28,7:05 pm,Saginaw Spirit,6,Sarnia Sting,1,27330
-2024-09-28,7:05 pm,Windsor Spitfires,12,Kitchener Rangers,2,27331
-2024-09-28,7:07 pm,Soo Greyhounds,3,Sudbury Wolves,6,27329
-2024-09-28,7:30 pm,Barrie Colts,1,North Bay Battalion,4,27324
 2024-09-29,2:00 pm,Kingston Frontenacs,2,Niagara IceDogs,5,27332
 2024-09-29,6:05 pm,Oshawa Generals,3,Ottawa 67's,4,27333
 2024-10-03,7:00 pm,Barrie Colts,1,Brampton Steelheads,4,27334
@@ -678,10 +670,10 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2025-03-28,7:05 pm,Oshawa Generals,7,Brampton Steelheads,4,28066
 2025-03-29,7:05 pm,Windsor Spitfires,7,Soo Greyhounds,1,28081
 2025-03-29,7:05 pm,Saginaw Spirit,5,Erie Otters,9,28095
-2025-03-30,2:00 pm,Kingston Frontenacs,0,Sudbury Wolves,0,28060
-2025-03-30,2:00 pm,London Knights,0,Owen Sound Attack,0,28074
-2025-03-30,2:00 pm,Kitchener Rangers,0,Flint Firebirds,0,28088
-2025-03-30,6:05 pm,Oshawa Generals,0,Brampton Steelheads,0,28067
+2025-03-30,2:00 pm,Kingston Frontenacs,4,Sudbury Wolves,3,28060
+2025-03-30,2:00 pm,London Knights,6,Owen Sound Attack,3,28074
+2025-03-30,2:00 pm,Kitchener Rangers,6,Flint Firebirds,1,28088
+2025-03-30,6:05 pm,Oshawa Generals,0,Brampton Steelheads,2,28067
 2025-03-30,7:00 pm,Brantford Bulldogs,0,North Bay Battalion,0,28046
 2025-03-31,7:00 pm,Barrie Colts,0,Niagara IceDogs,0,28053
 2025-03-31,7:07 pm,Soo Greyhounds,0,Windsor Spitfires,0,28082

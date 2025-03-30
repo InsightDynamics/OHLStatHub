@@ -2767,5 +2767,57 @@
             "Saginaw Spirit": "-160",
             "Erie Otters": "+129"
         }
+    },
+    {
+        "date": "2025-03-30",
+        "home_team": "Kingston Frontenacs",
+        "away_team": "Sudbury Wolves",
+        "predicted_winner": "Kingston Frontenacs",
+        "actual_winner": "Kingston Frontenacs",
+        "home_score": 4,
+        "away_score": 3,
+        "odds": {
+            "Kingston Frontenacs": "-187",
+            "Sudbury Wolves": "+149"
+        }
+    },
+    {
+        "date": "2025-03-30",
+        "home_team": "London Knights",
+        "away_team": "Owen Sound Attack",
+        "predicted_winner": "London Knights",
+        "actual_winner": "London Knights",
+        "home_score": 6,
+        "away_score": 3,
+        "odds": {
+            "London Knights": "-320",
+            "Owen Sound Attack": "+244"
+        }
+    },
+    {
+        "date": "2025-03-30",
+        "home_team": "Kitchener Rangers",
+        "away_team": "Flint Firebirds",
+        "predicted_winner": "Kitchener Rangers",
+        "actual_winner": "Kitchener Rangers",
+        "home_score": 6,
+        "away_score": 1,
+        "odds": {
+            "Kitchener Rangers": "-155",
+            "Flint Firebirds": "+125"
+        }
+    },
+    {
+        "date": "2025-03-30",
+        "home_team": "Oshawa Generals",
+        "away_team": "Brampton Steelheads",
+        "predicted_winner": "Brampton Steelheads",
+        "actual_winner": "Brampton Steelheads",
+        "home_score": 0,
+        "away_score": 2,
+        "odds": {
+            "Oshawa Generals": "+114",
+            "Brampton Steelheads": "-141"
+        }
     }
 ]
