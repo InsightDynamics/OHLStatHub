@@ -3382,17 +3382,17 @@
         },
         {
             "date": "2025-03-31",
-            "accuracy": 0,
-            "correct_predictions": 0,
-            "total_games": 0,
+            "accuracy": 100.0,
+            "correct_predictions": 2,
+            "total_games": 2,
             "game_details": [
                 {
                     "home_team": "Barrie Colts",
                     "away_team": "Niagara IceDogs",
                     "predicted_winner": "Barrie Colts",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Barrie Colts",
+                    "home_score": 3,
+                    "away_score": 1,
                     "odds": {
                         "Barrie Colts": "-139",
                         "Niagara IceDogs": "+113"
@@ -3402,9 +3402,9 @@
                     "home_team": "Soo Greyhounds",
                     "away_team": "Windsor Spitfires",
                     "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Not Started",
+                    "actual_winner": "Windsor Spitfires",
                     "home_score": 0,
-                    "away_score": 0,
+                    "away_score": 1,
                     "odds": {
                         "Soo Greyhounds": "+165",
                         "Windsor Spitfires": "-207"
@@ -3525,13 +3525,13 @@
             ]
         }
     ],
-    "total_accuracy": 64.8,
+    "total_accuracy": 65.1,
     "tossup_accuracy": 44.8,
-    "non_tossup_accuracy": 67.4,
-    "total_correct": 160,
-    "total_games": 247,
+    "non_tossup_accuracy": 67.7,
+    "total_correct": 162,
+    "total_games": 249,
     "tossup_correct": 13,
     "tossup_games": 29,
-    "non_tossup_correct": 147,
-    "non_tossup_games": 218
+    "non_tossup_correct": 149,
+    "non_tossup_games": 220
 }
