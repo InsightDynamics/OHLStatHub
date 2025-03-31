@@ -1,0 +1,16 @@
+[
+    {
+        "home_team": "Soo Greyhounds",
+        "away_team": "Windsor Spitfires",
+        "winner": "Windsor Spitfires",
+        "probabilities": {
+            "Soo Greyhounds": "35.92%",
+            "Windsor Spitfires": "64.08%"
+        },
+        "odds": {
+            "Soo Greyhounds": "+164",
+            "Windsor Spitfires": "-207"
+        },
+        "game_time": "7:07 pm"
+    }
+]

@@ -2813,11 +2813,24 @@
         "away_team": "Brampton Steelheads",
         "predicted_winner": "Brampton Steelheads",
         "actual_winner": "Brampton Steelheads",
-        "home_score": 0,
-        "away_score": 2,
+        "home_score": 1,
+        "away_score": 3,
         "odds": {
             "Oshawa Generals": "+114",
             "Brampton Steelheads": "-141"
+        }
+    },
+    {
+        "date": "2025-03-30",
+        "home_team": "Brantford Bulldogs",
+        "away_team": "North Bay Battalion",
+        "predicted_winner": "Brantford Bulldogs",
+        "actual_winner": "Brantford Bulldogs",
+        "home_score": 3,
+        "away_score": 0,
+        "odds": {
+            "Brantford Bulldogs": "-301",
+            "North Bay Battalion": "+231"
         }
     }
 ]

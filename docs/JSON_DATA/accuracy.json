@@ -3315,8 +3315,8 @@
         {
             "date": "2025-03-30",
             "accuracy": 100.0,
-            "correct_predictions": 4,
-            "total_games": 4,
+            "correct_predictions": 5,
+            "total_games": 5,
             "game_details": [
                 {
                     "home_team": "Kingston Frontenacs",
@@ -3359,8 +3359,8 @@
                     "away_team": "Brampton Steelheads",
                     "predicted_winner": "Brampton Steelheads",
                     "actual_winner": "Brampton Steelheads",
-                    "home_score": 0,
-                    "away_score": 2,
+                    "home_score": 1,
+                    "away_score": 3,
                     "odds": {
                         "Oshawa Generals": "+114",
                         "Brampton Steelheads": "-141"
@@ -3370,8 +3370,8 @@
                     "home_team": "Brantford Bulldogs",
                     "away_team": "North Bay Battalion",
                     "predicted_winner": "Brantford Bulldogs",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
+                    "actual_winner": "Brantford Bulldogs",
+                    "home_score": 3,
                     "away_score": 0,
                     "odds": {
                         "Brantford Bulldogs": "-301",
@@ -3503,15 +3503,35 @@
                     }
                 }
             ]
+        },
+        {
+            "date": "2025-04-02",
+            "accuracy": 0,
+            "correct_predictions": 0,
+            "total_games": 0,
+            "game_details": [
+                {
+                    "home_team": "Soo Greyhounds",
+                    "away_team": "Windsor Spitfires",
+                    "predicted_winner": "Windsor Spitfires",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0,
+                    "odds": {
+                        "Soo Greyhounds": "+164",
+                        "Windsor Spitfires": "-207"
+                    }
+                }
+            ]
         }
     ],
-    "total_accuracy": 64.6,
+    "total_accuracy": 64.8,
     "tossup_accuracy": 44.8,
-    "non_tossup_accuracy": 67.3,
-    "total_correct": 159,
-    "total_games": 246,
+    "non_tossup_accuracy": 67.4,
+    "total_correct": 160,
+    "total_games": 247,
     "tossup_correct": 13,
     "tossup_games": 29,
-    "non_tossup_correct": 146,
-    "non_tossup_games": 217
+    "non_tossup_correct": 147,
+    "non_tossup_games": 218
 }
