@@ -1,7 +1,4 @@
 Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
-2024-10-03,7:00 pm,Barrie Colts,1,Brampton Steelheads,4,27334
-2024-10-03,7:05 pm,Peterborough Petes,3,North Bay Battalion,5,27335
-2024-10-03,7:05 pm,Windsor Spitfires,5,Soo Greyhounds,0,27336
 2024-10-04,7:00 pm,Brantford Bulldogs,3,Owen Sound Attack,5,27337
 2024-10-04,7:00 pm,Kingston Frontenacs,9,North Bay Battalion,0,27339
 2024-10-04,7:00 pm,Kitchener Rangers,1,Flint Firebirds,2,27340
@@ -675,12 +672,12 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2025-03-30,7:00 pm,Brantford Bulldogs,3,North Bay Battalion,0,28046
 2025-03-31,7:00 pm,Barrie Colts,7,Niagara IceDogs,5,28053
 2025-03-31,7:07 pm,Soo Greyhounds,3,Windsor Spitfires,2,28082
-2025-04-01,7:00 pm,North Bay Battalion,0,Brantford Bulldogs,0,28047
-2025-04-01,7:00 pm,Niagara IceDogs,0,Barrie Colts,0,28054
-2025-04-01,7:00 pm,Brampton Steelheads,0,Oshawa Generals,0,28068
-2025-04-01,7:00 pm,Owen Sound Attack,0,London Knights,0,28075
+2025-04-01,7:00 pm,North Bay Battalion,0,Brantford Bulldogs,1,28047
+2025-04-01,7:00 pm,Niagara IceDogs,1,Barrie Colts,0,28054
+2025-04-01,7:00 pm,Brampton Steelheads,2,Oshawa Generals,1,28068
+2025-04-01,7:00 pm,Owen Sound Attack,1,London Knights,2,28075
 2025-04-01,7:00 pm,Flint Firebirds,0,Kitchener Rangers,0,28089
-2025-04-01,7:00 pm,Erie Otters,0,Saginaw Spirit,0,28096
+2025-04-01,7:00 pm,Erie Otters,1,Saginaw Spirit,0,28096
 2025-04-01,7:05 pm,Sudbury Wolves,0,Kingston Frontenacs,0,28061
 2025-04-02,7:07 pm,Soo Greyhounds,0,Windsor Spitfires,0,28083
 2025-04-03,7:00 pm,North Bay Battalion,0,Brantford Bulldogs,0,28048
