@@ -1,0 +1,58 @@
+[
+    {
+        "home_team": "London Knights",
+        "away_team": "Owen Sound Attack",
+        "winner": "London Knights",
+        "probabilities": {
+            "London Knights": "72.39%",
+            "Owen Sound Attack": "27.61%"
+        },
+        "odds": {
+            "London Knights": "-320",
+            "Owen Sound Attack": "+244"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Kitchener Rangers",
+        "away_team": "Flint Firebirds",
+        "winner": "Kitchener Rangers",
+        "probabilities": {
+            "Kitchener Rangers": "57.80%",
+            "Flint Firebirds": "42.20%"
+        },
+        "odds": {
+            "Kitchener Rangers": "-155",
+            "Flint Firebirds": "+125"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Oshawa Generals",
+        "away_team": "Brampton Steelheads",
+        "winner": "Brampton Steelheads",
+        "probabilities": {
+            "Oshawa Generals": "44.52%",
+            "Brampton Steelheads": "55.48%"
+        },
+        "odds": {
+            "Oshawa Generals": "+113",
+            "Brampton Steelheads": "-140"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Windsor Spitfires",
+        "away_team": "Soo Greyhounds",
+        "winner": "Windsor Spitfires",
+        "probabilities": {
+            "Windsor Spitfires": "64.00%",
+            "Soo Greyhounds": "36.00%"
+        },
+        "odds": {
+            "Windsor Spitfires": "-206",
+            "Soo Greyhounds": "+164"
+        },
+        "game_time": "7:05 pm"
+    }
+]
