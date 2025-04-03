@@ -5,6 +5,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8493,Tristan Bertucci,Bertucci,Tristan,D,L,6.02,187.0,2005-07-12,Barrie Colts,Central Division,12,0
 8395,Anthony Romani,Romani,Anthony,RW,R,6.01,190.0,2005-07-12,Barrie Colts,Central Division,15,0
 9037,Justin Handsor,Handsor,Justin,D,L,6.01,196.0,2007-09-24,Barrie Colts,Central Division,16,1
+9185,Sam Black,Black,Sam,LW,L,6.01,182.0,2007-03-08,Barrie Colts,Central Division,17,1
 8396,Owen Van Steensel,Van Steensel,Owen,LW,L,5.10,185.0,2004-08-04,Barrie Colts,Central Division,19,0
 8925,Riley Patterson,Patterson,Riley,C,R,6.00 1/2,194.0,2006-03-22,Barrie Colts,Central Division,21,0
 9335,Ethan Armstrong,Armstrong,Ethan,D,R,6.02,172.0,2007-01-23,Barrie Colts,Central Division,23,1
@@ -30,6 +31,5 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9175,Parker Vaughan,Vaughan,Parker,RW,R,6.01,189.0,2008-03-06,Barrie Colts,Central Division,94,1
 9188,Teague Vader,Vader,Teague,D,L,6.00,185.0,2007-08-23,Barrie Colts,Central Division,6,1
 9177,Noah Barton,Barton,Noah,D,R,6.02,183.0,2008-10-16,Barrie Colts,Central Division,7,0
-9185,Sam Black,Black,Sam,LW,L,6.01,182.0,2007-03-08,Barrie Colts,Central Division,17,1
 8633,Tai York,York,Tai,LW,L,6.01,185.0,2004-06-18,Barrie Colts,Central Division,23,0
 9072,Nolan Newton,Newton,Nolan,RW,R,5.09,165.0,2006-01-27,Barrie Colts,Central Division,61,0
