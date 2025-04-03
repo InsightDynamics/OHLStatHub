@@ -1,0 +1,58 @@
+[
+    {
+        "home_team": "Kingston Frontenacs",
+        "away_team": "Sudbury Wolves",
+        "winner": "Kingston Frontenacs",
+        "probabilities": {
+            "Kingston Frontenacs": "61.99%",
+            "Sudbury Wolves": "38.01%"
+        },
+        "odds": {
+            "Kingston Frontenacs": "-188",
+            "Sudbury Wolves": "+150"
+        },
+        "game_time": "4:00 pm"
+    },
+    {
+        "home_team": "Brantford Bulldogs",
+        "away_team": "North Bay Battalion",
+        "winner": "Brantford Bulldogs",
+        "probabilities": {
+            "Brantford Bulldogs": "71.52%",
+            "North Bay Battalion": "28.48%"
+        },
+        "odds": {
+            "Brantford Bulldogs": "-305",
+            "North Bay Battalion": "+234"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Saginaw Spirit",
+        "away_team": "Erie Otters",
+        "winner": "Saginaw Spirit",
+        "probabilities": {
+            "Saginaw Spirit": "58.38%",
+            "Erie Otters": "41.62%"
+        },
+        "odds": {
+            "Saginaw Spirit": "-159",
+            "Erie Otters": "+128"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Barrie Colts",
+        "away_team": "Niagara IceDogs",
+        "winner": "Barrie Colts",
+        "probabilities": {
+            "Barrie Colts": "55.41%",
+            "Niagara IceDogs": "44.59%"
+        },
+        "odds": {
+            "Barrie Colts": "-140",
+            "Niagara IceDogs": "+113"
+        },
+        "game_time": "7:30 pm"
+    }
+]
