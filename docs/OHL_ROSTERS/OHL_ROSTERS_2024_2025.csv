@@ -510,6 +510,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8577,Marco Mignosa,Mignosa,Marco,RW,R,5.11,170.0,2005-04-13,Soo Greyhounds,West Division,26,0
 9279,Jordan Charron,Charron,Jordan,RW,R,6.02,190.0,2007-06-21,Soo Greyhounds,West Division,27,1
 8558,Charlie Schenkel,Schenkel,Charlie,G,R,6.05.,203.0,2004-08-16,Soo Greyhounds,West Division,31,0
+9340,Noah Tegelaar,Tegelaar,Noah,G,L,6.04,185.0,2006-10-15,Soo Greyhounds,West Division,31,0
 8809,Landon Miller,Miller,Landon,G,R,6.04.5,203.0,2006-01-03,Soo Greyhounds,West Division,36,0
 9265,Noel Nordh,Nordh,Noel,LW,L,6.02,198.0,2005-01-25,Soo Greyhounds,West Division,43,0
 9018,Brady Martin,Martin,Brady,C,R,6.00,174.0,2007-03-16,Soo Greyhounds,West Division,44,0
@@ -521,7 +522,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9254,Camerin Cardona,Cardona,Camerin,RW,R,5.11,170.0,2006-01-01,Soo Greyhounds,West Division,27,0
 9219,Reid Thomas,Thomas,Reid,G,R,6.02,180.0,2007-06-07,Soo Greyhounds,West Division,30,1
 9348,Noah Metivier,Metivier,Noah,G,R,5.11,174.0,2004-01-28,Soo Greyhounds,West Division,31,0
-9340,Noah Tegelaar,Tegelaar,Noah,G,L,6.04,185.0,2006-10-15,Soo Greyhounds,West Division,31,0
 9292,Nick Marson,Marson,Nick,G,R,5.11,163.0,2007-12-16,Soo Greyhounds,West Division,33,0
 8602,Wyatt Kennedy,Kennedy,Wyatt,D,R,6.05,202.0,2005-05-27,Windsor Spitfires,West Division,2,0
 8939,Josef Eichler,Eichler,Josef,D,R,6.00,194.0,2005-12-14,Windsor Spitfires,West Division,5,0

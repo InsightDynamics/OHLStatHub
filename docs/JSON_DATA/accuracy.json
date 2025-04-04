@@ -3618,17 +3618,17 @@
         },
         {
             "date": "2025-04-04",
-            "accuracy": 0,
-            "correct_predictions": 0,
-            "total_games": 0,
+            "accuracy": 66.7,
+            "correct_predictions": 2,
+            "total_games": 3,
             "game_details": [
                 {
                     "home_team": "Kitchener Rangers",
                     "away_team": "Flint Firebirds",
                     "predicted_winner": "Kitchener Rangers",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Flint Firebirds",
+                    "home_score": 1,
+                    "away_score": 1,
                     "odds": {
                         "Kitchener Rangers": "-155",
                         "Flint Firebirds": "+125"
@@ -3638,9 +3638,9 @@
                     "home_team": "Oshawa Generals",
                     "away_team": "Brampton Steelheads",
                     "predicted_winner": "Brampton Steelheads",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Brampton Steelheads",
+                    "home_score": 1,
+                    "away_score": 1,
                     "odds": {
                         "Oshawa Generals": "+113",
                         "Brampton Steelheads": "-140"
@@ -3650,9 +3650,9 @@
                     "home_team": "Windsor Spitfires",
                     "away_team": "Soo Greyhounds",
                     "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Windsor Spitfires",
+                    "home_score": 6,
+                    "away_score": 2,
                     "odds": {
                         "Windsor Spitfires": "-206",
                         "Soo Greyhounds": "+164"
@@ -3776,10 +3776,10 @@
     "total_accuracy": 64.4,
     "tossup_accuracy": 44.8,
     "non_tossup_accuracy": 66.8,
-    "total_correct": 170,
-    "total_games": 264,
+    "total_correct": 172,
+    "total_games": 267,
     "tossup_correct": 13,
     "tossup_games": 29,
-    "non_tossup_correct": 157,
-    "non_tossup_games": 235
+    "non_tossup_correct": 159,
+    "non_tossup_games": 238
 }
