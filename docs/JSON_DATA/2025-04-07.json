@@ -1,0 +1,16 @@
+[
+    {
+        "home_team": "Erie Otters",
+        "away_team": "Saginaw Spirit",
+        "winner": "Saginaw Spirit",
+        "probabilities": {
+            "Erie Otters": "41.70%",
+            "Saginaw Spirit": "58.30%"
+        },
+        "odds": {
+            "Erie Otters": "+128",
+            "Saginaw Spirit": "-159"
+        },
+        "game_time": "7:00 pm"
+    }
+]
