@@ -3723,18 +3723,6 @@
                     }
                 },
                 {
-                    "home_team": "Flint Firebirds",
-                    "away_team": "Kitchener Rangers",
-                    "predicted_winner": "Kitchener Rangers",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
-                    "odds": {
-                        "Flint Firebirds": "+125",
-                        "Kitchener Rangers": "-156"
-                    }
-                },
-                {
                     "home_team": "North Bay Battalion",
                     "away_team": "Brantford Bulldogs",
                     "predicted_winner": "Brantford Bulldogs",
@@ -3756,18 +3744,6 @@
                     "odds": {
                         "Niagara IceDogs": "+113",
                         "Barrie Colts": "-140"
-                    }
-                },
-                {
-                    "home_team": "Soo Greyhounds",
-                    "away_team": "Windsor Spitfires",
-                    "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
-                    "odds": {
-                        "Soo Greyhounds": "+163",
-                        "Windsor Spitfires": "-206"
                     }
                 }
             ]
