@@ -3131,5 +3131,18 @@
             "Barrie Colts": "-140",
             "Niagara IceDogs": "+113"
         }
+    },
+    {
+        "date": "2025-04-06",
+        "home_team": "Brampton Steelheads",
+        "away_team": "Oshawa Generals",
+        "predicted_winner": "Brampton Steelheads",
+        "actual_winner": "Oshawa Generals",
+        "home_score": 1,
+        "away_score": 4,
+        "odds": {
+            "Brampton Steelheads": "-140",
+            "Oshawa Generals": "+113"
+        }
     }
 ]
