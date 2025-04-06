@@ -1,0 +1,16 @@
+[
+    {
+        "home_team": "Oshawa Generals",
+        "away_team": "Brampton Steelheads",
+        "winner": "Brampton Steelheads",
+        "probabilities": {
+            "Oshawa Generals": "44.58%",
+            "Brampton Steelheads": "55.42%"
+        },
+        "odds": {
+            "Oshawa Generals": "+113",
+            "Brampton Steelheads": "-140"
+        },
+        "game_time": "7:05 pm"
+    }
+]

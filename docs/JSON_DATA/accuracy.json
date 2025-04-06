@@ -3662,8 +3662,8 @@
         },
         {
             "date": "2025-04-05",
-            "accuracy": 100.0,
-            "correct_predictions": 3,
+            "accuracy": 66.7,
+            "correct_predictions": 2,
             "total_games": 3,
             "game_details": [
                 {
@@ -3671,8 +3671,8 @@
                     "away_team": "North Bay Battalion",
                     "predicted_winner": "Brantford Bulldogs",
                     "actual_winner": "Brantford Bulldogs",
-                    "home_score": 1,
-                    "away_score": 0,
+                    "home_score": 5,
+                    "away_score": 1,
                     "odds": {
                         "Brantford Bulldogs": "-305",
                         "North Bay Battalion": "+234"
@@ -3682,9 +3682,9 @@
                     "home_team": "Saginaw Spirit",
                     "away_team": "Erie Otters",
                     "predicted_winner": "Saginaw Spirit",
-                    "actual_winner": "Saginaw Spirit",
-                    "home_score": 2,
-                    "away_score": 0,
+                    "actual_winner": "Erie Otters",
+                    "home_score": 3,
+                    "away_score": 6,
                     "odds": {
                         "Saginaw Spirit": "-159",
                         "Erie Otters": "+128"
@@ -3695,8 +3695,8 @@
                     "away_team": "Niagara IceDogs",
                     "predicted_winner": "Barrie Colts",
                     "actual_winner": "Barrie Colts",
-                    "home_score": 1,
-                    "away_score": 0,
+                    "home_score": 6,
+                    "away_score": 3,
                     "odds": {
                         "Barrie Colts": "-140",
                         "Niagara IceDogs": "+113"
@@ -3721,61 +3721,37 @@
                         "Brampton Steelheads": "-140",
                         "Oshawa Generals": "+113"
                     }
-                },
-                {
-                    "home_team": "North Bay Battalion",
-                    "away_team": "Brantford Bulldogs",
-                    "predicted_winner": "Brantford Bulldogs",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
-                    "odds": {
-                        "North Bay Battalion": "+233",
-                        "Brantford Bulldogs": "-303"
-                    }
-                },
-                {
-                    "home_team": "Niagara IceDogs",
-                    "away_team": "Barrie Colts",
-                    "predicted_winner": "Barrie Colts",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
-                    "odds": {
-                        "Niagara IceDogs": "+113",
-                        "Barrie Colts": "-140"
-                    }
                 }
             ]
         },
         {
-            "date": "2025-04-07",
+            "date": "2025-04-08",
             "accuracy": 0,
             "correct_predictions": 0,
             "total_games": 0,
             "game_details": [
                 {
-                    "home_team": "Erie Otters",
-                    "away_team": "Saginaw Spirit",
-                    "predicted_winner": "Saginaw Spirit",
+                    "home_team": "Oshawa Generals",
+                    "away_team": "Brampton Steelheads",
+                    "predicted_winner": "Brampton Steelheads",
                     "actual_winner": "Not Started",
                     "home_score": 0,
                     "away_score": 0,
                     "odds": {
-                        "Erie Otters": "+128",
-                        "Saginaw Spirit": "-159"
+                        "Oshawa Generals": "+113",
+                        "Brampton Steelheads": "-140"
                     }
                 }
             ]
         }
     ],
-    "total_accuracy": 65.2,
+    "total_accuracy": 64.8,
     "tossup_accuracy": 44.8,
-    "non_tossup_accuracy": 67.6,
-    "total_correct": 176,
+    "non_tossup_accuracy": 67.2,
+    "total_correct": 175,
     "total_games": 270,
     "tossup_correct": 13,
     "tossup_games": 29,
-    "non_tossup_correct": 163,
+    "non_tossup_correct": 162,
     "non_tossup_games": 241
 }
