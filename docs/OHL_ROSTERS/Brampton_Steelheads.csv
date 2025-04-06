@@ -19,6 +19,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8957,Vilmer Alriksson,Alriksson,Vilmer,LW,L,6.06,234.0,2005-02-18,Brampton Steelheads,Central Division,25,0
 8731,Lucas Karmiris,Karmiris,Lucas,C,R,5.11,190.0,2006-09-27,Brampton Steelheads,Central Division,27,0
 8880,Brayden Gillespie,Gillespie,Brayden,G,R,5.11,172.0,2005-07-23,Brampton Steelheads,Central Division,31,0
+9070,Anthony Paolini,Paolini,Anthony,G,L,5.08,160.0,2006-07-28,Brampton Steelheads,Central Division,32,0
 8438,Luke Misa,Misa,Luke,C,L,5.10,176.0,2005-11-25,Brampton Steelheads,Central Division,33,0
 9184,Owen Cartwright,Cartwright,Owen,D,R,6.01,172.0,2008-03-28,Brampton Steelheads,Central Division,44,1
 8949,Jack Ivankovic,Ivankovic,Jack,G,L,5.11,178.0,2007-05-22,Brampton Steelheads,Central Division,72,0
@@ -31,7 +32,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9304,Thomas Kuipers,Kuipers,Thomas,RW,R,6.02,180.0,2006-04-20,Brampton Steelheads,Central Division,12,0
 9082,Wyatt Jinman,Jinman,Wyatt,LW,L,6.02,160.0,2007-10-11,Brampton Steelheads,Central Division,21,0
 9283,Graeme MacAuley,MacAuley,Graeme,D,L,6.00,190.0,2005-11-29,Brampton Steelheads,Central Division,26,0
-9070,Anthony Paolini,Paolini,Anthony,G,L,5.08,160.0,2006-07-28,Brampton Steelheads,Central Division,32,0
 8783,Jacob Gibbons,Gibbons,Jacob,G,R,6.05,205.0,2006-11-23,Brampton Steelheads,Central Division,38,0
 9180,Manuel Amado,Amado,Manuel,C,L,6.02,175.0,2008-02-04,Brampton Steelheads,Central Division,42,0
 8825,Chase Lefebvre,Lefebvre,Chase,C,L,6.03,180.0,2004-05-13,Brampton Steelheads,Central Division,71,0
