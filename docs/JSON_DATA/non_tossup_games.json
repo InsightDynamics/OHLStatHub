@@ -3144,5 +3144,44 @@
             "Brampton Steelheads": "-140",
             "Oshawa Generals": "+113"
         }
+    },
+    {
+        "date": "2025-04-10",
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Oshawa Generals",
+        "predicted_winner": "Brantford Bulldogs",
+        "actual_winner": "Oshawa Generals",
+        "home_score": 0,
+        "away_score": 2,
+        "odds": {
+            "Brantford Bulldogs": "-132",
+            "Oshawa Generals": "+106"
+        }
+    },
+    {
+        "date": "2025-04-10",
+        "home_team": "Barrie Colts",
+        "away_team": "Kingston Frontenacs",
+        "predicted_winner": "Kingston Frontenacs",
+        "actual_winner": "Kingston Frontenacs",
+        "home_score": 2,
+        "away_score": 2,
+        "odds": {
+            "Barrie Colts": "+128",
+            "Kingston Frontenacs": "-159"
+        }
+    },
+    {
+        "date": "2025-04-10",
+        "home_team": "London Knights",
+        "away_team": "Erie Otters",
+        "predicted_winner": "London Knights",
+        "actual_winner": "Erie Otters",
+        "home_score": 1,
+        "away_score": 1,
+        "odds": {
+            "London Knights": "-195",
+            "Erie Otters": "+155"
+        }
     }
 ]
