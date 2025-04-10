@@ -1,0 +1,44 @@
+[
+    {
+        "home_team": "London Knights",
+        "away_team": "Erie Otters",
+        "winner": "London Knights",
+        "probabilities": {
+            "London Knights": "62.81%",
+            "Erie Otters": "37.19%"
+        },
+        "odds": {
+            "London Knights": "-195",
+            "Erie Otters": "+155"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Windsor Spitfires",
+        "away_team": "Kitchener Rangers",
+        "winner": "Windsor Spitfires",
+        "probabilities": {
+            "Windsor Spitfires": "56.92%",
+            "Kitchener Rangers": "43.08%"
+        },
+        "odds": {
+            "Windsor Spitfires": "-149",
+            "Kitchener Rangers": "+121"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Barrie Colts",
+        "away_team": "Kingston Frontenacs",
+        "winner": "Kingston Frontenacs",
+        "probabilities": {
+            "Barrie Colts": "41.68%",
+            "Kingston Frontenacs": "58.32%"
+        },
+        "odds": {
+            "Barrie Colts": "+128",
+            "Kingston Frontenacs": "-159"
+        },
+        "game_time": "7:30 pm"
+    }
+]
