@@ -1,0 +1,16 @@
+[
+    {
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Oshawa Generals",
+        "winner": "Brantford Bulldogs",
+        "probabilities": {
+            "Brantford Bulldogs": "54.00%",
+            "Oshawa Generals": "46.00%"
+        },
+        "odds": {
+            "Brantford Bulldogs": "-132",
+            "Oshawa Generals": "+107"
+        },
+        "game_time": "2:00 pm"
+    }
+]

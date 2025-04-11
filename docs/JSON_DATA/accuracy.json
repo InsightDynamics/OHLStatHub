@@ -3726,16 +3726,16 @@
         },
         {
             "date": "2025-04-10",
-            "accuracy": 33.3,
-            "correct_predictions": 1,
-            "total_games": 3,
+            "accuracy": 75.0,
+            "correct_predictions": 3,
+            "total_games": 4,
             "game_details": [
                 {
                     "home_team": "Brantford Bulldogs",
                     "away_team": "Oshawa Generals",
                     "predicted_winner": "Brantford Bulldogs",
-                    "actual_winner": "Oshawa Generals",
-                    "home_score": 0,
+                    "actual_winner": "Brantford Bulldogs",
+                    "home_score": 5,
                     "away_score": 2,
                     "odds": {
                         "Brantford Bulldogs": "-132",
@@ -3746,8 +3746,8 @@
                     "home_team": "Barrie Colts",
                     "away_team": "Kingston Frontenacs",
                     "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Kingston Frontenacs",
-                    "home_score": 2,
+                    "actual_winner": "Barrie Colts",
+                    "home_score": 6,
                     "away_score": 2,
                     "odds": {
                         "Barrie Colts": "+128",
@@ -3758,9 +3758,9 @@
                     "home_team": "London Knights",
                     "away_team": "Erie Otters",
                     "predicted_winner": "London Knights",
-                    "actual_winner": "Erie Otters",
-                    "home_score": 1,
-                    "away_score": 1,
+                    "actual_winner": "London Knights",
+                    "home_score": 6,
+                    "away_score": 3,
                     "odds": {
                         "London Knights": "-195",
                         "Erie Otters": "+155"
@@ -3770,9 +3770,9 @@
                     "home_team": "Windsor Spitfires",
                     "away_team": "Kitchener Rangers",
                     "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Windsor Spitfires",
+                    "home_score": 5,
+                    "away_score": 1,
                     "odds": {
                         "Windsor Spitfires": "-149",
                         "Kitchener Rangers": "+121"
@@ -3823,15 +3823,35 @@
                     }
                 }
             ]
+        },
+        {
+            "date": "2025-04-13",
+            "accuracy": 0,
+            "correct_predictions": 0,
+            "total_games": 0,
+            "game_details": [
+                {
+                    "home_team": "Brantford Bulldogs",
+                    "away_team": "Oshawa Generals",
+                    "predicted_winner": "Brantford Bulldogs",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0,
+                    "odds": {
+                        "Brantford Bulldogs": "-132",
+                        "Oshawa Generals": "+107"
+                    }
+                }
+            ]
         }
     ],
-    "total_accuracy": 64.2,
+    "total_accuracy": 64.7,
     "tossup_accuracy": 44.8,
-    "non_tossup_accuracy": 66.5,
-    "total_correct": 176,
-    "total_games": 274,
+    "non_tossup_accuracy": 67.1,
+    "total_correct": 178,
+    "total_games": 275,
     "tossup_correct": 13,
     "tossup_games": 29,
-    "non_tossup_correct": 163,
-    "non_tossup_games": 245
+    "non_tossup_correct": 165,
+    "non_tossup_games": 246
 }
