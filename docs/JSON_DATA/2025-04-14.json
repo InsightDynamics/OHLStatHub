@@ -1,0 +1,16 @@
+[
+    {
+        "home_team": "Kitchener Rangers",
+        "away_team": "Windsor Spitfires",
+        "winner": "Windsor Spitfires",
+        "probabilities": {
+            "Kitchener Rangers": "43.02%",
+            "Windsor Spitfires": "56.98%"
+        },
+        "odds": {
+            "Kitchener Rangers": "+121",
+            "Windsor Spitfires": "-150"
+        },
+        "game_time": "7:00 pm"
+    }
+]
