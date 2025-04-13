@@ -3235,5 +3235,18 @@
             "Barrie Colts": "+128",
             "Kingston Frontenacs": "-159"
         }
+    },
+    {
+        "date": "2025-04-13",
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Oshawa Generals",
+        "predicted_winner": "Brantford Bulldogs",
+        "actual_winner": "Brantford Bulldogs",
+        "home_score": 8,
+        "away_score": 5,
+        "odds": {
+            "Brantford Bulldogs": "-132",
+            "Oshawa Generals": "+107"
+        }
     }
 ]
