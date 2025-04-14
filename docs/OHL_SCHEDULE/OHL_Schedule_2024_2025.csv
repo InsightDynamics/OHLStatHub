@@ -1,6 +1,4 @@
 Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
-2024-10-14,2:00 pm,North Bay Battalion,4,Owen Sound Attack,2,27381
-2024-10-14,2:05 pm,Windsor Spitfires,5,Oshawa Generals,2,27382
 2024-10-16,7:05 pm,Sudbury Wolves,3,Soo Greyhounds,1,27383
 2024-10-17,7:00 pm,Barrie Colts,4,Owen Sound Attack,3,27384
 2024-10-17,7:00 pm,Erie Otters,2,Kingston Frontenacs,1,27385
@@ -658,7 +656,7 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2025-04-12,7:05 pm,Windsor Spitfires,5,Kitchener Rangers,1,28123
 2025-04-12,7:30 pm,Barrie Colts,7,Kingston Frontenacs,4,28109
 2025-04-13,2:00 pm,Brantford Bulldogs,8,Oshawa Generals,5,28102
-2025-04-14,7:00 pm,Kitchener Rangers,0,Windsor Spitfires,0,28124
+2025-04-14,7:00 pm,Kitchener Rangers,0,Windsor Spitfires,2,28124
 2025-04-15,7:00 pm,Kingston Frontenacs,0,Barrie Colts,0,28110
 2025-04-15,7:00 pm,Erie Otters,0,London Knights,0,28117
 2025-04-15,7:05 pm,Oshawa Generals,0,Brantford Bulldogs,0,28103
