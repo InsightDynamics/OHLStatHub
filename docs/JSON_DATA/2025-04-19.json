@@ -1,0 +1,30 @@
+[
+    {
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Oshawa Generals",
+        "winner": "Brantford Bulldogs",
+        "probabilities": {
+            "Brantford Bulldogs": "53.95%",
+            "Oshawa Generals": "46.05%"
+        },
+        "odds": {
+            "Brantford Bulldogs": "-131",
+            "Oshawa Generals": "+106"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Barrie Colts",
+        "away_team": "Kingston Frontenacs",
+        "winner": "Kingston Frontenacs",
+        "probabilities": {
+            "Barrie Colts": "41.66%",
+            "Kingston Frontenacs": "58.34%"
+        },
+        "odds": {
+            "Barrie Colts": "+128",
+            "Kingston Frontenacs": "-159"
+        },
+        "game_time": "7:30 pm"
+    }
+]
