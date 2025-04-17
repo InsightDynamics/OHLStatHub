@@ -1,12 +1,4 @@
 Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
-2024-10-18,7:00 pm,Brampton Steelheads,3,Ottawa 67's,2,27389
-2024-10-18,7:00 pm,Brantford Bulldogs,2,North Bay Battalion,3,27390
-2024-10-18,7:00 pm,Kitchener Rangers,4,Niagara IceDogs,2,27392
-2024-10-18,7:00 pm,London Knights,1,Saginaw Spirit,5,27393
-2024-10-18,7:05 pm,Oshawa Generals,4,Peterborough Petes,2,27394
-2024-10-18,7:05 pm,Sudbury Wolves,1,Sarnia Sting,5,27396
-2024-10-18,7:07 pm,Guelph Storm,1,Windsor Spitfires,4,27391
-2024-10-18,7:07 pm,Soo Greyhounds,2,Flint Firebirds,1,27395
 2024-10-19,4:00 pm,Brampton Steelheads,2,Saginaw Spirit,3,27397
 2024-10-19,4:07 pm,Guelph Storm,2,Kitchener Rangers,3,27400
 2024-10-19,7:00 pm,Brantford Bulldogs,4,Kingston Frontenacs,3,27398
@@ -655,9 +647,9 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2025-04-15,7:00 pm,Erie Otters,0,London Knights,4,28117
 2025-04-15,7:05 pm,Oshawa Generals,7,Brantford Bulldogs,2,28103
 2025-04-16,7:00 pm,Kitchener Rangers,3,Windsor Spitfires,0,28125
-2025-04-17,7:00 pm,Kingston Frontenacs,0,Barrie Colts,0,28111
-2025-04-17,7:00 pm,Erie Otters,0,London Knights,0,28118
-2025-04-17,7:05 pm,Oshawa Generals,0,Brantford Bulldogs,0,28104
+2025-04-17,7:00 pm,Kingston Frontenacs,1,Barrie Colts,1,28111
+2025-04-17,7:00 pm,Erie Otters,1,London Knights,1,28118
+2025-04-17,7:05 pm,Oshawa Generals,0,Brantford Bulldogs,1,28104
 2025-04-18,7:00 pm,London Knights,0,Erie Otters,0,28119
 2025-04-18,7:05 pm,Windsor Spitfires,0,Kitchener Rangers,0,28126
 2025-04-19,7:00 pm,Brantford Bulldogs,0,Oshawa Generals,0,28105

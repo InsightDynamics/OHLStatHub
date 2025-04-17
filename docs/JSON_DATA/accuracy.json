@@ -3930,17 +3930,17 @@
         },
         {
             "date": "2025-04-17",
-            "accuracy": 0,
-            "correct_predictions": 0,
-            "total_games": 0,
+            "accuracy": 66.7,
+            "correct_predictions": 2,
+            "total_games": 3,
             "game_details": [
                 {
                     "home_team": "Kingston Frontenacs",
                     "away_team": "Barrie Colts",
                     "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Barrie Colts",
+                    "home_score": 1,
+                    "away_score": 1,
                     "odds": {
                         "Kingston Frontenacs": "-159",
                         "Barrie Colts": "+128"
@@ -3950,9 +3950,9 @@
                     "home_team": "Erie Otters",
                     "away_team": "London Knights",
                     "predicted_winner": "London Knights",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "London Knights",
+                    "home_score": 1,
+                    "away_score": 1,
                     "odds": {
                         "Erie Otters": "+156",
                         "London Knights": "-196"
@@ -3962,9 +3962,9 @@
                     "home_team": "Oshawa Generals",
                     "away_team": "Brantford Bulldogs",
                     "predicted_winner": "Brantford Bulldogs",
-                    "actual_winner": "Not Started",
+                    "actual_winner": "Brantford Bulldogs",
                     "home_score": 0,
-                    "away_score": 0,
+                    "away_score": 1,
                     "odds": {
                         "Oshawa Generals": "+106",
                         "Brantford Bulldogs": "-132"
@@ -4040,10 +4040,10 @@
     "total_accuracy": 64.8,
     "tossup_accuracy": 44.8,
     "non_tossup_accuracy": 67.1,
-    "total_correct": 184,
-    "total_games": 284,
+    "total_correct": 186,
+    "total_games": 287,
     "tossup_correct": 13,
     "tossup_games": 29,
-    "non_tossup_correct": 171,
-    "non_tossup_games": 255
+    "non_tossup_correct": 173,
+    "non_tossup_games": 258
 }
