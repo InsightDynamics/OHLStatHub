@@ -3352,5 +3352,18 @@
             "Oshawa Generals": "+106",
             "Brantford Bulldogs": "-132"
         }
+    },
+    {
+        "date": "2025-04-18",
+        "home_team": "Windsor Spitfires",
+        "away_team": "Kitchener Rangers",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Kitchener Rangers",
+        "home_score": 0,
+        "away_score": 1,
+        "odds": {
+            "Windsor Spitfires": "-150",
+            "Kitchener Rangers": "+121"
+        }
     }
 ]
