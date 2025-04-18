@@ -3938,9 +3938,9 @@
                     "home_team": "Kingston Frontenacs",
                     "away_team": "Barrie Colts",
                     "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Barrie Colts",
-                    "home_score": 1,
-                    "away_score": 1,
+                    "actual_winner": "Kingston Frontenacs",
+                    "home_score": 9,
+                    "away_score": 4,
                     "odds": {
                         "Kingston Frontenacs": "-159",
                         "Barrie Colts": "+128"
@@ -3951,8 +3951,8 @@
                     "away_team": "London Knights",
                     "predicted_winner": "London Knights",
                     "actual_winner": "London Knights",
-                    "home_score": 1,
-                    "away_score": 1,
+                    "home_score": 3,
+                    "away_score": 4,
                     "odds": {
                         "Erie Otters": "+156",
                         "London Knights": "-196"
@@ -3962,9 +3962,9 @@
                     "home_team": "Oshawa Generals",
                     "away_team": "Brantford Bulldogs",
                     "predicted_winner": "Brantford Bulldogs",
-                    "actual_winner": "Brantford Bulldogs",
-                    "home_score": 0,
-                    "away_score": 1,
+                    "actual_winner": "Oshawa Generals",
+                    "home_score": 4,
+                    "away_score": 2,
                     "odds": {
                         "Oshawa Generals": "+106",
                         "Brantford Bulldogs": "-132"
@@ -3978,18 +3978,6 @@
             "correct_predictions": 0,
             "total_games": 0,
             "game_details": [
-                {
-                    "home_team": "London Knights",
-                    "away_team": "Erie Otters",
-                    "predicted_winner": "London Knights",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
-                    "odds": {
-                        "London Knights": "-196",
-                        "Erie Otters": "+156"
-                    }
-                },
                 {
                     "home_team": "Windsor Spitfires",
                     "away_team": "Kitchener Rangers",
@@ -4032,6 +4020,50 @@
                     "odds": {
                         "Barrie Colts": "+128",
                         "Kingston Frontenacs": "-159"
+                    }
+                }
+            ]
+        },
+        {
+            "date": "2025-04-20",
+            "accuracy": 0,
+            "correct_predictions": 0,
+            "total_games": 0,
+            "game_details": [
+                {
+                    "home_team": "Oshawa Generals",
+                    "away_team": "Brantford Bulldogs",
+                    "predicted_winner": "Brantford Bulldogs",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0,
+                    "odds": {
+                        "Oshawa Generals": "+106",
+                        "Brantford Bulldogs": "-131"
+                    }
+                },
+                {
+                    "home_team": "Kingston Frontenacs",
+                    "away_team": "Barrie Colts",
+                    "predicted_winner": "Kingston Frontenacs",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0,
+                    "odds": {
+                        "Kingston Frontenacs": "-159",
+                        "Barrie Colts": "+128"
+                    }
+                },
+                {
+                    "home_team": "Kitchener Rangers",
+                    "away_team": "Windsor Spitfires",
+                    "predicted_winner": "Windsor Spitfires",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0,
+                    "odds": {
+                        "Kitchener Rangers": "+121",
+                        "Windsor Spitfires": "-150"
                     }
                 }
             ]
