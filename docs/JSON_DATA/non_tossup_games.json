@@ -3359,8 +3359,8 @@
         "away_team": "Kitchener Rangers",
         "predicted_winner": "Windsor Spitfires",
         "actual_winner": "Kitchener Rangers",
-        "home_score": 0,
-        "away_score": 1,
+        "home_score": 2,
+        "away_score": 5,
         "odds": {
             "Windsor Spitfires": "-150",
             "Kitchener Rangers": "+121"
