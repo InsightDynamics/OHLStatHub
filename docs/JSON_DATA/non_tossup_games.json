@@ -3436,9 +3436,9 @@
         "home_team": "Barrie Colts",
         "away_team": "Kingston Frontenacs",
         "predicted_winner": "Kingston Frontenacs",
-        "actual_winner": "Kingston Frontenacs",
-        "home_score": 2,
-        "away_score": 3,
+        "actual_winner": "Barrie Colts",
+        "home_score": 6,
+        "away_score": 4,
         "odds": {
             "Barrie Colts": "+128",
             "Kingston Frontenacs": "-159"
@@ -3450,8 +3450,8 @@
         "away_team": "Kitchener Rangers",
         "predicted_winner": "Windsor Spitfires",
         "actual_winner": "Kitchener Rangers",
-        "home_score": 0,
-        "away_score": 1,
+        "home_score": 1,
+        "away_score": 2,
         "odds": {
             "Windsor Spitfires": "-150",
             "Kitchener Rangers": "+121"
