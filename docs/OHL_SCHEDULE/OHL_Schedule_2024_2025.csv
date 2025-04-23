@@ -1,12 +1,4 @@
 Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
-2024-10-25,7:00 pm,Brampton Steelheads,4,Barrie Colts,6,27416
-2024-10-25,7:00 pm,Kingston Frontenacs,2,Oshawa Generals,7,27418
-2024-10-25,7:00 pm,Kitchener Rangers,6,Erie Otters,2,27419
-2024-10-25,7:00 pm,London Knights,4,Brantford Bulldogs,3,27420
-2024-10-25,7:05 pm,Sarnia Sting,3,Niagara IceDogs,4,27422
-2024-10-25,7:05 pm,Sudbury Wolves,3,North Bay Battalion,1,27423
-2024-10-25,7:07 pm,Guelph Storm,2,Flint Firebirds,7,27417
-2024-10-25,7:07 pm,Soo Greyhounds,3,Ottawa 67's,2,27421
 2024-10-26,7:00 pm,Brantford Bulldogs,4,Peterborough Petes,3,27425
 2024-10-26,7:00 pm,Erie Otters,3,Kitchener Rangers,4,27426
 2024-10-26,7:00 pm,Flint Firebirds,3,Owen Sound Attack,0,27427
@@ -639,3 +631,17 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2025-04-20,7:00 pm,Kitchener Rangers,4,Windsor Spitfires,0,28127
 2025-04-22,7:00 pm,Barrie Colts,6,Kingston Frontenacs,4,28114
 2025-04-22,7:05 pm,Windsor Spitfires,1,Kitchener Rangers,2,28128
+2025-04-25,7:00 pm,London Knights,0,Kitchener Rangers,0,28136
+2025-04-25,7:30 pm,Barrie Colts,0,Oshawa Generals,0,28129
+2025-04-27,4:00 pm,London Knights,0,Kitchener Rangers,0,28137
+2025-04-27,6:00 pm,Barrie Colts,0,Oshawa Generals,0,28130
+2025-04-28,7:00 pm,Kitchener Rangers,0,London Knights,0,28138
+2025-04-29,7:05 pm,Oshawa Generals,0,Barrie Colts,0,28131
+2025-04-30,7:00 pm,Kitchener Rangers,0,London Knights,0,28139
+2025-05-01,7:05 pm,Oshawa Generals,0,Barrie Colts,0,28132
+2025-05-02,7:00 pm,London Knights,0,Kitchener Rangers,0,28140
+2025-05-03,7:30 pm,Barrie Colts,0,Oshawa Generals,0,28133
+2025-05-04,2:00 pm,Kitchener Rangers,0,London Knights,0,28141
+2025-05-05,7:05 pm,Oshawa Generals,0,Barrie Colts,0,28134
+2025-05-06,7:00 pm,Barrie Colts,0,Oshawa Generals,0,28135
+2025-05-06,7:00 pm,London Knights,0,Kitchener Rangers,0,28142
