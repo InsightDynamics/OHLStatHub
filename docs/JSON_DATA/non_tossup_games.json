@@ -3456,5 +3456,18 @@
             "Windsor Spitfires": "-150",
             "Kitchener Rangers": "+121"
         }
+    },
+    {
+        "date": "2025-04-25",
+        "home_team": "London Knights",
+        "away_team": "Kitchener Rangers",
+        "predicted_winner": "London Knights",
+        "actual_winner": "London Knights",
+        "home_score": 4,
+        "away_score": 0,
+        "odds": {
+            "London Knights": "-165",
+            "Kitchener Rangers": "+133"
+        }
     }
 ]
