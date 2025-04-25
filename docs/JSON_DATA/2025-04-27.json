@@ -1,0 +1,30 @@
+[
+    {
+        "home_team": "London Knights",
+        "away_team": "Kitchener Rangers",
+        "winner": "London Knights",
+        "probabilities": {
+            "London Knights": "59.18%",
+            "Kitchener Rangers": "40.82%"
+        },
+        "odds": {
+            "London Knights": "-165",
+            "Kitchener Rangers": "+133"
+        },
+        "game_time": "4:00 pm"
+    },
+    {
+        "home_team": "Barrie Colts",
+        "away_team": "Oshawa Generals",
+        "winner": "Oshawa Generals",
+        "probabilities": {
+            "Barrie Colts": "48.22%",
+            "Oshawa Generals": "51.78%"
+        },
+        "odds": {
+            "Barrie Colts": "-103",
+            "Oshawa Generals": "-120"
+        },
+        "game_time": "6:00 pm"
+    }
+]

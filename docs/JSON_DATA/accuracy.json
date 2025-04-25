@@ -4131,6 +4131,38 @@
                     }
                 }
             ]
+        },
+        {
+            "date": "2025-04-27",
+            "accuracy": 0,
+            "correct_predictions": 0,
+            "total_games": 0,
+            "game_details": [
+                {
+                    "home_team": "London Knights",
+                    "away_team": "Kitchener Rangers",
+                    "predicted_winner": "London Knights",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0,
+                    "odds": {
+                        "London Knights": "-165",
+                        "Kitchener Rangers": "+133"
+                    }
+                },
+                {
+                    "home_team": "Barrie Colts",
+                    "away_team": "Oshawa Generals",
+                    "predicted_winner": "Oshawa Generals",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0,
+                    "odds": {
+                        "Barrie Colts": "-103",
+                        "Oshawa Generals": "-120"
+                    }
+                }
+            ]
         }
     ],
     "total_accuracy": 63.4,
