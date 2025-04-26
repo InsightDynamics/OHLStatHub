@@ -4103,16 +4103,16 @@
         {
             "date": "2025-04-25",
             "accuracy": 100.0,
-            "correct_predictions": 1,
-            "total_games": 1,
+            "correct_predictions": 2,
+            "total_games": 2,
             "game_details": [
                 {
                     "home_team": "London Knights",
                     "away_team": "Kitchener Rangers",
                     "predicted_winner": "London Knights",
                     "actual_winner": "London Knights",
-                    "home_score": 4,
-                    "away_score": 0,
+                    "home_score": 5,
+                    "away_score": 2,
                     "odds": {
                         "London Knights": "-165",
                         "Kitchener Rangers": "+133"
@@ -4122,9 +4122,9 @@
                     "home_team": "Barrie Colts",
                     "away_team": "Oshawa Generals",
                     "predicted_winner": "Oshawa Generals",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Oshawa Generals",
+                    "home_score": 1,
+                    "away_score": 3,
                     "odds": {
                         "Barrie Colts": "-103",
                         "Oshawa Generals": "-120"
@@ -4163,15 +4163,35 @@
                     }
                 }
             ]
+        },
+        {
+            "date": "2025-04-28",
+            "accuracy": 0,
+            "correct_predictions": 0,
+            "total_games": 0,
+            "game_details": [
+                {
+                    "home_team": "Kitchener Rangers",
+                    "away_team": "London Knights",
+                    "predicted_winner": "London Knights",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0,
+                    "odds": {
+                        "Kitchener Rangers": "+133",
+                        "London Knights": "-165"
+                    }
+                }
+            ]
         }
     ],
-    "total_accuracy": 63.5,
-    "tossup_accuracy": 44.8,
+    "total_accuracy": 63.6,
+    "tossup_accuracy": 46.7,
     "non_tossup_accuracy": 65.5,
-    "total_correct": 188,
-    "total_games": 296,
-    "tossup_correct": 13,
-    "tossup_games": 29,
+    "total_correct": 189,
+    "total_games": 297,
+    "tossup_correct": 14,
+    "tossup_games": 30,
     "non_tossup_correct": 175,
     "non_tossup_games": 267
 }

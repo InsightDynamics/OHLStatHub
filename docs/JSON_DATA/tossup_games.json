@@ -375,5 +375,18 @@
             "Owen Sound Attack": "-106",
             "Guelph Storm": "-117"
         }
+    },
+    {
+        "date": "2025-04-25",
+        "home_team": "Barrie Colts",
+        "away_team": "Oshawa Generals",
+        "predicted_winner": "Oshawa Generals",
+        "actual_winner": "Oshawa Generals",
+        "home_score": 1,
+        "away_score": 3,
+        "odds": {
+            "Barrie Colts": "-103",
+            "Oshawa Generals": "-120"
+        }
     }
 ]
