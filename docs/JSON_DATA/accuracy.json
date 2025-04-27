@@ -4134,17 +4134,17 @@
         },
         {
             "date": "2025-04-27",
-            "accuracy": 0,
-            "correct_predictions": 0,
-            "total_games": 0,
+            "accuracy": 100.0,
+            "correct_predictions": 2,
+            "total_games": 2,
             "game_details": [
                 {
                     "home_team": "London Knights",
                     "away_team": "Kitchener Rangers",
                     "predicted_winner": "London Knights",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "London Knights",
+                    "home_score": 6,
+                    "away_score": 2,
                     "odds": {
                         "London Knights": "-165",
                         "Kitchener Rangers": "+133"
@@ -4154,9 +4154,9 @@
                     "home_team": "Barrie Colts",
                     "away_team": "Oshawa Generals",
                     "predicted_winner": "Oshawa Generals",
-                    "actual_winner": "Not Started",
+                    "actual_winner": "Oshawa Generals",
                     "home_score": 0,
-                    "away_score": 0,
+                    "away_score": 5,
                     "odds": {
                         "Barrie Colts": "-103",
                         "Oshawa Generals": "-120"
@@ -4205,13 +4205,13 @@
             ]
         }
     ],
-    "total_accuracy": 63.6,
-    "tossup_accuracy": 46.7,
-    "non_tossup_accuracy": 65.5,
-    "total_correct": 189,
-    "total_games": 297,
-    "tossup_correct": 14,
-    "tossup_games": 30,
-    "non_tossup_correct": 175,
-    "non_tossup_games": 267
+    "total_accuracy": 63.9,
+    "tossup_accuracy": 48.4,
+    "non_tossup_accuracy": 65.7,
+    "total_correct": 191,
+    "total_games": 299,
+    "tossup_correct": 15,
+    "tossup_games": 31,
+    "non_tossup_correct": 176,
+    "non_tossup_games": 268
 }
