@@ -1,0 +1,16 @@
+[
+    {
+        "home_team": "Oshawa Generals",
+        "away_team": "Barrie Colts",
+        "winner": "Oshawa Generals",
+        "probabilities": {
+            "Oshawa Generals": "51.84%",
+            "Barrie Colts": "48.16%"
+        },
+        "odds": {
+            "Oshawa Generals": "-120",
+            "Barrie Colts": "-103"
+        },
+        "game_time": "7:05 pm"
+    }
+]

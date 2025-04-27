@@ -4183,6 +4183,26 @@
                     }
                 }
             ]
+        },
+        {
+            "date": "2025-04-29",
+            "accuracy": 0,
+            "correct_predictions": 0,
+            "total_games": 0,
+            "game_details": [
+                {
+                    "home_team": "Oshawa Generals",
+                    "away_team": "Barrie Colts",
+                    "predicted_winner": "Oshawa Generals",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0,
+                    "odds": {
+                        "Oshawa Generals": "-120",
+                        "Barrie Colts": "-103"
+                    }
+                }
+            ]
         }
     ],
     "total_accuracy": 63.6,
