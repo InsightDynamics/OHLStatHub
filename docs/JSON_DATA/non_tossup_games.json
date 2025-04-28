@@ -3482,5 +3482,18 @@
             "London Knights": "-165",
             "Kitchener Rangers": "+133"
         }
+    },
+    {
+        "date": "2025-04-28",
+        "home_team": "Kitchener Rangers",
+        "away_team": "London Knights",
+        "predicted_winner": "London Knights",
+        "actual_winner": "London Knights",
+        "home_score": 1,
+        "away_score": 2,
+        "odds": {
+            "Kitchener Rangers": "+133",
+            "London Knights": "-165"
+        }
     }
 ]
