@@ -1,0 +1,16 @@
+[
+    {
+        "home_team": "London Knights",
+        "away_team": "Kitchener Rangers",
+        "winner": "London Knights",
+        "probabilities": {
+            "London Knights": "59.28%",
+            "Kitchener Rangers": "40.72%"
+        },
+        "odds": {
+            "London Knights": "-166",
+            "Kitchener Rangers": "+133"
+        },
+        "game_time": "7:00 pm"
+    }
+]
