@@ -3502,8 +3502,8 @@
         "away_team": "London Knights",
         "predicted_winner": "London Knights",
         "actual_winner": "London Knights",
-        "home_score": 1,
-        "away_score": 2,
+        "home_score": 2,
+        "away_score": 4,
         "odds": {
             "Kitchener Rangers": "+133",
             "London Knights": "-166"
