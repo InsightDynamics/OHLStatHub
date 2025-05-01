@@ -9,6 +9,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9125,Brady T Smith,Smith,Brady T,RW,R,6.00,181.0,2008-04-13,Oshawa Generals,East Division,13,1
 8412,Ethan Martin,Martin,Ethan,LW,L,6.06,222.0,2005-03-25,Oshawa Generals,East Division,14,0
 9325,Noah Powell,Powell,Noah,RW,R,6.02,205.0,2005-02-02,Oshawa Generals,East Division,15,0
+9127,Brady Blaseg,Blaseg,Brady,D,L,6.03,196.0,2008-07-21,Oshawa Generals,East Division,16,1
 8540,Luke Torrance,Torrance,Luke,LW,L,6.01,201.0,2004-03-30,Oshawa Generals,East Division,17,0
 8543,Luca Marrelli,Marrelli,Luca,D,R,6.02,185.0,2005-10-04,Oshawa Generals,East Division,19,0
 8413,Calum Ritchie,Ritchie,Calum,C,R,6.03,190.0,2005-01-21,Oshawa Generals,East Division,21,0
@@ -29,7 +30,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8570,Andrew Gibson,Gibson,Andrew,D,R,6.04,210.0,2005-02-13,Oshawa Generals,East Division,92,0
 8932,Owen Griffin,Griffin,Owen,C,R,5.10,160.0,2007-04-08,Oshawa Generals,East Division,96,0
 9039,Fraser McDonell,McDonell,Fraser,D,L,6.07,215.0,2006-03-02,Oshawa Generals,East Division,6,0
-9127,Brady Blaseg,Blaseg,Brady,D,L,6.03,196.0,2008-07-21,Oshawa Generals,East Division,16,1
 8936,Jonathon Pylypuik,Pylypuik,Jonathon,LW,L,6.00,163.0,2006-03-25,Oshawa Generals,East Division,18,0
 8470,Dylan Roobroeck,Roobroeck,Dylan,C,L,6.07,205.0,2004-07-27,Oshawa Generals,East Division,25,0
 8728,Lucas Rodriguez,Rodriguez,Lucas,D,R,6.02,192.0,2006-04-26,Oshawa Generals,East Division,26,0
