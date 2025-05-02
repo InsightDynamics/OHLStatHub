@@ -420,9 +420,9 @@
         "home_team": "Oshawa Generals",
         "away_team": "Barrie Colts",
         "predicted_winner": "Oshawa Generals",
-        "actual_winner": "Barrie Colts",
-        "home_score": 0,
-        "away_score": 1,
+        "actual_winner": "Oshawa Generals",
+        "home_score": 8,
+        "away_score": 4,
         "odds": {
             "Oshawa Generals": "-120",
             "Barrie Colts": "-103"
