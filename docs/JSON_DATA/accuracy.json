@@ -4283,6 +4283,26 @@
                     }
                 }
             ]
+        },
+        {
+            "date": "2025-05-12",
+            "accuracy": 0,
+            "correct_predictions": 0,
+            "total_games": 0,
+            "game_details": [
+                {
+                    "home_team": "Oshawa Generals",
+                    "away_team": "London Knights",
+                    "predicted_winner": "London Knights",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0,
+                    "odds": {
+                        "Oshawa Generals": "+131",
+                        "London Knights": "-163"
+                    }
+                }
+            ]
         }
     ],
     "total_accuracy": 64.1,
