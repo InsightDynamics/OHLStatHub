@@ -1,0 +1,16 @@
+[
+    {
+        "home_team": "Oshawa Generals",
+        "away_team": "London Knights",
+        "winner": "London Knights",
+        "probabilities": {
+            "Oshawa Generals": "41.03%",
+            "London Knights": "58.97%"
+        },
+        "odds": {
+            "Oshawa Generals": "+132",
+            "London Knights": "-164"
+        },
+        "game_time": "7:00 pm"
+    }
+]

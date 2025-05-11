@@ -3527,9 +3527,9 @@
         "home_team": "London Knights",
         "away_team": "Oshawa Generals",
         "predicted_winner": "London Knights",
-        "actual_winner": "Oshawa Generals",
-        "home_score": 1,
-        "away_score": 1,
+        "actual_winner": "London Knights",
+        "home_score": 5,
+        "away_score": 2,
         "odds": {
             "London Knights": "-164",
             "Oshawa Generals": "+132"
