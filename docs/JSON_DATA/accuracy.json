@@ -4295,8 +4295,8 @@
                     "away_team": "London Knights",
                     "predicted_winner": "London Knights",
                     "actual_winner": "London Knights",
-                    "home_score": 0,
-                    "away_score": 2,
+                    "home_score": 5,
+                    "away_score": 7,
                     "odds": {
                         "Oshawa Generals": "+131",
                         "London Knights": "-163"
@@ -4320,6 +4320,26 @@
                     "odds": {
                         "Oshawa Generals": "+132",
                         "London Knights": "-164"
+                    }
+                }
+            ]
+        },
+        {
+            "date": "2025-05-15",
+            "accuracy": 0,
+            "correct_predictions": 0,
+            "total_games": 0,
+            "game_details": [
+                {
+                    "home_team": "London Knights",
+                    "away_team": "Oshawa Generals",
+                    "predicted_winner": "London Knights",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0,
+                    "odds": {
+                        "London Knights": "-164",
+                        "Oshawa Generals": "+132"
                     }
                 }
             ]
