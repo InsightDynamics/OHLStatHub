@@ -345,13 +345,16 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8632,Taos Jordan,Jordan,Taos,D,L,5.11,190.0,2004-03-29,Owen Sound Attack,Midwest Division,24,0
 9297,Trenten Bennett,Bennett,Trenten,G,L,6.07,205.0,2006-04-01,Owen Sound Attack,Midwest Division,30,0
 9357,Finn Kearns,Kearns,Finn,D,L,6.03,203.0,2008-06-08,Sudbury Wolves,Central Division,2,1
+9204,Brady Smith,Smith,Brady,D,L,6.02,190.0,2008-03-27,Sudbury Wolves,Central Division,3,0
 9049,Trevor O’Dell,O’Dell,Trevor,D,L,6.03,172.0,2006-07-17,Sudbury Wolves,Central Division,4,0
+9199,Henry Doucet,Doucet,Henry,LW,L,6.00,176.0,2008-08-11,Sudbury Wolves,Central Division,5,1
 9015,Nolan Jackson,Jackson,Nolan,D,L,6.01,180.0,2007-01-02,Sudbury Wolves,Central Division,5,1
 8671,Gavin Ewles,Ewles,Gavin,D,R,6.01,188.0,2005-03-01,Sudbury Wolves,Central Division,7,0
 8560,Chase Coughlan,Coughlan,Chase,RW,R,5.11,194.0,2005-06-17,Sudbury Wolves,Central Division,9,0
 9198,Ethan Dean,Dean,Ethan,C,L,5.10,166.0,2008-03-11,Sudbury Wolves,Central Division,11,1
 8661,Noah Roberts,Roberts,Noah,D,L,6.01,195.0,2005-12-02,Sudbury Wolves,Central Division,12,0
 8456,Kocha Delic,Delic,Kocha,C,L,5.11,198.0,2004-03-11,Sudbury Wolves,Central Division,13,0
+9261,Mason Walker,Walker,Mason,LW,L,5.09,148.0,2008-11-26,Sudbury Wolves,Central Division,16,1
 9332,Jack Ziliotto,Ziliotto,Jack,C,R,6.02,185.0,2005-06-22,Sudbury Wolves,Central Division,16,0
 8351,Donovan McCoy,McCoy,Donovan,D,R,6.01,205.0,2004-11-10,Sudbury Wolves,Central Division,19,0
 8827,Braydon Bruce,Bruce,Braydon,D,R,6.05,212.0,2006-05-11,Sudbury Wolves,Central Division,20,0
@@ -362,6 +365,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8459,Quentin Musty,Musty,Quentin,LW,L,6.02,200.0,2005-07-06,Sudbury Wolves,Central Division,27,0
 8805,Nate Krawchuk,Krawchuk,Nate,G,L,6.02,180.0,2005-07-04,Sudbury Wolves,Central Division,30,0
 9206,Finn Marshall,Marshall,Finn,G,L,6.01,176.0,2006-01-13,Sudbury Wolves,Central Division,31,0
+9286,Kimani Eccleston,Eccleston,Kimani,LW,L,6.03,184.0,2007-08-02,Sudbury Wolves,Central Division,47,1
 9249,Tayjon Street,Street,Tayjon,LW,L,6.01,205.0,2005-05-04,Sudbury Wolves,Central Division,73,0
 9200,Rowan Henderson,Henderson,Rowan,LW,L,5.10,178.0,2007-12-10,Sudbury Wolves,Central Division,77,1
 8716,Henry Mews,Mews,Henry,D,R,6.01,183.0,2006-03-09,Sudbury Wolves,Central Division,88,0
@@ -373,10 +377,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8887,Ondrej Molnar,Molnar,Ondrej,LW,L,5.10,175.0,2005-02-08,Sudbury Wolves,Central Division,96,0
 9071,Spencer Horgan,Horgan,Spencer,D,R,5.11,165.0,2005-03-17,Sudbury Wolves,Central Division,2,0
 9341,Bodhi Ryan,Ryan,Bodhi,C,L,5.11,146.0,2008-07-08,Sudbury Wolves,Central Division,2,1
-9204,Brady Smith,Smith,Brady,D,L,6.02,190.0,2008-03-27,Sudbury Wolves,Central Division,3,0
 9365,Jayden Connors,Connors,Jayden,D,R,5.09,179.0,2007-02-26,Sudbury Wolves,Central Division,5,0
-9199,Henry Doucet,Doucet,Henry,LW,L,6.00,176.0,2008-08-11,Sudbury Wolves,Central Division,5,1
-9261,Mason Walker,Walker,Mason,LW,L,5.09,148.0,2008-11-26,Sudbury Wolves,Central Division,16,1
 9201,Noah Kohan,Kohan,Noah,LW,L,5.10,160.0,2005-08-08,Sudbury Wolves,Central Division,18,0
 8885,Karsen Chartier,Chartier,Karsen,G,L,6.03,180.0,2006-01-01,Sudbury Wolves,Central Division,29,0
 8679,Marcus Vandenberg,Vandenberg,Marcus,G,L,5.11,172.0,2004-04-25,Sudbury Wolves,Central Division,30,0
@@ -385,7 +386,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9354,Luke Suys,Suys,Luke,G,L,6.01,165.0,2007-03-12,Sudbury Wolves,Central Division,35,1
 9202,Grant Booth,Booth,Grant,LW,L,5.09,180.0,2007-01-03,Sudbury Wolves,Central Division,41,1
 9326,Joey Brehmer,Brehmer,Joey,LW,L,6.01,205.0,2006-07-27,Sudbury Wolves,Central Division,47,0
-9286,Kimani Eccleston,Eccleston,Kimani,LW,L,6.03,184.0,2007-08-02,Sudbury Wolves,Central Division,47,1
 9362,Greg Najda,Najda,Greg,LW,L,6.02,196.0,2008-01-17,Sudbury Wolves,Central Division,47,0
 8483,Daks Klinkhammer,Klinkhammer,Daks,LW,L,6.01,186.0,2005-08-14,Sudbury Wolves,Central Division,48,0
 8539,Blake Smith,Smith,Blake,D,L,6.05,225.0,2004-10-05,Flint Firebirds,West Division,5,0
