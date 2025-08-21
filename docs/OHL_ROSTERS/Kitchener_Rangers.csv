@@ -23,7 +23,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9324,Christian Humphreys,Humphreys,Christian,C,R,5.11,170.0,2006-02-04,Kitchener Rangers,Midwest Division,48,0
 8362,Trent Swick,Swick,Trent,LW,L,6.06,208.0,2004-04-25,Kitchener Rangers,Midwest Division,57,0
 9168,Matthew Hlacar,Hlacar,Matthew,LW,L,6.03,205.0,2006-05-31,Kitchener Rangers,Midwest Division,61,0
-8796,Justin Bottineau,Bottineau,Justin,RW,R,6.00,168.0,2006-01-11,Kitchener Rangers,Midwest Division,77,0
 9166,Evan Headrick,Headrick,Evan,RW,R,5.07,150.0,2008-01-08,Kitchener Rangers,Midwest Division,81,1
 8450,Chris Grisolia,Grisolia,Chris,LW,L,6.00,187.0,2005-04-30,Kitchener Rangers,Midwest Division,85,0
 8947,Luca Romano,Romano,Luca,C,R,5.11,170.0,2007-06-25,Kitchener Rangers,Midwest Division,86,0
@@ -31,3 +30,4 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9165,Jack LaBrash,LaBrash,Jack,LW,L,6.05,196.0,2007-03-04,Kitchener Rangers,Midwest Division,93,1
 9311,Jacob Xu,Xu,Jacob,LD,L,6.02,181.0,2008-03-13,Kitchener Rangers,Midwest Division,96,1
 8653,Antonino Pugliese,Pugliese,Antonino,RW,R,5.09,179.0,2004-04-09,Kitchener Rangers,Midwest Division,44,0
+8796,Justin Bottineau,Bottineau,Justin,RW,R,6.00,168.0,2006-01-11,Kitchener Rangers,Midwest Division,77,0

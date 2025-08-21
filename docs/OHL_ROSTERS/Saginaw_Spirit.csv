@@ -5,6 +5,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8366,Calem Mangone,Mangone,Calem,LW,R,5.09,165.0,2004-11-04,Saginaw Spirit,West Division,7,0
 9153,Brody Najim,Najim,Brody,LW,L,5.10,145.0,2008-07-16,Saginaw Spirit,West Division,8,1
 9002,Graydon Jones,Jones,Graydon,D,L,6.00,175.0,2007-01-01,Saginaw Spirit,West Division,9,1
+9347,Candon O'Neill,O'Neill,Candon,D,L,6.00,190.0,2007-08-11,Saginaw Spirit,West Division,10,0
 8991,Carson Harmer,Harmer,Carson,C,L,5.10,185.0,2007-01-13,Saginaw Spirit,West Division,13,1
 8770,Joey Willis,Willis,Joey,C,L,5.11,185.0,2005-03-14,Saginaw Spirit,West Division,14,0
 8505,Sebastien Gervais,Gervais,Sebastien,C,L,6.01,190.0,2005-04-11,Saginaw Spirit,West Division,15,0
@@ -14,6 +15,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8839,Liam Storch,Storch,Liam,RW,R,5.10,150.0,2006-01-20,Saginaw Spirit,West Division,21,0
 9119,Kaden Sienko,Sienko,Kaden,D,R,6.01,185.0,2008-04-19,Saginaw Spirit,West Division,23,1
 9117,Igor Chernyshov,Chernyshov,Igor,RW,R,6.03,225.0,2005-11-30,Saginaw Spirit,West Division,25,0
+9287,Trevor Theuer,Theuer,Trevor,LW,L,5.11,180.0,2008-02-12,Saginaw Spirit,West Division,26,1
 8503,PJ Forgione,Forgione,PJ,D,L,6.02,215.0,2004-11-12,Saginaw Spirit,West Division,27,0
 9154,Liam Campbell,Campbell,Liam,LW,L,5.10,160.0,2008-10-22,Saginaw Spirit,West Division,28,1
 8369,Andrew Oke,Oke,Andrew,G,L,6.02,190.0,2004-03-26,Saginaw Spirit,West Division,29,0
@@ -29,6 +31,4 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9116,Kristian Epperson,Epperson,Kristian,LW,L,6.00,185.0,2006-05-16,Saginaw Spirit,West Division,86,0
 8399,Nic Sima,Sima,Nic,RW,R,6.03,195.0,2005-03-31,Saginaw Spirit,West Division,92,0
 9349,Declan McNamara,McNamara,Declan,G,L,6.00,175.0,2007-02-19,Saginaw Spirit,West Division,1,1
-9347,Candon O'Neill,O'Neill,Candon,D,L,6.00,190.0,2007-08-11,Saginaw Spirit,West Division,10,0
 8772,Lincoln Moore,Moore,Lincoln,RW,R,6.02,215.0,2005-09-21,Saginaw Spirit,West Division,18,0
-9287,Trevor Theuer,Theuer,Trevor,LW,L,5.11,180.0,2008-02-12,Saginaw Spirit,West Division,26,1
