@@ -213,6 +213,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9072,Nolan Newton,Newton,Nolan,RW,R,5.09,165.0,2006-01-27,Barrie Colts,Central Division,61,0
 9134,Noah Erliden,Erliden,Noah,G,R,5.11,183.0,2005-09-09,Erie Otters,Midwest Division,1,0
 8780,Ty Henry,Henry,Ty,D,L,6.04,210.0,2006-07-19,Erie Otters,Midwest Division,2,0
+9315,Oliver Turner,Turner,Oliver,D,R,6.05,194.0,2007-03-18,Erie Otters,Midwest Division,3,1
 8524,Nathan Sauder,Sauder,Nathan,D,R,6.01,202.0,2005-02-01,Erie Otters,Midwest Division,5,0
 9288,Michael D'Alessio,D'Alessio,Michael,D,L,6.01,170.0,2008-12-03,Erie Otters,Midwest Division,7,1
 9323,Garrett Frazer,Frazer,Garrett,D,R,6.00,180.0,2006-02-10,Erie Otters,Midwest Division,8,0
@@ -240,7 +241,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8887,Ondrej Molnar,Molnar,Ondrej,LW,L,5.10,175.0,2005-02-08,Erie Otters,Midwest Division,96,0
 8469,Pano Fimis,Fimis,Pano,C,R,5.11,183.0,2004-06-17,Erie Otters,Midwest Division,98,0
 9355,Hudson Wozney,Wozney,Hudson,RW,R,6.03,194.0,2008-07-03,Erie Otters,Midwest Division,99,1
-9315,Oliver Turner,Turner,Oliver,D,R,6.05,194.0,2007-03-18,Erie Otters,Midwest Division,3,1
 8997,Georgy Toroptsev,Toroptsev,Georgy,LW,L,6.00,187.0,2006-04-22,Erie Otters,Midwest Division,8,0
 9133,Diego Da Silva,Da Silva,Diego,LW,L,5.11,208.0,2005-11-21,Erie Otters,Midwest Division,9,0
 9157,Jack Clarke,Clarke,Jack,LW,L,6.00,184.0,2007-06-05,Erie Otters,Midwest Division,13,1
