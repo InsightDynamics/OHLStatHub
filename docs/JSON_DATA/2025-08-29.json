@@ -1,0 +1,58 @@
+[
+    {
+        "home_team": "Saginaw Spirit",
+        "away_team": "Oshawa Generals",
+        "winner": "Saginaw Spirit",
+        "probabilities": {
+            "Saginaw Spirit": "54.45%",
+            "Oshawa Generals": "45.55%"
+        },
+        "odds": {
+            "Saginaw Spirit": "-134",
+            "Oshawa Generals": "+109"
+        },
+        "game_time": "2:00 pm"
+    },
+    {
+        "home_team": "Brampton Steelheads",
+        "away_team": "Guelph Storm",
+        "winner": "Brampton Steelheads",
+        "probabilities": {
+            "Brampton Steelheads": "69.12%",
+            "Guelph Storm": "30.88%"
+        },
+        "odds": {
+            "Brampton Steelheads": "-267",
+            "Guelph Storm": "+208"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Kitchener Rangers",
+        "away_team": "Brantford Bulldogs",
+        "winner": "Brantford Bulldogs",
+        "probabilities": {
+            "Kitchener Rangers": "45.64%",
+            "Brantford Bulldogs": "54.36%"
+        },
+        "odds": {
+            "Kitchener Rangers": "+108",
+            "Brantford Bulldogs": "-134"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "London Knights",
+        "away_team": "Sarnia Sting",
+        "winner": "London Knights",
+        "probabilities": {
+            "London Knights": "75.65%",
+            "Sarnia Sting": "24.35%"
+        },
+        "odds": {
+            "London Knights": "-391",
+            "Sarnia Sting": "+290"
+        },
+        "game_time": "7:00 pm"
+    }
+]
