@@ -82,9 +82,11 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9325,Noah Powell,Powell,Noah,RW,R,6.02,205.0,2005-02-02,Oshawa Generals,East Division,15,0
 9127,Brady Blaseg,Blaseg,Brady,D,L,6.03,216.0,2008-07-21,Oshawa Generals,East Division,16,1
 8540,Luke Torrance,Torrance,Luke,LW,L,6.01,201.0,2004-03-30,Oshawa Generals,East Division,17,0
+8936,Jonathon Pylypuik,Pylypuik,Jonathon,LW,L,6.00,155.0,2006-03-25,Oshawa Generals,East Division,18,0
 8543,Luca Marrelli,Marrelli,Luca,D,R,6.02,185.0,2005-10-04,Oshawa Generals,East Division,19,0
 8413,Calum Ritchie,Ritchie,Calum,C,R,6.03,190.0,2005-01-21,Oshawa Generals,East Division,21,0
 9096,Tyler O'Toole,O'Toole,Tyler,RW,R,6.01,200.0,2006-06-28,Oshawa Generals,East Division,23,0
+8727,Tyler Graham,Graham,Tyler,LW,L,5.10,192.0,2006-08-10,Oshawa Generals,East Division,28,0
 9128,David Svozil,Svozil,David,D,L,6.02,177.0,2006-03-07,Oshawa Generals,East Division,29,0
 8937,Hayden Sabourin,Sabourin,Hayden,G,L,5.11,183.0,2005-05-27,Oshawa Generals,East Division,30,0
 8955,Shawn Costello,Costello,Shawn,C,L,6.02,188.0,2007-01-20,Oshawa Generals,East Division,32,1
@@ -93,6 +95,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8388,Colby Barlow,Barlow,Colby,LW,L,6.01,190.0,2005-02-14,Oshawa Generals,East Division,39,0
 8934,Tristan Delisle,Delisle,Tristan,C,L,5.11,172.0,2007-05-15,Oshawa Generals,East Division,40,0
 9129,Lauri Sinivuori,Sinivuori,Lauri,C,L,6.01,180.0,2006-04-28,Oshawa Generals,East Division,42,0
+9034,Caeden Heins,Heins,Caeden,LW,L,6.00,182.0,2006-02-06,Oshawa Generals,East Division,44,0
 8724,Beckett Sennecke,Sennecke,Beckett,RW,R,6.04,195.0,2006-01-28,Oshawa Generals,East Division,45,0
 8794,Ethan Toms,Toms,Ethan,C,L,5.10,187.0,2006-01-19,Oshawa Generals,East Division,61,0
 8563,Zackary Sandhu,Sandhu,Zackary,D,L,6.02,208.0,2005-12-20,Oshawa Generals,East Division,72,0
@@ -100,11 +103,8 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8935,Isaac Gravelle,Gravelle,Isaac,G,L,6.00,174.0,2007-01-18,Oshawa Generals,East Division,90,1
 8570,Andrew Gibson,Gibson,Andrew,D,R,6.04,210.0,2005-02-13,Oshawa Generals,East Division,92,0
 8932,Owen Griffin,Griffin,Owen,C,R,5.10,167.0,2007-04-08,Oshawa Generals,East Division,96,0
-8936,Jonathon Pylypuik,Pylypuik,Jonathon,LW,L,6.00,163.0,2006-03-25,Oshawa Generals,East Division,18,0
 8470,Dylan Roobroeck,Roobroeck,Dylan,C,L,6.07,205.0,2004-07-27,Oshawa Generals,East Division,25,0
 8728,Lucas Rodriguez,Rodriguez,Lucas,D,R,6.02,192.0,2006-04-26,Oshawa Generals,East Division,26,0
-8727,Tyler Graham,Graham,Tyler,LW,L,5.11,190.0,2006-08-10,Oshawa Generals,East Division,28,0
-9034,Caeden Heins,Heins,Caeden,LW,L,6.01,176.0,2006-02-06,Oshawa Generals,East Division,44,0
 9019,Josh Brady,Brady,Josh,D,R,6.01,185.0,2006-01-11,Ottawa 67's,East Division,3,0
 8975,Kaleb Dietsch,Dietsch,Kaleb,D,L,6.03,191.0,2007-01-03,Ottawa 67's,East Division,4,1
 8888,Bradley Horner,Horner,Bradley,D,R,6.00,195.0,2005-06-16,Ottawa 67's,East Division,5,0
@@ -178,7 +178,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9352,Dylan Turcotte,Turcotte,Dylan,LW,L,6.01,164.0,2007-02-06,Peterborough Petes,East Division,21,0
 9359,Raiden Doxtator,Doxtator,Raiden,LW,L,5.11,161.0,2008-08-24,Peterborough Petes,East Division,24,1
 9189,Arvin Jaswal,Jaswal,Arvin,G,R,6.01,156.0,2008-03-29,Barrie Colts,Central Division,1,1
-8446,Grayson Tiller,Tiller,Grayson,D,L,5.10,193.0,2005-02-20,Barrie Colts,Central Division,8,0
+8446,Grayson Tiller,Tiller,Grayson,D,L,5.10,190.0,2005-02-20,Barrie Colts,Central Division,8,0
 8684,Zach Wigle,Wigle,Zach,C,L,6.00,193.0,2004-01-12,Barrie Colts,Central Division,9,0
 8493,Tristan Bertucci,Bertucci,Tristan,D,L,6.02,187.0,2005-07-12,Barrie Colts,Central Division,12,0
 8395,Anthony Romani,Romani,Anthony,RW,R,6.01,190.0,2005-07-12,Barrie Colts,Central Division,15,0
@@ -584,6 +584,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9186,Troy Patton,Patton,Troy,C,L,5.10,178.0,2008-06-12,Brampton Steelheads,Central Division,77,1
 8553,Konnor Smith,Smith,Konnor,D,L,6.06,217.0,2004-11-06,Brampton Steelheads,Central Division,84,0
 8605,Adam Zidlicky,Zidlicky,Adam,LW,L,6.00,170.0,2005-01-28,Brampton Steelheads,Central Division,91,0
+8743,Porter Martone,Martone,Porter,RW,R,6.03,208.0,2006-10-26,Brampton Steelheads,Central Division,94,0
 9282,Alexander Stephen,Stephen,Alexander,D,L,6.03,195.0,2005-03-22,Brampton Steelheads,Central Division,2,0
 9304,Thomas Kuipers,Kuipers,Thomas,RW,R,6.02,180.0,2006-04-20,Brampton Steelheads,Central Division,12,0
 9082,Wyatt Jinman,Jinman,Wyatt,LW,L,6.02,160.0,2007-10-11,Brampton Steelheads,Central Division,21,0
@@ -592,7 +593,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9180,Manuel Amado,Amado,Manuel,C,L,6.02,175.0,2008-02-04,Brampton Steelheads,Central Division,42,0
 8825,Chase Lefebvre,Lefebvre,Chase,C,L,6.03,180.0,2004-05-13,Brampton Steelheads,Central Division,71,0
 9187,Martin Vaculik,Vaculik,Martin,RW,R,6.00,174.0,2006-09-20,Brampton Steelheads,Central Division,88,1
-8743,Porter Martone,Martone,Porter,RW,R,6.03,208.0,2006-10-26,Brampton Steelheads,Central Division,94,0
 8602,Wyatt Kennedy,Kennedy,Wyatt,D,R,6.05,202.0,2005-05-27,North Bay Battalion,Central Division,2,0
 8940,Adrian Manzo,Manzo,Adrian,D,R,6.00,183.0,2007-08-28,North Bay Battalion,Central Division,2,0
 9322,Jonathan Kapageridis,Kapageridis,Jonathan,D,L,6.00,176.0,2007-05-08,North Bay Battalion,Central Division,3,1
@@ -609,7 +609,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9175,Parker Vaughan,Vaughan,Parker,RW,R,6.01,189.0,2008-03-06,North Bay Battalion,Central Division,16,0
 8361,Jacob LeBlanc,LeBlanc,Jacob,D,R,6.01,186.0,2004-06-03,North Bay Battalion,Central Division,18,0
 8987,Nolan Laird,Laird,Nolan,C,L,6.01,180.0,2006-01-04,North Bay Battalion,Central Division,19,0
-9040,Reyth Smith,Smith,Reyth,LW,L,6.02,173.0,2007-07-27,North Bay Battalion,Central Division,20,1
+9040,Reyth Smith,Smith,Reyth,LW,L,6.02,179.0,2007-07-27,North Bay Battalion,Central Division,20,1
 8721,Ethan Procyszyn,Procyszyn,Ethan,C,R,6.03,192.0,2006-07-11,North Bay Battalion,Central Division,21,0
 8988,Zach Wilson,Wilson,Zach,D,L,6.06,187.0,2007-03-07,North Bay Battalion,Central Division,22,1
 9235,Stepan Chukharev,Chukharev,Stepan,RW,L,6.02,192.0,2007-02-28,North Bay Battalion,Central Division,23,1
@@ -632,32 +632,32 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9237,Carter Nadon,Nadon,Carter,G,R,6.01,184.0,2007-09-02,North Bay Battalion,Central Division,35,1
 8681,Noah Van Vliet,Van Vliet,Noah,D,L,6.02,222.0,2004-02-18,Niagara IceDogs,Central Division,5,0
 9007,Jack Brauti,Brauti,Jack,D,L,6.00,165.0,2006-05-24,Niagara IceDogs,Central Division,6,0
-8753,Callum Cheynowski,Cheynowski,Callum,D,L,6.00,197.0,2006-08-04,Niagara IceDogs,Central Division,7,0
+8753,Callum Cheynowski,Cheynowski,Callum,D,L,6.00,195.0,2006-08-04,Niagara IceDogs,Central Division,7,0
 8460,Alex Assadourian,Assadourian,Alex,C,L,5.10,172.0,2005-07-24,Niagara IceDogs,Central Division,8,0
-8756,Kevin He,He,Kevin,LW,L,6.00,180.0,2006-04-30,Niagara IceDogs,Central Division,11,0
-8964,Ethan Czata,Czata,Ethan,C,L,6.01,175.0,2007-05-29,Niagara IceDogs,Central Division,12,0
+8756,Kevin He,He,Kevin,LW,L,6.00,182.0,2006-04-30,Niagara IceDogs,Central Division,11,0
+8964,Ethan Czata,Czata,Ethan,C,L,6.01,178.0,2007-05-29,Niagara IceDogs,Central Division,12,0
 8638,Mike Levin,Levin,Mike,LW,L,5.08,158.0,2005-10-16,Niagara IceDogs,Central Division,16,0
 8877,Blair Scott,Scott,Blair,D,L,6.02,190.0,2005-04-14,Niagara IceDogs,Central Division,17,0
 8982,Blake Arrowsmith,Arrowsmith,Blake,RW,R,6.01,186.0,2007-04-17,Niagara IceDogs,Central Division,18,1
 8385,Gavin Bryant,Bryant,Gavin,C,L,5.11,188.0,2004-07-24,Niagara IceDogs,Central Division,19,0
 9076,Rafek Dianov,Dianov,Rafek,LW,L,5.10,175.0,2007-02-25,Niagara IceDogs,Central Division,22,1
 9143,Max Crete,Crete,Max,C,L,5.09,182.0,2008-04-24,Niagara IceDogs,Central Division,23,1
-9010,Darcy Dewachter,Dewachter,Darcy,D,R,5.11,183.0,2007-03-01,Niagara IceDogs,Central Division,24,1
-8963,Ryan Roobroeck,Roobroeck,Ryan,LW,L,6.04,190.0,2007-09-25,Niagara IceDogs,Central Division,25,0
+9010,Darcy Dewachter,Dewachter,Darcy,D,R,5.11,173.0,2007-03-01,Niagara IceDogs,Central Division,24,1
+8963,Ryan Roobroeck,Roobroeck,Ryan,LW,L,6.04,215.0,2007-09-25,Niagara IceDogs,Central Division,25,0
 9218,Andrei Loshko,Loshko,Andrei,C,L,6.02,184.0,2004-10-07,Niagara IceDogs,Central Division,27,0
 8427,Owen Flores,Flores,Owen,G,L,6.02,195.0,2004-05-09,Niagara IceDogs,Central Division,35,0
-8747,Sean Doherty,Doherty,Sean,RW,R,6.01,182.0,2006-03-23,Niagara IceDogs,Central Division,44,0
-8817,Matthew Virgilio,Virgilio,Matthew,D,R,5.11,196.0,2006-03-24,Niagara IceDogs,Central Division,48,0
+8747,Sean Doherty,Doherty,Sean,RW,R,6.01,185.0,2006-03-23,Niagara IceDogs,Central Division,44,0
+8817,Matthew Virgilio,Virgilio,Matthew,D,R,5.11,200.0,2006-03-24,Niagara IceDogs,Central Division,48,0
 8428,Mathieu Paris,Paris,Mathieu,RW,R,6.00,182.0,2005-01-01,Niagara IceDogs,Central Division,54,0
 9142,Braidy Wassilyn,Wassilyn,Braidy,C,L,5.11,194.0,2008-05-28,Niagara IceDogs,Central Division,66,1
 8749,Masen Wray,Wray,Masen,C,L,6.04,185.0,2006-05-15,Niagara IceDogs,Central Division,71,0
-9147,Charlie Hotles,Hotles,Charlie,C,R,6.02,180.0,2008-07-05,Niagara IceDogs,Central Division,74,1
+9147,Charlie Hotles,Hotles,Charlie,C,R,6.02,183.0,2008-07-05,Niagara IceDogs,Central Division,74,1
 8473,Andrew Wycisk,Wycisk,Andrew,D,R,5.11,170.0,2005-07-01,Niagara IceDogs,Central Division,75,0
-8683,Charlie Robertson,Robertson,Charlie,G,L,6.04,175.0,2005-04-02,Niagara IceDogs,Central Division,77,0
+8683,Charlie Robertson,Robertson,Charlie,G,L,6.04,182.0,2005-04-02,Niagara IceDogs,Central Division,77,0
 9144,Nick Frasca,Frasca,Nick,D,L,6.01,185.0,2008-05-04,Niagara IceDogs,Central Division,78,1
-9263,Hayden Jeffery,Jeffery,Hayden,G,R,6.1,175.0,2006-05-08,Niagara IceDogs,Central Division,80,1
-9145,Matthew Humphries,Humphries,Matthew,G,R,6.02,180.0,2008-07-28,Niagara IceDogs,Central Division,82,1
-8971,Ivan Galiyanov,Galiyanov,Ivan,LW,L,5.10,174.0,2007-10-16,Niagara IceDogs,Central Division,92,0
+9263,Hayden Jeffery,Jeffery,Hayden,G,R,6.1,183.0,2006-05-08,Niagara IceDogs,Central Division,80,1
+9145,Matthew Humphries,Humphries,Matthew,G,R,6.02,196.0,2008-07-28,Niagara IceDogs,Central Division,82,1
+8971,Ivan Galiyanov,Galiyanov,Ivan,LW,L,5.10,179.0,2007-10-16,Niagara IceDogs,Central Division,92,0
 9269,Finn Moffett,Moffett,Finn,G,R,6.03,170.0,2007-02-06,Niagara IceDogs,Central Division,80,1
 9346,Matteo Porporino,Porporino,Matteo,G,R,6.01,170.0,2005-11-15,Niagara IceDogs,Central Division,80,0
 9342,Linkin Stinson-Kurz,Stinson-Kurz,Linkin,G,R,6.02,190.0,2007-03-07,Niagara IceDogs,Central Division,80,0
