@@ -1,0 +1,86 @@
+[
+    {
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Saginaw Spirit",
+        "winner": "Saginaw Spirit",
+        "probabilities": {
+            "Brantford Bulldogs": "49.56%",
+            "Saginaw Spirit": "50.44%"
+        },
+        "odds": {
+            "Brantford Bulldogs": "-109",
+            "Saginaw Spirit": "-113"
+        },
+        "game_time": "2:00 pm"
+    },
+    {
+        "home_team": "Kitchener Rangers",
+        "away_team": "Oshawa Generals",
+        "winner": "Oshawa Generals",
+        "probabilities": {
+            "Kitchener Rangers": "49.64%",
+            "Oshawa Generals": "50.36%"
+        },
+        "odds": {
+            "Kitchener Rangers": "-109",
+            "Oshawa Generals": "-113"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Niagara IceDogs",
+        "away_team": "Flint Firebirds",
+        "winner": "Niagara IceDogs",
+        "probabilities": {
+            "Niagara IceDogs": "50.64%",
+            "Flint Firebirds": "49.36%"
+        },
+        "odds": {
+            "Niagara IceDogs": "-114",
+            "Flint Firebirds": "-108"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Peterborough Petes",
+        "away_team": "Erie Otters",
+        "winner": "Erie Otters",
+        "probabilities": {
+            "Peterborough Petes": "23.18%",
+            "Erie Otters": "76.82%"
+        },
+        "odds": {
+            "Peterborough Petes": "+310",
+            "Erie Otters": "-423"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Sarnia Sting",
+        "away_team": "London Knights",
+        "winner": "London Knights",
+        "probabilities": {
+            "Sarnia Sting": "24.35%",
+            "London Knights": "75.65%"
+        },
+        "odds": {
+            "Sarnia Sting": "+290",
+            "London Knights": "-391"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Guelph Storm",
+        "away_team": "Brampton Steelheads",
+        "winner": "Brampton Steelheads",
+        "probabilities": {
+            "Guelph Storm": "30.88%",
+            "Brampton Steelheads": "69.12%"
+        },
+        "odds": {
+            "Guelph Storm": "+208",
+            "Brampton Steelheads": "-267"
+        },
+        "game_time": "7:07 pm"
+    }
+]
