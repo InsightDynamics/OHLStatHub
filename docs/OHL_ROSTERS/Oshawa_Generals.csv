@@ -16,7 +16,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8543,Luca Marrelli,Marrelli,Luca,D,R,6.02,185.0,2005-10-04,Oshawa Generals,East Division,19,0
 8413,Calum Ritchie,Ritchie,Calum,C,R,6.03,190.0,2005-01-21,Oshawa Generals,East Division,21,0
 9096,Tyler O'Toole,O'Toole,Tyler,RW,R,6.01,200.0,2006-06-28,Oshawa Generals,East Division,23,0
-8727,Tyler Graham,Graham,Tyler,LW,L,5.10,192.0,2006-08-10,Oshawa Generals,East Division,28,0
 9128,David Svozil,Svozil,David,D,L,6.02,177.0,2006-03-07,Oshawa Generals,East Division,29,0
 8937,Hayden Sabourin,Sabourin,Hayden,G,L,5.11,183.0,2005-05-27,Oshawa Generals,East Division,30,0
 8955,Shawn Costello,Costello,Shawn,C,L,6.02,188.0,2007-01-20,Oshawa Generals,East Division,32,1
@@ -25,7 +24,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8388,Colby Barlow,Barlow,Colby,LW,L,6.01,190.0,2005-02-14,Oshawa Generals,East Division,39,0
 8934,Tristan Delisle,Delisle,Tristan,C,L,5.11,172.0,2007-05-15,Oshawa Generals,East Division,40,0
 9129,Lauri Sinivuori,Sinivuori,Lauri,C,L,6.01,180.0,2006-04-28,Oshawa Generals,East Division,42,0
-9034,Caeden Heins,Heins,Caeden,LW,L,6.00,182.0,2006-02-06,Oshawa Generals,East Division,44,0
 8724,Beckett Sennecke,Sennecke,Beckett,RW,R,6.04,195.0,2006-01-28,Oshawa Generals,East Division,45,0
 8794,Ethan Toms,Toms,Ethan,C,L,5.10,187.0,2006-01-19,Oshawa Generals,East Division,61,0
 8563,Zackary Sandhu,Sandhu,Zackary,D,L,6.02,208.0,2005-12-20,Oshawa Generals,East Division,72,0
@@ -35,3 +33,5 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8932,Owen Griffin,Griffin,Owen,C,R,5.10,167.0,2007-04-08,Oshawa Generals,East Division,96,0
 8470,Dylan Roobroeck,Roobroeck,Dylan,C,L,6.07,205.0,2004-07-27,Oshawa Generals,East Division,25,0
 8728,Lucas Rodriguez,Rodriguez,Lucas,D,R,6.02,192.0,2006-04-26,Oshawa Generals,East Division,26,0
+8727,Tyler Graham,Graham,Tyler,LW,L,5.10,192.0,2006-08-10,Oshawa Generals,East Division,28,0
+9034,Caeden Heins,Heins,Caeden,LW,L,6.00,182.0,2006-02-06,Oshawa Generals,East Division,44,0
