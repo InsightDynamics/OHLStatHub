@@ -1,0 +1,72 @@
+[
+    {
+        "home_team": "Kingston Frontenacs",
+        "away_team": "Ottawa 67's",
+        "winner": "Kingston Frontenacs",
+        "probabilities": {
+            "Kingston Frontenacs": "72.56%",
+            "Ottawa 67's": "27.44%"
+        },
+        "odds": {
+            "Kingston Frontenacs": "-323",
+            "Ottawa 67's": "+246"
+        },
+        "game_time": "2:00 pm"
+    },
+    {
+        "home_team": "Kitchener Rangers",
+        "away_team": "Saginaw Spirit",
+        "winner": "Saginaw Spirit",
+        "probabilities": {
+            "Kitchener Rangers": "45.20%",
+            "Saginaw Spirit": "54.80%"
+        },
+        "odds": {
+            "Kitchener Rangers": "+110",
+            "Saginaw Spirit": "-136"
+        },
+        "game_time": "2:00 pm"
+    },
+    {
+        "home_team": "Owen Sound Attack",
+        "away_team": "North Bay Battalion",
+        "winner": "Owen Sound Attack",
+        "probabilities": {
+            "Owen Sound Attack": "54.09%",
+            "North Bay Battalion": "45.91%"
+        },
+        "odds": {
+            "Owen Sound Attack": "-132",
+            "North Bay Battalion": "+107"
+        },
+        "game_time": "2:00 pm"
+    },
+    {
+        "home_team": "Peterborough Petes",
+        "away_team": "Erie Otters",
+        "winner": "Erie Otters",
+        "probabilities": {
+            "Peterborough Petes": "23.18%",
+            "Erie Otters": "76.82%"
+        },
+        "odds": {
+            "Peterborough Petes": "+310",
+            "Erie Otters": "-423"
+        },
+        "game_time": "2:05 pm"
+    },
+    {
+        "home_team": "Soo Greyhounds",
+        "away_team": "Sudbury Wolves",
+        "winner": "Sudbury Wolves",
+        "probabilities": {
+            "Soo Greyhounds": "48.01%",
+            "Sudbury Wolves": "51.99%"
+        },
+        "odds": {
+            "Soo Greyhounds": "-102",
+            "Sudbury Wolves": "-121"
+        },
+        "game_time": "2:07 pm"
+    }
+]
