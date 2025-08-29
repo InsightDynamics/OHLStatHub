@@ -7,7 +7,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9240,Josh Colosimo,Colosimo,Josh,C,L,6.02,185.0,2006-01-13,Flint Firebirds,West Division,13,0
 8926,Jeremy Martin,Martin,Jeremy,LW,L,6.01,195.0,2007-02-06,Flint Firebirds,West Division,15,0
 8704,Kaden Pitre,Pitre,Kaden,C,L,6.00,185.0,2006-02-08,Flint Firebirds,West Division,17,0
-9270,Hayden Reid,Reid,Hayden,C,L,6.0,181.0,2006-06-21,Flint Firebirds,West Division,18,0
+9270,Hayden Reid,Reid,Hayden,C,L,6.00,181.0,2006-06-21,Flint Firebirds,West Division,18,0
 8657,Matthew Mania,Mania,Matthew,D,R,6.01,190.0,2005-01-11,Flint Firebirds,West Division,19,0
 9227,Karlis Flugins,Flugins,Karlis,C,R,5.11,185.0,2007-11-11,Flint Firebirds,West Division,21,1
 8929,Max Anderson,Anderson,Max,C,L,5.10,160.0,2007-07-18,Flint Firebirds,West Division,22,0
@@ -23,11 +23,11 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9241,Christian Colosimo,Colosimo,Christian,D,L,6.05,215.0,2008-12-01,Flint Firebirds,West Division,73,1
 8705,Nathan Aspinall,Aspinall,Nathan,LW,L,6.07,195.0,2006-03-30,Flint Firebirds,West Division,76,0
 8461,Nolan Collins,Collins,Nolan,D,R,6.04,215.0,2004-04-28,Flint Firebirds,West Division,77,0
+9229,Xavier Tessier,Tessier,Xavier,LW,L,6.01,185.0,2008-05-09,Flint Firebirds,West Division,81,1
 9243,Brendan Cooke,Cooke,Brendan,LW,R,5.10,170.0,2007-12-22,Flint Firebirds,West Division,86,1
 9230,Ryland Cunningham,Cunningham,Ryland,LW,L,5.10,185.0,2008-06-28,Flint Firebirds,West Division,88,1
 8458,Evan Konyen,Konyen,Evan,RW,R,6.00,180.0,2004-02-22,Flint Firebirds,West Division,91,0
 9231,Gage Brandon,Brandon,Gage,C,L,5.11,160.0,2008-06-10,Flint Firebirds,West Division,92,0
 8970,Urban Podrekar,Podrekar,Urban,D,L,6.00,194.0,2005-02-14,Flint Firebirds,West Division,98,0
 8892,Jacob Brown,Brown,Jacob,G,L,6.03,190.0,2006-03-07,Flint Firebirds,West Division,41,0
-9229,Xavier Tessier,Tessier,Xavier,LW,L,6.01,185.0,2008-05-09,Flint Firebirds,West Division,81,1
 8876,Marko Stojkov,Stojkov,Marko,D,L,6.00,190.0,2004-08-11,Flint Firebirds,West Division,95,0

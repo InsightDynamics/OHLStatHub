@@ -2,9 +2,11 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9019,Josh Brady,Brady,Josh,D,R,6.01,185.0,2006-01-11,Ottawa 67's,East Division,3,0
 8975,Kaleb Dietsch,Dietsch,Kaleb,D,L,6.03,191.0,2007-01-03,Ottawa 67's,East Division,4,1
 8888,Bradley Horner,Horner,Bradley,D,R,6.00,195.0,2005-06-16,Ottawa 67's,East Division,5,0
+9328,Theo Avila,Avila,Theo,D,R,5.10,182.0,2007-06-17,Ottawa 67's,East Division,6,1
 8715,Frankie Marrelli,Marrelli,Frankie,D,L,5.11,187.0,2006-02-16,Ottawa 67's,East Division,8,0
 8585,Chris Barlas,Barlas,Chris,C,L,5.10,182.0,2005-01-10,Ottawa 67's,East Division,9,0
 8976,Nic Whitehead,Whitehead,Nic,C,L,5.10,159.0,2007-02-11,Ottawa 67's,East Division,10,0
+9321,Spencer Bowes,Bowes,Spencer,C,L,6.00,173.0,2007-09-19,Ottawa 67's,East Division,11,1
 8716,Henry Mews,Mews,Henry,D,R,6.01,183.0,2006-03-09,Ottawa 67's,East Division,11,0
 8977,Chase Yanni,Yanni,Chase,LW,L,5.11,183.0,2007-01-08,Ottawa 67's,East Division,16,1
 8586,Brady Stonehouse,Stonehouse,Brady,RW,L,5.10,194.0,2004-08-06,Ottawa 67's,East Division,17,0
@@ -17,7 +19,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8596,Will Gerrior,Gerrior,Will,LW,L,5.10,179.0,2004-03-02,Ottawa 67's,East Division,23,0
 8980,Kimi Körbler,Körbler,Kimi,RW,L,5.11,166.0,2006-09-25,Ottawa 67's,East Division,24,0
 9033,Zach Houben,Houben,Zach,LW,L,6.05,207.0,2007-02-01,Ottawa 67's,East Division,25,1
-9178,Nathan Amidovski,Amidovski,Nathan,LW,L,6.02,171.0,2008-04-06,Ottawa 67's,East Division,26,1
+9178,Nathan Amidovski,Amidovski,Nathan,LW,L,6.02,184.0,2008-04-06,Ottawa 67's,East Division,26,1
 9015,Nolan Jackson,Jackson,Nolan,D,L,6.01,180.0,2007-01-02,Ottawa 67's,East Division,27,1
 8717,Caden Kelly,Kelly,Caden,RW,R,5.11,197.0,2006-01-15,Ottawa 67's,East Division,28,0
 8591,Cooper Foster,Foster,Cooper,C,L,6.00,187.0,2005-06-04,Ottawa 67's,East Division,29,0
@@ -27,9 +29,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9296,Rylan Donovan,Donovan,Rylan,G,L,6.01,190.0,2005-08-30,Ottawa 67's,East Division,1,0
 9303,Daniel Giusti,Giusti,Daniel,G,L,5.10,161.0,2007-06-22,Ottawa 67's,East Division,1,1
 9312,Chase Petrova,Petrova,Chase,G,L,5.11,168.0,2008-11-12,Ottawa 67's,East Division,1,1
-9328,Theo Avila,Avila,Theo,D,R,5.11,176.0,2007-06-17,Ottawa 67's,East Division,6,1
 8590,Thomas Sirman,Sirman,Thomas,D,L,5.10,186.0,2004-03-05,Ottawa 67's,East Division,6,0
-9321,Spencer Bowes,Bowes,Spencer,C,L,5.11,160.0,2007-09-19,Ottawa 67's,East Division,11,1
 9309,Shaan Kingwell,Kingwell,Shaan,LW,L,5.11,168.0,2007-02-07,Ottawa 67's,East Division,12,1
 9334,Matthew Souliere,Souliere,Matthew,LW,L,6.03,190.0,2006-08-01,Ottawa 67's,East Division,13,0
 9360,Clarence Allain,Allain,Clarence,LW,L,5.10,174.0,2008-06-13,Ottawa 67's,East Division,17,1

@@ -12,7 +12,7 @@ Player_ID,Name,Rookie,JN,BD,BD_Y,Hgt,Wgt,Pos,Team,GP,G,A,PTS,Pts/G,+/-,PPG,PPA,G
 8481,Matthew Wang,NO,28,,2005.0,6.02,202,LW,Flint Firebirds,68,15,13,28,0.41,3,1,0,2,0,62,1,3.6,-9.5
 8970,Urban Podrekar,NO,98,,2005.0,6.00,194,D,Flint Firebirds,65,10,17,27,0.42,-14,3,4,1,0,27,7,25.9,4.5
 8461,Nolan Collins,NO,77,,2004.0,6.04,215,D,Flint Firebirds,36,4,13,17,0.47,8,1,6,1,0,52,7,41.2,-16.5
-9270,Hayden Reid,NO,18,,2006.0,6.0,181,C,Flint Firebirds,51,9,7,16,0.31,-11,1,0,0,0,33,1,6.2,-15.5
+9270,Hayden Reid,NO,18,,2006.0,6.00,181,C,Flint Firebirds,51,9,7,16,0.31,-11,1,0,0,0,33,1,6.2,-15.5
 8926,Jeremy Martin,NO,15,,2007.0,6.01,195,LW,Flint Firebirds,64,7,7,14,0.22,-9,0,0,0,0,21,0,0.0,-5.5
 9227,Karlis Flugins,YES,21,,2007.0,5.11,185,C,Flint Firebirds,52,5,9,14,0.27,2,1,0,2,0,4,1,7.1,21.5
 8966,Artem Frolov,NO,26,,2007.0,6.01,193,D,Flint Firebirds,65,4,10,14,0.22,-2,1,0,0,0,27,1,7.1,-6.0
@@ -21,7 +21,6 @@ Player_ID,Name,Rookie,JN,BD,BD_Y,Hgt,Wgt,Pos,Team,GP,G,A,PTS,Pts/G,+/-,PPG,PPA,G
 8929,Max Anderson,NO,22,,2007.0,5.10,160,C,Flint Firebirds,47,2,3,5,0.11,-1,0,0,0,0,33,0,0.0,-25.5
 8930,Jack D'Arcy,YES,25,,2007.0,5.10,162,D,Flint Firebirds,46,1,4,5,0.11,-1,0,0,0,0,14,0,0.0,-7.0
 9336,James Paul,YES,7,,2007.0,6.02,170,D,Flint Firebirds,7,1,1,2,0.29,0,0,0,0,0,2,0,0.0,1.5
-9229,Xavier Tessier,YES,81,,2008.0,6.01,185,LW,Flint Firebirds,4,1,0,1,0.25,1,0,0,0,0,0,0,0.0,3.0
 9230,Ryland Cunningham,YES,88,,2008.0,5.10,185,LW,Flint Firebirds,9,0,1,1,0.11,-2,0,0,0,0,4,0,0.0,-4.5
 9231,Gage Brandon,NO,92,,2008.0,5.11,160,C,Flint Firebirds,3,0,0,0,0.0,0,0,0,0,0,0,0,,0.0
 9241,Christian Colosimo,YES,73,,2008.0,6.05,215,D,Flint Firebirds,6,0,0,0,0.0,-2,0,0,0,0,4,0,,-6.0
