@@ -38,40 +38,40 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8419,Ben Bujold,Bujold,Ben,C,L,5.11,181.0,2004-03-03,Brantford Bulldogs,East Division,89,0
 8371,Mason Vaccari,Vaccari,Mason,G,L,5.10,184.0,2005-04-29,Kingston Frontenacs,East Division,1,0
 9173,Lukas Moore,Moore,Lukas,D,R,6.02,195.0,2007-04-20,Kingston Frontenacs,East Division,4,1
-8547,Will Bishop,Bishop,Will,D,R,6.06,210.0,2005-03-17,Kingston Frontenacs,East Division,6,0
+8547,Will Bishop,Bishop,Will,D,R,6.06,209.0,2005-03-17,Kingston Frontenacs,East Division,6,0
 9140,Emil Pieniniemi,Pieniniemi,Emil,D,L,6.03,177.0,2005-03-02,Kingston Frontenacs,East Division,7,0
 8978,Tuomas Uronen,Uronen,Tuomas,RW,R,6.00,194.0,2005-03-19,Kingston Frontenacs,East Division,8,0
 8599,Gage Heyes,Heyes,Gage,RW,R,6.00,172.0,2004-04-21,Kingston Frontenacs,East Division,9,0
-9300,Kieren Dervin,Dervin,Kieren,C,L,6.02,181.0,2007-03-31,Kingston Frontenacs,East Division,10,1
-8702,Maleek McGowan,McGowan,Maleek,D,L,6.00,190.0,2005-06-13,Kingston Frontenacs,East Division,11,0
-8676,Ben Pickell,Pickell,Ben,LW,L,5.09,186.0,2005-07-20,Kingston Frontenacs,East Division,12,0
+9300,Kieren Dervin,Dervin,Kieren,C,L,6.01,183.0,2007-03-31,Kingston Frontenacs,East Division,10,1
+8702,Maleek McGowan,McGowan,Maleek,D,L,6.00,192.0,2005-06-13,Kingston Frontenacs,East Division,11,0
+8676,Ben Pickell,Pickell,Ben,LW,L,5.09,187.0,2005-07-20,Kingston Frontenacs,East Division,12,0
 8770,Joey Willis,Willis,Joey,LW,L,5.11,185.0,2005-03-14,Kingston Frontenacs,East Division,14,0
 8407,Ethan Miedema,Miedema,Ethan,LW,L,6.04,212.0,2005-03-22,Kingston Frontenacs,East Division,15,0
-9262,Riley Clark,Clark,Riley,LW,L,6.01,185.0,2006-05-03,Kingston Frontenacs,East Division,17,0
-9141,Camden McCuaig,McCuaig,Camden,LW,L,6.02,174.0,2008-06-19,Kingston Frontenacs,East Division,20,1
-9137,Nolan Buttar,Buttar,Nolan,C,L,6.01,181.0,2008-05-23,Kingston Frontenacs,East Division,22,1
+9262,Riley Clark,Clark,Riley,LW,L,6.01,187.0,2006-05-03,Kingston Frontenacs,East Division,17,0
+9141,Camden McCuaig,McCuaig,Camden,LW,L,6.02,195.0,2008-06-19,Kingston Frontenacs,East Division,20,1
+9137,Nolan Buttar,Buttar,Nolan,C,L,6.02,190.0,2008-05-23,Kingston Frontenacs,East Division,22,1
 9307,André Mondoux,Mondoux,André,D,L,6.04,198.0,2007-03-16,Kingston Frontenacs,East Division,25,1
-8820,Vann Williamson,Williamson,Vann,D,R,6.01,188.0,2006-07-19,Kingston Frontenacs,East Division,27,0
+8820,Vann Williamson,Williamson,Vann,D,R,6.01,187.0,2006-07-19,Kingston Frontenacs,East Division,27,0
 8364,Luke McNamara,McNamara,Luke,C,L,6.03,182.0,2005-03-02,Kingston Frontenacs,East Division,29,0
 9327,Landon Wright,Wright,Landon,RW,R,5.11,181.0,2006-01-17,Kingston Frontenacs,East Division,36,0
 8873,Jakub Chromiak,Chromiak,Jakub,D,R,5.11,183.0,2005-11-02,Kingston Frontenacs,East Division,37,0
 8558,Charlie Schenkel,Schenkel,Charlie,G,R,6.05.,203.0,2004-08-16,Kingston Frontenacs,East Division,37,0
 8376,Quinton Burns,Burns,Quinton,D,L,6.02,199.0,2005-04-14,Kingston Frontenacs,East Division,41,0
-9138,Gavin Betts,Betts,Gavin,G,L,5.11,173.0,2008-04-03,Kingston Frontenacs,East Division,43,1
+9138,Gavin Betts,Betts,Gavin,G,L,5.11,174.0,2008-04-03,Kingston Frontenacs,East Division,43,1
 8389,Cal Uens,Uens,Cal,D,R,5.09,168.0,2005-02-11,Kingston Frontenacs,East Division,44,0
-9139,Adam Kelly,Kelly,Adam,C,R,5.11,177.0,2008-09-19,Kingston Frontenacs,East Division,47,1
+9139,Adam Kelly,Kelly,Adam,C,R,5.11,182.0,2008-09-19,Kingston Frontenacs,East Division,47,1
 8480,Ethan Hay,Hay,Ethan,C,L,6.01,195.0,2005-01-15,Kingston Frontenacs,East Division,68,0
-8973,Ethan Weir,Weir,Ethan,RW,R,5.11,180.0,2007-01-10,Kingston Frontenacs,East Division,73,1
-8974,Xander Velliaris,Velliaris,Xander,D,L,6.03,205.0,2007-04-23,Kingston Frontenacs,East Division,77,1
+8973,Ethan Weir,Weir,Ethan,RW,R,5.11,185.0,2007-01-10,Kingston Frontenacs,East Division,73,1
+8974,Xander Velliaris,Velliaris,Xander,D,L,6.03,210.0,2007-04-23,Kingston Frontenacs,East Division,77,1
 8528,Nolan Lalonde,Lalonde,Nolan,G,L,6.02,197.0,2004-02-14,Kingston Frontenacs,East Division,79,0
 8764,Jacob Battaglia,Battaglia,Jacob,LW,L,6.01,202.0,2006-03-17,Kingston Frontenacs,East Division,88,0
-8972,Tyler Hopkins,Hopkins,Tyler,C,L,6.01,180.0,2007-01-23,Kingston Frontenacs,East Division,91,0
+8972,Tyler Hopkins,Hopkins,Tyler,C,L,6.01,186.0,2007-01-23,Kingston Frontenacs,East Division,91,0
 8372,Matthew Soto,Soto,Matthew,RW,R,6.00,185.0,2005-08-31,Kingston Frontenacs,East Division,92,0
 8384,Cedrick Guindon,Guindon,Cedrick,C,L,5.10,182.0,2004-04-21,Kingston Frontenacs,East Division,93,0
 9174,Max Shewfelt,Shewfelt,Max,LW,L,5.11,172.0,2007-03-16,Kingston Frontenacs,East Division,18,1
 8497,Luca D'Amato,D'Amato,Luca,D,R,5.09,160.0,2004-08-18,Oshawa Generals,East Division,4,0
 9039,Fraser McDonell,McDonell,Fraser,D,L,6.06,211.0,2006-03-02,Oshawa Generals,East Division,6,0
-8726,David Bedkowski,Bedkowski,David,D,R,6.05,215.0,2006-12-07,Oshawa Generals,East Division,7,0
+8726,David Bedkowski,Bedkowski,David,D,R,6.06,220.0,2006-12-07,Oshawa Generals,East Division,7,0
 9293,Simon Wang,Wang,Simon,D,L,6.06,225.0,2007-07-27,Oshawa Generals,East Division,7,1
 9305,Anthony Figliomeni,Figliomeni,Anthony,RW,R,5.10,190.0,2008-09-09,Oshawa Generals,East Division,8,0
 9126,Brooks Rogowski,Rogowski,Brooks,RW,R,6.06,234.0,2008-06-24,Oshawa Generals,East Division,10,1
@@ -92,7 +92,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9026,Noah Bender,Bender,Noah,G,R,6.04,189.0,2006-06-30,Oshawa Generals,East Division,36,0
 8567,Jacob Oster,Oster,Jacob,G,L,6.03,190.0,2004-03-26,Oshawa Generals,East Division,38,0
 8388,Colby Barlow,Barlow,Colby,LW,L,6.01,190.0,2005-02-14,Oshawa Generals,East Division,39,0
-8934,Tristan Delisle,Delisle,Tristan,C,L,5.11,172.0,2007-05-15,Oshawa Generals,East Division,40,0
+8934,Tristan Delisle,Delisle,Tristan,C,L,5.11,184.0,2007-05-15,Oshawa Generals,East Division,40,0
 9129,Lauri Sinivuori,Sinivuori,Lauri,C,L,6.01,180.0,2006-04-28,Oshawa Generals,East Division,42,0
 8724,Beckett Sennecke,Sennecke,Beckett,RW,R,6.04,195.0,2006-01-28,Oshawa Generals,East Division,45,0
 8794,Ethan Toms,Toms,Ethan,C,L,5.10,187.0,2006-01-19,Oshawa Generals,East Division,61,0
@@ -106,41 +106,41 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8727,Tyler Graham,Graham,Tyler,LW,L,5.10,192.0,2006-08-10,Oshawa Generals,East Division,28,0
 9034,Caeden Heins,Heins,Caeden,LW,L,6.00,182.0,2006-02-06,Oshawa Generals,East Division,44,0
 9019,Josh Brady,Brady,Josh,D,R,6.01,185.0,2006-01-11,Ottawa 67's,East Division,3,0
-8975,Kaleb Dietsch,Dietsch,Kaleb,D,L,6.03,191.0,2007-01-03,Ottawa 67's,East Division,4,1
+8975,Kaleb Dietsch,Dietsch,Kaleb,D,L,6.03,208.0,2007-01-03,Ottawa 67's,East Division,4,1
 8888,Bradley Horner,Horner,Bradley,D,R,6.00,195.0,2005-06-16,Ottawa 67's,East Division,5,0
 9328,Theo Avila,Avila,Theo,D,R,5.10,182.0,2007-06-17,Ottawa 67's,East Division,6,1
-8715,Frankie Marrelli,Marrelli,Frankie,D,L,5.11,187.0,2006-02-16,Ottawa 67's,East Division,8,0
+8715,Frank Marrelli,Marrelli,Frank,D,L,5.11,187.0,2006-02-16,Ottawa 67's,East Division,8,0
 8585,Chris Barlas,Barlas,Chris,C,L,5.10,182.0,2005-01-10,Ottawa 67's,East Division,9,0
-8976,Nic Whitehead,Whitehead,Nic,C,L,5.10,159.0,2007-02-11,Ottawa 67's,East Division,10,0
+8976,Nic Whitehead,Whitehead,Nic,C,L,5.10,167.0,2007-02-11,Ottawa 67's,East Division,10,0
 9321,Spencer Bowes,Bowes,Spencer,C,L,6.00,173.0,2007-09-19,Ottawa 67's,East Division,11,1
 8716,Henry Mews,Mews,Henry,D,R,6.01,183.0,2006-03-09,Ottawa 67's,East Division,11,0
+9309,Shaan Kingwell,Kingwell,Shaan,LW,L,6.00,164.0,2007-02-07,Ottawa 67's,East Division,12,1
 8977,Chase Yanni,Yanni,Chase,LW,L,5.11,183.0,2007-01-08,Ottawa 67's,East Division,16,1
+9183,Jordan Perrier,Perrier,Jordan,LW,L,5.10,172.0,2008-07-02,Ottawa 67's,East Division,17,1
 8586,Brady Stonehouse,Stonehouse,Brady,RW,L,5.10,194.0,2004-08-06,Ottawa 67's,East Division,17,0
-8594,Jack Dever,Dever,Jack,C,R,5.10,181.0,2005-09-05,Ottawa 67's,East Division,18,0
-9176,Kohyn Eshkawkogan,Eshkawkogan,Kohyn,D,R,5.10,164.0,2008-11-19,Ottawa 67's,East Division,19,1
+8594,Jack Dever,Dever,Jack,C,R,5.10,183.0,2005-09-05,Ottawa 67's,East Division,18,0
+9176,Kohyn Eshkawkogan,Eshkawkogan,Kohyn,D,R,5.10,174.0,2008-11-19,Ottawa 67's,East Division,19,1
 8587,Luca Pinelli,Pinelli,Luca,LW,L,5.09,169.0,2005-04-05,Ottawa 67's,East Division,20,0
 8979,Charlie Hilton,Hilton,Charlie,LW,L,6.05,212.0,2006-09-15,Ottawa 67's,East Division,21,0
-9329,Ryan White,White,Ryan,D,L,5.09,154.0,2007-06-28,Ottawa 67's,East Division,21,1
+9329,Ryan White,White,Ryan,D,L,5.09,172.0,2007-06-28,Ottawa 67's,East Division,21,1
 8588,Matthew Mayich,Mayich,Matthew,D,L,6.02,197.0,2004-12-21,Ottawa 67's,East Division,22,0
 8596,Will Gerrior,Gerrior,Will,LW,L,5.10,179.0,2004-03-02,Ottawa 67's,East Division,23,0
 8980,Kimi Körbler,Körbler,Kimi,RW,L,5.11,166.0,2006-09-25,Ottawa 67's,East Division,24,0
-9033,Zach Houben,Houben,Zach,LW,L,6.05,207.0,2007-02-01,Ottawa 67's,East Division,25,1
+9033,Zach Houben,Houben,Zach,LW,L,6.06,213.0,2007-02-01,Ottawa 67's,East Division,25,1
 9178,Nathan Amidovski,Amidovski,Nathan,LW,L,6.02,184.0,2008-04-06,Ottawa 67's,East Division,26,1
-9015,Nolan Jackson,Jackson,Nolan,D,L,6.01,180.0,2007-01-02,Ottawa 67's,East Division,27,1
-8717,Caden Kelly,Kelly,Caden,RW,R,5.11,197.0,2006-01-15,Ottawa 67's,East Division,28,0
-8591,Cooper Foster,Foster,Cooper,C,L,6.00,187.0,2005-06-04,Ottawa 67's,East Division,29,0
+9015,Nolan Jackson,Jackson,Nolan,D,L,6.01,190.0,2007-01-02,Ottawa 67's,East Division,27,1
+8717,Caden Kelly,Kelly,Caden,RW,R,5.11,198.0,2006-01-15,Ottawa 67's,East Division,28,0
+8591,Cooper Foster,Foster,Cooper,C,L,6.00,190.0,2005-06-04,Ottawa 67's,East Division,29,0
+9225,Liam Conway,Conway,Liam,G,L,5.11,171.0,2007-06-19,Ottawa 67's,East Division,30,0
 9075,Jaeden Nelson,Nelson,Jaeden,G,L,6.01,208.0,2007-04-11,Ottawa 67's,East Division,32,1
 8593,Collin MacKenzie,MacKenzie,Collin,G,L,6.00,175.0,2004-11-30,Ottawa 67's,East Division,33,0
-9181,Filip Ekberg,Ekberg,Filip,LW,L,5.10,166.0,2007-04-14,Ottawa 67's,East Division,34,1
+9181,Filip Ekberg,Ekberg,Filip,LW,L,5.10,180.0,2007-04-14,Ottawa 67's,East Division,34,1
 9296,Rylan Donovan,Donovan,Rylan,G,L,6.01,190.0,2005-08-30,Ottawa 67's,East Division,1,0
 9303,Daniel Giusti,Giusti,Daniel,G,L,5.10,161.0,2007-06-22,Ottawa 67's,East Division,1,1
 9312,Chase Petrova,Petrova,Chase,G,L,5.11,168.0,2008-11-12,Ottawa 67's,East Division,1,1
 8590,Thomas Sirman,Sirman,Thomas,D,L,5.10,186.0,2004-03-05,Ottawa 67's,East Division,6,0
-9309,Shaan Kingwell,Kingwell,Shaan,LW,L,5.11,168.0,2007-02-07,Ottawa 67's,East Division,12,1
 9334,Matthew Souliere,Souliere,Matthew,LW,L,6.03,190.0,2006-08-01,Ottawa 67's,East Division,13,0
 9360,Clarence Allain,Allain,Clarence,LW,L,5.10,174.0,2008-06-13,Ottawa 67's,East Division,17,1
-9183,Jordan Perrier,Perrier,Jordan,LW,L,5.10,165.0,2008-07-02,Ottawa 67's,East Division,17,1
-9225,Liam Conway,Conway,Liam,G,L,6.00,175.0,2007-06-19,Ottawa 67's,East Division,30,0
 9363,Marcus Sulug,Sulug,Marcus,D,L,6.01,168.0,2008-02-07,Peterborough Petes,East Division,2,0
 9211,Thanasi Marentette,Marentette,Thanasi,D,L,6.00,205.0,2007-01-30,Peterborough Petes,East Division,3,1
 9029,Martin Matejicek,Matejicek,Martin,D,L,6.02,205.0,2005-08-05,Peterborough Petes,East Division,5,0
@@ -178,6 +178,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9352,Dylan Turcotte,Turcotte,Dylan,LW,L,6.01,164.0,2007-02-06,Peterborough Petes,East Division,21,0
 9359,Raiden Doxtator,Doxtator,Raiden,LW,L,5.11,161.0,2008-08-24,Peterborough Petes,East Division,24,1
 9189,Arvin Jaswal,Jaswal,Arvin,G,R,6.01,156.0,2008-03-29,Barrie Colts,Central Division,1,1
+9188,Teague Vader,Vader,Teague,D,L,6.00,185.0,2007-08-23,Barrie Colts,Central Division,6,1
 8446,Grayson Tiller,Tiller,Grayson,D,L,5.10,190.0,2005-02-20,Barrie Colts,Central Division,8,0
 8684,Zach Wigle,Wigle,Zach,C,L,6.00,193.0,2004-01-12,Barrie Colts,Central Division,9,0
 8493,Tristan Bertucci,Bertucci,Tristan,D,L,6.02,187.0,2005-07-12,Barrie Colts,Central Division,12,0
@@ -207,7 +208,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9008,Evan Passmore,Passmore,Evan,D,R,6.04,210.0,2006-12-05,Barrie Colts,Central Division,88,0
 8548,Michael Derbidge,Derbidge,Michael,LW,R,6.01,199.0,2005-04-04,Barrie Colts,Central Division,91,0
 9175,Parker Vaughan,Vaughan,Parker,RW,R,6.01,189.0,2008-03-06,Barrie Colts,Central Division,94,1
-9188,Teague Vader,Vader,Teague,D,L,6.00,185.0,2007-08-23,Barrie Colts,Central Division,6,1
 9177,Noah Barton,Barton,Noah,D,R,6.02,183.0,2008-10-16,Barrie Colts,Central Division,7,0
 8633,Tai York,York,Tai,LW,L,6.01,185.0,2004-06-18,Barrie Colts,Central Division,23,0
 9072,Nolan Newton,Newton,Nolan,RW,R,5.09,165.0,2006-01-27,Barrie Colts,Central Division,61,0
@@ -265,6 +265,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8520,Max Namestnikov,Namestnikov,Max,LW,L,5.08,184.0,2004-02-06,Guelph Storm,Midwest Division,26,0
 9277,Lucas Teixeira,Teixeira,Lucas,C,R,6.01,185.0,2007-01-28,Guelph Storm,Midwest Division,27,1
 9216,Jimmy Sutherland,Sutherland,Jimmy,LW,L,5.09,160.0,2007-02-14,Guelph Storm,Midwest Division,29,1
+9225,Liam Conway,Conway,Liam,G,L,5.11,171.0,2007-06-19,Guelph Storm,Midwest Division,30,0
 9167,Zachary Jovanovski,Jovanovski,Zachary,G,L,6.02,170.0,2007-10-07,Guelph Storm,Midwest Division,30,1
 8880,Brayden Gillespie,Gillespie,Brayden,G,R,5.11,172.0,2005-07-23,Guelph Storm,Midwest Division,31,0
 9291,Lev Katzin,Katzin,Lev,C,L,5.8,176.0,2007-05-13,Guelph Storm,Midwest Division,33,1
@@ -278,7 +279,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9266,Jackson Young,Young,Jackson,D,L,6.05,190.0,2005-02-08,Guelph Storm,Midwest Division,6,0
 9278,Daniel Berehowsky,Berehowsky,Daniel,C,R,5.10,180.0,2006-09-29,Guelph Storm,Midwest Division,16,0
 8882,William Haley,Haley,William,D,L,6.00,177.0,2005-10-15,Guelph Storm,Midwest Division,17,0
-9225,Liam Conway,Conway,Liam,G,L,6.00,175.0,2007-06-19,Guelph Storm,Midwest Division,30,0
 8796,Justin Bottineau,Bottineau,Justin,RW,R,6.00,168.0,2006-01-11,Guelph Storm,Midwest Division,77,0
 8873,Jakub Chromiak,Chromiak,Jakub,RD,R,5.11,183.0,2005-11-02,Kitchener Rangers,Midwest Division,3,0
 8465,Matthew Andonovski,Andonovski,Matthew,LD,L,6.02,200.0,2005-03-14,Kitchener Rangers,Midwest Division,5,0
@@ -312,43 +312,43 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9311,Jacob Xu,Xu,Jacob,LD,L,6.02,181.0,2008-03-13,Kitchener Rangers,Midwest Division,96,1
 8653,Antonino Pugliese,Pugliese,Antonino,RW,R,5.09,179.0,2004-04-09,Kitchener Rangers,Midwest Division,44,0
 8796,Justin Bottineau,Bottineau,Justin,RW,R,6.00,168.0,2006-01-11,Kitchener Rangers,Midwest Division,77,0
-8740,Braedyn Rogers,Rogers,Braedyn,D,R,6.00,180.0,2006-11-22,Owen Sound Attack,Midwest Division,2,0
-9190,Elliot Arnett,Arnett,Elliot,D,L,6.01,189.0,2008-03-12,Owen Sound Attack,Midwest Division,4,1
-9032,Gabriel Smith,Smith,Gabriel,D,L,6.03,198.0,2007-01-01,Owen Sound Attack,Midwest Division,5,1
+8740,Braedyn Rogers,Rogers,Braedyn,D,R,6.01,185.0,2006-11-22,Owen Sound Attack,Midwest Division,2,0
+9272,Mason Roy,Roy,Mason,D,L,6.01,172.0,2008-07-15,Owen Sound Attack,Midwest Division,3,1
+9190,Elliot Arnett,Arnett,Elliot,D,L,6.02,185.0,2008-03-12,Owen Sound Attack,Midwest Division,4,1
+9032,Gabriel Smith,Smith,Gabriel,D,L,6.04,174.0,2007-01-01,Owen Sound Attack,Midwest Division,5,1
 8553,Konnor Smith,Smith,Konnor,D,L,6.06,217.0,2004-11-06,Owen Sound Attack,Midwest Division,6,0
-8739,Ben Cormier,Cormier,Ben,C,L,6.00,172.0,2006-07-20,Owen Sound Attack,Midwest Division,8,0
-9192,Ethan Kindree,Kindree,Ethan,RW,R,5.09,165.0,2008-06-02,Owen Sound Attack,Midwest Division,9,1
+8739,Ben Cormier,Cormier,Ben,C,L,6.00,180.0,2006-07-20,Owen Sound Attack,Midwest Division,8,0
+9192,Ethan Kindree,Kindree,Ethan,RW,R,5.10,175.0,2008-06-02,Owen Sound Attack,Midwest Division,9,1
 8573,Landen Hookey,Hookey,Landen,RW,R,6.05,222.0,2004-01-29,Owen Sound Attack,Midwest Division,10,0
 9193,Max Bleicher,Bleicher,Max,D,L,5.10,189.0,2007-02-14,Owen Sound Attack,Midwest Division,11,1
 8824,Sam McCue,McCue,Sam,LW,L,6.02,191.0,2005-10-03,Owen Sound Attack,Midwest Division,12,0
-9194,Easton Mikus,Mikus,Easton,C,L,6.00,183.0,2007-06-19,Owen Sound Attack,Midwest Division,13,1
-9313,Michael Dec,Dec,Michael,RW,R,5.09,152.0,2007-01-29,Owen Sound Attack,Midwest Division,15,0
-9027,Jake Crawford,Crawford,Jake,C,L,6.03,180.0,2007-05-05,Owen Sound Attack,Midwest Division,16,0
-9228,Cole Zurawski,Zurawski,Cole,RW,R,6.00,181.0,2008-02-06,Owen Sound Attack,Midwest Division,17,1
+9194,Easton Mikus,Mikus,Easton,C,L,6.01,191.0,2007-06-19,Owen Sound Attack,Midwest Division,13,1
+9313,Michael Dec,Dec,Michael,RW,R,5.09,160.0,2007-01-29,Owen Sound Attack,Midwest Division,15,0
+9027,Jake Crawford,Crawford,Jake,C,L,6.03,183.0,2007-05-05,Owen Sound Attack,Midwest Division,16,0
+9228,Cole Zurawski,Zurawski,Cole,RW,R,6.01,190.0,2008-02-06,Owen Sound Attack,Midwest Division,17,1
 9195,Rafik Varosyan,Varosyan,Rafik,LW,L,6.00,179.0,2007-10-01,Owen Sound Attack,Midwest Division,18,1
 8472,Alec Leonard,Leonard,Alec,D,R,5.11,174.0,2004-05-13,Owen Sound Attack,Midwest Division,19,0
-9191,Pierce Mbuyi,Mbuyi,Pierce,LW,L,5.10,153.0,2008-04-17,Owen Sound Attack,Midwest Division,21,1
-8749,Masen Wray,Wray,Masen,C,L,6.04,185.0,2006-05-15,Owen Sound Attack,Midwest Division,22,0
-9339,Lenny Greenberg,Greenberg,Lenny,D,R,6.00,180.0,2005-03-07,Owen Sound Attack,Midwest Division,23,0
-8726,David Bedkowski,Bedkowski,David,D,R,6.05,215.0,2006-12-07,Owen Sound Attack,Midwest Division,25,0
-8471,Declan Waddick,Waddick,Declan,LW,L,5.09,165.0,2005-01-24,Owen Sound Attack,Midwest Division,27,0
+9191,Pierce Mbuyi,Mbuyi,Pierce,LW,L,5.11,158.0,2008-04-17,Owen Sound Attack,Midwest Division,21,1
+8749,Masen Wray,Wray,Masen,C,L,6.04,194.0,2006-05-15,Owen Sound Attack,Midwest Division,22,0
+9339,Lenny Greenberg,Greenberg,Lenny,D,R,6.00,178.0,2005-03-07,Owen Sound Attack,Midwest Division,23,0
+8726,David Bedkowski,Bedkowski,David,D,R,6.06,220.0,2006-12-07,Owen Sound Attack,Midwest Division,25,0
+8471,Declan Waddick,Waddick,Declan,LW,L,5.09,172.0,2005-01-24,Owen Sound Attack,Midwest Division,27,0
 8494,James Petrovski,Petrovski,James,D,L,6.03,190.0,2005-08-12,Owen Sound Attack,Midwest Division,28,0
 8781,Bruce McDonald,McDonald,Bruce,C,L,6.00,177.0,2004-12-18,Owen Sound Attack,Midwest Division,29,0
-9087,Matthew Koprowski,Koprowski,Matthew,G,L,6.03,198.0,2007-02-05,Owen Sound Attack,Midwest Division,31,1
-8819,Carter George,George,Carter,G,L,6.01,190.0,2006-05-20,Owen Sound Attack,Midwest Division,32,0
+9297,Trenten Bennett,Bennett,Trenten,G,L,6.08,207.0,2006-04-01,Owen Sound Attack,Midwest Division,30,0
+9087,Matthew Koprowski,Koprowski,Matthew,G,L,6.03,212.0,2007-02-05,Owen Sound Attack,Midwest Division,31,1
+8819,Carter George,George,Carter,G,L,6.02,195.0,2006-05-20,Owen Sound Attack,Midwest Division,32,0
 9030,Harry Nansi,Nansi,Harry,RW,R,6.03,179.0,2007-09-10,Owen Sound Attack,Midwest Division,34,0
 8741,Antonio Tersigni,Tersigni,Antonio,LW,L,5.11,172.0,2006-05-03,Owen Sound Attack,Midwest Division,37,0
 8388,Colby Barlow,Barlow,Colby,LW,L,6.01,190.0,2005-02-14,Owen Sound Attack,Midwest Division,39,0
-8934,Tristan Delisle,Delisle,Tristan,C,L,5.11,172.0,2007-05-15,Owen Sound Attack,Midwest Division,40,0
-9272,Mason Roy,Roy,Mason,D,L,6.02,178.0,2008-07-15,Owen Sound Attack,Midwest Division,3,1
+8934,Tristan Delisle,Delisle,Tristan,C,L,5.11,184.0,2007-05-15,Owen Sound Attack,Midwest Division,40,0
 9197,Trent Gates,Gates,Trent,LW,R,5.11,164.0,2007-09-17,Owen Sound Attack,Midwest Division,7,1
 8632,Taos Jordan,Jordan,Taos,D,L,5.11,190.0,2004-03-29,Owen Sound Attack,Midwest Division,24,0
-9297,Trenten Bennett,Bennett,Trenten,G,L,6.07,205.0,2006-04-01,Owen Sound Attack,Midwest Division,30,0
 9357,Finn Kearns,Kearns,Finn,D,L,6.03,203.0,2008-06-08,Sudbury Wolves,Central Division,2,1
 9204,Brady Smith,Smith,Brady,D,L,6.02,190.0,2008-03-27,Sudbury Wolves,Central Division,3,0
 9049,Trevor O’Dell,O’Dell,Trevor,D,L,6.03,172.0,2006-07-17,Sudbury Wolves,Central Division,4,0
 9199,Henry Doucet,Doucet,Henry,LW,L,6.00,176.0,2008-08-11,Sudbury Wolves,Central Division,5,1
-9015,Nolan Jackson,Jackson,Nolan,D,L,6.01,180.0,2007-01-02,Sudbury Wolves,Central Division,5,1
+9015,Nolan Jackson,Jackson,Nolan,D,L,6.01,190.0,2007-01-02,Sudbury Wolves,Central Division,5,1
 8671,Gavin Ewles,Ewles,Gavin,D,R,6.01,188.0,2005-03-01,Sudbury Wolves,Central Division,7,0
 8560,Chase Coughlan,Coughlan,Chase,RW,R,5.11,194.0,2005-06-17,Sudbury Wolves,Central Division,9,0
 9198,Ethan Dean,Dean,Ethan,C,L,5.10,166.0,2008-03-11,Sudbury Wolves,Central Division,11,1
@@ -359,7 +359,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8827,Braydon Bruce,Bruce,Braydon,D,R,6.05,212.0,2006-05-11,Sudbury Wolves,Central Division,20,0
 8431,Alex Pharand,Pharand,Alex,RW,R,6.03,192.0,2005-01-05,Sudbury Wolves,Central Division,21,0
 8777,Kieron Walton,Walton,Kieron,LW,L,6.06,216.0,2006-04-22,Sudbury Wolves,Central Division,22,0
-9345,Marshall McCharles,McCharles,Marshall,LW,L,6.01,190.0,2006-11-23,Sudbury Wolves,Central Division,23,0
 9099,Blake Clayton,Clayton,Blake,C,L,6.00,165.0,2007-10-23,Sudbury Wolves,Central Division,24,1
 8459,Quentin Musty,Musty,Quentin,LW,L,6.02,200.0,2005-07-06,Sudbury Wolves,Central Division,27,0
 8805,Nate Krawchuk,Krawchuk,Nate,G,L,6.02,180.0,2005-07-04,Sudbury Wolves,Central Division,30,0
@@ -379,6 +378,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9365,Jayden Connors,Connors,Jayden,D,R,5.09,179.0,2007-02-26,Sudbury Wolves,Central Division,5,0
 9332,Jack Ziliotto,Ziliotto,Jack,C,R,6.02,185.0,2005-06-22,Sudbury Wolves,Central Division,16,0
 9201,Noah Kohan,Kohan,Noah,LW,L,5.10,160.0,2005-08-08,Sudbury Wolves,Central Division,18,0
+9345,Marshall McCharles,McCharles,Marshall,LW,L,6.01,190.0,2006-11-23,Sudbury Wolves,Central Division,23,0
 8885,Karsen Chartier,Chartier,Karsen,G,L,6.03,180.0,2006-01-01,Sudbury Wolves,Central Division,29,0
 8679,Marcus Vandenberg,Vandenberg,Marcus,G,L,5.11,172.0,2004-04-25,Sudbury Wolves,Central Division,30,0
 9353,Noah Beaulne,Beaulne,Noah,G,L,6.02,188.0,2004-06-20,Sudbury Wolves,Central Division,35,0
@@ -408,7 +408,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8496,Nathan Day,Day,Nathan,G,L,6.04,205.0,2005-02-04,Flint Firebirds,West Division,31,0
 8813,Alex Kostov,Kostov,Alex,RW,R,6.04,195.0,2006-06-03,Flint Firebirds,West Division,47,0
 9046,Rylan Fellinger,Fellinger,Rylan,D,R,6.04,200.0,2007-05-16,Flint Firebirds,West Division,65,0
-9228,Cole Zurawski,Zurawski,Cole,RW,R,6.00,181.0,2008-02-06,Flint Firebirds,West Division,67,1
+9228,Cole Zurawski,Zurawski,Cole,RW,R,6.01,190.0,2008-02-06,Flint Firebirds,West Division,67,1
 9241,Christian Colosimo,Colosimo,Christian,D,L,6.05,215.0,2008-12-01,Flint Firebirds,West Division,73,1
 8705,Nathan Aspinall,Aspinall,Nathan,LW,L,6.07,195.0,2006-03-30,Flint Firebirds,West Division,76,0
 8461,Nolan Collins,Collins,Nolan,D,R,6.04,215.0,2004-04-28,Flint Firebirds,West Division,77,0
@@ -593,20 +593,24 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8783,Jacob Gibbons,Gibbons,Jacob,G,R,6.05,205.0,2006-11-23,Brampton Steelheads,Central Division,38,0
 8825,Chase Lefebvre,Lefebvre,Chase,C,L,6.03,180.0,2004-05-13,Brampton Steelheads,Central Division,71,0
 9187,Martin Vaculik,Vaculik,Martin,RW,R,6.00,174.0,2006-09-20,Brampton Steelheads,Central Division,88,1
+9101,Charlie Larocque,Larocque,Charlie,G,L,6.03,181.0,2007-07-16,North Bay Battalion,Central Division,1,1
 8602,Wyatt Kennedy,Kennedy,Wyatt,D,R,6.05,202.0,2005-05-27,North Bay Battalion,Central Division,2,0
 8940,Adrian Manzo,Manzo,Adrian,D,R,6.00,183.0,2007-08-28,North Bay Battalion,Central Division,2,0
 9322,Jonathan Kapageridis,Kapageridis,Jonathan,D,L,6.00,176.0,2007-05-08,North Bay Battalion,Central Division,3,1
 9232,Aaron Enright,Enright,Aaron,D,L,6.00,211.0,2007-03-28,North Bay Battalion,Central Division,4,1
 9233,Kent Greer,Greer,Kent,D,R,5.08,163.0,2008-02-07,North Bay Battalion,Central Division,5,1
-8719,Jacob Therrien,Therrien,Jacob,RW,R,5.08,170.0,2006-02-08,North Bay Battalion,Central Division,6,0
+8719,Jacob Therrien,Therrien,Jacob,RW,R,5.08,165.0,2006-02-08,North Bay Battalion,Central Division,6,0
 8718,Brayden Turley,Turley,Brayden,D,L,6.01,195.0,2006-08-08,North Bay Battalion,Central Division,7,0
+9294,Sam Rivet,Rivet,Sam,D,L,6.00,211.0,2008-02-27,North Bay Battalion,Central Division,8,1
 9085,Briir Long,Long,Briir,C,L,5.11,154.0,2007-07-22,North Bay Battalion,Central Division,9,0
+9054,Declan Gallivan,Gallivan,Declan,D,L,6.02,159.0,2007-06-03,North Bay Battalion,Central Division,10,1
 9234,Ryder Carey,Carey,Ryder,C,R,6.00,176.0,2008-08-02,North Bay Battalion,Central Division,11,1
 8985,Ihnat Pazii,Pazii,Ihnat,LW,L,5.09,156.0,2006-12-04,North Bay Battalion,Central Division,13,0
 8394,Dalyn Wakely,Wakely,Dalyn,C,R,6.01,198.0,2004-03-05,North Bay Battalion,Central Division,14,0
 8395,Anthony Romani,Romani,Anthony,RW,R,6.01,190.0,2005-07-12,North Bay Battalion,Central Division,15,0
 8396,Owen Van Steensel,Van Steensel,Owen,LW,L,5.10,185.0,2004-08-04,North Bay Battalion,Central Division,16,0
 9175,Parker Vaughan,Vaughan,Parker,RW,R,6.01,189.0,2008-03-06,North Bay Battalion,Central Division,16,0
+9310,Ryder Cali,Cali,Ryder,C,L,6.02,209.0,2008-09-06,North Bay Battalion,Central Division,17,1
 8361,Jacob LeBlanc,LeBlanc,Jacob,D,R,6.01,186.0,2004-06-03,North Bay Battalion,Central Division,18,0
 8987,Nolan Laird,Laird,Nolan,C,L,6.01,180.0,2006-01-04,North Bay Battalion,Central Division,19,0
 9040,Reyth Smith,Smith,Reyth,LW,L,6.02,179.0,2007-07-27,North Bay Battalion,Central Division,20,1
@@ -621,12 +625,8 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8915,Lirim Amidovski,Amidovski,Lirim,RW,R,6.01,175.0,2006-12-22,North Bay Battalion,Central Division,29,0
 9316,Jack Lisson,Lisson,Jack,G,R,6.02,190.0,2006-03-31,North Bay Battalion,Central Division,30,0
 8833,Mike McIvor,McIvor,Mike,G,R,6.01,174.0,2006-03-22,North Bay Battalion,Central Division,34,0
-9101,Charlie Larocque,Larocque,Charlie,G,L,6.01,161.0,2007-07-16,North Bay Battalion,Central Division,1,1
-9294,Sam Rivet,Rivet,Sam,D,L,6.00,181.0,2008-02-27,North Bay Battalion,Central Division,8,1
-9054,Declan Gallivan,Gallivan,Declan,D,L,6.01,194.0,2007-06-03,North Bay Battalion,Central Division,10,1
 8914,Dylan Richter,Richter,Dylan,C,L,5.08,185.0,2006-07-11,North Bay Battalion,Central Division,10,0
 9290,Adam Smeeton,Smeeton,Adam,C,L,6.02,170.0,2007-02-12,North Bay Battalion,Central Division,12,1
-9310,Ryder Cali,Cali,Ryder,C,L,6.02,201.0,2008-09-06,North Bay Battalion,Central Division,17,1
 8834,Tyson Rismond,Rismond,Tyson,D,L,6.02,187.0,2006-03-30,North Bay Battalion,Central Division,17,0
 9236,Natan Teshome,Teshome,Natan,LW,L,6.00,171.0,2006-06-09,North Bay Battalion,Central Division,26,0
 9237,Carter Nadon,Nadon,Carter,G,R,6.01,184.0,2007-09-02,North Bay Battalion,Central Division,35,1
@@ -650,7 +650,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8817,Matthew Virgilio,Virgilio,Matthew,D,R,5.11,200.0,2006-03-24,Niagara IceDogs,Central Division,48,0
 8428,Mathieu Paris,Paris,Mathieu,RW,R,6.00,182.0,2005-01-01,Niagara IceDogs,Central Division,54,0
 9142,Braidy Wassilyn,Wassilyn,Braidy,C,L,5.11,194.0,2008-05-28,Niagara IceDogs,Central Division,66,1
-8749,Masen Wray,Wray,Masen,C,L,6.04,185.0,2006-05-15,Niagara IceDogs,Central Division,71,0
+8749,Masen Wray,Wray,Masen,C,L,6.04,194.0,2006-05-15,Niagara IceDogs,Central Division,71,0
 9147,Charlie Hotles,Hotles,Charlie,C,R,6.02,183.0,2008-07-05,Niagara IceDogs,Central Division,74,1
 8473,Andrew Wycisk,Wycisk,Andrew,D,R,5.11,170.0,2005-07-01,Niagara IceDogs,Central Division,75,0
 8683,Charlie Robertson,Robertson,Charlie,G,L,6.04,182.0,2005-04-02,Niagara IceDogs,Central Division,77,0
@@ -661,29 +661,29 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9269,Finn Moffett,Moffett,Finn,G,R,6.03,170.0,2007-02-06,Niagara IceDogs,Central Division,80,1
 9346,Matteo Porporino,Porporino,Matteo,G,R,6.01,170.0,2005-11-15,Niagara IceDogs,Central Division,80,0
 9342,Linkin Stinson-Kurz,Stinson-Kurz,Linkin,G,R,6.02,190.0,2007-03-07,Niagara IceDogs,Central Division,80,0
-8547,Will Bishop,Bishop,Will,RD,R,6.06,210.0,2005-03-17,Saginaw Spirit,West Division,4,0
-8774,Josh Glavin,Glavin,Josh,D,L,6.02,200.0,2006-09-24,Saginaw Spirit,West Division,5,0
+8547,Will Bishop,Bishop,Will,RD,R,6.06,209.0,2005-03-17,Saginaw Spirit,West Division,4,0
+8774,Josh Glavin,Glavin,Josh,D,L,6.02,205.0,2006-09-24,Saginaw Spirit,West Division,5,0
 9319,Hayden Barch,Barch,Hayden,D,R,6.01,200.0,2007-04-14,Saginaw Spirit,West Division,6,1
 8366,Calem Mangone,Mangone,Calem,LW,R,5.09,165.0,2004-11-04,Saginaw Spirit,West Division,7,0
-9153,Brody Najim,Najim,Brody,LW,L,5.10,160.0,2008-07-16,Saginaw Spirit,West Division,8,1
-9002,Graydon Jones,Jones,Graydon,D,L,6.00,175.0,2007-01-01,Saginaw Spirit,West Division,9,1
-9347,Candon O'Neill,O'Neill,Candon,D,L,6.00,195.0,2007-08-11,Saginaw Spirit,West Division,10,0
-8991,Carson Harmer,Harmer,Carson,C,L,5.09,190.0,2007-01-13,Saginaw Spirit,West Division,13,1
+9153,Brody Najim,Najim,Brody,LW,L,5.11,165.0,2008-07-16,Saginaw Spirit,West Division,8,1
+9002,Graydon Jones,Jones,Graydon,D,L,5.11,180.0,2007-01-01,Saginaw Spirit,West Division,9,1
+9347,Candon O'Neill,O'Neill,Candon,D,L,6.00,200.0,2007-08-11,Saginaw Spirit,West Division,10,0
+8991,Carson Harmer,Harmer,Carson,C,L,5.10,195.0,2007-01-13,Saginaw Spirit,West Division,13,1
 8770,Joey Willis,Willis,Joey,C,L,5.11,185.0,2005-03-14,Saginaw Spirit,West Division,14,0
-8505,Sebastien Gervais,Gervais,Sebastien,C,L,6.00,195.0,2005-04-11,Saginaw Spirit,West Division,15,0
-8974,Xander Velliaris,Velliaris,Xander,D,L,6.03,205.0,2007-04-23,Saginaw Spirit,West Division,17,1
+8505,Sebastien Gervais,Gervais,Sebastien,C,L,6.00,200.0,2005-04-11,Saginaw Spirit,West Division,15,0
+8974,Xander Velliaris,Velliaris,Xander,D,L,6.03,210.0,2007-04-23,Saginaw Spirit,West Division,17,1
 8773,Zayne Parekh,Parekh,Zayne,D,R,6.00,185.0,2006-02-15,Saginaw Spirit,West Division,19,0
 8703,Kaeden Johnston,Johnston,Kaeden,RW,R,6.01,175.0,2005-02-03,Saginaw Spirit,West Division,20,0
-8839,Liam Storch,Storch,Liam,RW,R,5.09,165.0,2006-01-20,Saginaw Spirit,West Division,21,0
-9119,Kaden Sienko,Sienko,Kaden,D,R,6.01,190.0,2008-04-19,Saginaw Spirit,West Division,23,1
+8839,Liam Storch,Storch,Liam,RW,R,5.09,160.0,2006-01-20,Saginaw Spirit,West Division,21,0
+9119,Kaden Sienko,Sienko,Kaden,D,R,6.01,195.0,2008-04-19,Saginaw Spirit,West Division,23,1
 9117,Igor Chernyshov,Chernyshov,Igor,RW,R,6.03,225.0,2005-11-30,Saginaw Spirit,West Division,25,0
-9287,Trevor Theuer,Theuer,Trevor,LW,L,5.11,190.0,2008-02-12,Saginaw Spirit,West Division,26,1
+9287,Trevor Theuer,Theuer,Trevor,LW,L,5.10,190.0,2008-02-12,Saginaw Spirit,West Division,26,1
 8503,PJ Forgione,Forgione,PJ,D,L,6.02,215.0,2004-11-12,Saginaw Spirit,West Division,27,0
 9154,Liam Campbell,Campbell,Liam,LW,L,5.10,170.0,2008-10-22,Saginaw Spirit,West Division,28,1
 8369,Andrew Oke,Oke,Andrew,G,L,6.02,190.0,2004-03-26,Saginaw Spirit,West Division,29,0
-8993,Kaleb Papineau,Papineau,Kaleb,G,L,6.02,180.0,2006-01-25,Saginaw Spirit,West Division,31,0
+8993,Kaleb Papineau,Papineau,Kaleb,G,L,6.02,185.0,2006-01-25,Saginaw Spirit,West Division,31,0
 9156,Sammy DiBlasi,DiBlasi,Sammy,G,L,6.04,190.0,2007-01-13,Saginaw Spirit,West Division,35,1
-8973,Ethan Weir,Weir,Ethan,RW,R,5.11,180.0,2007-01-10,Saginaw Spirit,West Division,37,1
+8973,Ethan Weir,Weir,Ethan,RW,R,5.11,185.0,2007-01-10,Saginaw Spirit,West Division,37,1
 8990,Jacob Cloutier,Cloutier,Jacob,RW,R,5.10,175.0,2007-03-22,Saginaw Spirit,West Division,42,1
 8480,Ethan Hay,Hay,Ethan,C,L,6.01,195.0,2005-01-15,Saginaw Spirit,West Division,68,0
 9118,Dimian Zhilkin,Zhilkin,Dimian,RW,R,5.10,185.0,2008-10-21,Saginaw Spirit,West Division,71,1

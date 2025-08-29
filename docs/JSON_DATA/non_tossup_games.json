@@ -3573,5 +3573,57 @@
             "London Knights": "-164",
             "Oshawa Generals": "+132"
         }
+    },
+    {
+        "date": "2025-08-29",
+        "home_team": "Saginaw Spirit",
+        "away_team": "Oshawa Generals",
+        "predicted_winner": "Saginaw Spirit",
+        "actual_winner": "Oshawa Generals",
+        "home_score": 5,
+        "away_score": 6,
+        "odds": {
+            "Saginaw Spirit": "-134",
+            "Oshawa Generals": "+109"
+        }
+    },
+    {
+        "date": "2025-08-29",
+        "home_team": "Brampton Steelheads",
+        "away_team": "Guelph Storm",
+        "predicted_winner": "Brampton Steelheads",
+        "actual_winner": "Brampton Steelheads",
+        "home_score": 4,
+        "away_score": 1,
+        "odds": {
+            "Brampton Steelheads": "-267",
+            "Guelph Storm": "+208"
+        }
+    },
+    {
+        "date": "2025-08-29",
+        "home_team": "Kitchener Rangers",
+        "away_team": "Brantford Bulldogs",
+        "predicted_winner": "Brantford Bulldogs",
+        "actual_winner": "Brantford Bulldogs",
+        "home_score": 1,
+        "away_score": 1,
+        "odds": {
+            "Kitchener Rangers": "+108",
+            "Brantford Bulldogs": "-134"
+        }
+    },
+    {
+        "date": "2025-08-29",
+        "home_team": "London Knights",
+        "away_team": "Sarnia Sting",
+        "predicted_winner": "London Knights",
+        "actual_winner": "Sarnia Sting",
+        "home_score": 2,
+        "away_score": 3,
+        "odds": {
+            "London Knights": "-391",
+            "Sarnia Sting": "+290"
+        }
     }
 ]
