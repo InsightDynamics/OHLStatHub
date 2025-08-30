@@ -3593,8 +3593,8 @@
         "away_team": "Guelph Storm",
         "predicted_winner": "Brampton Steelheads",
         "actual_winner": "Brampton Steelheads",
-        "home_score": 4,
-        "away_score": 1,
+        "home_score": 7,
+        "away_score": 2,
         "odds": {
             "Brampton Steelheads": "-267",
             "Guelph Storm": "+208"
@@ -3606,8 +3606,8 @@
         "away_team": "Brantford Bulldogs",
         "predicted_winner": "Brantford Bulldogs",
         "actual_winner": "Brantford Bulldogs",
-        "home_score": 1,
-        "away_score": 1,
+        "home_score": 3,
+        "away_score": 4,
         "odds": {
             "Kitchener Rangers": "+108",
             "Brantford Bulldogs": "-134"
@@ -3618,9 +3618,9 @@
         "home_team": "London Knights",
         "away_team": "Sarnia Sting",
         "predicted_winner": "London Knights",
-        "actual_winner": "Sarnia Sting",
-        "home_score": 2,
-        "away_score": 3,
+        "actual_winner": "London Knights",
+        "home_score": 6,
+        "away_score": 5,
         "odds": {
             "London Knights": "-391",
             "Sarnia Sting": "+290"

@@ -4346,8 +4346,8 @@
         },
         {
             "date": "2025-08-29",
-            "accuracy": 50.0,
-            "correct_predictions": 2,
+            "accuracy": 75.0,
+            "correct_predictions": 3,
             "total_games": 4,
             "game_details": [
                 {
@@ -4367,8 +4367,8 @@
                     "away_team": "Guelph Storm",
                     "predicted_winner": "Brampton Steelheads",
                     "actual_winner": "Brampton Steelheads",
-                    "home_score": 4,
-                    "away_score": 1,
+                    "home_score": 7,
+                    "away_score": 2,
                     "odds": {
                         "Brampton Steelheads": "-267",
                         "Guelph Storm": "+208"
@@ -4379,8 +4379,8 @@
                     "away_team": "Brantford Bulldogs",
                     "predicted_winner": "Brantford Bulldogs",
                     "actual_winner": "Brantford Bulldogs",
-                    "home_score": 1,
-                    "away_score": 1,
+                    "home_score": 3,
+                    "away_score": 4,
                     "odds": {
                         "Kitchener Rangers": "+108",
                         "Brantford Bulldogs": "-134"
@@ -4390,9 +4390,9 @@
                     "home_team": "London Knights",
                     "away_team": "Sarnia Sting",
                     "predicted_winner": "London Knights",
-                    "actual_winner": "Sarnia Sting",
-                    "home_score": 2,
-                    "away_score": 3,
+                    "actual_winner": "London Knights",
+                    "home_score": 6,
+                    "away_score": 5,
                     "odds": {
                         "London Knights": "-391",
                         "Sarnia Sting": "+290"
@@ -4547,15 +4547,47 @@
                     }
                 }
             ]
+        },
+        {
+            "date": "2025-09-01",
+            "accuracy": 0,
+            "correct_predictions": 0,
+            "total_games": 0,
+            "game_details": [
+                {
+                    "home_team": "Guelph Storm",
+                    "away_team": "Brantford Bulldogs",
+                    "predicted_winner": "Brantford Bulldogs",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0,
+                    "odds": {
+                        "Guelph Storm": "+195",
+                        "Brantford Bulldogs": "-249"
+                    }
+                },
+                {
+                    "home_team": "Barrie Colts",
+                    "away_team": "Owen Sound Attack",
+                    "predicted_winner": "Barrie Colts",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0,
+                    "odds": {
+                        "Barrie Colts": "-197",
+                        "Owen Sound Attack": "+157"
+                    }
+                }
+            ]
         }
     ],
-    "total_accuracy": 64.4,
+    "total_accuracy": 64.7,
     "tossup_accuracy": 51.5,
-    "non_tossup_accuracy": 65.9,
-    "total_correct": 201,
+    "non_tossup_accuracy": 66.3,
+    "total_correct": 202,
     "total_games": 312,
     "tossup_correct": 17,
     "tossup_games": 33,
-    "non_tossup_correct": 184,
+    "non_tossup_correct": 185,
     "non_tossup_games": 279
 }

@@ -1,0 +1,30 @@
+[
+    {
+        "home_team": "Guelph Storm",
+        "away_team": "Brantford Bulldogs",
+        "winner": "Brantford Bulldogs",
+        "probabilities": {
+            "Guelph Storm": "32.25%",
+            "Brantford Bulldogs": "67.75%"
+        },
+        "odds": {
+            "Guelph Storm": "+195",
+            "Brantford Bulldogs": "-249"
+        },
+        "game_time": "2:07 pm"
+    },
+    {
+        "home_team": "Barrie Colts",
+        "away_team": "Owen Sound Attack",
+        "winner": "Barrie Colts",
+        "probabilities": {
+            "Barrie Colts": "62.99%",
+            "Owen Sound Attack": "37.01%"
+        },
+        "odds": {
+            "Barrie Colts": "-197",
+            "Owen Sound Attack": "+157"
+        },
+        "game_time": "6:00 pm"
+    }
+]
