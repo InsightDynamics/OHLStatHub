@@ -430,7 +430,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8879,Jacob Julien,Julien,Jacob,C,L,6.04,190.0,2004-09-12,London Knights,Midwest Division,13,0
 9044,Evan Van Gorp,Van Gorp,Evan,LW,L,5.10,165.0,2006-05-18,London Knights,Midwest Division,14,0
 8566,Cam Allen,Allen,Cam,D,R,6.00,197.0,2005-01-07,London Knights,Midwest Division,17,0
-8982,Blake Arrowsmith,Arrowsmith,Blake,RW,R,6.01,186.0,2007-04-17,London Knights,Midwest Division,18,1
+8982,Blake Arrowsmith,Arrowsmith,Blake,RW,R,6.00,182.0,2007-04-17,London Knights,Midwest Division,18,1
 8712,Sam O'Reilly,O'Reilly,Sam,C,R,6.01,190.0,2006-03-30,London Knights,Midwest Division,23,0
 9333,Jaxon Cover,Cover,Jaxon,LW,L,6.01,185.0,2008-02-13,London Knights,Midwest Division,24,1
 9064,Noah Jenken,Jenken,Noah,D,L,6.03,190.0,2007-03-08,London Knights,Midwest Division,24,1
@@ -507,15 +507,15 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8579,Justin Cloutier,Cloutier,Justin,RW,R,5.09,186.0,2005-06-20,Soo Greyhounds,West Division,24,0
 9299,Chase Reid,Reid,Chase,D,R,6.02,187.0,2007-12-30,Soo Greyhounds,West Division,25,1
 8577,Marco Mignosa,Mignosa,Marco,RW,R,5.11,170.0,2005-04-13,Soo Greyhounds,West Division,26,0
-9279,Jordan Charron,Charron,Jordan,RW,R,6.02,190.0,2007-06-21,Soo Greyhounds,West Division,27,1
+9279,Jordan Charron,Charron,Jordan,RW,R,6.02,198.0,2007-06-21,Soo Greyhounds,West Division,27,1
 9219,Reid Thomas,Thomas,Reid,G,R,6.02,187.0,2007-06-07,Soo Greyhounds,West Division,30,1
 8558,Charlie Schenkel,Schenkel,Charlie,G,R,6.05.,203.0,2004-08-16,Soo Greyhounds,West Division,31,0
 9340,Noah Tegelaar,Tegelaar,Noah,G,L,6.05,172.0,2006-10-15,Soo Greyhounds,West Division,31,0
 8809,Landon Miller,Miller,Landon,G,R,6.04,214.0,2006-01-03,Soo Greyhounds,West Division,36,0
 9265,Noel Nordh,Nordh,Noel,LW,L,6.02,198.0,2005-01-25,Soo Greyhounds,West Division,43,0
-9018,Brady Martin,Martin,Brady,C,R,6.00,174.0,2007-03-16,Soo Greyhounds,West Division,44,0
-8814,Christopher Brown,Brown,Christopher,C,L,5.11.25,180.0,2006-01-27,Soo Greyhounds,West Division,67,0
-9222,Carson Andrew,Andrew,Carson,RW,R,6.01,184.0,2008-03-10,Soo Greyhounds,West Division,71,1
+9018,Brady Martin,Martin,Brady,C,R,6.00,184.0,2007-03-16,Soo Greyhounds,West Division,44,0
+8814,Christopher Brown,Brown,Christopher,C,L,6.00,183.0,2006-01-27,Soo Greyhounds,West Division,67,0
+9222,Carson Andrew,Andrew,Carson,RW,R,6.02,196.0,2008-03-10,Soo Greyhounds,West Division,71,1
 8528,Nolan Lalonde,Lalonde,Nolan,G,L,6.02,197.0,2004-02-14,Soo Greyhounds,West Division,79,0
 8354,Justin DeZoete,DeZoete,Justin,LW,L,6.00.25,196.0,2004-01-02,Soo Greyhounds,West Division,11,0
 9224,Sam Bowness,Bowness,Sam,LW,L,6.01.25,194.0,2005-04-29,Soo Greyhounds,West Division,21,0
@@ -638,7 +638,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8964,Ethan Czata,Czata,Ethan,C,L,6.01,178.0,2007-05-29,Niagara IceDogs,Central Division,12,0
 8638,Mike Levin,Levin,Mike,LW,L,5.08,158.0,2005-10-16,Niagara IceDogs,Central Division,16,0
 8877,Blair Scott,Scott,Blair,D,L,6.02,190.0,2005-04-14,Niagara IceDogs,Central Division,17,0
-8982,Blake Arrowsmith,Arrowsmith,Blake,RW,R,6.01,186.0,2007-04-17,Niagara IceDogs,Central Division,18,1
+8982,Blake Arrowsmith,Arrowsmith,Blake,RW,R,6.00,182.0,2007-04-17,Niagara IceDogs,Central Division,18,1
 8385,Gavin Bryant,Bryant,Gavin,C,L,5.11,188.0,2004-07-24,Niagara IceDogs,Central Division,19,0
 9076,Rafek Dianov,Dianov,Rafek,LW,L,5.10,175.0,2007-02-25,Niagara IceDogs,Central Division,22,1
 9143,Max Crete,Crete,Max,C,L,5.09,182.0,2008-04-24,Niagara IceDogs,Central Division,23,1
