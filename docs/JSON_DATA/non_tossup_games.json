@@ -3625,5 +3625,31 @@
             "London Knights": "-391",
             "Sarnia Sting": "+290"
         }
+    },
+    {
+        "date": "2025-08-30",
+        "home_team": "Sarnia Sting",
+        "away_team": "London Knights",
+        "predicted_winner": "London Knights",
+        "actual_winner": "Sarnia Sting",
+        "home_score": 1,
+        "away_score": 0,
+        "odds": {
+            "Sarnia Sting": "+290",
+            "London Knights": "-391"
+        }
+    },
+    {
+        "date": "2025-08-30",
+        "home_team": "Guelph Storm",
+        "away_team": "Brampton Steelheads",
+        "predicted_winner": "Brampton Steelheads",
+        "actual_winner": "Guelph Storm",
+        "home_score": 1,
+        "away_score": 0,
+        "odds": {
+            "Guelph Storm": "+208",
+            "Brampton Steelheads": "-267"
+        }
     }
 ]

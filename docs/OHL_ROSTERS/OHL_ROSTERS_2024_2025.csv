@@ -194,6 +194,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8761,Cole Beaudoin,Beaudoin,Cole,C,L,6.02,211.0,2006-04-24,Barrie Colts,Central Division,29,0
 8841,Sam Hillebrandt,Hillebrandt,Sam,G,R,6.01,170.0,2005-02-21,Barrie Colts,Central Division,30,0
 8449,Beau Jelsma,Jelsma,Beau,C,L,5.10,180.0,2004-04-28,Barrie Colts,Central Division,53,0
+9072,Nolan Newton,Newton,Nolan,RW,R,5.09,165.0,2006-01-27,Barrie Colts,Central Division,61,0
 9065,Ben Hrebik,Hrebik,Ben,G,R,6.03,199.0,2006-04-04,Barrie Colts,Central Division,62,0
 8771,Bode Stewart,Stewart,Bode,LW,L,6.01,175.0,2006-02-09,Barrie Colts,Central Division,71,0
 9306,Jack Martin,Martin,Jack,RW,R,5.11,170.0,2006-03-16,Barrie Colts,Central Division,74,0
@@ -210,7 +211,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9175,Parker Vaughan,Vaughan,Parker,RW,R,6.01,189.0,2008-03-06,Barrie Colts,Central Division,94,1
 9177,Noah Barton,Barton,Noah,D,R,6.02,183.0,2008-10-16,Barrie Colts,Central Division,7,0
 8633,Tai York,York,Tai,LW,L,6.01,185.0,2004-06-18,Barrie Colts,Central Division,23,0
-9072,Nolan Newton,Newton,Nolan,RW,R,5.09,165.0,2006-01-27,Barrie Colts,Central Division,61,0
 9134,Noah Erliden,Erliden,Noah,G,R,5.11,183.0,2005-09-09,Erie Otters,Midwest Division,1,0
 8780,Ty Henry,Henry,Ty,D,L,6.04,210.0,2006-07-19,Erie Otters,Midwest Division,2,0
 9315,Oliver Turner,Turner,Oliver,D,R,6.05,194.0,2007-03-18,Erie Otters,Midwest Division,3,1
@@ -281,7 +281,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8882,William Haley,Haley,William,D,L,6.00,177.0,2005-10-15,Guelph Storm,Midwest Division,17,0
 8796,Justin Bottineau,Bottineau,Justin,RW,R,6.00,168.0,2006-01-11,Guelph Storm,Midwest Division,77,0
 8873,Jakub Chromiak,Chromiak,Jakub,RD,R,5.11,183.0,2005-11-02,Kitchener Rangers,Midwest Division,3,0
-8465,Matthew Andonovski,Andonovski,Matthew,LD,L,6.02,200.0,2005-03-14,Kitchener Rangers,Midwest Division,5,0
 8748,Carson Campbell,Campbell,Carson,RD,R,6.01,180.0,2006-06-08,Kitchener Rangers,Midwest Division,8,0
 9170,Avry Anstis,Anstis,Avry,RW,R,6.00,165.0,2008-03-05,Kitchener Rangers,Midwest Division,9,1
 8673,Adrian Misaljevic,Misaljevic,Adrian,LW,L,5.11,175.0,2004-07-10,Kitchener Rangers,Midwest Division,10,0
@@ -310,6 +309,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9162,Alexander Bilecki,Bilecki,Alexander,LD,R,6.02,173.0,2008-05-09,Kitchener Rangers,Midwest Division,89,1
 9165,Jack LaBrash,LaBrash,Jack,LW,L,6.05,196.0,2007-03-04,Kitchener Rangers,Midwest Division,93,1
 9311,Jacob Xu,Xu,Jacob,LD,L,6.02,181.0,2008-03-13,Kitchener Rangers,Midwest Division,96,1
+8465,Matthew Andonovski,Andonovski,Matthew,LD,L,6.02,200.0,2005-03-14,Kitchener Rangers,Midwest Division,5,0
 8653,Antonino Pugliese,Pugliese,Antonino,RW,R,5.09,179.0,2004-04-09,Kitchener Rangers,Midwest Division,44,0
 8796,Justin Bottineau,Bottineau,Justin,RW,R,6.00,168.0,2006-01-11,Kitchener Rangers,Midwest Division,77,0
 8740,Braedyn Rogers,Rogers,Braedyn,D,R,6.01,185.0,2006-11-22,Owen Sound Attack,Midwest Division,2,0
