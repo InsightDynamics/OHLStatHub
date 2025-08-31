@@ -4482,17 +4482,17 @@
         },
         {
             "date": "2025-08-31",
-            "accuracy": 0,
-            "correct_predictions": 0,
-            "total_games": 0,
+            "accuracy": 40.0,
+            "correct_predictions": 2,
+            "total_games": 5,
             "game_details": [
                 {
                     "home_team": "Kingston Frontenacs",
                     "away_team": "Ottawa 67's",
                     "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Kingston Frontenacs",
+                    "home_score": 2,
+                    "away_score": 1,
                     "odds": {
                         "Kingston Frontenacs": "-323",
                         "Ottawa 67's": "+246"
@@ -4502,9 +4502,9 @@
                     "home_team": "Kitchener Rangers",
                     "away_team": "Saginaw Spirit",
                     "predicted_winner": "Saginaw Spirit",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Kitchener Rangers",
+                    "home_score": 6,
+                    "away_score": 4,
                     "odds": {
                         "Kitchener Rangers": "+110",
                         "Saginaw Spirit": "-136"
@@ -4514,9 +4514,9 @@
                     "home_team": "Owen Sound Attack",
                     "away_team": "North Bay Battalion",
                     "predicted_winner": "Owen Sound Attack",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "North Bay Battalion",
+                    "home_score": 3,
+                    "away_score": 4,
                     "odds": {
                         "Owen Sound Attack": "-132",
                         "North Bay Battalion": "+107"
@@ -4526,9 +4526,9 @@
                     "home_team": "Peterborough Petes",
                     "away_team": "Erie Otters",
                     "predicted_winner": "Erie Otters",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Erie Otters",
+                    "home_score": 2,
+                    "away_score": 3,
                     "odds": {
                         "Peterborough Petes": "+310",
                         "Erie Otters": "-423"
@@ -4538,9 +4538,9 @@
                     "home_team": "Soo Greyhounds",
                     "away_team": "Sudbury Wolves",
                     "predicted_winner": "Sudbury Wolves",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Soo Greyhounds",
+                    "home_score": 3,
+                    "away_score": 1,
                     "odds": {
                         "Soo Greyhounds": "-102",
                         "Sudbury Wolves": "-121"
@@ -4581,13 +4581,13 @@
             ]
         }
     ],
-    "total_accuracy": 64.2,
-    "tossup_accuracy": 50.0,
-    "non_tossup_accuracy": 66.0,
-    "total_correct": 204,
-    "total_games": 318,
+    "total_accuracy": 63.8,
+    "tossup_accuracy": 48.6,
+    "non_tossup_accuracy": 65.7,
+    "total_correct": 206,
+    "total_games": 323,
     "tossup_correct": 18,
-    "tossup_games": 36,
-    "non_tossup_correct": 186,
-    "non_tossup_games": 282
+    "tossup_games": 37,
+    "non_tossup_correct": 188,
+    "non_tossup_games": 286
 }
