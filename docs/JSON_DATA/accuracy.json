@@ -4402,9 +4402,9 @@
         },
         {
             "date": "2025-08-30",
-            "accuracy": 0.0,
-            "correct_predictions": 0,
-            "total_games": 5,
+            "accuracy": 33.3,
+            "correct_predictions": 2,
+            "total_games": 6,
             "game_details": [
                 {
                     "home_team": "Brantford Bulldogs",
@@ -4423,8 +4423,8 @@
                     "away_team": "Oshawa Generals",
                     "predicted_winner": "Oshawa Generals",
                     "actual_winner": "Kitchener Rangers",
-                    "home_score": 2,
-                    "away_score": 0,
+                    "home_score": 4,
+                    "away_score": 1,
                     "odds": {
                         "Kitchener Rangers": "-109",
                         "Oshawa Generals": "-113"
@@ -4434,8 +4434,8 @@
                     "home_team": "Niagara IceDogs",
                     "away_team": "Flint Firebirds",
                     "predicted_winner": "Niagara IceDogs",
-                    "actual_winner": "Flint Firebirds",
-                    "home_score": 0,
+                    "actual_winner": "Niagara IceDogs",
+                    "home_score": 3,
                     "away_score": 2,
                     "odds": {
                         "Niagara IceDogs": "-114",
@@ -4446,9 +4446,9 @@
                     "home_team": "Peterborough Petes",
                     "away_team": "Erie Otters",
                     "predicted_winner": "Erie Otters",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Peterborough Petes",
+                    "home_score": 5,
+                    "away_score": 2,
                     "odds": {
                         "Peterborough Petes": "+310",
                         "Erie Otters": "-423"
@@ -4458,9 +4458,9 @@
                     "home_team": "Sarnia Sting",
                     "away_team": "London Knights",
                     "predicted_winner": "London Knights",
-                    "actual_winner": "Sarnia Sting",
-                    "home_score": 1,
-                    "away_score": 0,
+                    "actual_winner": "London Knights",
+                    "home_score": 4,
+                    "away_score": 5,
                     "odds": {
                         "Sarnia Sting": "+290",
                         "London Knights": "-391"
@@ -4471,8 +4471,8 @@
                     "away_team": "Brampton Steelheads",
                     "predicted_winner": "Brampton Steelheads",
                     "actual_winner": "Guelph Storm",
-                    "home_score": 1,
-                    "away_score": 0,
+                    "home_score": 3,
+                    "away_score": 1,
                     "odds": {
                         "Guelph Storm": "+208",
                         "Brampton Steelheads": "-267"
@@ -4581,13 +4581,13 @@
             ]
         }
     ],
-    "total_accuracy": 63.7,
-    "tossup_accuracy": 47.2,
-    "non_tossup_accuracy": 65.8,
-    "total_correct": 202,
-    "total_games": 317,
-    "tossup_correct": 17,
+    "total_accuracy": 64.2,
+    "tossup_accuracy": 50.0,
+    "non_tossup_accuracy": 66.0,
+    "total_correct": 204,
+    "total_games": 318,
+    "tossup_correct": 18,
     "tossup_games": 36,
-    "non_tossup_correct": 185,
-    "non_tossup_games": 281
+    "non_tossup_correct": 186,
+    "non_tossup_games": 282
 }

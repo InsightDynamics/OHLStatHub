@@ -3628,12 +3628,25 @@
     },
     {
         "date": "2025-08-30",
+        "home_team": "Peterborough Petes",
+        "away_team": "Erie Otters",
+        "predicted_winner": "Erie Otters",
+        "actual_winner": "Peterborough Petes",
+        "home_score": 5,
+        "away_score": 2,
+        "odds": {
+            "Peterborough Petes": "+310",
+            "Erie Otters": "-423"
+        }
+    },
+    {
+        "date": "2025-08-30",
         "home_team": "Sarnia Sting",
         "away_team": "London Knights",
         "predicted_winner": "London Knights",
-        "actual_winner": "Sarnia Sting",
-        "home_score": 1,
-        "away_score": 0,
+        "actual_winner": "London Knights",
+        "home_score": 4,
+        "away_score": 5,
         "odds": {
             "Sarnia Sting": "+290",
             "London Knights": "-391"
@@ -3645,8 +3658,8 @@
         "away_team": "Brampton Steelheads",
         "predicted_winner": "Brampton Steelheads",
         "actual_winner": "Guelph Storm",
-        "home_score": 1,
-        "away_score": 0,
+        "home_score": 3,
+        "away_score": 1,
         "odds": {
             "Guelph Storm": "+208",
             "Brampton Steelheads": "-267"

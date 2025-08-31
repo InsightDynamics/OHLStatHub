@@ -1,6 +1,7 @@
 player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team_name,division,jersey_number,rookie
 9363,Marcus Sulug,Sulug,Marcus,D,L,6.01,168.0,2008-02-07,Peterborough Petes,East Division,2,0
 9211,Thanasi Marentette,Marentette,Thanasi,D,L,6.00,205.0,2007-01-30,Peterborough Petes,East Division,3,1
+9350,Calum Hartnell,Hartnell,Calum,D,L,5.08,165.0,2007-06-08,Peterborough Petes,East Division,4,0
 9029,Martin Matejicek,Matejicek,Martin,D,L,6.02,205.0,2005-08-05,Peterborough Petes,East Division,5,0
 8897,Grayden Strohack,Strohack,Grayden,D,L,6.04,198.0,2006-06-09,Peterborough Petes,East Division,6,0
 9212,Genc Ula,Ula,Genc,D,L,6.00,195.0,2008-10-26,Peterborough Petes,East Division,7,1
@@ -30,7 +31,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9210,Masen Johnston,Johnston,Masen,G,L,6.01,186.0,2007-02-08,Peterborough Petes,East Division,34,1
 9331,Luka Gelinas,Gelinas,Luka,G,L,6.01,179.0,2008-01-01,Peterborough Petes,East Division,1,1
 8498,Liam Sztuska,Sztuska,Liam,G,L,6.01,182.0,2004-05-01,Peterborough Petes,East Division,1,0
-9350,Calum Hartnell,Hartnell,Calum,D,L,5.08,155.0,2007-06-08,Peterborough Petes,East Division,4,0
 8825,Chase Lefebvre,Lefebvre,Chase,C,L,6.03,180.0,2004-05-13,Peterborough Petes,East Division,7,0
 8519,Ryder McIntyre,McIntyre,Ryder,RW,R,6.04,225.0,2004-07-15,Peterborough Petes,East Division,21,0
 9352,Dylan Turcotte,Turcotte,Dylan,LW,L,6.01,164.0,2007-02-06,Peterborough Petes,East Division,21,0
