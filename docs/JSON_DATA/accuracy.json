@@ -4550,17 +4550,17 @@
         },
         {
             "date": "2025-09-01",
-            "accuracy": 0,
-            "correct_predictions": 0,
-            "total_games": 0,
+            "accuracy": 50.0,
+            "correct_predictions": 1,
+            "total_games": 2,
             "game_details": [
                 {
                     "home_team": "Guelph Storm",
                     "away_team": "Brantford Bulldogs",
                     "predicted_winner": "Brantford Bulldogs",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Brantford Bulldogs",
+                    "home_score": 3,
+                    "away_score": 7,
                     "odds": {
                         "Guelph Storm": "+195",
                         "Brantford Bulldogs": "-249"
@@ -4570,9 +4570,9 @@
                     "home_team": "Barrie Colts",
                     "away_team": "Owen Sound Attack",
                     "predicted_winner": "Barrie Colts",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0,
+                    "actual_winner": "Owen Sound Attack",
+                    "home_score": 1,
+                    "away_score": 3,
                     "odds": {
                         "Barrie Colts": "-197",
                         "Owen Sound Attack": "+157"
@@ -4581,13 +4581,13 @@
             ]
         }
     ],
-    "total_accuracy": 63.8,
+    "total_accuracy": 63.7,
     "tossup_accuracy": 48.6,
-    "non_tossup_accuracy": 65.7,
-    "total_correct": 206,
-    "total_games": 323,
+    "non_tossup_accuracy": 65.6,
+    "total_correct": 207,
+    "total_games": 325,
     "tossup_correct": 18,
     "tossup_games": 37,
-    "non_tossup_correct": 188,
-    "non_tossup_games": 286
+    "non_tossup_correct": 189,
+    "non_tossup_games": 288
 }

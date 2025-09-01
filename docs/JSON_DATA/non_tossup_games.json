@@ -3716,5 +3716,31 @@
             "Peterborough Petes": "+310",
             "Erie Otters": "-423"
         }
+    },
+    {
+        "date": "2025-09-01",
+        "home_team": "Guelph Storm",
+        "away_team": "Brantford Bulldogs",
+        "predicted_winner": "Brantford Bulldogs",
+        "actual_winner": "Brantford Bulldogs",
+        "home_score": 3,
+        "away_score": 7,
+        "odds": {
+            "Guelph Storm": "+195",
+            "Brantford Bulldogs": "-249"
+        }
+    },
+    {
+        "date": "2025-09-01",
+        "home_team": "Barrie Colts",
+        "away_team": "Owen Sound Attack",
+        "predicted_winner": "Barrie Colts",
+        "actual_winner": "Owen Sound Attack",
+        "home_score": 1,
+        "away_score": 3,
+        "odds": {
+            "Barrie Colts": "-197",
+            "Owen Sound Attack": "+157"
+        }
     }
 ]
