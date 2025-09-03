@@ -293,7 +293,7 @@ Player_ID,Name,Rookie,JN,BD,BD_Y,Hgt,Wgt,Pos,Team,GP,G,A,PTS,Pts/G,+/-,PPG,PPA,G
 9332,Jack Ziliotto,NO,16,,2005.0,6.02,185,C,Sudbury Wolves,28,5,9,14,0.5,-1,1,1,0,0,10,2,14.3,12.5
 9227,Karlis Flugins,YES,21,,2007.0,5.11,185,C,Flint Firebirds,52,5,9,14,0.27,2,1,0,2,0,4,1,7.1,21.5
 8966,Artem Frolov,NO,26,,2007.0,6.01,193,D,Flint Firebirds,65,4,10,14,0.22,-2,1,0,0,0,27,1,7.1,-6.0
-9162,Alexander Bilecki,YES,89,,2008.0,6.02,173,LD,Kitchener Rangers,45,3,11,14,0.31,4,0,1,0,0,29,1,7.1,-2.5
+9162,Alexander Bilecki,YES,89,,2008.0,6.02,180,LD,Kitchener Rangers,45,3,11,14,0.31,4,0,1,0,0,29,1,7.1,-2.5
 9107,Carter Hicks,YES,58,,2008.0,6.01,166,D,Windsor Spitfires,52,3,11,14,0.27,11,1,0,0,0,25,1,7.1,8.5
 9022,Liam Ladds,NO,8,,2007.0,6.02,175,D,Peterborough Petes,63,2,12,14,0.22,-20,0,0,0,0,64,0,0.0,-62.0
 8940,Adrian Manzo,NO,2,,2007.0,6.00,183,D,North Bay Battalion,61,1,13,14,0.23,-12,0,1,0,0,18,1,7.1,-8.5
@@ -400,7 +400,7 @@ Player_ID,Name,Rookie,JN,BD,BD_Y,Hgt,Wgt,Pos,Team,GP,G,A,PTS,Pts/G,+/-,PPG,PPA,G
 8930,Jack D'Arcy,YES,25,,2007.0,5.10,162,D,Flint Firebirds,46,1,4,5,0.11,-1,0,0,0,0,14,0,0.0,-7.0
 9132,Oliver Phillips,YES,71,,2007.0,6.06,207,LW,Erie Otters,47,1,4,5,0.11,-2,0,0,1,0,10,0,0.0,-4.0
 9049,Trevor O’Dell,NO,4,,2006.0,6.04,180,D,Sudbury Wolves,58,0,5,5,0.09,-8,0,0,0,0,29,0,0.0,-29.5
-9166,Evan Headrick,YES,81,,2008.0,5.07,150,RW,Kitchener Rangers,19,3,1,4,0.21,0,0,1,1,0,0,1,25.0,7.5
+9166,Evan Headrick,YES,81,,2008.0,5.08,162,RW,Kitchener Rangers,19,3,1,4,0.21,0,0,1,1,0,0,1,25.0,7.5
 9033,Zach Houben,YES,25,,2007.0,6.06,213,LW,Ottawa 67's,51,3,1,4,0.08,-22,0,0,0,0,35,0,0.0,-49.5
 8772,Lincoln Moore,NO,18,,2005.0,6.02,215,RW,Saginaw Spirit,13,2,2,4,0.31,2,1,1,0,0,12,2,50.0,-3.0
 8944,Matheas Stark,NO,28,,2007.0,6.00,161,LW,Kitchener Rangers,13,2,2,4,0.31,-9,0,1,0,0,2,1,25.0,-4.0
@@ -529,7 +529,7 @@ Player_ID,Name,Rookie,JN,BD,BD_Y,Hgt,Wgt,Pos,Team,GP,G,A,PTS,Pts/G,+/-,PPG,PPA,G
 9288,Michael D'Alessio,YES,7,,2008.0,6.01,170,D,Erie Otters,7,0,0,0,0.0,-3,0,0,0,0,2,0,,-5.0
 9122,Chase Gaughan,YES,71,,2008.0,6.02,167,RW,Sarnia Sting,7,0,0,0,0.0,0,0,0,0,0,0,0,,0.0
 8951,Luke Dragusica,NO,23,,2007.0,6.01,178,D,Brampton Steelheads,8,0,0,0,0.0,1,0,0,0,0,4,0,,-3.0
-9311,Jacob Xu,YES,96,,2008.0,6.02,181,LD,Kitchener Rangers,8,0,0,0,0.0,-2,0,0,0,0,0,0,,-2.0
+9311,Jacob Xu,YES,96,,2008.0,6.02,195,LD,Kitchener Rangers,8,0,0,0,0.0,-2,0,0,0,0,0,0,,-2.0
 9266,Jackson Young,NO,6,,2005.0,6.05,190,D,Guelph Storm,8,0,0,0,0.0,-6,0,0,0,0,0,0,,-6.0
 8483,Daks Klinkhammer,NO,48,,2005.0,6.01,186,LW,Sudbury Wolves,12,0,0,0,0.0,-4,0,0,0,0,5,0,,-9.0
 9199,Henry Doucet,YES,5,,2008.0,6.00,187,LW,Sudbury Wolves,13,0,0,0,0.0,-2,0,0,0,0,6,0,,-8.0
