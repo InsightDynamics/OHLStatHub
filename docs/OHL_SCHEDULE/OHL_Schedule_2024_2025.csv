@@ -1,13 +1,4 @@
 Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
-2024-11-15,7:00 pm,Brampton Steelheads,5,Barrie Colts,2,27496
-2024-11-15,7:00 pm,Kingston Frontenacs,7,Owen Sound Attack,1,27498
-2024-11-15,7:00 pm,Kitchener Rangers,4,Peterborough Petes,1,27499
-2024-11-15,7:00 pm,London Knights,5,Sarnia Sting,3,27500
-2024-11-15,7:00 pm,Ottawa 67's,2,Oshawa Generals,3,27501
-2024-11-15,7:05 pm,Saginaw Spirit,5,Erie Otters,7,27503
-2024-11-15,7:05 pm,Sudbury Wolves,9,Windsor Spitfires,3,27504
-2024-11-15,7:07 pm,Guelph Storm,8,Niagara IceDogs,5,27497
-2024-11-15,7:07 pm,Soo Greyhounds,2,Flint Firebirds,3,27502
 2024-11-16,4:00 pm,Brantford Bulldogs,5,Brampton Steelheads,3,27506
 2024-11-16,4:07 pm,Guelph Storm,0,London Knights,4,27508
 2024-11-16,7:00 pm,Flint Firebirds,2,Erie Otters,1,27507
@@ -592,7 +583,7 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2025-09-03,7:00 pm,North Bay Battalion,4,Ottawa 67's,3,28849
 2025-09-03,7:00 pm,Sudbury Wolves,4,Rouyn-Noranda Huskies,3,28850
 2025-09-04,7:00 pm,Barrie Colts,0,Brampton Steelheads,0,28851
-2025-09-04,7:00 pm,Niagara IceDogs,0,Brantford Bulldogs,0,28852
+2025-09-04,7:00 pm,Niagara IceDogs,2,Brantford Bulldogs,1,28852
 2025-09-05,7:00 pm,Brampton Steelheads,0,Owen Sound Attack,0,28853
 2025-09-05,7:00 pm,Brantford Bulldogs,0,Niagara IceDogs,0,28854
 2025-09-05,7:00 pm,Flint Firebirds,0,Windsor Spitfires,0,28855
@@ -999,3 +990,12 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2026-01-03,7:05 pm,Saginaw Spirit,0,Soo Greyhounds,0,28525
 2026-01-03,7:30 pm,Barrie Colts,0,Niagara IceDogs,0,28521
 2026-01-04,2:00 pm,North Bay Battalion,0,Sudbury Wolves,0,28527
+2026-01-04,2:05 pm,Oshawa Generals,0,London Knights,0,28528
+2026-01-04,2:07 pm,Guelph Storm,0,Peterborough Petes,0,28526
+2026-01-04,5:30 pm,Saginaw Spirit,0,Brampton Steelheads,0,28529
+2026-01-07,7:00 pm,Brantford Bulldogs,0,Niagara IceDogs,0,28530
+2026-01-07,7:00 pm,Flint Firebirds,0,Sarnia Sting,0,28531
+2026-01-07,7:00 pm,Owen Sound Attack,0,Guelph Storm,0,28532
+2026-01-07,7:07 pm,Soo Greyhounds,0,Sudbury Wolves,0,28533
+2026-01-08,7:00 pm,North Bay Battalion,0,Ottawa 67's,0,28534
+2026-01-08,7:05 pm,Peterborough Petes,0,Oshawa Generals,0,28535

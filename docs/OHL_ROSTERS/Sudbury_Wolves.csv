@@ -11,7 +11,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8456,Kocha Delic,Delic,Kocha,C,L,5.11,198.0,2004-03-11,Sudbury Wolves,Central Division,13,0
 9261,Mason Walker,Walker,Mason,LW,L,5.10,169.0,2008-11-26,Sudbury Wolves,Central Division,16,1
 8351,Donovan McCoy,McCoy,Donovan,D,R,6.01,205.0,2004-11-10,Sudbury Wolves,Central Division,19,0
-8827,Braydon Bruce,Bruce,Braydon,D,R,6.05,212.0,2006-05-11,Sudbury Wolves,Central Division,20,0
 8431,Alex Pharand,Pharand,Alex,RW,R,6.03,198.0,2005-01-05,Sudbury Wolves,Central Division,21,0
 8777,Kieron Walton,Walton,Kieron,LW,L,6.06,227.0,2006-04-22,Sudbury Wolves,Central Division,22,0
 9345,Marshall McCharles,McCharles,Marshall,LW,L,6.02,192.0,2006-11-23,Sudbury Wolves,Central Division,23,0
@@ -36,6 +35,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9341,Bodhi Ryan,Ryan,Bodhi,C,L,5.11,146.0,2008-07-08,Sudbury Wolves,Central Division,2,1
 9332,Jack Ziliotto,Ziliotto,Jack,C,R,6.02,185.0,2005-06-22,Sudbury Wolves,Central Division,16,0
 9201,Noah Kohan,Kohan,Noah,LW,L,5.10,160.0,2005-08-08,Sudbury Wolves,Central Division,18,0
+8827,Braydon Bruce,Bruce,Braydon,D,R,6.05,212.0,2006-05-11,Sudbury Wolves,Central Division,20,0
 8679,Marcus Vandenberg,Vandenberg,Marcus,G,L,5.11,172.0,2004-04-25,Sudbury Wolves,Central Division,30,0
 9353,Noah Beaulne,Beaulne,Noah,G,L,6.02,188.0,2004-06-20,Sudbury Wolves,Central Division,35,0
 8779,Drew Gaulton,Gaulton,Drew,G,R,6.03,205.0,2006-04-07,Sudbury Wolves,Central Division,35,0
