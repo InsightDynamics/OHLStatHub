@@ -36,7 +36,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8435,Zakary Lavoie,Lavoie,Zakary,RW,R,5.11,194.0,2004-03-13,Brantford Bulldogs,East Division,29,0
 8750,Florian Xhekaj,Xhekaj,Florian,LW,L,6.04,190.0,2004-06-27,Brantford Bulldogs,East Division,43,0
 8419,Ben Bujold,Bujold,Ben,C,L,5.11,181.0,2004-03-03,Brantford Bulldogs,East Division,89,0
-8371,Mason Vaccari,Vaccari,Mason,G,L,5.10,184.0,2005-04-29,Kingston Frontenacs,East Division,1,0
+8371,Mason Vaccari,Vaccari,Mason,G,L,5.11,184.0,2005-04-29,Kingston Frontenacs,East Division,1,0
 9173,Lukas Moore,Moore,Lukas,D,R,6.02,195.0,2007-04-20,Kingston Frontenacs,East Division,4,1
 8547,Will Bishop,Bishop,Will,D,R,6.06,209.0,2005-03-17,Kingston Frontenacs,East Division,6,0
 9140,Emil Pieniniemi,Pieniniemi,Emil,D,L,6.03,177.0,2005-03-02,Kingston Frontenacs,East Division,7,0
@@ -108,7 +108,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9019,Josh Brady,Brady,Josh,D,R,6.01,185.0,2006-01-11,Ottawa 67's,East Division,3,0
 8975,Kaleb Dietsch,Dietsch,Kaleb,D,L,6.03,208.0,2007-01-03,Ottawa 67's,East Division,4,1
 8888,Bradley Horner,Horner,Bradley,D,R,6.00,195.0,2005-06-16,Ottawa 67's,East Division,5,0
-9328,Theo Avila,Avila,Theo,D,R,5.10,182.0,2007-06-17,Ottawa 67's,East Division,6,1
 8715,Frank Marrelli,Marrelli,Frank,D,L,5.11,187.0,2006-02-16,Ottawa 67's,East Division,8,0
 8585,Chris Barlas,Barlas,Chris,C,L,5.10,182.0,2005-01-10,Ottawa 67's,East Division,9,0
 8976,Nic Whitehead,Whitehead,Nic,C,L,5.10,167.0,2007-02-11,Ottawa 67's,East Division,10,0
@@ -116,7 +115,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8716,Henry Mews,Mews,Henry,D,R,6.01,183.0,2006-03-09,Ottawa 67's,East Division,11,0
 9309,Shaan Kingwell,Kingwell,Shaan,LW,L,6.00,164.0,2007-02-07,Ottawa 67's,East Division,12,1
 8977,Chase Yanni,Yanni,Chase,LW,L,5.11,183.0,2007-01-08,Ottawa 67's,East Division,16,1
-9183,Jordan Perrier,Perrier,Jordan,LW,L,5.10,172.0,2008-07-02,Ottawa 67's,East Division,17,1
 8586,Brady Stonehouse,Stonehouse,Brady,RW,L,5.10,194.0,2004-08-06,Ottawa 67's,East Division,17,0
 8594,Jack Dever,Dever,Jack,C,R,5.10,183.0,2005-09-05,Ottawa 67's,East Division,18,0
 9176,Kohyn Eshkawkogan,Eshkawkogan,Kohyn,D,R,5.10,174.0,2008-11-19,Ottawa 67's,East Division,19,1
@@ -137,9 +135,11 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9296,Rylan Donovan,Donovan,Rylan,G,L,6.01,190.0,2005-08-30,Ottawa 67's,East Division,1,0
 9303,Daniel Giusti,Giusti,Daniel,G,L,5.10,161.0,2007-06-22,Ottawa 67's,East Division,1,1
 9312,Chase Petrova,Petrova,Chase,G,L,5.11,168.0,2008-11-12,Ottawa 67's,East Division,1,1
+9328,Theo Avila,Avila,Theo,D,R,5.10,182.0,2007-06-17,Ottawa 67's,East Division,6,1
 8590,Thomas Sirman,Sirman,Thomas,D,L,5.10,186.0,2004-03-05,Ottawa 67's,East Division,6,0
 9334,Matthew Souliere,Souliere,Matthew,LW,L,6.03,190.0,2006-08-01,Ottawa 67's,East Division,13,0
 9360,Clarence Allain,Allain,Clarence,LW,L,5.10,174.0,2008-06-13,Ottawa 67's,East Division,17,1
+9183,Jordan Perrier,Perrier,Jordan,LW,L,5.10,172.0,2008-07-02,Ottawa 67's,East Division,17,1
 9225,Liam Conway,Conway,Liam,G,L,5.11,171.0,2007-06-19,Ottawa 67's,East Division,30,0
 9363,Marcus Sulug,Sulug,Marcus,D,L,6.01,168.0,2008-02-07,Peterborough Petes,East Division,2,0
 9211,Thanasi Marentette,Marentette,Thanasi,D,L,6.00,205.0,2007-01-30,Peterborough Petes,East Division,3,1
@@ -390,13 +390,13 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8483,Daks Klinkhammer,Klinkhammer,Daks,LW,L,6.01,186.0,2005-08-14,Sudbury Wolves,Central Division,48,0
 8539,Blake Smith,Smith,Blake,D,L,6.05,225.0,2004-10-05,Flint Firebirds,West Division,5,0
 9336,James Paul,Paul,James,D,R,6.02,180.0,2007-10-27,Flint Firebirds,West Division,7,1
-8381,Christopher Thibodeau,Thibodeau,Christopher,RW,R,5.10,158.0,2005-10-13,Flint Firebirds,West Division,9,0
+8381,Christopher Thibodeau,Thibodeau,Christopher,RW,R,5.10,170.0,2005-10-13,Flint Firebirds,West Division,9,0
 8927,Jimmy Lombardi,Lombardi,Jimmy,C,L,6.00,187.0,2007-02-16,Flint Firebirds,West Division,10,0
 8824,Sam McCue,McCue,Sam,LW,L,6.02,191.0,2005-10-03,Flint Firebirds,West Division,12,0
 9240,Josh Colosimo,Colosimo,Josh,C,L,6.02,197.0,2006-01-13,Flint Firebirds,West Division,13,0
 8926,Jeremy Martin,Martin,Jeremy,LW,L,6.01,195.0,2007-02-06,Flint Firebirds,West Division,15,0
 8704,Kaden Pitre,Pitre,Kaden,C,L,6.00,185.0,2006-02-08,Flint Firebirds,West Division,17,0
-9270,Hayden Reid,Reid,Hayden,C,L,6.00,181.0,2006-06-21,Flint Firebirds,West Division,18,0
+9270,Hayden Reid,Reid,Hayden,C,L,6.00,195.0,2006-06-21,Flint Firebirds,West Division,18,0
 8657,Matthew Mania,Mania,Matthew,D,R,6.01,190.0,2005-01-11,Flint Firebirds,West Division,19,0
 9227,Karlis Flugins,Flugins,Karlis,C,R,5.10,185.0,2007-11-11,Flint Firebirds,West Division,21,1
 8929,Max Anderson,Anderson,Max,C,L,5.10,160.0,2007-07-18,Flint Firebirds,West Division,22,0
@@ -412,10 +412,10 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9241,Christian Colosimo,Colosimo,Christian,D,L,6.05,220.0,2008-12-01,Flint Firebirds,West Division,73,1
 8705,Nathan Aspinall,Aspinall,Nathan,LW,L,6.07,207.0,2006-03-30,Flint Firebirds,West Division,76,0
 8461,Nolan Collins,Collins,Nolan,D,R,6.04,215.0,2004-04-28,Flint Firebirds,West Division,77,0
-9229,Xavier Tessier,Tessier,Xavier,LW,L,6.01,185.0,2008-05-09,Flint Firebirds,West Division,81,1
+9229,Xavier Tessier,Tessier,Xavier,LW,L,6.01,200.0,2008-05-09,Flint Firebirds,West Division,81,1
 9230,Ryland Cunningham,Cunningham,Ryland,LW,L,5.10,185.0,2008-06-28,Flint Firebirds,West Division,88,1
 8458,Evan Konyen,Konyen,Evan,RW,R,6.00,180.0,2004-02-22,Flint Firebirds,West Division,91,0
-8970,Urban Podrekar,Podrekar,Urban,D,L,6.00,194.0,2005-02-14,Flint Firebirds,West Division,98,0
+8970,Urban Podrekar,Podrekar,Urban,D,L,6.00,205.0,2005-02-14,Flint Firebirds,West Division,98,0
 8892,Jacob Brown,Brown,Jacob,G,L,6.03,190.0,2006-03-07,Flint Firebirds,West Division,41,0
 9243,Brendan Cooke,Cooke,Brendan,LW,R,5.10,170.0,2007-12-22,Flint Firebirds,West Division,86,1
 9231,Gage Brandon,Brandon,Gage,C,L,5.11,170.0,2008-06-10,Flint Firebirds,West Division,92,0
