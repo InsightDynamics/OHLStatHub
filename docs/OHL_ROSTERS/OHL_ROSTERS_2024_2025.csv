@@ -194,10 +194,8 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8761,Cole Beaudoin,Beaudoin,Cole,C,L,6.02,211.0,2006-04-24,Barrie Colts,Central Division,29,0
 8841,Sam Hillebrandt,Hillebrandt,Sam,G,R,6.01,170.0,2005-02-21,Barrie Colts,Central Division,30,0
 8449,Beau Jelsma,Jelsma,Beau,C,L,5.10,180.0,2004-04-28,Barrie Colts,Central Division,53,0
-9072,Nolan Newton,Newton,Nolan,RW,R,5.09,165.0,2006-01-27,Barrie Colts,Central Division,61,0
 9065,Ben Hrebik,Hrebik,Ben,G,R,6.03,199.0,2006-04-04,Barrie Colts,Central Division,62,0
 8771,Bode Stewart,Stewart,Bode,LW,L,6.01,175.0,2006-02-09,Barrie Colts,Central Division,71,0
-9306,Jack Martin,Martin,Jack,RW,R,5.11,170.0,2006-03-16,Barrie Colts,Central Division,74,0
 8803,Kashawn Aitcheson,Aitcheson,Kashawn,D,L,6.01,198.0,2006-09-21,Barrie Colts,Central Division,77,0
 9260,Gabriel Eliasson,Eliasson,Gabriel,D,L,6.07,214.0,2006-09-09,Barrie Colts,Central Division,78,0
 8924,Shamar Moses,Moses,Shamar,RW,R,6.01,202.0,2007-05-06,Barrie Colts,Central Division,78,0
@@ -211,6 +209,8 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9175,Parker Vaughan,Vaughan,Parker,RW,R,6.01,189.0,2008-03-06,Barrie Colts,Central Division,94,1
 9177,Noah Barton,Barton,Noah,D,R,6.02,183.0,2008-10-16,Barrie Colts,Central Division,7,0
 8633,Tai York,York,Tai,LW,L,6.01,185.0,2004-06-18,Barrie Colts,Central Division,23,0
+9072,Nolan Newton,Newton,Nolan,RW,R,5.09,165.0,2006-01-27,Barrie Colts,Central Division,61,0
+9306,Jack Martin,Martin,Jack,RW,R,5.11,170.0,2006-03-16,Barrie Colts,Central Division,74,0
 9134,Noah Erliden,Erliden,Noah,G,R,5.11,183.0,2005-09-09,Erie Otters,Midwest Division,1,0
 8780,Ty Henry,Henry,Ty,D,L,6.04,206.0,2006-07-19,Erie Otters,Midwest Division,2,0
 9315,Oliver Turner,Turner,Oliver,D,R,6.04,200.0,2007-03-18,Erie Otters,Midwest Division,3,1
