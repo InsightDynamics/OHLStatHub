@@ -317,7 +317,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9190,Elliot Arnett,Arnett,Elliot,D,L,6.02,185.0,2008-03-12,Owen Sound Attack,Midwest Division,4,1
 9032,Gabriel Smith,Smith,Gabriel,D,L,6.04,174.0,2007-01-01,Owen Sound Attack,Midwest Division,5,1
 8553,Konnor Smith,Smith,Konnor,D,L,6.06,217.0,2004-11-06,Owen Sound Attack,Midwest Division,6,0
-8739,Ben Cormier,Cormier,Ben,C,L,6.00,180.0,2006-07-20,Owen Sound Attack,Midwest Division,8,0
 9192,Ethan Kindree,Kindree,Ethan,RW,R,5.10,175.0,2008-06-02,Owen Sound Attack,Midwest Division,9,1
 8573,Landen Hookey,Hookey,Landen,RW,R,6.05,222.0,2004-01-29,Owen Sound Attack,Midwest Division,10,0
 9193,Max Bleicher,Bleicher,Max,D,L,5.10,189.0,2007-02-14,Owen Sound Attack,Midwest Division,11,1
@@ -343,6 +342,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8388,Colby Barlow,Barlow,Colby,LW,L,6.01,190.0,2005-02-14,Owen Sound Attack,Midwest Division,39,0
 8934,Tristan Delisle,Delisle,Tristan,C,L,5.11,184.0,2007-05-15,Owen Sound Attack,Midwest Division,40,0
 9197,Trent Gates,Gates,Trent,LW,R,5.11,164.0,2007-09-17,Owen Sound Attack,Midwest Division,7,1
+8739,Ben Cormier,Cormier,Ben,C,L,6.00,180.0,2006-07-20,Owen Sound Attack,Midwest Division,8,0
 8632,Taos Jordan,Jordan,Taos,D,L,5.11,190.0,2004-03-29,Owen Sound Attack,Midwest Division,24,0
 9204,Brady Smith,Smith,Brady,D,L,6.02,196.0,2008-03-27,Sudbury Wolves,Central Division,3,0
 9049,Trevor O’Dell,O’Dell,Trevor,D,L,6.04,180.0,2006-07-17,Sudbury Wolves,Central Division,4,0
