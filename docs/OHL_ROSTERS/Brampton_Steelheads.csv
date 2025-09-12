@@ -6,6 +6,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8706,Reed Gee,Gee,Reed,D,L,6.00,185.0,2006-03-12,Brampton Steelheads,Central Division,8,0
 9308,Julian Demiglio,Demiglio,Julian,C,L,5.11,180.0,2006-04-22,Brampton Steelheads,Central Division,9,0
 9301,Aidan Lane,Lane,Aidan,RW,R,6.01,193.0,2007-02-04,Brampton Steelheads,Central Division,11,1
+9304,Thomas Kuipers,Kuipers,Thomas,RW,R,6.02,180.0,2006-04-20,Brampton Steelheads,Central Division,12,0
 8950,Kieran Witkowski,Witkowski,Kieran,LW,L,5.11,176.0,2007-02-07,Brampton Steelheads,Central Division,13,0
 8802,Jack Van Volsen,Van Volsen,Jack,C,L,6.02,190.0,2006-01-12,Brampton Steelheads,Central Division,14,0
 8349,Carson Rehkopf,Rehkopf,Carson,RW,L,6.02,202.0,2005-01-07,Brampton Steelheads,Central Division,16,0
@@ -30,7 +31,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8605,Adam Zidlicky,Zidlicky,Adam,LW,L,6.00,170.0,2005-01-28,Brampton Steelheads,Central Division,91,0
 8743,Porter Martone,Martone,Porter,RW,R,6.03,208.0,2006-10-26,Brampton Steelheads,Central Division,94,0
 9282,Alexander Stephen,Stephen,Alexander,D,L,6.03,195.0,2005-03-22,Brampton Steelheads,Central Division,2,0
-9304,Thomas Kuipers,Kuipers,Thomas,RW,R,6.02,180.0,2006-04-20,Brampton Steelheads,Central Division,12,0
 9082,Wyatt Jinman,Jinman,Wyatt,LW,L,6.02,160.0,2007-10-11,Brampton Steelheads,Central Division,21,0
 9283,Graeme MacAuley,MacAuley,Graeme,D,L,6.00,190.0,2005-11-29,Brampton Steelheads,Central Division,26,0
 8783,Jacob Gibbons,Gibbons,Jacob,G,R,6.05,205.0,2006-11-23,Brampton Steelheads,Central Division,38,0
