@@ -4,6 +4,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9268,Adam Jiricek,Jiricek,Adam,D,R,6.03,180.0,2006-06-28,Brantford Bulldogs,East Division,5,0
 8661,Noah Roberts,Roberts,Noah,D,L,6.01,199.0,2005-12-02,Brantford Bulldogs,East Division,7,0
 8798,Tomáš Hamara,Hamara,Tomáš,D,L,6.00,192.0,2004-03-09,Brantford Bulldogs,East Division,9,0
+9093,Niko Krmpotic,Krmpotic,Niko,D,L,6.01,191.0,2007-04-19,Brantford Bulldogs,East Division,10,1
 8639,Noah Nelson,Nelson,Noah,C,L,6.01,183.0,2005-03-28,Brantford Bulldogs,East Division,11,0
 8807,Owen Protz,Protz,Owen,D,L,6.02,207.0,2006-02-07,Brantford Bulldogs,East Division,12,0
 9004,Calvin Crombie,Crombie,Calvin,RW,R,6.00,186.0,2005-09-03,Brantford Bulldogs,East Division,14,0
@@ -30,7 +31,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8641,Patrick Thomas,Thomas,Patrick,C,L,6.00,178.0,2004-08-21,Brantford Bulldogs,East Division,93,0
 9296,Rylan Donovan,Donovan,Rylan,G,L,6.01,190.0,2005-08-30,Brantford Bulldogs,East Division,1,0
 9344,Brock Schaus,Schaus,Brock,G,R,6.00,165.0,2008-03-17,Brantford Bulldogs,East Division,1,0
-9093,Niko Krmpotic,Krmpotic,Niko,D,L,6.01,191.0,2007-04-19,Brantford Bulldogs,East Division,10,1
 9003,Daniel Chen,Chen,Daniel,D,R,6.05,196.0,2006-08-04,Brantford Bulldogs,East Division,27,0
 9343,Ethan Facchina,Facchina,Ethan,C,L,6.00,185.0,2006-01-12,Brantford Bulldogs,East Division,28,0
 8435,Zakary Lavoie,Lavoie,Zakary,RW,R,5.11,194.0,2004-03-13,Brantford Bulldogs,East Division,29,0
