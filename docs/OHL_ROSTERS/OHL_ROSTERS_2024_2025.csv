@@ -331,7 +331,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8749,Masen Wray,Wray,Masen,C,L,6.04,194.0,2006-05-15,Owen Sound Attack,Midwest Division,22,0
 9339,Lenny Greenberg,Greenberg,Lenny,D,R,6.00,178.0,2005-03-07,Owen Sound Attack,Midwest Division,23,0
 8726,David Bedkowski,Bedkowski,David,D,R,6.06,220.0,2006-12-07,Owen Sound Attack,Midwest Division,25,0
-8471,Declan Waddick,Waddick,Declan,LW,L,5.09,172.0,2005-01-24,Owen Sound Attack,Midwest Division,27,0
 8494,James Petrovski,Petrovski,James,D,L,6.03,190.0,2005-08-12,Owen Sound Attack,Midwest Division,28,0
 8781,Bruce McDonald,McDonald,Bruce,C,L,6.00,177.0,2004-12-18,Owen Sound Attack,Midwest Division,29,0
 9297,Trenten Bennett,Bennett,Trenten,G,L,6.08,207.0,2006-04-01,Owen Sound Attack,Midwest Division,30,0
@@ -344,6 +343,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9032,Gabriel Smith,Smith,Gabriel,D,L,6.04,204.0,2007-01-01,Owen Sound Attack,Midwest Division,5,1
 9197,Trent Gates,Gates,Trent,LW,R,5.11,164.0,2007-09-17,Owen Sound Attack,Midwest Division,7,1
 8632,Taos Jordan,Jordan,Taos,D,L,5.11,190.0,2004-03-29,Owen Sound Attack,Midwest Division,24,0
+8471,Declan Waddick,Waddick,Declan,LW,L,5.09,172.0,2005-01-24,Owen Sound Attack,Midwest Division,27,0
 9357,Finn Kearns,Kearns,Finn,D,L,6.03,203.0,2008-06-08,Sudbury Wolves,Central Division,2,1
 9204,Brady Smith,Smith,Brady,D,L,6.02,196.0,2008-03-27,Sudbury Wolves,Central Division,3,0
 9049,Trevor O’Dell,O’Dell,Trevor,D,L,6.04,180.0,2006-07-17,Sudbury Wolves,Central Division,4,0

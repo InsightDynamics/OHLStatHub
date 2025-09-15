@@ -1,12 +1,4 @@
 Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
-2024-11-23,7:00 pm,Brantford Bulldogs,1,Kingston Frontenacs,4,27531
-2024-11-23,7:00 pm,Erie Otters,0,Kitchener Rangers,4,27532
-2024-11-23,7:00 pm,Flint Firebirds,2,Barrie Colts,3,27533
-2024-11-23,7:00 pm,Niagara IceDogs,2,Sudbury Wolves,4,27534
-2024-11-23,7:00 pm,Owen Sound Attack,3,Oshawa Generals,4,27535
-2024-11-23,7:05 pm,Peterborough Petes,4,North Bay Battalion,1,27536
-2024-11-23,7:05 pm,Saginaw Spirit,5,London Knights,6,27537
-2024-11-23,7:05 pm,Windsor Spitfires,6,Ottawa 67's,3,27538
 2024-11-24,2:00 pm,Brampton Steelheads,8,Soo Greyhounds,5,27539
 2024-11-24,2:05 pm,Sarnia Sting,2,Barrie Colts,5,27543
 2024-11-24,4:00 pm,Kingston Frontenacs,5,North Bay Battalion,1,27540
@@ -999,3 +991,11 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2026-01-15,7:00 pm,North Bay Battalion,0,Sudbury Wolves,0,28559
 2026-01-15,7:05 pm,Sarnia Sting,0,Soo Greyhounds,0,28560
 2026-01-16,7:00 pm,Brantford Bulldogs,0,Peterborough Petes,0,28561
+2026-01-16,7:00 pm,Erie Otters,0,Windsor Spitfires,0,28562
+2026-01-16,7:00 pm,Kitchener Rangers,0,Saginaw Spirit,0,28565
+2026-01-16,7:00 pm,Ottawa 67's,0,Gatineau Olympiques,0,28567
+2026-01-16,7:05 pm,Kingston Frontenacs,0,Brampton Steelheads,0,28564
+2026-01-16,7:05 pm,Oshawa Generals,0,North Bay Battalion,0,28566
+2026-01-16,7:05 pm,Sarnia Sting,0,London Knights,0,28568
+2026-01-16,7:05 pm,Sudbury Wolves,0,Flint Firebirds,0,28569
+2026-01-16,7:07 pm,Guelph Storm,0,Soo Greyhounds,0,28563
