@@ -1,5 +1,5 @@
 player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team_name,division,jersey_number,rookie
-9134,Noah Erliden,Erliden,Noah,G,R,5.11,183.0,2005-09-09,Erie Otters,Midwest Division,1,0
+9134,Noah Erliden,Erliden,Noah,G,L,5.11,183.0,2005-09-09,Erie Otters,Midwest Division,1,0
 8780,Ty Henry,Henry,Ty,D,L,6.04,206.0,2006-07-19,Erie Otters,Midwest Division,2,0
 9315,Oliver Turner,Turner,Oliver,D,R,6.04,200.0,2007-03-18,Erie Otters,Midwest Division,3,1
 8524,Nathan Sauder,Sauder,Nathan,D,R,6.01,202.0,2005-02-01,Erie Otters,Midwest Division,5,0
@@ -7,7 +7,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9323,Garrett Frazer,Frazer,Garrett,D,R,6.00,188.0,2006-02-10,Erie Otters,Midwest Division,8,0
 9284,Callum Hughes,Hughes,Callum,LW,L,6.00,186.0,2006-01-22,Erie Otters,Midwest Division,9,0
 8535,Carey Terrance,Terrance,Carey,C,L,6.01,186.0,2005-05-10,Erie Otters,Midwest Division,10,0
-8537,Dylan Edwards,Edwards,Dylan,RW,R,5.08,171.0,2005-07-20,Erie Otters,Midwest Division,11,0
+8537,Dylan Edwards,Edwards,Dylan,RW,L,5.08,171.0,2005-07-20,Erie Otters,Midwest Division,11,0
 9361,Kayden Edwards,Edwards,Kayden,LW,L,5.09,165.0,2008-04-24,Erie Otters,Midwest Division,13,1
 8785,Malcolm Spence,Spence,Malcolm,LW,L,6.02,201.0,2006-09-22,Erie Otters,Midwest Division,17,0
 8784,Alex Messier,Messier,Alex,LW,L,6.03,213.0,2005-03-23,Erie Otters,Midwest Division,21,0
@@ -20,7 +20,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8782,Nicholas Holomego,Holomego,Nicholas,D,L,6.05,203.0,2006-05-19,Erie Otters,Midwest Division,65,0
 9132,Oliver Phillips,Phillips,Oliver,LW,L,6.06,207.0,2007-11-29,Erie Otters,Midwest Division,71,1
 8512,Alexis Daviault,Daviault,Alexis,D,L,6.00,184.0,2005-06-17,Erie Otters,Midwest Division,72,0
-9130,Lucas Ambrosio,Ambrosio,Lucas,D,R,6.04,194.0,2008-01-06,Erie Otters,Midwest Division,73,1
+9130,Lucas Ambrosio,Ambrosio,Lucas,D,L,6.04,194.0,2008-01-06,Erie Otters,Midwest Division,73,1
 8999,Wesley Royston,Royston,Wesley,RW,R,6.04,190.0,2007-11-22,Erie Otters,Midwest Division,77,0
 9131,Tyler Challenger,Challenger,Tyler,C,L,6.02,202.0,2008-04-13,Erie Otters,Midwest Division,84,1
 8763,Gabriel Frasca,Frasca,Gabriel,C,L,6.01,190.0,2006-02-18,Erie Otters,Midwest Division,86,0

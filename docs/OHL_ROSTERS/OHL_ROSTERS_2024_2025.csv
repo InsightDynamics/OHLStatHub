@@ -211,7 +211,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8633,Tai York,York,Tai,LW,L,6.01,185.0,2004-06-18,Barrie Colts,Central Division,23,0
 9072,Nolan Newton,Newton,Nolan,RW,R,5.09,165.0,2006-01-27,Barrie Colts,Central Division,61,0
 9306,Jack Martin,Martin,Jack,RW,R,5.11,170.0,2006-03-16,Barrie Colts,Central Division,74,0
-9134,Noah Erliden,Erliden,Noah,G,R,5.11,183.0,2005-09-09,Erie Otters,Midwest Division,1,0
+9134,Noah Erliden,Erliden,Noah,G,L,5.11,183.0,2005-09-09,Erie Otters,Midwest Division,1,0
 8780,Ty Henry,Henry,Ty,D,L,6.04,206.0,2006-07-19,Erie Otters,Midwest Division,2,0
 9315,Oliver Turner,Turner,Oliver,D,R,6.04,200.0,2007-03-18,Erie Otters,Midwest Division,3,1
 8524,Nathan Sauder,Sauder,Nathan,D,R,6.01,202.0,2005-02-01,Erie Otters,Midwest Division,5,0
@@ -219,7 +219,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9323,Garrett Frazer,Frazer,Garrett,D,R,6.00,188.0,2006-02-10,Erie Otters,Midwest Division,8,0
 9284,Callum Hughes,Hughes,Callum,LW,L,6.00,186.0,2006-01-22,Erie Otters,Midwest Division,9,0
 8535,Carey Terrance,Terrance,Carey,C,L,6.01,186.0,2005-05-10,Erie Otters,Midwest Division,10,0
-8537,Dylan Edwards,Edwards,Dylan,RW,R,5.08,171.0,2005-07-20,Erie Otters,Midwest Division,11,0
+8537,Dylan Edwards,Edwards,Dylan,RW,L,5.08,171.0,2005-07-20,Erie Otters,Midwest Division,11,0
 9361,Kayden Edwards,Edwards,Kayden,LW,L,5.09,165.0,2008-04-24,Erie Otters,Midwest Division,13,1
 8785,Malcolm Spence,Spence,Malcolm,LW,L,6.02,201.0,2006-09-22,Erie Otters,Midwest Division,17,0
 8784,Alex Messier,Messier,Alex,LW,L,6.03,213.0,2005-03-23,Erie Otters,Midwest Division,21,0
@@ -232,7 +232,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8782,Nicholas Holomego,Holomego,Nicholas,D,L,6.05,203.0,2006-05-19,Erie Otters,Midwest Division,65,0
 9132,Oliver Phillips,Phillips,Oliver,LW,L,6.06,207.0,2007-11-29,Erie Otters,Midwest Division,71,1
 8512,Alexis Daviault,Daviault,Alexis,D,L,6.00,184.0,2005-06-17,Erie Otters,Midwest Division,72,0
-9130,Lucas Ambrosio,Ambrosio,Lucas,D,R,6.04,194.0,2008-01-06,Erie Otters,Midwest Division,73,1
+9130,Lucas Ambrosio,Ambrosio,Lucas,D,L,6.04,194.0,2008-01-06,Erie Otters,Midwest Division,73,1
 8999,Wesley Royston,Royston,Wesley,RW,R,6.04,190.0,2007-11-22,Erie Otters,Midwest Division,77,0
 9131,Tyler Challenger,Challenger,Tyler,C,L,6.02,202.0,2008-04-13,Erie Otters,Midwest Division,84,1
 8763,Gabriel Frasca,Frasca,Gabriel,C,L,6.01,190.0,2006-02-18,Erie Otters,Midwest Division,86,0
@@ -344,7 +344,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9197,Trent Gates,Gates,Trent,LW,R,5.11,164.0,2007-09-17,Owen Sound Attack,Midwest Division,7,1
 8632,Taos Jordan,Jordan,Taos,D,L,5.11,190.0,2004-03-29,Owen Sound Attack,Midwest Division,24,0
 8471,Declan Waddick,Waddick,Declan,LW,L,5.09,172.0,2005-01-24,Owen Sound Attack,Midwest Division,27,0
-9357,Finn Kearns,Kearns,Finn,D,L,6.03,203.0,2008-06-08,Sudbury Wolves,Central Division,2,1
 9204,Brady Smith,Smith,Brady,D,L,6.02,196.0,2008-03-27,Sudbury Wolves,Central Division,3,0
 9049,Trevor O’Dell,O’Dell,Trevor,D,L,6.04,180.0,2006-07-17,Sudbury Wolves,Central Division,4,0
 9365,Jayden Connors,Connors,Jayden,D,R,5.10,185.0,2007-02-26,Sudbury Wolves,Central Division,5,0
@@ -376,6 +375,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8402,Nick DeAngelis,DeAngelis,Nick,D,L,6.02,188.0,2004-05-22,Sudbury Wolves,Central Division,95,0
 8887,Ondrej Molnar,Molnar,Ondrej,LW,L,5.10,175.0,2005-02-08,Sudbury Wolves,Central Division,96,0
 9071,Spencer Horgan,Horgan,Spencer,D,R,5.11,165.0,2005-03-17,Sudbury Wolves,Central Division,2,0
+9357,Finn Kearns,Kearns,Finn,D,L,6.03,203.0,2008-06-08,Sudbury Wolves,Central Division,2,1
 9341,Bodhi Ryan,Ryan,Bodhi,C,L,5.11,146.0,2008-07-08,Sudbury Wolves,Central Division,2,1
 9332,Jack Ziliotto,Ziliotto,Jack,C,R,6.02,185.0,2005-06-22,Sudbury Wolves,Central Division,16,0
 9201,Noah Kohan,Kohan,Noah,LW,L,5.10,160.0,2005-08-08,Sudbury Wolves,Central Division,18,0
@@ -538,7 +538,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8364,Luke McNamara,McNamara,Luke,C,L,6.03,182.0,2005-03-02,Windsor Spitfires,West Division,29,0
 9248,Michael Newlove,Newlove,Michael,G,L,6.02,171.0,2007-01-14,Windsor Spitfires,West Division,30,1
 8466,Joey Costanzo,Costanzo,Joey,G,L,6.01,174.0,2005-07-26,Windsor Spitfires,West Division,33,0
-9104,Jake Windbiel,Windbiel,Jake,G,L,6.04,223.0,2008-02-11,Windsor Spitfires,West Division,34,0
 9105,Max Brocklehurst,Brocklehurst,Max,RW,L,5.09,155.0,2008-12-30,Windsor Spitfires,West Division,42,0
 8708,Anthony Cristoforo,Cristoforo,Anthony,D,R,6.00,180.0,2006-02-23,Windsor Spitfires,West Division,44,0
 9107,Carter Hicks,Hicks,Carter,D,R,6.01,166.0,2008-02-20,Windsor Spitfires,West Division,58,1
@@ -555,6 +554,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8400,Owen Outwater,Outwater,Owen,LW,L,6.02,187.0,2005-01-04,Windsor Spitfires,West Division,93,0
 9050,Evan Hjelholt,Hjelholt,Evan,D,L,6.03,209.0,2006-12-14,Windsor Spitfires,West Division,7,0
 8411,Jack Greenwell,Greenwell,Jack,RW,R,6.00,176.0,2005-01-05,Windsor Spitfires,West Division,10,0
+9104,Jake Windbiel,Windbiel,Jake,G,L,6.04,223.0,2008-02-11,Windsor Spitfires,West Division,34,0
 9103,Ilya Protas,Protas,Ilya,C,L,6.05,200.0,2006-07-18,Windsor Spitfires,West Division,37,0
 8636,Stevie Leskovar,Leskovar,Stevie,D,L,6.03,216.0,2004-09-09,Brampton Steelheads,Central Division,4,0
 8954,Jakub Fibigr,Fibigr,Jakub,D,L,6.00,171.0,2006-07-22,Brampton Steelheads,Central Division,5,0
