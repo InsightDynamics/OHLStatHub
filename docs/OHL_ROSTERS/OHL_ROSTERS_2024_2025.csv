@@ -1,6 +1,6 @@
 player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team_name,division,jersey_number,rookie
 9097,Logan Snyder,Snyder,Logan,G,R,6.00,168.0,2007-08-14,Brantford Bulldogs,East Division,1,0
-8433,Lucas Moore,Moore,Lucas,D,R,5.10,193.0,2005-06-07,Brantford Bulldogs,East Division,4,0
+8433,Lucas Moore,Moore,Lucas,D,R,5.10,203.0,2005-06-07,Brantford Bulldogs,East Division,4,0
 9268,Adam Jiricek,Jiricek,Adam,D,R,6.03,180.0,2006-06-28,Brantford Bulldogs,East Division,5,0
 8661,Noah Roberts,Roberts,Noah,D,L,6.01,199.0,2005-12-02,Brantford Bulldogs,East Division,7,0
 8798,Tomáš Hamara,Hamara,Tomáš,D,L,6.00,192.0,2004-03-09,Brantford Bulldogs,East Division,9,0
@@ -9,24 +9,24 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8807,Owen Protz,Protz,Owen,D,L,6.02,207.0,2006-02-07,Brantford Bulldogs,East Division,12,0
 9004,Calvin Crombie,Crombie,Calvin,RW,R,6.00,186.0,2005-09-03,Brantford Bulldogs,East Division,14,0
 8350,Nick Lardis,Lardis,Nick,RW,L,5.11,185.0,2005-07-08,Brantford Bulldogs,East Division,16,0
-9150,Patrick Babin,Babin,Patrick,D,R,5.11,168.0,2008-01-30,Brantford Bulldogs,East Division,17,1
-8967,Dylan Tsherna,Tsherna,Dylan,RW,R,6.00,177.0,2007-02-22,Brantford Bulldogs,East Division,18,0
+9150,Patrick Babin,Babin,Patrick,D,R,5.11,188.0,2008-01-30,Brantford Bulldogs,East Division,17,1
+8967,Dylan Tsherna,Tsherna,Dylan,RW,R,6.00,185.0,2007-02-22,Brantford Bulldogs,East Division,18,0
 9151,Nikolas Rossetto,Rossetto,Nikolas,RW,R,5.09,156.0,2008-08-02,Brantford Bulldogs,East Division,19,1
 9366,Luca Diplacido,Diplacido,Luca,D,R,6.01,187.0,2008-09-11,Brantford Bulldogs,East Division,20,0
-9149,Aiden O'Donnell,O'Donnell,Aiden,LW,L,6.01,172.0,2008-01-03,Brantford Bulldogs,East Division,22,1
+9149,Aiden O'Donnell,O'Donnell,Aiden,LW,L,6.01,182.0,2008-01-03,Brantford Bulldogs,East Division,22,1
 8670,Braeden O'Keefe,O'Keefe,Braeden,C,L,5.09,170.0,2005-06-08,Brantford Bulldogs,East Division,23,0
 8377,Thomas Budnick,Budnick,Thomas,D,L,6.01,210.0,2004-02-14,Brantford Bulldogs,East Division,24,0
-9337,Layne Gallacher,Gallacher,Layne,C,L,6.01,165.0,2008-02-16,Brantford Bulldogs,East Division,29,1
-8732,Ryerson Leenders,Leenders,Ryerson,G,L,6.02,179.0,2006-06-01,Brantford Bulldogs,East Division,31,0
-8965,Jake O'Brien,O'Brien,Jake,C,R,6.02,170.0,2007-06-16,Brantford Bulldogs,East Division,44,0
-9152,Parker Holmes,Holmes,Parker,LW,L,6.04,214.0,2007-03-08,Brantford Bulldogs,East Division,53,1
-9320,Tommy Karmiris,Karmiris,Tommy,LW,R,6.00,185.0,2006-06-15,Brantford Bulldogs,East Division,74,0
-8969,Ben Radley,Radley,Ben,D,L,6.00,180.0,2007-07-29,Brantford Bulldogs,East Division,77,1
-8752,Marek Vanacker,Vanacker,Marek,LW,L,6.01,170.0,2006-04-12,Brantford Bulldogs,East Division,78,0
+9337,Layne Gallacher,Gallacher,Layne,C,L,6.01,180.0,2008-02-16,Brantford Bulldogs,East Division,29,1
+8732,Ryerson Leenders,Leenders,Ryerson,G,L,6.01,179.0,2006-06-01,Brantford Bulldogs,East Division,31,0
+8965,Jake O'Brien,O'Brien,Jake,C,R,6.02,177.0,2007-06-16,Brantford Bulldogs,East Division,44,0
+9152,Parker Holmes,Holmes,Parker,LW,L,6.04,228.0,2007-03-08,Brantford Bulldogs,East Division,53,1
+9320,Tommy Karmiris,Karmiris,Tommy,LW,R,5.11,191.0,2006-06-15,Brantford Bulldogs,East Division,74,0
+8969,Ben Radley,Radley,Ben,D,L,6.00,182.0,2007-07-29,Brantford Bulldogs,East Division,77,1
+8752,Marek Vanacker,Vanacker,Marek,LW,L,6.01,188.0,2006-04-12,Brantford Bulldogs,East Division,78,0
 9085,Briir Long,Long,Briir,C,L,5.11,154.0,2007-07-22,Brantford Bulldogs,East Division,84,1
-8968,Joshua Avery,Avery,Joshua,C,L,6.01,170.0,2007-01-30,Brantford Bulldogs,East Division,86,1
-8754,David Egorov,Egorov,David,G,R,6.00,180.0,2006-05-18,Brantford Bulldogs,East Division,88,0
-8713,Luca Testa,Testa,Luca,C,L,6.01,184.0,2006-04-10,Brantford Bulldogs,East Division,91,0
+8968,Joshua Avery,Avery,Joshua,C,L,6.01,189.0,2007-01-30,Brantford Bulldogs,East Division,86,1
+8754,David Egorov,Egorov,David,G,R,6.02,195.0,2006-05-18,Brantford Bulldogs,East Division,88,0
+8713,Luca Testa,Testa,Luca,C,L,6.01,190.0,2006-04-10,Brantford Bulldogs,East Division,91,0
 8430,Cole Brown,Brown,Cole,RW,L,6.03,189.0,2005-04-27,Brantford Bulldogs,East Division,92,0
 8641,Patrick Thomas,Thomas,Patrick,C,L,6.00,178.0,2004-08-21,Brantford Bulldogs,East Division,93,0
 9296,Rylan Donovan,Donovan,Rylan,G,L,6.01,190.0,2005-08-30,Brantford Bulldogs,East Division,1,0
@@ -256,6 +256,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8561,Ryan McGuire,McGuire,Ryan,C,L,5.11,192.0,2004-02-29,Guelph Storm,Midwest Division,12,0
 8960,Quinn Beauchesne,Beauchesne,Quinn,D,R,6.00,187.0,2007-03-01,Guelph Storm,Midwest Division,13,0
 9159,Sam Johnston,Johnston,Sam,RW,R,6.04,187.0,2007-07-30,Guelph Storm,Midwest Division,14,1
+9278,Daniel Berehowsky,Berehowsky,Daniel,C,R,5.11,182.0,2006-09-29,Guelph Storm,Midwest Division,16,0
 9064,Noah Jenken,Jenken,Noah,D,L,6.03,190.0,2007-03-08,Guelph Storm,Midwest Division,19,1
 8994,Leo Serlin,Serlin,Leo,RW,R,6.00,190.0,2006-01-20,Guelph Storm,Midwest Division,20,0
 9063,Grant Spada,Spada,Grant,D,L,6.04,185.0,2007-06-24,Guelph Storm,Midwest Division,21,1
@@ -277,7 +278,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9160,Carter Stevens,Stevens,Carter,C,R,6.01,184.0,2008-01-11,Guelph Storm,Midwest Division,96,1
 9267,Nathan McHattie,McHattie,Nathan,D,L,6.03,190.0,2007-03-21,Guelph Storm,Midwest Division,5,1
 9266,Jackson Young,Young,Jackson,D,L,6.05,190.0,2005-02-08,Guelph Storm,Midwest Division,6,0
-9278,Daniel Berehowsky,Berehowsky,Daniel,C,R,5.11,182.0,2006-09-29,Guelph Storm,Midwest Division,16,0
 8882,William Haley,Haley,William,D,L,6.00,177.0,2005-10-15,Guelph Storm,Midwest Division,17,0
 9225,Liam Conway,Conway,Liam,G,L,5.11,171.0,2007-06-19,Guelph Storm,Midwest Division,30,0
 8873,Jakub Chromiak,Chromiak,Jakub,RD,R,5.11,183.0,2005-11-02,Kitchener Rangers,Midwest Division,3,0
@@ -320,7 +320,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9192,Ethan Kindree,Kindree,Ethan,RW,R,5.10,175.0,2008-06-02,Owen Sound Attack,Midwest Division,9,1
 8573,Landen Hookey,Hookey,Landen,RW,R,6.05,222.0,2004-01-29,Owen Sound Attack,Midwest Division,10,0
 9193,Max Bleicher,Bleicher,Max,D,L,5.10,189.0,2007-02-14,Owen Sound Attack,Midwest Division,11,1
-8824,Sam McCue,McCue,Sam,LW,L,6.02,191.0,2005-10-03,Owen Sound Attack,Midwest Division,12,0
+8824,Sam McCue,McCue,Sam,LW,L,6.02,200.0,2005-10-03,Owen Sound Attack,Midwest Division,12,0
 9194,Easton Mikus,Mikus,Easton,C,L,6.01,191.0,2007-06-19,Owen Sound Attack,Midwest Division,13,1
 9313,Michael Dec,Dec,Michael,RW,R,5.09,160.0,2007-01-29,Owen Sound Attack,Midwest Division,15,0
 9027,Jake Crawford,Crawford,Jake,C,L,6.03,183.0,2007-05-05,Owen Sound Attack,Midwest Division,16,0
@@ -344,38 +344,42 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9197,Trent Gates,Gates,Trent,LW,R,5.11,164.0,2007-09-17,Owen Sound Attack,Midwest Division,7,1
 8632,Taos Jordan,Jordan,Taos,D,L,5.11,190.0,2004-03-29,Owen Sound Attack,Midwest Division,24,0
 8471,Declan Waddick,Waddick,Declan,LW,L,5.09,172.0,2005-01-24,Owen Sound Attack,Midwest Division,27,0
+9204,Brady Smith,Smith,Brady,D,L,6.02,196.0,2008-03-27,Sudbury Wolves,Central Division,3,0
+9049,Trevor O’Dell,O’Dell,Trevor,D,L,6.04,180.0,2006-07-17,Sudbury Wolves,Central Division,4,0
+9365,Jayden Connors,Connors,Jayden,D,R,5.10,185.0,2007-02-26,Sudbury Wolves,Central Division,5,0
+9199,Henry Doucet,Doucet,Henry,LW,L,6.00,187.0,2008-08-11,Sudbury Wolves,Central Division,5,1
 9015,Nolan Jackson,Jackson,Nolan,D,L,6.01,190.0,2007-01-02,Sudbury Wolves,Central Division,5,1
+8671,Gavin Ewles,Ewles,Gavin,D,R,6.01,193.0,2005-03-01,Sudbury Wolves,Central Division,7,0
+8560,Chase Coughlan,Coughlan,Chase,RW,R,5.11,201.0,2005-06-17,Sudbury Wolves,Central Division,9,0
+9198,Ethan Dean,Dean,Ethan,C,L,5.11,175.0,2008-03-11,Sudbury Wolves,Central Division,11,1
 8661,Noah Roberts,Roberts,Noah,D,L,6.01,199.0,2005-12-02,Sudbury Wolves,Central Division,12,0
 8456,Kocha Delic,Delic,Kocha,C,L,5.11,198.0,2004-03-11,Sudbury Wolves,Central Division,13,0
+9261,Mason Walker,Walker,Mason,LW,L,5.10,169.0,2008-11-26,Sudbury Wolves,Central Division,16,1
 8351,Donovan McCoy,McCoy,Donovan,D,R,6.01,205.0,2004-11-10,Sudbury Wolves,Central Division,19,0
+8431,Alex Pharand,Pharand,Alex,RW,R,6.03,198.0,2005-01-05,Sudbury Wolves,Central Division,21,0
+8777,Kieron Walton,Walton,Kieron,LW,L,6.06,227.0,2006-04-22,Sudbury Wolves,Central Division,22,0
 9345,Marshall McCharles,McCharles,Marshall,LW,L,6.02,192.0,2006-11-23,Sudbury Wolves,Central Division,23,0
+9099,Blake Clayton,Clayton,Blake,C,L,6.01,167.0,2007-10-23,Sudbury Wolves,Central Division,24,1
 8459,Quentin Musty,Musty,Quentin,LW,L,6.02,200.0,2005-07-06,Sudbury Wolves,Central Division,27,0
 8885,Karsen Chartier,Chartier,Karsen,G,L,6.03,183.0,2006-01-01,Sudbury Wolves,Central Division,29,0
 8805,Nate Krawchuk,Krawchuk,Nate,G,L,6.02,180.0,2005-07-04,Sudbury Wolves,Central Division,30,0
 9206,Finn Marshall,Marshall,Finn,G,L,6.02,180.0,2006-01-13,Sudbury Wolves,Central Division,31,0
 9286,Kimani Eccleston,Eccleston,Kimani,LW,L,6.04,198.0,2007-08-02,Sudbury Wolves,Central Division,47,1
 9249,Tayjon Street,Street,Tayjon,LW,L,6.01,205.0,2005-05-04,Sudbury Wolves,Central Division,73,0
+9200,Rowan Henderson,Henderson,Rowan,LW,L,5.11,180.0,2007-12-10,Sudbury Wolves,Central Division,77,1
 8716,Henry Mews,Mews,Henry,D,R,6.01,183.0,2006-03-09,Sudbury Wolves,Central Division,88,0
+8776,Nathan Villeneuve,Villeneuve,Nathan,C,L,6.00,195.0,2006-04-13,Sudbury Wolves,Central Division,89,0
+9012,Hudson Chitaroni,Chitaroni,Hudson,C,L,5.11,192.0,2007-08-22,Sudbury Wolves,Central Division,91,1
 8828,Lucas Di Giantommaso,Di Giantommaso,Lucas,RW,R,6.00,178.0,2005-11-14,Sudbury Wolves,Central Division,92,0
+9203,Luca Blonda,Blonda,Luca,D,R,5.11,179.0,2008-11-25,Sudbury Wolves,Central Division,93,1
 8402,Nick DeAngelis,DeAngelis,Nick,D,L,6.02,188.0,2004-05-22,Sudbury Wolves,Central Division,95,0
 8887,Ondrej Molnar,Molnar,Ondrej,LW,L,5.10,175.0,2005-02-08,Sudbury Wolves,Central Division,96,0
 9071,Spencer Horgan,Horgan,Spencer,D,R,5.11,165.0,2005-03-17,Sudbury Wolves,Central Division,2,0
 9357,Finn Kearns,Kearns,Finn,D,L,6.03,203.0,2008-06-08,Sudbury Wolves,Central Division,2,1
 9341,Bodhi Ryan,Ryan,Bodhi,C,L,5.11,146.0,2008-07-08,Sudbury Wolves,Central Division,2,1
-9204,Brady Smith,Smith,Brady,D,L,6.02,196.0,2008-03-27,Sudbury Wolves,Central Division,3,0
-9049,Trevor O’Dell,O’Dell,Trevor,D,L,6.04,180.0,2006-07-17,Sudbury Wolves,Central Division,4,0
-9365,Jayden Connors,Connors,Jayden,D,R,5.10,185.0,2007-02-26,Sudbury Wolves,Central Division,5,0
-9199,Henry Doucet,Doucet,Henry,LW,L,6.00,187.0,2008-08-11,Sudbury Wolves,Central Division,5,1
-8671,Gavin Ewles,Ewles,Gavin,D,R,6.01,193.0,2005-03-01,Sudbury Wolves,Central Division,7,0
-8560,Chase Coughlan,Coughlan,Chase,RW,R,5.11,201.0,2005-06-17,Sudbury Wolves,Central Division,9,0
-9198,Ethan Dean,Dean,Ethan,C,L,5.11,175.0,2008-03-11,Sudbury Wolves,Central Division,11,1
-9261,Mason Walker,Walker,Mason,LW,L,5.10,169.0,2008-11-26,Sudbury Wolves,Central Division,16,1
 9332,Jack Ziliotto,Ziliotto,Jack,C,R,6.02,185.0,2005-06-22,Sudbury Wolves,Central Division,16,0
 9201,Noah Kohan,Kohan,Noah,LW,L,5.10,160.0,2005-08-08,Sudbury Wolves,Central Division,18,0
 8827,Braydon Bruce,Bruce,Braydon,D,R,6.05,212.0,2006-05-11,Sudbury Wolves,Central Division,20,0
-8431,Alex Pharand,Pharand,Alex,RW,R,6.03,198.0,2005-01-05,Sudbury Wolves,Central Division,21,0
-8777,Kieron Walton,Walton,Kieron,LW,L,6.06,227.0,2006-04-22,Sudbury Wolves,Central Division,22,0
-9099,Blake Clayton,Clayton,Blake,C,L,6.01,167.0,2007-10-23,Sudbury Wolves,Central Division,24,1
 8679,Marcus Vandenberg,Vandenberg,Marcus,G,L,5.11,172.0,2004-04-25,Sudbury Wolves,Central Division,30,0
 9353,Noah Beaulne,Beaulne,Noah,G,L,6.02,188.0,2004-06-20,Sudbury Wolves,Central Division,35,0
 8779,Drew Gaulton,Gaulton,Drew,G,R,6.03,205.0,2006-04-07,Sudbury Wolves,Central Division,35,0
@@ -384,15 +388,11 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9326,Joey Brehmer,Brehmer,Joey,LW,L,6.02,214.0,2006-07-27,Sudbury Wolves,Central Division,47,0
 9362,Greg Najda,Najda,Greg,LW,L,6.02,196.0,2008-01-17,Sudbury Wolves,Central Division,47,0
 8483,Daks Klinkhammer,Klinkhammer,Daks,LW,L,6.01,186.0,2005-08-14,Sudbury Wolves,Central Division,48,0
-9200,Rowan Henderson,Henderson,Rowan,LW,L,5.11,180.0,2007-12-10,Sudbury Wolves,Central Division,77,1
-8776,Nathan Villeneuve,Villeneuve,Nathan,C,L,6.00,195.0,2006-04-13,Sudbury Wolves,Central Division,89,0
-9012,Hudson Chitaroni,Chitaroni,Hudson,C,L,5.11,192.0,2007-08-22,Sudbury Wolves,Central Division,91,1
-9203,Luca Blonda,Blonda,Luca,D,R,5.11,179.0,2008-11-25,Sudbury Wolves,Central Division,93,1
 8539,Blake Smith,Smith,Blake,D,L,6.05,225.0,2004-10-05,Flint Firebirds,West Division,5,0
 9336,James Paul,Paul,James,D,R,6.02,180.0,2007-10-27,Flint Firebirds,West Division,7,1
 8381,Christopher Thibodeau,Thibodeau,Christopher,RW,R,5.10,170.0,2005-10-13,Flint Firebirds,West Division,9,0
 8927,Jimmy Lombardi,Lombardi,Jimmy,C,L,6.00,187.0,2007-02-16,Flint Firebirds,West Division,10,0
-8824,Sam McCue,McCue,Sam,LW,L,6.02,191.0,2005-10-03,Flint Firebirds,West Division,12,0
+8824,Sam McCue,McCue,Sam,LW,L,6.02,200.0,2005-10-03,Flint Firebirds,West Division,12,0
 9240,Josh Colosimo,Colosimo,Josh,C,L,6.02,197.0,2006-01-13,Flint Firebirds,West Division,13,0
 8926,Jeremy Martin,Martin,Jeremy,LW,L,6.01,195.0,2007-02-06,Flint Firebirds,West Division,15,0
 8704,Kaden Pitre,Pitre,Kaden,C,L,6.00,185.0,2006-02-08,Flint Firebirds,West Division,17,0
@@ -425,7 +425,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9298,Andoni Fimis,Fimis,Andoni,D,R,6.01,185.0,2006-07-11,London Knights,Midwest Division,4,0
 8425,Easton Cowan,Cowan,Easton,RW,L,6.00,185.0,2005-05-20,London Knights,Midwest Division,7,0
 9368,Eddie Hickson,Hickson,Eddie,C,L,5.10,180.0,2008-04-30,London Knights,Midwest Division,10,0
-9041,Ryder Boulton,Boulton,Ryder,LW,L,5.10,194.0,2006-06-21,London Knights,Midwest Division,11,0
+9041,Ryder Boulton,Boulton,Ryder,LW,L,5.10,195.0,2006-06-21,London Knights,Midwest Division,11,0
 8931,Kasper Halttunen,Halttunen,Kasper,RW,R,6.03,207.0,2005-06-07,London Knights,Midwest Division,12,0
 8879,Jacob Julien,Julien,Jacob,C,L,6.04,190.0,2004-09-12,London Knights,Midwest Division,13,0
 9044,Evan Van Gorp,Van Gorp,Evan,LW,L,5.10,165.0,2006-05-18,London Knights,Midwest Division,14,0
@@ -470,7 +470,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9124,Alessandro Di Iorio,Di Iorio,Alessandro,C,R,6.01,175.0,2008-03-17,Sarnia Sting,West Division,17,1
 8986,Carter Kostuch,Kostuch,Carter,LW,L,5.11,165.0,2007-04-21,Sarnia Sting,West Division,18,0
 9121,Ruslan Karimov,Karimov,Ruslan,LW,L,6.00,200.0,2007-04-27,Sarnia Sting,West Division,19,1
-9239,Ryan Chamberlain,Chamberlain,Ryan,LW,L,6.02,175.0,2008-04-22,Sarnia Sting,West Division,22,1
+9239,Ryan Chamberlain,Chamberlain,Ryan,LW,L,6.02,180.0,2008-04-22,Sarnia Sting,West Division,22,1
 8920,Ryan Brown,Brown,Ryan,LW,L,5.11,172.0,2007-10-27,Sarnia Sting,West Division,23,0
 8812,Daylen Moses,Moses,Daylen,C,R,6.02,180.0,2005-06-13,Sarnia Sting,West Division,24,0
 8837,Tyson Doucette,Doucette,Tyson,LW,L,6.00,181.0,2004-01-30,Sarnia Sting,West Division,25,0
@@ -540,7 +540,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8466,Joey Costanzo,Costanzo,Joey,G,L,6.01,174.0,2005-07-26,Windsor Spitfires,West Division,33,0
 9105,Max Brocklehurst,Brocklehurst,Max,RW,L,5.09,155.0,2008-12-30,Windsor Spitfires,West Division,42,0
 8708,Anthony Cristoforo,Cristoforo,Anthony,D,R,6.00,180.0,2006-02-23,Windsor Spitfires,West Division,44,0
-9107,Carter Hicks,Hicks,Carter,D,R,6.01,166.0,2008-02-20,Windsor Spitfires,West Division,58,1
+9107,Carter Hicks,Hicks,Carter,D,R,6.01,182.0,2008-02-20,Windsor Spitfires,West Division,58,1
 9102,Ethan Belchetz,Belchetz,Ethan,LW,L,6.05,226.0,2008-03-30,Windsor Spitfires,West Division,61,1
 8709,Liam Greentree,Greentree,Liam,LW,L,6.03,216.0,2006-01-01,Windsor Spitfires,West Division,66,0
 8942,Jack Nesbitt,Nesbitt,Jack,C,L,6.04,182.0,2007-01-12,Windsor Spitfires,West Division,71,0
