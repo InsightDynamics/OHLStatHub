@@ -470,7 +470,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9124,Alessandro Di Iorio,Di Iorio,Alessandro,C,R,6.01,175.0,2008-03-17,Sarnia Sting,West Division,17,1
 8986,Carter Kostuch,Kostuch,Carter,LW,L,5.11,165.0,2007-04-21,Sarnia Sting,West Division,18,0
 9121,Ruslan Karimov,Karimov,Ruslan,LW,L,6.00,200.0,2007-04-27,Sarnia Sting,West Division,19,1
-9239,Ryan Chamberlain,Chamberlain,Ryan,LW,L,6.02,180.0,2008-04-22,Sarnia Sting,West Division,22,1
 8920,Ryan Brown,Brown,Ryan,LW,L,5.11,172.0,2007-10-27,Sarnia Sting,West Division,23,0
 8812,Daylen Moses,Moses,Daylen,C,R,6.02,180.0,2005-06-13,Sarnia Sting,West Division,24,0
 8837,Tyson Doucette,Doucette,Tyson,LW,L,6.00,181.0,2004-01-30,Sarnia Sting,West Division,25,0
@@ -486,6 +485,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8922,Hughston Hurt,Hurt,Hughston,D,L,6.01,178.0,2007-07-10,Sarnia Sting,West Division,72,0
 9123,Beckham Edwards,Edwards,Beckham,C,L,6.01,170.0,2008-01-06,Sarnia Sting,West Division,81,1
 9092,Matthew Andersen,Andersen,Matthew,D,L,6.00,174.0,2007-11-27,Sarnia Sting,West Division,21,1
+9239,Ryan Chamberlain,Chamberlain,Ryan,LW,L,6.02,180.0,2008-04-22,Sarnia Sting,West Division,22,1
 9280,Dallys Hibbert,Hibbert,Dallys,D,R,6.02,178.0,2006-06-25,Sarnia Sting,West Division,28,0
 9045,Casey Bridgewater,Bridgewater,Casey,D,L,5.10,175.0,2007-02-07,Sarnia Sting,West Division,43,1
 8919,Lane Sim,Sim,Lane,LW,L,5.08,160.0,2007-05-09,Sarnia Sting,West Division,92,0
