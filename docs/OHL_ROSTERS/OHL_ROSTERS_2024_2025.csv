@@ -88,7 +88,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9128,David Svozil,Svozil,David,D,L,6.02,177.0,2006-03-07,Oshawa Generals,East Division,29,0
 8937,Hayden Sabourin,Sabourin,Hayden,G,L,5.11,183.0,2005-05-27,Oshawa Generals,East Division,30,0
 8955,Shawn Costello,Costello,Shawn,C,L,6.02,188.0,2007-01-20,Oshawa Generals,East Division,32,1
-9026,Noah Bender,Bender,Noah,G,R,6.04,195.0,2006-06-30,Oshawa Generals,East Division,36,0
 8567,Jacob Oster,Oster,Jacob,G,L,6.03,190.0,2004-03-26,Oshawa Generals,East Division,38,0
 8388,Colby Barlow,Barlow,Colby,LW,L,6.01,190.0,2005-02-14,Oshawa Generals,East Division,39,0
 8934,Tristan Delisle,Delisle,Tristan,C,L,5.11,184.0,2007-05-15,Oshawa Generals,East Division,40,0
@@ -104,6 +103,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8470,Dylan Roobroeck,Roobroeck,Dylan,C,L,6.07,205.0,2004-07-27,Oshawa Generals,East Division,25,0
 8728,Lucas Rodriguez,Rodriguez,Lucas,D,R,6.02,192.0,2006-04-26,Oshawa Generals,East Division,26,0
 8727,Tyler Graham,Graham,Tyler,LW,L,5.10,192.0,2006-08-10,Oshawa Generals,East Division,28,0
+9026,Noah Bender,Bender,Noah,G,R,6.04,195.0,2006-06-30,Oshawa Generals,East Division,36,0
 9034,Caeden Heins,Heins,Caeden,LW,L,6.00,182.0,2006-02-06,Oshawa Generals,East Division,44,0
 9019,Josh Brady,Brady,Josh,D,R,6.01,185.0,2006-01-11,Ottawa 67's,East Division,3,0
 8975,Kaleb Dietsch,Dietsch,Kaleb,D,L,6.03,208.0,2007-01-03,Ottawa 67's,East Division,4,1
@@ -248,7 +248,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9318,Eric Frossard,Frossard,Eric,D,L,6.04,195.0,2008-01-12,Guelph Storm,Midwest Division,3,1
 9217,Dawson Morris,Morris,Dawson,D,L,6.00,184.0,2008-03-13,Guelph Storm,Midwest Division,3,0
 8961,Rylan Singh,Singh,Rylan,D,R,5.11,187.0,2007-10-04,Guelph Storm,Midwest Division,4,0
-8786,Jett Luchanko,Luchanko,Jett,C,R,5.11,191.0,2006-08-21,Guelph Storm,Midwest Division,7,0
 9158,Alex McLean,McLean,Alex,C,L,5.10,173.0,2008-08-08,Guelph Storm,Midwest Division,8,1
 8962,Parker Snelgrove,Snelgrove,Parker,C,L,6.00,189.0,2007-01-20,Guelph Storm,Midwest Division,9,0
 8358,Jake Karabela,Karabela,Jake,C,L,5.11,188.0,2004-03-07,Guelph Storm,Midwest Division,10,0
@@ -278,6 +277,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9160,Carter Stevens,Stevens,Carter,C,R,6.01,184.0,2008-01-11,Guelph Storm,Midwest Division,96,1
 9267,Nathan McHattie,McHattie,Nathan,D,L,6.03,190.0,2007-03-21,Guelph Storm,Midwest Division,5,1
 9266,Jackson Young,Young,Jackson,D,L,6.05,190.0,2005-02-08,Guelph Storm,Midwest Division,6,0
+8786,Jett Luchanko,Luchanko,Jett,C,R,5.11,191.0,2006-08-21,Guelph Storm,Midwest Division,7,0
 8882,William Haley,Haley,William,D,L,6.00,177.0,2005-10-15,Guelph Storm,Midwest Division,17,0
 9225,Liam Conway,Conway,Liam,G,L,5.11,171.0,2007-06-19,Guelph Storm,Midwest Division,30,0
 8873,Jakub Chromiak,Chromiak,Jakub,RD,R,5.11,183.0,2005-11-02,Kitchener Rangers,Midwest Division,3,0
@@ -404,7 +404,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8930,Jack D'Arcy,D'Arcy,Jack,D,R,5.10,172.0,2007-12-02,Flint Firebirds,West Division,25,1
 8966,Artem Frolov,Frolov,Artem,D,L,6.01,195.0,2007-05-05,Flint Firebirds,West Division,26,0
 8481,Matthew Wang,Wang,Matthew,LW,L,6.02,202.0,2005-08-22,Flint Firebirds,West Division,28,0
-9026,Noah Bender,Bender,Noah,G,R,6.04,195.0,2006-06-30,Flint Firebirds,West Division,30,0
 8496,Nathan Day,Day,Nathan,G,L,6.04,205.0,2005-02-04,Flint Firebirds,West Division,31,0
 8813,Alex Kostov,Kostov,Alex,RW,R,6.04,208.0,2006-06-03,Flint Firebirds,West Division,47,0
 9046,Rylan Fellinger,Fellinger,Rylan,D,R,6.04,200.0,2007-05-16,Flint Firebirds,West Division,65,0
@@ -416,6 +415,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9230,Ryland Cunningham,Cunningham,Ryland,LW,L,5.10,185.0,2008-06-28,Flint Firebirds,West Division,88,1
 8458,Evan Konyen,Konyen,Evan,RW,R,6.00,180.0,2004-02-22,Flint Firebirds,West Division,91,0
 8970,Urban Podrekar,Podrekar,Urban,D,L,6.00,205.0,2005-02-14,Flint Firebirds,West Division,98,0
+9026,Noah Bender,Bender,Noah,G,R,6.04,195.0,2006-06-30,Flint Firebirds,West Division,30,0
 8892,Jacob Brown,Brown,Jacob,G,L,6.03,190.0,2006-03-07,Flint Firebirds,West Division,41,0
 9243,Brendan Cooke,Cooke,Brendan,LW,R,5.10,170.0,2007-12-22,Flint Firebirds,West Division,86,1
 9231,Gage Brandon,Brandon,Gage,C,L,5.11,170.0,2008-06-10,Flint Firebirds,West Division,92,0
