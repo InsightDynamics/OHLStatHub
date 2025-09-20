@@ -12,7 +12,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9057,Hunter Solomon,Solomon,Hunter,D,R,6.01,192.0,2007-12-04,Soo Greyhounds,West Division,17,1
 9036,Brayden Velliaris,Velliaris,Brayden,D,R,6.04,220.0,2005-04-16,Soo Greyhounds,West Division,18,0
 8979,Charlie Hilton,Hilton,Charlie,LW,L,6.05,220.0,2006-09-15,Soo Greyhounds,West Division,20,0
-9223,Erik Muxlow,Muxlow,Erik,LW,L,5.10,192.0,2007-03-21,Soo Greyhounds,West Division,22,1
 9172,David Holub,Holub,David,D,R,5.09,180.0,2007-04-11,Soo Greyhounds,West Division,23,1
 8579,Justin Cloutier,Cloutier,Justin,RW,R,5.09,186.0,2005-06-20,Soo Greyhounds,West Division,24,0
 9299,Chase Reid,Reid,Chase,D,R,6.02,187.0,2007-12-30,Soo Greyhounds,West Division,25,1
@@ -28,6 +27,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8528,Nolan Lalonde,Lalonde,Nolan,G,L,6.02,197.0,2004-02-14,Soo Greyhounds,West Division,79,0
 8354,Justin DeZoete,DeZoete,Justin,LW,L,6.00.25,196.0,2004-01-02,Soo Greyhounds,West Division,11,0
 9224,Sam Bowness,Bowness,Sam,LW,L,6.01.25,194.0,2005-04-29,Soo Greyhounds,West Division,21,0
+9223,Erik Muxlow,Muxlow,Erik,LW,L,5.10,192.0,2007-03-21,Soo Greyhounds,West Division,22,1
 9254,Camerin Cardona,Cardona,Camerin,RW,R,5.11,170.0,2006-01-01,Soo Greyhounds,West Division,27,0
 9219,Reid Thomas,Thomas,Reid,G,R,6.02,191.0,2007-06-07,Soo Greyhounds,West Division,30,1
 9348,Noah Metivier,Metivier,Noah,G,R,5.11,174.0,2004-01-28,Soo Greyhounds,West Division,31,0
