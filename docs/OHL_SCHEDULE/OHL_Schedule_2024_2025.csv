@@ -1,8 +1,4 @@
 Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
-2024-11-30,7:00 pm,Owen Sound Attack,3,Windsor Spitfires,6,27561
-2024-11-30,7:05 pm,Saginaw Spirit,3,Brampton Steelheads,5,27563
-2024-11-30,7:07 pm,Soo Greyhounds,2,North Bay Battalion,3,27562
-2024-11-30,7:30 pm,Barrie Colts,6,Brantford Bulldogs,2,27559
 2024-12-01,2:00 pm,Ottawa 67's,3,London Knights,10,27566
 2024-12-01,2:05 pm,Peterborough Petes,4,Niagara IceDogs,3,27567
 2024-12-01,2:05 pm,Sarnia Sting,1,Saginaw Spirit,4,27568
@@ -581,13 +577,13 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2025-09-25,7:00 pm,Barrie Colts,1,Owen Sound Attack,2,28168
 2025-09-25,7:05 pm,Peterborough Petes,0,Soo Greyhounds,3,28169
 2025-09-25,7:05 pm,Windsor Spitfires,4,Sudbury Wolves,0,28170
-2025-09-26,7:00 pm,Kitchener Rangers,0,Erie Otters,0,28173
-2025-09-26,7:00 pm,London Knights,0,Brampton Steelheads,0,28174
-2025-09-26,7:00 pm,North Bay Battalion,0,Ottawa 67's,0,28175
-2025-09-26,7:05 pm,Kingston Frontenacs,0,Soo Greyhounds,0,28172
-2025-09-26,7:05 pm,Saginaw Spirit,0,Niagara IceDogs,0,28176
-2025-09-26,7:05 pm,Sarnia Sting,0,Sudbury Wolves,0,28177
-2025-09-26,7:07 pm,Guelph Storm,0,Oshawa Generals,0,28171
+2025-09-26,7:00 pm,Kitchener Rangers,0,Erie Otters,1,28173
+2025-09-26,7:00 pm,London Knights,1,Brampton Steelheads,0,28174
+2025-09-26,7:00 pm,North Bay Battalion,0,Ottawa 67's,1,28175
+2025-09-26,7:05 pm,Kingston Frontenacs,1,Soo Greyhounds,2,28172
+2025-09-26,7:05 pm,Saginaw Spirit,2,Niagara IceDogs,0,28176
+2025-09-26,7:05 pm,Sarnia Sting,2,Sudbury Wolves,0,28177
+2025-09-26,7:07 pm,Guelph Storm,1,Oshawa Generals,3,28171
 2025-09-27,4:00 pm,Brampton Steelheads,0,Peterborough Petes,0,28179
 2025-09-27,7:00 pm,Brantford Bulldogs,0,Sudbury Wolves,0,28180
 2025-09-27,7:00 pm,Erie Otters,0,London Knights,0,28181
@@ -999,3 +995,7 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2026-01-22,7:00 pm,Niagara IceDogs,0,Barrie Colts,0,28586
 2026-01-22,7:00 pm,North Bay Battalion,0,Brantford Bulldogs,0,28587
 2026-01-22,7:05 pm,Peterborough Petes,0,Saginaw Spirit,0,28588
+2026-01-23,7:00 pm,Kitchener Rangers,0,Owen Sound Attack,0,28591
+2026-01-23,7:00 pm,London Knights,0,Sarnia Sting,0,28592
+2026-01-23,7:05 pm,Kingston Frontenacs,0,Saginaw Spirit,0,28590
+2026-01-23,7:05 pm,Sudbury Wolves,0,Brantford Bulldogs,0,28593
