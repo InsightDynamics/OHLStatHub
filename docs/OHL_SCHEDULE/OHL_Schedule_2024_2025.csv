@@ -1,9 +1,4 @@
 Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
-2024-12-01,2:00 pm,Ottawa 67's,3,London Knights,10,27566
-2024-12-01,2:05 pm,Peterborough Petes,4,Niagara IceDogs,3,27567
-2024-12-01,2:05 pm,Sarnia Sting,1,Saginaw Spirit,4,27568
-2024-12-01,2:07 pm,Guelph Storm,2,Kitchener Rangers,3,27564
-2024-12-01,6:05 pm,Oshawa Generals,8,Kingston Frontenacs,5,27565
 2024-12-03,7:00 pm,Kitchener Rangers,6,Brantford Bulldogs,3,27569
 2024-12-04,11:00 am,Brampton Steelheads,7,Guelph Storm,4,27570
 2024-12-04,6:30 pm,London Knights,3,Owen Sound Attack,0,27571
@@ -584,12 +579,12 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2025-09-26,7:05 pm,Saginaw Spirit,4,Niagara IceDogs,5,28176
 2025-09-26,7:05 pm,Sarnia Sting,6,Sudbury Wolves,1,28177
 2025-09-26,7:07 pm,Guelph Storm,1,Oshawa Generals,7,28171
-2025-09-27,4:00 pm,Brampton Steelheads,0,Peterborough Petes,0,28179
-2025-09-27,7:00 pm,Brantford Bulldogs,0,Sudbury Wolves,0,28180
-2025-09-27,7:00 pm,Erie Otters,0,London Knights,0,28181
-2025-09-27,7:00 pm,Flint Firebirds,0,Niagara IceDogs,0,28182
-2025-09-27,7:00 pm,Owen Sound Attack,0,Kitchener Rangers,0,28183
-2025-09-27,7:05 pm,Saginaw Spirit,0,Guelph Storm,0,28184
+2025-09-27,4:00 pm,Brampton Steelheads,2,Peterborough Petes,4,28179
+2025-09-27,7:00 pm,Brantford Bulldogs,2,Sudbury Wolves,0,28180
+2025-09-27,7:00 pm,Erie Otters,1,London Knights,0,28181
+2025-09-27,7:00 pm,Flint Firebirds,0,Niagara IceDogs,2,28182
+2025-09-27,7:00 pm,Owen Sound Attack,1,Kitchener Rangers,0,28183
+2025-09-27,7:05 pm,Saginaw Spirit,0,Guelph Storm,2,28184
 2025-09-27,7:30 pm,Barrie Colts,0,Windsor Spitfires,0,28178
 2025-09-28,2:00 pm,North Bay Battalion,0,Kingston Frontenacs,0,28185
 2025-09-28,2:00 pm,Owen Sound Attack,0,Barrie Colts,0,28188
@@ -999,3 +994,8 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2026-01-23,7:00 pm,London Knights,0,Sarnia Sting,0,28592
 2026-01-23,7:05 pm,Kingston Frontenacs,0,Saginaw Spirit,0,28590
 2026-01-23,7:05 pm,Sudbury Wolves,0,Brantford Bulldogs,0,28593
+2026-01-23,7:05 pm,Windsor Spitfires,0,Flint Firebirds,0,28594
+2026-01-23,7:07 pm,Guelph Storm,0,Erie Otters,0,28589
+2026-01-24,3:00 pm,Ottawa 67's,0,Oshawa Generals,0,28598
+2026-01-24,7:00 pm,Erie Otters,0,Kitchener Rangers,0,28596
+2026-01-24,7:00 pm,Flint Firebirds,0,Windsor Spitfires,0,28597
