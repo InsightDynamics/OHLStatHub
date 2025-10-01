@@ -16,7 +16,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9117,Igor Chernyshov,Chernyshov,Igor,RW,R,6.03,225.0,2005-11-30,Saginaw Spirit,West Division,25,0
 9287,Trevor Theuer,Theuer,Trevor,LW,L,5.10,190.0,2008-02-12,Saginaw Spirit,West Division,26,1
 8503,PJ Forgione,Forgione,PJ,D,L,6.02,215.0,2004-11-12,Saginaw Spirit,West Division,27,0
-9154,Liam Campbell,Campbell,Liam,LW,L,5.10,170.0,2008-10-22,Saginaw Spirit,West Division,28,1
 8369,Andrew Oke,Oke,Andrew,G,L,6.02,190.0,2004-03-26,Saginaw Spirit,West Division,29,0
 8993,Kaleb Papineau,Papineau,Kaleb,G,L,6.02,185.0,2006-01-25,Saginaw Spirit,West Division,31,0
 9156,Sammy DiBlasi,DiBlasi,Sammy,G,L,6.04,190.0,2007-01-13,Saginaw Spirit,West Division,35,1
@@ -32,3 +31,4 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9349,Declan McNamara,McNamara,Declan,G,L,6.00,175.0,2007-02-19,Saginaw Spirit,West Division,1,1
 9347,Candon O'Neill,O'Neill,Candon,D,L,6.00,200.0,2007-08-11,Saginaw Spirit,West Division,10,0
 8772,Lincoln Moore,Moore,Lincoln,RW,R,6.02,215.0,2005-09-21,Saginaw Spirit,West Division,18,0
+9154,Liam Campbell,Campbell,Liam,LW,L,5.10,170.0,2008-10-22,Saginaw Spirit,West Division,28,1
