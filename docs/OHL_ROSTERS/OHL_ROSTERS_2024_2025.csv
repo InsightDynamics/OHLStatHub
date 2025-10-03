@@ -344,6 +344,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9192,Ethan Kindree,Kindree,Ethan,RW,R,5.10,175.0,2008-06-02,Owen Sound Attack,Midwest Division,9,1
 8632,Taos Jordan,Jordan,Taos,D,L,5.11,190.0,2004-03-29,Owen Sound Attack,Midwest Division,24,0
 8471,Declan Waddick,Waddick,Declan,LW,L,5.09,172.0,2005-01-24,Owen Sound Attack,Midwest Division,27,0
+9357,Finn Kearns,Kearns,Finn,D,L,6.03,203.0,2008-06-08,Sudbury Wolves,Central Division,2,1
 9204,Brady Smith,Smith,Brady,D,L,6.02,196.0,2008-03-27,Sudbury Wolves,Central Division,3,0
 9049,Trevor O’Dell,O’Dell,Trevor,D,L,6.04,180.0,2006-07-17,Sudbury Wolves,Central Division,4,0
 9365,Jayden Connors,Connors,Jayden,D,R,5.10,185.0,2007-02-26,Sudbury Wolves,Central Division,5,0
@@ -375,7 +376,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8402,Nick DeAngelis,DeAngelis,Nick,D,L,6.02,188.0,2004-05-22,Sudbury Wolves,Central Division,95,0
 8887,Ondrej Molnar,Molnar,Ondrej,LW,L,5.10,175.0,2005-02-08,Sudbury Wolves,Central Division,96,0
 9071,Spencer Horgan,Horgan,Spencer,D,R,5.11,165.0,2005-03-17,Sudbury Wolves,Central Division,2,0
-9357,Finn Kearns,Kearns,Finn,D,L,6.03,203.0,2008-06-08,Sudbury Wolves,Central Division,2,1
 9341,Bodhi Ryan,Ryan,Bodhi,C,L,5.11,146.0,2008-07-08,Sudbury Wolves,Central Division,2,1
 9332,Jack Ziliotto,Ziliotto,Jack,C,R,6.02,185.0,2005-06-22,Sudbury Wolves,Central Division,16,0
 9201,Noah Kohan,Kohan,Noah,LW,L,5.10,160.0,2005-08-08,Sudbury Wolves,Central Division,18,0
@@ -593,6 +593,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8783,Jacob Gibbons,Gibbons,Jacob,G,R,6.05,205.0,2006-11-23,Brampton Steelheads,Central Division,38,0
 8825,Chase Lefebvre,Lefebvre,Chase,C,L,6.03,180.0,2004-05-13,Brampton Steelheads,Central Division,71,0
 9187,Martin Vaculik,Vaculik,Martin,RW,R,6.00,174.0,2006-09-20,Brampton Steelheads,Central Division,88,1
+9101,Charlie Larocque,Larocque,Charlie,G,L,6.03,181.0,2007-07-16,North Bay Battalion,Central Division,1,1
 8602,Wyatt Kennedy,Kennedy,Wyatt,D,R,6.05,202.0,2005-05-27,North Bay Battalion,Central Division,2,0
 8940,Adrian Manzo,Manzo,Adrian,D,R,6.00,183.0,2007-08-28,North Bay Battalion,Central Division,2,0
 9322,Jonathan Kapageridis,Kapageridis,Jonathan,D,L,6.00,176.0,2007-05-08,North Bay Battalion,Central Division,3,1
@@ -623,7 +624,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8915,Lirim Amidovski,Amidovski,Lirim,RW,R,6.01,175.0,2006-12-22,North Bay Battalion,Central Division,29,0
 9316,Jack Lisson,Lisson,Jack,G,R,6.02,190.0,2006-03-31,North Bay Battalion,Central Division,30,0
 8833,Mike McIvor,McIvor,Mike,G,R,6.01,174.0,2006-03-22,North Bay Battalion,Central Division,34,0
-9101,Charlie Larocque,Larocque,Charlie,G,L,6.03,181.0,2007-07-16,North Bay Battalion,Central Division,1,1
 9294,Sam Rivet,Rivet,Sam,D,L,6.00,211.0,2008-02-27,North Bay Battalion,Central Division,8,1
 8914,Dylan Richter,Richter,Dylan,C,L,5.08,185.0,2006-07-11,North Bay Battalion,Central Division,10,0
 9290,Adam Smeeton,Smeeton,Adam,C,L,6.02,170.0,2007-02-12,North Bay Battalion,Central Division,12,1
