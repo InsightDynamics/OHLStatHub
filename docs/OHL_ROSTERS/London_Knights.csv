@@ -13,8 +13,8 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8712,Sam O'Reilly,O'Reilly,Sam,C,R,6.01,190.0,2006-03-30,London Knights,Midwest Division,23,0
 9333,Jaxon Cover,Cover,Jaxon,LW,L,6.01,185.0,2008-02-13,London Knights,Midwest Division,24,1
 9064,Noah Jenken,Jenken,Noah,D,L,6.03,190.0,2007-03-08,London Knights,Midwest Division,24,1
-9110,Logan Hawery,Hawery,Logan,C,R,5.10,170.0,2008-03-15,London Knights,Midwest Division,26,1
-9367,Brody Cook,Cook,Brody,RW,R,5.11,180.0,2007-04-04,London Knights,Midwest Division,27,0
+9110,Logan Hawery,Hawery,Logan,C,L,5.10,170.0,2008-03-15,London Knights,Midwest Division,26,1
+9367,Brody Cook,Cook,Brody,RW,R,5.11,180.0,2007-04-06,London Knights,Midwest Division,27,0
 8472,Alec Leonard,Leonard,Alec,D,R,5.11,174.0,2004-05-13,London Knights,Midwest Division,27,0
 9264,Austin Elliott,Elliott,Austin,G,L,6.01,180.0,2004-05-14,London Knights,Midwest Division,31,0
 9111,Cohen Bidgood,Bidgood,Cohen,RW,R,6.00,185.0,2007-01-11,London Knights,Midwest Division,34,1
