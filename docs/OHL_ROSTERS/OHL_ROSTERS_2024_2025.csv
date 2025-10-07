@@ -365,7 +365,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8885,Karsen Chartier,Chartier,Karsen,G,L,6.03,183.0,2006-01-01,Sudbury Wolves,Central Division,29,0
 8805,Nate Krawchuk,Krawchuk,Nate,G,L,6.02,180.0,2005-07-04,Sudbury Wolves,Central Division,30,0
 9206,Finn Marshall,Marshall,Finn,G,L,6.02,180.0,2006-01-13,Sudbury Wolves,Central Division,31,0
-9286,Kimani Eccleston,Eccleston,Kimani,LW,L,6.04,198.0,2007-08-02,Sudbury Wolves,Central Division,47,1
 9249,Tayjon Street,Street,Tayjon,LW,L,6.01,205.0,2005-05-04,Sudbury Wolves,Central Division,73,0
 9200,Rowan Henderson,Henderson,Rowan,LW,L,5.11,180.0,2007-12-10,Sudbury Wolves,Central Division,77,1
 8716,Henry Mews,Mews,Henry,D,R,6.01,183.0,2006-03-09,Sudbury Wolves,Central Division,88,0
@@ -386,6 +385,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9354,Luke Suys,Suys,Luke,G,L,6.01,165.0,2007-03-12,Sudbury Wolves,Central Division,35,1
 9202,Grant Booth,Booth,Grant,LW,L,5.09,180.0,2007-01-03,Sudbury Wolves,Central Division,41,1
 9326,Joey Brehmer,Brehmer,Joey,LW,L,6.02,214.0,2006-07-27,Sudbury Wolves,Central Division,47,0
+9286,Kimani Eccleston,Eccleston,Kimani,LW,L,6.04,198.0,2007-08-02,Sudbury Wolves,Central Division,47,1
 9362,Greg Najda,Najda,Greg,LW,L,6.02,196.0,2008-01-17,Sudbury Wolves,Central Division,47,0
 8483,Daks Klinkhammer,Klinkhammer,Daks,LW,L,6.01,186.0,2005-08-14,Sudbury Wolves,Central Division,48,0
 8539,Blake Smith,Smith,Blake,D,L,6.05,225.0,2004-10-05,Flint Firebirds,West Division,5,0
@@ -614,7 +614,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8987,Nolan Laird,Laird,Nolan,C,L,6.01,180.0,2006-01-04,North Bay Battalion,Central Division,19,0
 9040,Reyth Smith,Smith,Reyth,LW,L,6.02,179.0,2007-07-27,North Bay Battalion,Central Division,20,1
 8721,Ethan Procyszyn,Procyszyn,Ethan,C,R,6.03,192.0,2006-07-11,North Bay Battalion,Central Division,21,0
-8988,Zach Wilson,Wilson,Zach,D,L,6.06,187.0,2007-03-07,North Bay Battalion,Central Division,22,1
+8988,Zach Wilson,Wilson,Zach,D,L,6.06,195.0,2007-03-07,North Bay Battalion,Central Division,22,1
 9235,Stepan Chukharev,Chukharev,Stepan,RW,L,6.02,192.0,2007-02-28,North Bay Battalion,Central Division,23,1
 8924,Shamar Moses,Moses,Shamar,LW,R,6.01,202.0,2007-05-06,North Bay Battalion,Central Division,24,0
 8408,Bronson Ride,Ride,Bronson,D,L,6.07,212.0,2005-01-14,North Bay Battalion,Central Division,25,0
