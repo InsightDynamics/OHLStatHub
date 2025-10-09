@@ -347,7 +347,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9357,Finn Kearns,Kearns,Finn,D,L,6.03,203.0,2008-06-08,Sudbury Wolves,Central Division,2,1
 9204,Brady Smith,Smith,Brady,D,L,6.02,196.0,2008-03-27,Sudbury Wolves,Central Division,3,0
 9049,Trevor O’Dell,O’Dell,Trevor,D,L,6.04,180.0,2006-07-17,Sudbury Wolves,Central Division,4,0
-9365,Jayden Connors,Connors,Jayden,D,R,5.10,185.0,2007-02-26,Sudbury Wolves,Central Division,5,0
 9199,Henry Doucet,Doucet,Henry,LW,L,6.00,187.0,2008-08-11,Sudbury Wolves,Central Division,5,1
 9015,Nolan Jackson,Jackson,Nolan,D,L,6.01,190.0,2007-01-02,Sudbury Wolves,Central Division,5,1
 8671,Gavin Ewles,Ewles,Gavin,D,R,6.01,193.0,2005-03-01,Sudbury Wolves,Central Division,7,0
@@ -365,7 +364,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8885,Karsen Chartier,Chartier,Karsen,G,L,6.03,183.0,2006-01-01,Sudbury Wolves,Central Division,29,0
 8805,Nate Krawchuk,Krawchuk,Nate,G,L,6.02,180.0,2005-07-04,Sudbury Wolves,Central Division,30,0
 9206,Finn Marshall,Marshall,Finn,G,L,6.02,180.0,2006-01-13,Sudbury Wolves,Central Division,31,0
-9286,Kimani Eccleston,Eccleston,Kimani,LW,L,6.04,198.0,2007-08-02,Sudbury Wolves,Central Division,47,1
 9249,Tayjon Street,Street,Tayjon,LW,L,6.01,205.0,2005-05-04,Sudbury Wolves,Central Division,73,0
 9200,Rowan Henderson,Henderson,Rowan,LW,L,5.11,180.0,2007-12-10,Sudbury Wolves,Central Division,77,1
 8716,Henry Mews,Mews,Henry,D,R,6.01,183.0,2006-03-09,Sudbury Wolves,Central Division,88,0
@@ -377,6 +375,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8887,Ondrej Molnar,Molnar,Ondrej,LW,L,5.10,175.0,2005-02-08,Sudbury Wolves,Central Division,96,0
 9071,Spencer Horgan,Horgan,Spencer,D,R,5.11,165.0,2005-03-17,Sudbury Wolves,Central Division,2,0
 9341,Bodhi Ryan,Ryan,Bodhi,C,L,5.11,146.0,2008-07-08,Sudbury Wolves,Central Division,2,1
+9365,Jayden Connors,Connors,Jayden,D,R,5.10,185.0,2007-02-26,Sudbury Wolves,Central Division,5,0
 9332,Jack Ziliotto,Ziliotto,Jack,C,R,6.02,185.0,2005-06-22,Sudbury Wolves,Central Division,16,0
 9201,Noah Kohan,Kohan,Noah,LW,L,5.10,160.0,2005-08-08,Sudbury Wolves,Central Division,18,0
 8827,Braydon Bruce,Bruce,Braydon,D,R,6.05,212.0,2006-05-11,Sudbury Wolves,Central Division,20,0
@@ -386,6 +385,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9354,Luke Suys,Suys,Luke,G,L,6.01,165.0,2007-03-12,Sudbury Wolves,Central Division,35,1
 9202,Grant Booth,Booth,Grant,LW,L,5.09,180.0,2007-01-03,Sudbury Wolves,Central Division,41,1
 9326,Joey Brehmer,Brehmer,Joey,LW,L,6.02,214.0,2006-07-27,Sudbury Wolves,Central Division,47,0
+9286,Kimani Eccleston,Eccleston,Kimani,LW,L,6.04,198.0,2007-08-02,Sudbury Wolves,Central Division,47,1
 9362,Greg Najda,Najda,Greg,LW,L,6.02,196.0,2008-01-17,Sudbury Wolves,Central Division,47,0
 8483,Daks Klinkhammer,Klinkhammer,Daks,LW,L,6.01,186.0,2005-08-14,Sudbury Wolves,Central Division,48,0
 8539,Blake Smith,Smith,Blake,D,L,6.05,225.0,2004-10-05,Flint Firebirds,West Division,5,0
@@ -493,7 +493,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8570,Andrew Gibson,Gibson,Andrew,D,R,6.04,210.0,2005-02-13,Soo Greyhounds,West Division,6,0
 8571,Caeden Carlisle,Carlisle,Caeden,D,L,6.01.25,197.0,2004-01-31,Soo Greyhounds,West Division,7,0
 8810,Brodie McConnell-Barker,McConnell-Barker,Brodie,D,L,6.00,188.0,2006-01-31,Soo Greyhounds,West Division,8,0
-8899,Tate Vader,Vader,Tate,C,L,5.11,187.0,2006-01-09,Soo Greyhounds,West Division,9,0
 9125,Brady T Smith,Smith,Brady T,RW,R,6.01,186.0,2008-04-13,Soo Greyhounds,West Division,11,1
 9221,Brady R Smith,Smith,Brady R,C,L,6.00,179.0,2007-04-12,Soo Greyhounds,West Division,12,1
 9017,Travis Hayes,Hayes,Travis,RW,R,5.11,167.0,2007-09-03,Soo Greyhounds,West Division,13,0
@@ -515,6 +514,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8814,Christopher Brown,Brown,Christopher,C,L,6.00,183.0,2006-01-27,Soo Greyhounds,West Division,67,0
 9222,Carson Andrew,Andrew,Carson,RW,R,6.02,196.0,2008-03-10,Soo Greyhounds,West Division,71,1
 8528,Nolan Lalonde,Lalonde,Nolan,G,L,6.02,197.0,2004-02-14,Soo Greyhounds,West Division,79,0
+8899,Tate Vader,Vader,Tate,C,L,5.11,187.0,2006-01-09,Soo Greyhounds,West Division,9,0
 8354,Justin DeZoete,DeZoete,Justin,LW,L,6.00.25,196.0,2004-01-02,Soo Greyhounds,West Division,11,0
 9224,Sam Bowness,Bowness,Sam,LW,L,6.01.25,194.0,2005-04-29,Soo Greyhounds,West Division,21,0
 9223,Erik Muxlow,Muxlow,Erik,LW,L,5.10,192.0,2007-03-21,Soo Greyhounds,West Division,22,1
