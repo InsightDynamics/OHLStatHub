@@ -48,7 +48,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8770,Joey Willis,Willis,Joey,LW,L,5.11,185.0,2005-03-14,Kingston Frontenacs,East Division,14,0
 8407,Ethan Miedema,Miedema,Ethan,LW,L,6.04,212.0,2005-03-22,Kingston Frontenacs,East Division,15,0
 9262,Riley Clark,Clark,Riley,LW,L,6.01,187.0,2006-05-03,Kingston Frontenacs,East Division,17,0
-9141,Camden McCuaig,McCuaig,Camden,LW,L,6.02,195.0,2008-06-19,Kingston Frontenacs,East Division,20,1
 9137,Nolan Buttar,Buttar,Nolan,C,L,6.02,190.0,2008-05-23,Kingston Frontenacs,East Division,22,1
 9307,André Mondoux,Mondoux,André,D,L,6.04,198.0,2007-03-16,Kingston Frontenacs,East Division,25,1
 8820,Vann Williamson,Williamson,Vann,D,R,6.01,187.0,2006-07-19,Kingston Frontenacs,East Division,27,0
@@ -69,6 +68,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8372,Matthew Soto,Soto,Matthew,RW,R,6.00,185.0,2005-08-31,Kingston Frontenacs,East Division,92,0
 8384,Cedrick Guindon,Guindon,Cedrick,C,L,5.10,182.0,2004-04-21,Kingston Frontenacs,East Division,93,0
 9174,Max Shewfelt,Shewfelt,Max,LW,L,5.11,172.0,2007-03-16,Kingston Frontenacs,East Division,18,1
+9141,Camden McCuaig,McCuaig,Camden,LW,L,6.02,195.0,2008-06-19,Kingston Frontenacs,East Division,20,1
 8497,Luca D'Amato,D'Amato,Luca,D,R,5.09,160.0,2004-08-18,Oshawa Generals,East Division,4,0
 8726,David Bedkowski,Bedkowski,David,D,R,6.06,220.0,2006-12-07,Oshawa Generals,East Division,7,0
 9293,Simon Wang,Wang,Simon,D,L,6.05,225.0,2007-07-27,Oshawa Generals,East Division,7,1
@@ -353,7 +353,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9198,Ethan Dean,Dean,Ethan,C,L,5.11,175.0,2008-03-11,Sudbury Wolves,Central Division,11,1
 8661,Noah Roberts,Roberts,Noah,D,L,6.01,199.0,2005-12-02,Sudbury Wolves,Central Division,12,0
 8456,Kocha Delic,Delic,Kocha,C,L,5.11,198.0,2004-03-11,Sudbury Wolves,Central Division,13,0
-9261,Mason Walker,Walker,Mason,LW,L,5.10,169.0,2008-11-26,Sudbury Wolves,Central Division,16,1
 8351,Donovan McCoy,McCoy,Donovan,D,R,6.01,205.0,2004-11-10,Sudbury Wolves,Central Division,19,0
 8431,Alex Pharand,Pharand,Alex,RW,R,6.03,198.0,2005-01-05,Sudbury Wolves,Central Division,21,0
 8777,Kieron Walton,Walton,Kieron,LW,L,6.06,227.0,2006-04-22,Sudbury Wolves,Central Division,22,0
@@ -376,6 +375,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9357,Finn Kearns,Kearns,Finn,D,L,6.03,203.0,2008-06-08,Sudbury Wolves,Central Division,2,1
 9341,Bodhi Ryan,Ryan,Bodhi,C,L,5.11,146.0,2008-07-08,Sudbury Wolves,Central Division,2,1
 9365,Jayden Connors,Connors,Jayden,D,R,5.10,185.0,2007-02-26,Sudbury Wolves,Central Division,5,0
+9261,Mason Walker,Walker,Mason,LW,L,5.10,169.0,2008-11-26,Sudbury Wolves,Central Division,16,1
 9332,Jack Ziliotto,Ziliotto,Jack,C,R,6.02,185.0,2005-06-22,Sudbury Wolves,Central Division,16,0
 9201,Noah Kohan,Kohan,Noah,LW,L,5.10,160.0,2005-08-08,Sudbury Wolves,Central Division,18,0
 8827,Braydon Bruce,Bruce,Braydon,D,R,6.05,212.0,2006-05-11,Sudbury Wolves,Central Division,20,0

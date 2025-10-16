@@ -1,12 +1,4 @@
 Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
-2024-12-20,7:00 pm,Brampton Steelheads,4,Niagara IceDogs,6,27632
-2024-12-20,7:00 pm,Kingston Frontenacs,4,Peterborough Petes,1,27634
-2024-12-20,7:00 pm,Kitchener Rangers,6,Ottawa 67's,3,27635
-2024-12-20,7:00 pm,London Knights,6,Sarnia Sting,1,27636
-2024-12-20,7:05 pm,Oshawa Generals,6,Brantford Bulldogs,2,27637
-2024-12-20,7:05 pm,Saginaw Spirit,3,Flint Firebirds,6,27638
-2024-12-20,7:05 pm,Sudbury Wolves,6,North Bay Battalion,3,27639
-2024-12-20,7:07 pm,Guelph Storm,6,Soo Greyhounds,4,27633
 2024-12-28,4:00 pm,Brampton Steelheads,7,Ottawa 67's,3,27641
 2024-12-28,7:00 pm,Erie Otters,4,Guelph Storm,2,27642
 2024-12-28,7:00 pm,Flint Firebirds,4,Niagara IceDogs,1,27643
@@ -576,7 +568,7 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2025-10-14,7:00 pm,Kitchener Rangers,6,Guelph Storm,1,28235
 2025-10-15,7:00 pm,Owen Sound Attack,6,Barrie Colts,0,28236
 2025-10-15,7:07 pm,Soo Greyhounds,5,Saginaw Spirit,2,28237
-2025-10-16,7:05 pm,Peterborough Petes,0,Oshawa Generals,0,28238
+2025-10-16,7:05 pm,Peterborough Petes,2,Oshawa Generals,1,28238
 2025-10-17,7:00 pm,Brampton Steelheads,0,Brantford Bulldogs,0,28239
 2025-10-17,7:00 pm,Erie Otters,0,Niagara IceDogs,0,28240
 2025-10-17,7:00 pm,Kitchener Rangers,0,London Knights,0,28243
@@ -999,3 +991,11 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2026-02-08,2:05 pm,Kingston Frontenacs,0,Brantford Bulldogs,0,28657
 2026-02-08,2:05 pm,Oshawa Generals,0,Sudbury Wolves,0,28659
 2026-02-08,2:07 pm,Soo Greyhounds,0,Windsor Spitfires,0,28661
+2026-02-08,3:00 pm,Ottawa 67's,0,Owen Sound Attack,0,28660
+2026-02-10,7:00 pm,Kitchener Rangers,0,London Knights,0,28662
+2026-02-11,6:30 pm,London Knights,0,Guelph Storm,0,28665
+2026-02-11,7:00 pm,Erie Otters,0,Owen Sound Attack,0,28663
+2026-02-11,7:00 pm,Flint Firebirds,0,Saginaw Spirit,0,28664
+2026-02-11,7:00 pm,Ottawa 67's,0,Oshawa Generals,0,28666
+2026-02-11,7:07 pm,Soo Greyhounds,0,Sudbury Wolves,0,28667
+2026-02-12,7:00 pm,Barrie Colts,0,Kingston Frontenacs,0,28668
