@@ -1,11 +1,4 @@
 Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
-2024-12-29,2:00 pm,North Bay Battalion,1,Barrie Colts,3,27648
-2024-12-29,2:05 pm,Peterborough Petes,4,Ottawa 67's,5,27650
-2024-12-29,2:05 pm,Sudbury Wolves,2,Kitchener Rangers,3,27653
-2024-12-29,2:07 pm,Soo Greyhounds,6,Windsor Spitfires,10,27651
-2024-12-29,4:00 pm,Flint Firebirds,1,London Knights,4,27647
-2024-12-29,5:30 pm,Saginaw Spirit,6,Niagara IceDogs,3,27652
-2024-12-29,6:05 pm,Oshawa Generals,4,Kingston Frontenacs,2,27649
 2024-12-30,7:00 pm,Owen Sound Attack,1,Guelph Storm,0,27654
 2024-12-31,1:00 pm,North Bay Battalion,2,Kitchener Rangers,5,27660
 2024-12-31,2:00 pm,Brampton Steelheads,5,Sudbury Wolves,6,27656
@@ -569,15 +562,15 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2025-10-17,7:05 pm,Sarnia Sting,2,Windsor Spitfires,3,28244
 2025-10-17,7:05 pm,Sudbury Wolves,4,Soo Greyhounds,2,28245
 2025-10-17,7:07 pm,Guelph Storm,3,Owen Sound Attack,6,28241
-2025-10-18,4:00 pm,Brantford Bulldogs,0,Brampton Steelheads,0,28247
-2025-10-18,4:05 pm,Kingston Frontenacs,0,Oshawa Generals,0,28249
-2025-10-18,7:00 pm,Flint Firebirds,0,Saginaw Spirit,0,28248
-2025-10-18,7:00 pm,Niagara IceDogs,0,Erie Otters,0,28250
-2025-10-18,7:00 pm,Owen Sound Attack,0,Guelph Storm,0,28251
-2025-10-18,7:05 pm,Peterborough Petes,0,Ottawa 67's,0,28252
-2025-10-18,7:05 pm,Windsor Spitfires,0,Sarnia Sting,0,28254
-2025-10-18,7:07 pm,Soo Greyhounds,0,Sudbury Wolves,0,28253
-2025-10-18,7:30 pm,Barrie Colts,0,North Bay Battalion,0,28246
+2025-10-18,4:00 pm,Brantford Bulldogs,9,Brampton Steelheads,3,28247
+2025-10-18,4:05 pm,Kingston Frontenacs,7,Oshawa Generals,1,28249
+2025-10-18,7:00 pm,Flint Firebirds,3,Saginaw Spirit,2,28248
+2025-10-18,7:00 pm,Niagara IceDogs,1,Erie Otters,0,28250
+2025-10-18,7:00 pm,Owen Sound Attack,0,Guelph Storm,2,28251
+2025-10-18,7:05 pm,Peterborough Petes,1,Ottawa 67's,0,28252
+2025-10-18,7:05 pm,Windsor Spitfires,1,Sarnia Sting,0,28254
+2025-10-18,7:07 pm,Soo Greyhounds,3,Sudbury Wolves,0,28253
+2025-10-18,7:30 pm,Barrie Colts,0,North Bay Battalion,2,28246
 2025-10-19,2:00 pm,Brampton Steelheads,0,Erie Otters,0,28255
 2025-10-19,2:00 pm,London Knights,0,Kitchener Rangers,0,28256
 2025-10-19,2:00 pm,North Bay Battalion,0,Barrie Colts,0,28257
@@ -999,3 +992,10 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2026-02-13,7:00 pm,Brantford Bulldogs,0,Erie Otters,0,28673
 2026-02-13,7:00 pm,London Knights,0,Soo Greyhounds,0,28676
 2026-02-13,7:05 pm,Kingston Frontenacs,0,Kitchener Rangers,0,28675
+2026-02-13,7:05 pm,Oshawa Generals,0,Peterborough Petes,0,28677
+2026-02-13,7:05 pm,Sarnia Sting,0,Saginaw Spirit,0,28678
+2026-02-13,7:05 pm,Sudbury Wolves,0,Brampton Steelheads,0,28679
+2026-02-13,7:07 pm,Guelph Storm,0,Flint Firebirds,0,28674
+2026-02-14,3:00 pm,Ottawa 67's,0,Kitchener Rangers,0,28682
+2026-02-14,4:00 pm,Brantford Bulldogs,0,Guelph Storm,0,28680
+2026-02-14,7:00 pm,Erie Otters,0,Flint Firebirds,0,28681
