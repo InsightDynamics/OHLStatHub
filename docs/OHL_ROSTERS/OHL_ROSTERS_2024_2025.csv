@@ -94,8 +94,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9129,Lauri Sinivuori,Sinivuori,Lauri,C,L,6.01,180.0,2006-04-28,Oshawa Generals,East Division,42,0
 8724,Beckett Sennecke,Sennecke,Beckett,RW,R,6.04,195.0,2006-01-28,Oshawa Generals,East Division,45,0
 8794,Ethan Toms,Toms,Ethan,C,L,5.11,186.0,2006-01-19,Oshawa Generals,East Division,61,0
-8563,Zackary Sandhu,Sandhu,Zackary,D,L,6.02,206.0,2005-12-20,Oshawa Generals,East Division,72,0
-8725,Ben Danford,Danford,Ben,D,R,6.02,200.0,2006-02-06,Oshawa Generals,East Division,77,0
 8935,Isaac Gravelle,Gravelle,Isaac,G,L,6.00,174.0,2007-01-18,Oshawa Generals,East Division,90,1
 8570,Andrew Gibson,Gibson,Andrew,D,R,6.04,210.0,2005-02-13,Oshawa Generals,East Division,92,0
 8932,Owen Griffin,Griffin,Owen,C,R,5.11,170.0,2007-04-08,Oshawa Generals,East Division,96,0
@@ -105,6 +103,8 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8727,Tyler Graham,Graham,Tyler,LW,L,5.10,192.0,2006-08-10,Oshawa Generals,East Division,28,0
 9026,Noah Bender,Bender,Noah,G,R,6.04,195.0,2006-06-30,Oshawa Generals,East Division,36,0
 9034,Caeden Heins,Heins,Caeden,LW,L,6.00,182.0,2006-02-06,Oshawa Generals,East Division,44,0
+8563,Zackary Sandhu,Sandhu,Zackary,D,L,6.02,206.0,2005-12-20,Oshawa Generals,East Division,72,0
+8725,Ben Danford,Danford,Ben,D,R,6.02,200.0,2006-02-06,Oshawa Generals,East Division,77,0
 9019,Josh Brady,Brady,Josh,D,R,6.01,185.0,2006-01-11,Ottawa 67's,East Division,3,0
 8975,Kaleb Dietsch,Dietsch,Kaleb,D,L,6.03,208.0,2007-01-03,Ottawa 67's,East Division,4,1
 8888,Bradley Horner,Horner,Bradley,D,R,6.00,195.0,2005-06-16,Ottawa 67's,East Division,5,0
@@ -246,8 +246,8 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9157,Jack Clarke,Clarke,Jack,LW,L,6.00,184.0,2007-06-05,Erie Otters,Midwest Division,13,1
 8792,Rowan Topp,Topp,Rowan,D,R,6.02,203.0,2006-04-02,Guelph Storm,Midwest Division,2,0
 9318,Eric Frossard,Frossard,Eric,D,L,6.04,195.0,2008-01-12,Guelph Storm,Midwest Division,3,1
-9217,Dawson Morris,Morris,Dawson,D,L,6.00,184.0,2008-03-13,Guelph Storm,Midwest Division,3,0
 8961,Rylan Singh,Singh,Rylan,D,R,5.11,187.0,2007-10-04,Guelph Storm,Midwest Division,4,0
+8786,Jett Luchanko,Luchanko,Jett,C,R,5.11,191.0,2006-08-21,Guelph Storm,Midwest Division,7,0
 9158,Alex McLean,McLean,Alex,C,L,5.10,173.0,2008-08-08,Guelph Storm,Midwest Division,8,1
 8962,Parker Snelgrove,Snelgrove,Parker,C,L,6.00,189.0,2007-01-20,Guelph Storm,Midwest Division,9,0
 8358,Jake Karabela,Karabela,Jake,C,L,5.11,188.0,2004-03-07,Guelph Storm,Midwest Division,10,0
@@ -275,9 +275,9 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8796,Justin Bottineau,Bottineau,Justin,RW,R,6.00,168.0,2006-01-11,Guelph Storm,Midwest Division,77,0
 8958,Wil McFadden,McFadden,Wil,C,L,5.08,170.0,2007-02-15,Guelph Storm,Midwest Division,93,0
 9160,Carter Stevens,Stevens,Carter,C,R,6.01,184.0,2008-01-11,Guelph Storm,Midwest Division,96,1
+9217,Dawson Morris,Morris,Dawson,D,L,6.00,184.0,2008-03-13,Guelph Storm,Midwest Division,3,0
 9267,Nathan McHattie,McHattie,Nathan,D,L,6.03,190.0,2007-03-21,Guelph Storm,Midwest Division,5,1
 9266,Jackson Young,Young,Jackson,D,L,6.05,190.0,2005-02-08,Guelph Storm,Midwest Division,6,0
-8786,Jett Luchanko,Luchanko,Jett,C,R,5.11,191.0,2006-08-21,Guelph Storm,Midwest Division,7,0
 8882,William Haley,Haley,William,D,L,6.00,177.0,2005-10-15,Guelph Storm,Midwest Division,17,0
 9225,Liam Conway,Conway,Liam,G,L,5.11,171.0,2007-06-19,Guelph Storm,Midwest Division,30,0
 8873,Jakub Chromiak,Chromiak,Jakub,RD,R,5.11,183.0,2005-11-02,Kitchener Rangers,Midwest Division,3,0
@@ -344,6 +344,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9197,Trent Gates,Gates,Trent,LW,R,5.11,164.0,2007-09-17,Owen Sound Attack,Midwest Division,7,1
 8632,Taos Jordan,Jordan,Taos,D,L,5.11,190.0,2004-03-29,Owen Sound Attack,Midwest Division,24,0
 8471,Declan Waddick,Waddick,Declan,LW,L,5.09,172.0,2005-01-24,Owen Sound Attack,Midwest Division,27,0
+9357,Finn Kearns,Kearns,Finn,D,L,6.03,203.0,2008-06-08,Sudbury Wolves,Central Division,2,1
 9204,Brady Smith,Smith,Brady,D,L,6.02,196.0,2008-03-27,Sudbury Wolves,Central Division,3,0
 9049,Trevor O’Dell,O’Dell,Trevor,D,L,6.04,180.0,2006-07-17,Sudbury Wolves,Central Division,4,0
 9199,Henry Doucet,Doucet,Henry,LW,L,6.00,187.0,2008-08-11,Sudbury Wolves,Central Division,5,1
@@ -353,6 +354,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9198,Ethan Dean,Dean,Ethan,C,L,5.11,175.0,2008-03-11,Sudbury Wolves,Central Division,11,1
 8661,Noah Roberts,Roberts,Noah,D,L,6.01,199.0,2005-12-02,Sudbury Wolves,Central Division,12,0
 8456,Kocha Delic,Delic,Kocha,C,L,5.11,198.0,2004-03-11,Sudbury Wolves,Central Division,13,0
+9261,Mason Walker,Walker,Mason,LW,L,5.10,169.0,2008-11-26,Sudbury Wolves,Central Division,16,1
 8351,Donovan McCoy,McCoy,Donovan,D,R,6.01,205.0,2004-11-10,Sudbury Wolves,Central Division,19,0
 8431,Alex Pharand,Pharand,Alex,RW,R,6.03,198.0,2005-01-05,Sudbury Wolves,Central Division,21,0
 8777,Kieron Walton,Walton,Kieron,LW,L,6.06,227.0,2006-04-22,Sudbury Wolves,Central Division,22,0
@@ -372,10 +374,8 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8402,Nick DeAngelis,DeAngelis,Nick,D,L,6.02,188.0,2004-05-22,Sudbury Wolves,Central Division,95,0
 8887,Ondrej Molnar,Molnar,Ondrej,LW,L,5.10,175.0,2005-02-08,Sudbury Wolves,Central Division,96,0
 9071,Spencer Horgan,Horgan,Spencer,D,R,5.11,165.0,2005-03-17,Sudbury Wolves,Central Division,2,0
-9357,Finn Kearns,Kearns,Finn,D,L,6.03,203.0,2008-06-08,Sudbury Wolves,Central Division,2,1
 9341,Bodhi Ryan,Ryan,Bodhi,C,L,5.11,146.0,2008-07-08,Sudbury Wolves,Central Division,2,1
 9365,Jayden Connors,Connors,Jayden,D,R,5.10,185.0,2007-02-26,Sudbury Wolves,Central Division,5,0
-9261,Mason Walker,Walker,Mason,LW,L,5.10,169.0,2008-11-26,Sudbury Wolves,Central Division,16,1
 9332,Jack Ziliotto,Ziliotto,Jack,C,R,6.02,185.0,2005-06-22,Sudbury Wolves,Central Division,16,0
 9201,Noah Kohan,Kohan,Noah,LW,L,5.10,160.0,2005-08-08,Sudbury Wolves,Central Division,18,0
 8827,Braydon Bruce,Bruce,Braydon,D,R,6.05,212.0,2006-05-11,Sudbury Wolves,Central Division,20,0
