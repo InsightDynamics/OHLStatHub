@@ -1,7 +1,4 @@
 Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
-2025-01-09,7:00 pm,Niagara IceDogs,7,Saginaw Spirit,2,27693
-2025-01-09,7:00 pm,North Bay Battalion,1,Kingston Frontenacs,4,27694
-2025-01-09,7:05 pm,Peterborough Petes,5,Barrie Colts,2,27695
 2025-01-10,7:00 pm,Erie Otters,2,Saginaw Spirit,6,27696
 2025-01-10,7:00 pm,Flint Firebirds,4,Guelph Storm,6,27697
 2025-01-10,7:00 pm,Kitchener Rangers,2,Brampton Steelheads,5,27698
@@ -575,9 +572,9 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2025-10-30,7:00 pm,North Bay Battalion,1,Soo Greyhounds,4,28293
 2025-10-30,7:05 pm,Peterborough Petes,1,London Knights,6,28294
 2025-10-30,7:05 pm,Saginaw Spirit,1,Flint Firebirds,5,28295
-2025-10-31,6:00 pm,Niagara IceDogs,0,Brampton Steelheads,0,28297
-2025-10-31,7:00 pm,Kitchener Rangers,0,Sudbury Wolves,0,28296
-2025-10-31,7:00 pm,Ottawa 67's,0,London Knights,0,28298
+2025-10-31,6:00 pm,Niagara IceDogs,3,Brampton Steelheads,0,28297
+2025-10-31,7:00 pm,Kitchener Rangers,1,Sudbury Wolves,0,28296
+2025-10-31,7:00 pm,Ottawa 67's,2,London Knights,0,28298
 2025-11-01,4:00 pm,Brampton Steelheads,0,Kitchener Rangers,0,28300
 2025-11-01,4:05 pm,Oshawa Generals,0,Soo Greyhounds,0,28302
 2025-11-01,4:05 pm,Peterborough Petes,0,Kingston Frontenacs,0,28304
@@ -999,3 +996,6 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2026-02-22,3:00 pm,Ottawa 67's,0,North Bay Battalion,0,28717
 2026-02-22,4:05 pm,Windsor Spitfires,0,Flint Firebirds,0,28720
 2026-02-22,5:30 pm,Saginaw Spirit,0,Guelph Storm,0,28719
+2026-02-22,6:05 pm,Oshawa Generals,0,Kingston Frontenacs,0,28716
+2026-02-25,6:37 pm,Guelph Storm,0,Kitchener Rangers,0,28722
+2026-02-25,7:00 pm,Brantford Bulldogs,0,Brampton Steelheads,0,28721
