@@ -94,6 +94,8 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9129,Lauri Sinivuori,Sinivuori,Lauri,C,L,6.01,180.0,2006-04-28,Oshawa Generals,East Division,42,0
 8724,Beckett Sennecke,Sennecke,Beckett,RW,R,6.04,195.0,2006-01-28,Oshawa Generals,East Division,45,0
 8794,Ethan Toms,Toms,Ethan,C,L,5.11,186.0,2006-01-19,Oshawa Generals,East Division,61,0
+8563,Zackary Sandhu,Sandhu,Zackary,D,L,6.02,206.0,2005-12-20,Oshawa Generals,East Division,72,0
+8725,Ben Danford,Danford,Ben,D,R,6.02,200.0,2006-02-06,Oshawa Generals,East Division,77,0
 8935,Isaac Gravelle,Gravelle,Isaac,G,L,6.00,174.0,2007-01-18,Oshawa Generals,East Division,90,1
 8570,Andrew Gibson,Gibson,Andrew,D,R,6.04,210.0,2005-02-13,Oshawa Generals,East Division,92,0
 8932,Owen Griffin,Griffin,Owen,C,R,5.11,170.0,2007-04-08,Oshawa Generals,East Division,96,0
@@ -103,8 +105,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8727,Tyler Graham,Graham,Tyler,LW,L,5.10,192.0,2006-08-10,Oshawa Generals,East Division,28,0
 9026,Noah Bender,Bender,Noah,G,R,6.04,195.0,2006-06-30,Oshawa Generals,East Division,36,0
 9034,Caeden Heins,Heins,Caeden,LW,L,6.00,182.0,2006-02-06,Oshawa Generals,East Division,44,0
-8563,Zackary Sandhu,Sandhu,Zackary,D,L,6.02,206.0,2005-12-20,Oshawa Generals,East Division,72,0
-8725,Ben Danford,Danford,Ben,D,R,6.02,200.0,2006-02-06,Oshawa Generals,East Division,77,0
 9019,Josh Brady,Brady,Josh,D,R,6.01,185.0,2006-01-11,Ottawa 67's,East Division,3,0
 8975,Kaleb Dietsch,Dietsch,Kaleb,D,L,6.03,208.0,2007-01-03,Ottawa 67's,East Division,4,1
 8888,Bradley Horner,Horner,Bradley,D,R,6.00,195.0,2005-06-16,Ottawa 67's,East Division,5,0
@@ -466,7 +466,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8881,Lukas Fischer,Fischer,Lukas,D,L,6.03,184.0,2006-09-09,Sarnia Sting,West Division,13,0
 9238,JJ Franceschetti,Franceschetti,JJ,LW,L,5.09,185.0,2005-07-23,Sarnia Sting,West Division,15,0
 8921,James Barr,Barr,James,D,R,6.01,182.0,2007-06-01,Sarnia Sting,West Division,16,0
-9124,Alessandro Di Iorio,Di Iorio,Alessandro,C,R,6.01,175.0,2008-03-17,Sarnia Sting,West Division,17,1
+9124,Alessandro Di Iorio,Di Iorio,Alessandro,C,R,6.01,188.0,2008-03-17,Sarnia Sting,West Division,17,1
 8986,Carter Kostuch,Kostuch,Carter,LW,L,5.11,165.0,2007-04-21,Sarnia Sting,West Division,18,0
 8920,Ryan Brown,Brown,Ryan,LW,L,5.11,172.0,2007-10-27,Sarnia Sting,West Division,23,0
 8812,Daylen Moses,Moses,Daylen,C,R,6.02,180.0,2005-06-13,Sarnia Sting,West Division,24,0
@@ -481,7 +481,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9330,Matthew Manza,Manza,Matthew,RW,R,6.00,178.0,2007-09-22,Sarnia Sting,West Division,55,1
 9122,Chase Gaughan,Gaughan,Chase,RW,R,6.02,167.0,2008-07-17,Sarnia Sting,West Division,71,1
 8922,Hughston Hurt,Hurt,Hughston,D,L,6.01,178.0,2007-07-10,Sarnia Sting,West Division,72,0
-9123,Beckham Edwards,Edwards,Beckham,C,L,6.01,170.0,2008-01-06,Sarnia Sting,West Division,81,1
+9123,Beckham Edwards,Edwards,Beckham,C,L,6.01,184.0,2008-01-06,Sarnia Sting,West Division,81,1
 9055,Dylan Luecke,Luecke,Dylan,RW,R,6.02,170.0,2007-02-22,Sarnia Sting,West Division,8,1
 9121,Ruslan Karimov,Karimov,Ruslan,LW,L,6.00,200.0,2007-04-27,Sarnia Sting,West Division,19,1
 9092,Matthew Andersen,Andersen,Matthew,D,L,6.00,174.0,2007-11-27,Sarnia Sting,West Division,21,1
