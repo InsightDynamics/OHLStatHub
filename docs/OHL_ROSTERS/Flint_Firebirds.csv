@@ -11,7 +11,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8657,Matthew Mania,Mania,Matthew,D,R,6.01,190.0,2005-01-11,Flint Firebirds,West Division,19,0
 8929,Max Anderson,Anderson,Max,C,L,5.10,160.0,2007-07-18,Flint Firebirds,West Division,22,0
 8816,Connor Clattenburg,Clattenburg,Connor,LW,L,6.02,205.0,2005-05-02,Flint Firebirds,West Division,23,0
-8930,Jack D'Arcy,D'Arcy,Jack,D,R,5.10,172.0,2007-12-02,Flint Firebirds,West Division,25,1
 8966,Artem Frolov,Frolov,Artem,D,L,6.01,195.0,2007-05-05,Flint Firebirds,West Division,26,0
 8481,Matthew Wang,Wang,Matthew,LW,L,6.02,202.0,2005-08-22,Flint Firebirds,West Division,28,0
 8496,Nathan Day,Day,Nathan,G,L,6.04,205.0,2005-02-04,Flint Firebirds,West Division,31,0
@@ -26,6 +25,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8458,Evan Konyen,Konyen,Evan,RW,R,6.00,180.0,2004-02-22,Flint Firebirds,West Division,91,0
 8970,Urban Podrekar,Podrekar,Urban,D,L,6.00,205.0,2005-02-14,Flint Firebirds,West Division,98,0
 9227,Karlis Flugins,Flugins,Karlis,C,R,5.10,185.0,2007-11-11,Flint Firebirds,West Division,21,1
+8930,Jack D'Arcy,D'Arcy,Jack,D,R,5.10,172.0,2007-12-02,Flint Firebirds,West Division,25,1
 9026,Noah Bender,Bender,Noah,G,R,6.04,195.0,2006-06-30,Flint Firebirds,West Division,30,0
 8892,Jacob Brown,Brown,Jacob,G,L,6.03,190.0,2006-03-07,Flint Firebirds,West Division,41,0
 9243,Brendan Cooke,Cooke,Brendan,LW,R,5.10,170.0,2007-12-22,Flint Firebirds,West Division,86,1
