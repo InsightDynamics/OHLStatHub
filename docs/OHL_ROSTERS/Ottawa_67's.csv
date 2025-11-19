@@ -21,7 +21,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9033,Zach Houben,Houben,Zach,LW,L,6.06,213.0,2007-02-01,Ottawa 67's,East Division,25,1
 9178,Nathan Amidovski,Amidovski,Nathan,LW,L,6.02,184.0,2008-04-06,Ottawa 67's,East Division,26,1
 9015,Nolan Jackson,Jackson,Nolan,D,L,6.01,190.0,2007-01-02,Ottawa 67's,East Division,27,1
-8717,Caden Kelly,Kelly,Caden,RW,R,5.11,198.0,2006-01-15,Ottawa 67's,East Division,28,0
 8591,Cooper Foster,Foster,Cooper,C,L,6.00,190.0,2005-06-04,Ottawa 67's,East Division,29,0
 9075,Jaeden Nelson,Nelson,Jaeden,G,L,6.01,208.0,2007-04-11,Ottawa 67's,East Division,32,1
 8593,Collin MacKenzie,MacKenzie,Collin,G,L,6.00,175.0,2004-11-30,Ottawa 67's,East Division,33,0
@@ -34,4 +33,5 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9334,Matthew Souliere,Souliere,Matthew,LW,L,6.03,190.0,2006-08-01,Ottawa 67's,East Division,13,0
 9360,Clarence Allain,Allain,Clarence,LW,L,5.10,174.0,2008-06-13,Ottawa 67's,East Division,17,1
 9183,Jordan Perrier,Perrier,Jordan,LW,L,5.10,172.0,2008-07-02,Ottawa 67's,East Division,17,1
+8717,Caden Kelly,Kelly,Caden,RW,R,5.11,198.0,2006-01-15,Ottawa 67's,East Division,28,0
 9225,Liam Conway,Conway,Liam,G,L,5.11,171.0,2007-06-19,Ottawa 67's,East Division,30,0

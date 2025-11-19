@@ -1,38 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-01-29",
-            "accuracy": 100.0,
-            "correct_predictions": 2,
-            "total_games": 2,
-            "game_details": [
-                {
-                    "home_team": "Owen Sound Attack",
-                    "away_team": "Erie Otters",
-                    "predicted_winner": "Erie Otters",
-                    "actual_winner": "Erie Otters",
-                    "home_score": 3,
-                    "away_score": 4,
-                    "odds": {
-                        "Owen Sound Attack": "+155",
-                        "Erie Otters": "-194"
-                    }
-                },
-                {
-                    "home_team": "Soo Greyhounds",
-                    "away_team": "Kitchener Rangers",
-                    "predicted_winner": "Kitchener Rangers",
-                    "actual_winner": "Kitchener Rangers",
-                    "home_score": 4,
-                    "away_score": 5,
-                    "odds": {
-                        "Soo Greyhounds": "+179",
-                        "Kitchener Rangers": "-228"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-01-30",
             "accuracy": 80.0,
             "correct_predictions": 4,
@@ -4581,13 +4549,13 @@
             ]
         }
     ],
-    "total_accuracy": 63.7,
+    "total_accuracy": 63.5,
     "tossup_accuracy": 48.6,
-    "non_tossup_accuracy": 65.6,
-    "total_correct": 207,
-    "total_games": 325,
+    "non_tossup_accuracy": 65.4,
+    "total_correct": 205,
+    "total_games": 323,
     "tossup_correct": 18,
     "tossup_games": 37,
-    "non_tossup_correct": 189,
-    "non_tossup_games": 288
+    "non_tossup_correct": 187,
+    "non_tossup_games": 286
 }
