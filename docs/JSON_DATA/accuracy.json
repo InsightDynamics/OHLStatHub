@@ -1,74 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-01-30",
-            "accuracy": 80.0,
-            "correct_predictions": 4,
-            "total_games": 5,
-            "game_details": [
-                {
-                    "home_team": "Barrie Colts",
-                    "away_team": "Ottawa 67's",
-                    "predicted_winner": "Barrie Colts",
-                    "actual_winner": "Barrie Colts",
-                    "home_score": 5,
-                    "away_score": 3,
-                    "odds": {
-                        "Barrie Colts": "-267",
-                        "Ottawa 67's": "+208"
-                    }
-                },
-                {
-                    "home_team": "North Bay Battalion",
-                    "away_team": "Brantford Bulldogs",
-                    "predicted_winner": "Brantford Bulldogs",
-                    "actual_winner": "Brantford Bulldogs",
-                    "home_score": 2,
-                    "away_score": 3,
-                    "odds": {
-                        "North Bay Battalion": "+274",
-                        "Brantford Bulldogs": "-366"
-                    }
-                },
-                {
-                    "home_team": "Peterborough Petes",
-                    "away_team": "Brampton Steelheads",
-                    "predicted_winner": "Brampton Steelheads",
-                    "actual_winner": "Brampton Steelheads",
-                    "home_score": 3,
-                    "away_score": 4,
-                    "odds": {
-                        "Peterborough Petes": "+505",
-                        "Brampton Steelheads": "-788"
-                    }
-                },
-                {
-                    "home_team": "Saginaw Spirit",
-                    "away_team": "Kingston Frontenacs",
-                    "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Kingston Frontenacs",
-                    "home_score": 5,
-                    "away_score": 9,
-                    "odds": {
-                        "Saginaw Spirit": "-101",
-                        "Kingston Frontenacs": "-123"
-                    }
-                },
-                {
-                    "home_team": "Windsor Spitfires",
-                    "away_team": "Flint Firebirds",
-                    "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Flint Firebirds",
-                    "home_score": 1,
-                    "away_score": 5,
-                    "odds": {
-                        "Windsor Spitfires": "-202",
-                        "Flint Firebirds": "+160"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-01-31",
             "accuracy": 71.4,
             "correct_predictions": 5,
@@ -4549,13 +4481,13 @@
             ]
         }
     ],
-    "total_accuracy": 63.5,
-    "tossup_accuracy": 48.6,
-    "non_tossup_accuracy": 65.4,
-    "total_correct": 205,
-    "total_games": 323,
-    "tossup_correct": 18,
-    "tossup_games": 37,
-    "non_tossup_correct": 187,
-    "non_tossup_games": 286
+    "total_accuracy": 63.2,
+    "tossup_accuracy": 47.2,
+    "non_tossup_accuracy": 65.2,
+    "total_correct": 201,
+    "total_games": 318,
+    "tossup_correct": 17,
+    "tossup_games": 36,
+    "non_tossup_correct": 184,
+    "non_tossup_games": 282
 }

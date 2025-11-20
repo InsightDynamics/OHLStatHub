@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-01-30",
-        "home_team": "Saginaw Spirit",
-        "away_team": "Kingston Frontenacs",
-        "predicted_winner": "Kingston Frontenacs",
-        "actual_winner": "Kingston Frontenacs",
-        "home_score": 5,
-        "away_score": 9,
-        "odds": {
-            "Saginaw Spirit": "-101",
-            "Kingston Frontenacs": "-123"
-        }
-    },
-    {
         "date": "2025-02-01",
         "home_team": "Barrie Colts",
         "away_team": "Niagara IceDogs",
