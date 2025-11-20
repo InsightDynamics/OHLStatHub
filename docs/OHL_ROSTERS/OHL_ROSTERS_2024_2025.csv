@@ -20,6 +20,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8732,Ryerson Leenders,Leenders,Ryerson,G,L,6.01,179.0,2006-06-01,Brantford Bulldogs,East Division,31,0
 8965,Jake O'Brien,O'Brien,Jake,C,R,6.02,177.0,2007-06-16,Brantford Bulldogs,East Division,44,0
 9152,Parker Holmes,Holmes,Parker,LW,L,6.04,228.0,2007-03-08,Brantford Bulldogs,East Division,53,1
+8969,Ben Radley,Radley,Ben,D,L,6.00,182.0,2007-07-29,Brantford Bulldogs,East Division,77,1
 8752,Marek Vanacker,Vanacker,Marek,LW,L,6.01,188.0,2006-04-12,Brantford Bulldogs,East Division,78,0
 8968,Joshua Avery,Avery,Joshua,C,L,6.01,189.0,2007-01-30,Brantford Bulldogs,East Division,86,1
 8754,David Egorov,Egorov,David,G,R,6.02,195.0,2006-05-18,Brantford Bulldogs,East Division,88,0
@@ -33,7 +34,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8435,Zakary Lavoie,Lavoie,Zakary,RW,R,5.11,194.0,2004-03-13,Brantford Bulldogs,East Division,29,0
 8750,Florian Xhekaj,Xhekaj,Florian,LW,L,6.04,190.0,2004-06-27,Brantford Bulldogs,East Division,43,0
 9320,Tommy Karmiris,Karmiris,Tommy,LW,R,5.11,191.0,2006-06-15,Brantford Bulldogs,East Division,74,0
-8969,Ben Radley,Radley,Ben,D,L,6.00,182.0,2007-07-29,Brantford Bulldogs,East Division,77,1
 9085,Briir Long,Long,Briir,C,L,5.11,154.0,2007-07-22,Brantford Bulldogs,East Division,84,1
 8419,Ben Bujold,Bujold,Ben,C,L,5.11,181.0,2004-03-03,Brantford Bulldogs,East Division,89,0
 8371,Mason Vaccari,Vaccari,Mason,G,L,5.11,184.0,2005-04-29,Kingston Frontenacs,East Division,1,0
@@ -344,7 +344,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9197,Trent Gates,Gates,Trent,LW,R,5.11,164.0,2007-09-17,Owen Sound Attack,Midwest Division,7,1
 8632,Taos Jordan,Jordan,Taos,D,L,5.11,190.0,2004-03-29,Owen Sound Attack,Midwest Division,24,0
 8471,Declan Waddick,Waddick,Declan,LW,L,5.09,172.0,2005-01-24,Owen Sound Attack,Midwest Division,27,0
-9357,Finn Kearns,Kearns,Finn,D,L,6.03,203.0,2008-06-08,Sudbury Wolves,Central Division,2,1
 9204,Brady Smith,Smith,Brady,D,L,6.02,196.0,2008-03-27,Sudbury Wolves,Central Division,3,0
 9049,Trevor O’Dell,O’Dell,Trevor,D,L,6.04,180.0,2006-07-17,Sudbury Wolves,Central Division,4,0
 9199,Henry Doucet,Doucet,Henry,LW,L,6.00,187.0,2008-08-11,Sudbury Wolves,Central Division,5,1
@@ -372,6 +371,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8402,Nick DeAngelis,DeAngelis,Nick,D,L,6.02,188.0,2004-05-22,Sudbury Wolves,Central Division,95,0
 8887,Ondrej Molnar,Molnar,Ondrej,LW,L,5.10,175.0,2005-02-08,Sudbury Wolves,Central Division,96,0
 9071,Spencer Horgan,Horgan,Spencer,D,R,5.11,165.0,2005-03-17,Sudbury Wolves,Central Division,2,0
+9357,Finn Kearns,Kearns,Finn,D,L,6.03,203.0,2008-06-08,Sudbury Wolves,Central Division,2,1
 9341,Bodhi Ryan,Ryan,Bodhi,C,L,5.11,146.0,2008-07-08,Sudbury Wolves,Central Division,2,1
 9365,Jayden Connors,Connors,Jayden,D,R,5.10,185.0,2007-02-26,Sudbury Wolves,Central Division,5,0
 9261,Mason Walker,Walker,Mason,LW,L,5.10,169.0,2008-11-26,Sudbury Wolves,Central Division,16,1
