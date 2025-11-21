@@ -1,98 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-01-31",
-            "accuracy": 71.4,
-            "correct_predictions": 5,
-            "total_games": 7,
-            "game_details": [
-                {
-                    "home_team": "Brampton Steelheads",
-                    "away_team": "Peterborough Petes",
-                    "predicted_winner": "Brampton Steelheads",
-                    "actual_winner": "Peterborough Petes",
-                    "home_score": 4,
-                    "away_score": 5,
-                    "odds": {
-                        "Brampton Steelheads": "-788",
-                        "Peterborough Petes": "+505"
-                    }
-                },
-                {
-                    "home_team": "Flint Firebirds",
-                    "away_team": "Kitchener Rangers",
-                    "predicted_winner": "Kitchener Rangers",
-                    "actual_winner": "Kitchener Rangers",
-                    "home_score": 2,
-                    "away_score": 3,
-                    "odds": {
-                        "Flint Firebirds": "+127",
-                        "Kitchener Rangers": "-158"
-                    }
-                },
-                {
-                    "home_team": "London Knights",
-                    "away_team": "Erie Otters",
-                    "predicted_winner": "London Knights",
-                    "actual_winner": "London Knights",
-                    "home_score": 4,
-                    "away_score": 2,
-                    "odds": {
-                        "London Knights": "-204",
-                        "Erie Otters": "+162"
-                    }
-                },
-                {
-                    "home_team": "Oshawa Generals",
-                    "away_team": "Barrie Colts",
-                    "predicted_winner": "Oshawa Generals",
-                    "actual_winner": "Oshawa Generals",
-                    "home_score": 3,
-                    "away_score": 2,
-                    "odds": {
-                        "Oshawa Generals": "-130",
-                        "Barrie Colts": "+105"
-                    }
-                },
-                {
-                    "home_team": "Sudbury Wolves",
-                    "away_team": "North Bay Battalion",
-                    "predicted_winner": "Sudbury Wolves",
-                    "actual_winner": "Sudbury Wolves",
-                    "home_score": 8,
-                    "away_score": 3,
-                    "odds": {
-                        "Sudbury Wolves": "-252",
-                        "North Bay Battalion": "+197"
-                    }
-                },
-                {
-                    "home_team": "Guelph Storm",
-                    "away_team": "Sarnia Sting",
-                    "predicted_winner": "Guelph Storm",
-                    "actual_winner": "Sarnia Sting",
-                    "home_score": 3,
-                    "away_score": 4,
-                    "odds": {
-                        "Guelph Storm": "-128",
-                        "Sarnia Sting": "+104"
-                    }
-                },
-                {
-                    "home_team": "Soo Greyhounds",
-                    "away_team": "Brantford Bulldogs",
-                    "predicted_winner": "Brantford Bulldogs",
-                    "actual_winner": "Brantford Bulldogs",
-                    "home_score": 4,
-                    "away_score": 6,
-                    "odds": {
-                        "Soo Greyhounds": "+187",
-                        "Brantford Bulldogs": "-239"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-02-01",
             "accuracy": 66.7,
             "correct_predictions": 4,
@@ -4481,13 +4389,13 @@
             ]
         }
     ],
-    "total_accuracy": 63.2,
+    "total_accuracy": 63.0,
     "tossup_accuracy": 47.2,
-    "non_tossup_accuracy": 65.2,
-    "total_correct": 201,
-    "total_games": 318,
+    "non_tossup_accuracy": 65.1,
+    "total_correct": 196,
+    "total_games": 311,
     "tossup_correct": 17,
     "tossup_games": 36,
-    "non_tossup_correct": 184,
-    "non_tossup_games": 282
+    "non_tossup_correct": 179,
+    "non_tossup_games": 275
 }
