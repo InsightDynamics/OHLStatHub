@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-02-02",
-        "home_team": "Windsor Spitfires",
-        "away_team": "London Knights",
-        "predicted_winner": "London Knights",
-        "actual_winner": "Windsor Spitfires",
-        "home_score": 4,
-        "away_score": 3,
-        "odds": {
-            "Windsor Spitfires": "-100",
-            "London Knights": "-123"
-        }
-    },
-    {
         "date": "2025-02-05",
         "home_team": "Windsor Spitfires",
         "away_team": "Saginaw Spirit",
