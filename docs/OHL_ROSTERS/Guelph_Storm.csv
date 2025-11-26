@@ -9,7 +9,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8566,Cam Allen,Allen,Cam,D,R,6.00,197.0,2005-01-07,Guelph Storm,Midwest Division,11,0
 8561,Ryan McGuire,McGuire,Ryan,C,L,5.11,192.0,2004-02-29,Guelph Storm,Midwest Division,12,0
 8960,Quinn Beauchesne,Beauchesne,Quinn,D,R,6.00,187.0,2007-03-01,Guelph Storm,Midwest Division,13,0
-9159,Sam Johnston,Johnston,Sam,RW,R,6.04,187.0,2007-07-30,Guelph Storm,Midwest Division,14,1
 9278,Daniel Berehowsky,Berehowsky,Daniel,C,R,5.11,182.0,2006-09-29,Guelph Storm,Midwest Division,16,0
 9064,Noah Jenken,Jenken,Noah,D,L,6.03,190.0,2007-03-08,Guelph Storm,Midwest Division,19,1
 8994,Leo Serlin,Serlin,Leo,RW,R,6.00,190.0,2006-01-20,Guelph Storm,Midwest Division,20,0
@@ -32,6 +31,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9217,Dawson Morris,Morris,Dawson,D,L,6.00,184.0,2008-03-13,Guelph Storm,Midwest Division,3,0
 9267,Nathan McHattie,McHattie,Nathan,D,L,6.03,190.0,2007-03-21,Guelph Storm,Midwest Division,5,1
 9266,Jackson Young,Young,Jackson,D,L,6.05,190.0,2005-02-08,Guelph Storm,Midwest Division,6,0
+9159,Sam Johnston,Johnston,Sam,RW,R,6.04,187.0,2007-07-30,Guelph Storm,Midwest Division,14,1
 8882,William Haley,Haley,William,D,L,6.00,177.0,2005-10-15,Guelph Storm,Midwest Division,17,0
 9225,Liam Conway,Conway,Liam,G,L,5.11,171.0,2007-06-19,Guelph Storm,Midwest Division,30,0
 9164,Daniil Skvortsov,Skvortsov,Daniil,D,L,6.04,200.0,2007-01-13,Guelph Storm,Midwest Division,59,1

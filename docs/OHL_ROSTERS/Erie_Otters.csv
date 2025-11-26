@@ -15,7 +15,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8348,Sam Alfano,Alfano,Sam,RW,R,6.04,204.0,2004-01-18,Erie Otters,Midwest Division,33,0
 8893,Charlie Burns,Burns,Charlie,G,R,6.01,177.0,2006-01-29,Erie Otters,Midwest Division,35,0
 9314,Quinn McCall,McCall,Quinn,D,R,5.11,181.0,2005-01-12,Erie Otters,Midwest Division,37,0
-9302,Andrew Willis,Willis,Andrew,D,R,6.00,178.0,2008-09-22,Erie Otters,Midwest Division,39,1
 8998,Matthew Schaefer,Schaefer,Matthew,D,L,6.02,183.0,2007-09-05,Erie Otters,Midwest Division,48,0
 8782,Nicholas Holomego,Holomego,Nicholas,D,L,6.05,203.0,2006-05-19,Erie Otters,Midwest Division,65,0
 9132,Oliver Phillips,Phillips,Oliver,LW,L,6.06,207.0,2007-11-29,Erie Otters,Midwest Division,71,1
@@ -32,3 +31,4 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8997,Georgy Toroptsev,Toroptsev,Georgy,LW,L,6.00,187.0,2006-04-22,Erie Otters,Midwest Division,8,0
 9133,Diego Da Silva,Da Silva,Diego,LW,L,5.11,208.0,2005-11-21,Erie Otters,Midwest Division,9,0
 9157,Jack Clarke,Clarke,Jack,LW,L,6.00,184.0,2007-06-05,Erie Otters,Midwest Division,13,1
+9302,Andrew Willis,Willis,Andrew,D,R,6.00,178.0,2008-09-22,Erie Otters,Midwest Division,39,1

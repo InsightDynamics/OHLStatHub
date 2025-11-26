@@ -227,7 +227,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8348,Sam Alfano,Alfano,Sam,RW,R,6.04,204.0,2004-01-18,Erie Otters,Midwest Division,33,0
 8893,Charlie Burns,Burns,Charlie,G,R,6.01,177.0,2006-01-29,Erie Otters,Midwest Division,35,0
 9314,Quinn McCall,McCall,Quinn,D,R,5.11,181.0,2005-01-12,Erie Otters,Midwest Division,37,0
-9302,Andrew Willis,Willis,Andrew,D,R,6.00,178.0,2008-09-22,Erie Otters,Midwest Division,39,1
 8998,Matthew Schaefer,Schaefer,Matthew,D,L,6.02,183.0,2007-09-05,Erie Otters,Midwest Division,48,0
 8782,Nicholas Holomego,Holomego,Nicholas,D,L,6.05,203.0,2006-05-19,Erie Otters,Midwest Division,65,0
 9132,Oliver Phillips,Phillips,Oliver,LW,L,6.06,207.0,2007-11-29,Erie Otters,Midwest Division,71,1
@@ -244,6 +243,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8997,Georgy Toroptsev,Toroptsev,Georgy,LW,L,6.00,187.0,2006-04-22,Erie Otters,Midwest Division,8,0
 9133,Diego Da Silva,Da Silva,Diego,LW,L,5.11,208.0,2005-11-21,Erie Otters,Midwest Division,9,0
 9157,Jack Clarke,Clarke,Jack,LW,L,6.00,184.0,2007-06-05,Erie Otters,Midwest Division,13,1
+9302,Andrew Willis,Willis,Andrew,D,R,6.00,178.0,2008-09-22,Erie Otters,Midwest Division,39,1
 8792,Rowan Topp,Topp,Rowan,D,R,6.02,203.0,2006-04-02,Guelph Storm,Midwest Division,2,0
 9318,Eric Frossard,Frossard,Eric,D,L,6.04,195.0,2008-01-12,Guelph Storm,Midwest Division,3,1
 8961,Rylan Singh,Singh,Rylan,D,R,5.11,187.0,2007-10-04,Guelph Storm,Midwest Division,4,0
@@ -254,7 +254,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8566,Cam Allen,Allen,Cam,D,R,6.00,197.0,2005-01-07,Guelph Storm,Midwest Division,11,0
 8561,Ryan McGuire,McGuire,Ryan,C,L,5.11,192.0,2004-02-29,Guelph Storm,Midwest Division,12,0
 8960,Quinn Beauchesne,Beauchesne,Quinn,D,R,6.00,187.0,2007-03-01,Guelph Storm,Midwest Division,13,0
-9159,Sam Johnston,Johnston,Sam,RW,R,6.04,187.0,2007-07-30,Guelph Storm,Midwest Division,14,1
 9278,Daniel Berehowsky,Berehowsky,Daniel,C,R,5.11,182.0,2006-09-29,Guelph Storm,Midwest Division,16,0
 9064,Noah Jenken,Jenken,Noah,D,L,6.03,190.0,2007-03-08,Guelph Storm,Midwest Division,19,1
 8994,Leo Serlin,Serlin,Leo,RW,R,6.00,190.0,2006-01-20,Guelph Storm,Midwest Division,20,0
@@ -277,6 +276,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9217,Dawson Morris,Morris,Dawson,D,L,6.00,184.0,2008-03-13,Guelph Storm,Midwest Division,3,0
 9267,Nathan McHattie,McHattie,Nathan,D,L,6.03,190.0,2007-03-21,Guelph Storm,Midwest Division,5,1
 9266,Jackson Young,Young,Jackson,D,L,6.05,190.0,2005-02-08,Guelph Storm,Midwest Division,6,0
+9159,Sam Johnston,Johnston,Sam,RW,R,6.04,187.0,2007-07-30,Guelph Storm,Midwest Division,14,1
 8882,William Haley,Haley,William,D,L,6.00,177.0,2005-10-15,Guelph Storm,Midwest Division,17,0
 9225,Liam Conway,Conway,Liam,G,L,5.11,171.0,2007-06-19,Guelph Storm,Midwest Division,30,0
 9164,Daniil Skvortsov,Skvortsov,Daniil,D,L,6.04,200.0,2007-01-13,Guelph Storm,Midwest Division,59,1
@@ -395,6 +395,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8824,Sam McCue,McCue,Sam,LW,L,6.02,200.0,2005-10-03,Flint Firebirds,West Division,12,0
 9240,Josh Colosimo,Colosimo,Josh,C,L,6.02,197.0,2006-01-13,Flint Firebirds,West Division,13,0
 8926,Jeremy Martin,Martin,Jeremy,LW,L,6.01,195.0,2007-02-06,Flint Firebirds,West Division,15,0
+8704,Kaden Pitre,Pitre,Kaden,C,L,6.00,185.0,2006-02-08,Flint Firebirds,West Division,17,0
 9270,Hayden Reid,Reid,Hayden,C,L,6.00,195.0,2006-06-21,Flint Firebirds,West Division,18,0
 8657,Matthew Mania,Mania,Matthew,D,R,6.01,190.0,2005-01-11,Flint Firebirds,West Division,19,0
 8929,Max Anderson,Anderson,Max,C,L,5.10,160.0,2007-07-18,Flint Firebirds,West Division,22,0
@@ -412,7 +413,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9230,Ryland Cunningham,Cunningham,Ryland,LW,L,5.10,185.0,2008-06-28,Flint Firebirds,West Division,88,1
 8458,Evan Konyen,Konyen,Evan,RW,R,6.00,180.0,2004-02-22,Flint Firebirds,West Division,91,0
 8970,Urban Podrekar,Podrekar,Urban,D,L,6.00,205.0,2005-02-14,Flint Firebirds,West Division,98,0
-8704,Kaden Pitre,Pitre,Kaden,C,L,6.00,185.0,2006-02-08,Flint Firebirds,West Division,17,0
 9227,Karlis Flugins,Flugins,Karlis,C,R,5.10,185.0,2007-11-11,Flint Firebirds,West Division,21,1
 8930,Jack D'Arcy,D'Arcy,Jack,D,R,5.10,172.0,2007-12-02,Flint Firebirds,West Division,25,1
 9026,Noah Bender,Bender,Noah,G,R,6.04,195.0,2006-06-30,Flint Firebirds,West Division,30,0
@@ -472,7 +472,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8920,Ryan Brown,Brown,Ryan,LW,L,5.11,172.0,2007-10-27,Sarnia Sting,West Division,23,0
 8812,Daylen Moses,Moses,Daylen,C,R,6.02,180.0,2005-06-13,Sarnia Sting,West Division,24,0
 8837,Tyson Doucette,Doucette,Tyson,LW,L,6.00,181.0,2004-01-30,Sarnia Sting,West Division,25,0
-8923,Nathan Omeri,Omeri,Nathan,D,R,5.11,175.0,2006-06-15,Sarnia Sting,West Division,27,0
 9271,Ryder Simpson,Simpson,Ryder,LW,L,6.03,190.0,2008-05-08,Sarnia Sting,West Division,28,1
 9080,Evan Maillet,Maillet,Evan,G,R,6.00,172.0,2006-03-17,Sarnia Sting,West Division,30,0
 8677,Nick Surzycia,Surzycia,Nick,G,R,6.00,170.0,2004-12-17,Sarnia Sting,West Division,31,0
@@ -486,6 +485,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9055,Dylan Luecke,Luecke,Dylan,RW,R,6.02,170.0,2007-02-22,Sarnia Sting,West Division,8,1
 9121,Ruslan Karimov,Karimov,Ruslan,LW,L,6.00,200.0,2007-04-27,Sarnia Sting,West Division,19,1
 9092,Matthew Andersen,Andersen,Matthew,D,L,6.00,174.0,2007-11-27,Sarnia Sting,West Division,21,1
+8923,Nathan Omeri,Omeri,Nathan,D,R,5.11,175.0,2006-06-15,Sarnia Sting,West Division,27,0
 9280,Dallys Hibbert,Hibbert,Dallys,D,R,6.02,178.0,2006-06-25,Sarnia Sting,West Division,28,0
 9045,Casey Bridgewater,Bridgewater,Casey,D,L,5.10,175.0,2007-02-07,Sarnia Sting,West Division,43,1
 8919,Lane Sim,Sim,Lane,LW,L,5.08,160.0,2007-05-09,Sarnia Sting,West Division,92,0
