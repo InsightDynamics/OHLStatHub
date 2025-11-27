@@ -1,31 +1,5 @@
 [
     {
-        "date": "2025-02-05",
-        "home_team": "Brantford Bulldogs",
-        "away_team": "Sudbury Wolves",
-        "predicted_winner": "Brantford Bulldogs",
-        "actual_winner": "Brantford Bulldogs",
-        "home_score": 2,
-        "away_score": 1,
-        "odds": {
-            "Brantford Bulldogs": "-157",
-            "Sudbury Wolves": "+126"
-        }
-    },
-    {
-        "date": "2025-02-05",
-        "home_team": "Ottawa 67's",
-        "away_team": "Oshawa Generals",
-        "predicted_winner": "Oshawa Generals",
-        "actual_winner": "Oshawa Generals",
-        "home_score": 1,
-        "away_score": 8,
-        "odds": {
-            "Ottawa 67's": "+242",
-            "Oshawa Generals": "-318"
-        }
-    },
-    {
         "date": "2025-02-06",
         "home_team": "North Bay Battalion",
         "away_team": "Soo Greyhounds",
