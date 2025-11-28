@@ -1,31 +1,5 @@
 [
     {
-        "date": "2025-02-06",
-        "home_team": "North Bay Battalion",
-        "away_team": "Soo Greyhounds",
-        "predicted_winner": "Soo Greyhounds",
-        "actual_winner": "Soo Greyhounds",
-        "home_score": 4,
-        "away_score": 7,
-        "odds": {
-            "North Bay Battalion": "+133",
-            "Soo Greyhounds": "-166"
-        }
-    },
-    {
-        "date": "2025-02-06",
-        "home_team": "Peterborough Petes",
-        "away_team": "Flint Firebirds",
-        "predicted_winner": "Flint Firebirds",
-        "actual_winner": "Flint Firebirds",
-        "home_score": 2,
-        "away_score": 7,
-        "odds": {
-            "Peterborough Petes": "+330",
-            "Flint Firebirds": "-455"
-        }
-    },
-    {
         "date": "2025-02-07",
         "home_team": "Brampton Steelheads",
         "away_team": "Erie Otters",

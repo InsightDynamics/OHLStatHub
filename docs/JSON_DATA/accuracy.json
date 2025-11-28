@@ -1,38 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-02-06",
-            "accuracy": 100.0,
-            "correct_predictions": 2,
-            "total_games": 2,
-            "game_details": [
-                {
-                    "home_team": "North Bay Battalion",
-                    "away_team": "Soo Greyhounds",
-                    "predicted_winner": "Soo Greyhounds",
-                    "actual_winner": "Soo Greyhounds",
-                    "home_score": 4,
-                    "away_score": 7,
-                    "odds": {
-                        "North Bay Battalion": "+133",
-                        "Soo Greyhounds": "-166"
-                    }
-                },
-                {
-                    "home_team": "Peterborough Petes",
-                    "away_team": "Flint Firebirds",
-                    "predicted_winner": "Flint Firebirds",
-                    "actual_winner": "Flint Firebirds",
-                    "home_score": 2,
-                    "away_score": 7,
-                    "odds": {
-                        "Peterborough Petes": "+330",
-                        "Flint Firebirds": "-455"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-02-07",
             "accuracy": 77.8,
             "correct_predictions": 7,
@@ -4129,13 +4097,13 @@
             ]
         }
     ],
-    "total_accuracy": 63.4,
+    "total_accuracy": 63.1,
     "tossup_accuracy": 48.5,
-    "non_tossup_accuracy": 65.3,
-    "total_correct": 185,
-    "total_games": 292,
+    "non_tossup_accuracy": 65.0,
+    "total_correct": 183,
+    "total_games": 290,
     "tossup_correct": 16,
     "tossup_games": 33,
-    "non_tossup_correct": 169,
-    "non_tossup_games": 259
+    "non_tossup_correct": 167,
+    "non_tossup_games": 257
 }
