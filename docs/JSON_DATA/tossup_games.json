@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-02-07",
-        "home_team": "Brantford Bulldogs",
-        "away_team": "Saginaw Spirit",
-        "predicted_winner": "Saginaw Spirit",
-        "actual_winner": "Brantford Bulldogs",
-        "home_score": 4,
-        "away_score": 2,
-        "odds": {
-            "Brantford Bulldogs": "-100",
-            "Saginaw Spirit": "-123"
-        }
-    },
-    {
         "date": "2025-02-08",
         "home_team": "Erie Otters",
         "away_team": "Sudbury Wolves",

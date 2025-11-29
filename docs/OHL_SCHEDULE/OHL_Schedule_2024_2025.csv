@@ -1,13 +1,4 @@
 Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
-2025-02-07,7:00 pm,Brampton Steelheads,10,Erie Otters,3,27798
-2025-02-07,7:00 pm,Brantford Bulldogs,4,Saginaw Spirit,2,27799
-2025-02-07,7:00 pm,Kingston Frontenacs,3,Flint Firebirds,1,27801
-2025-02-07,7:00 pm,Kitchener Rangers,4,Owen Sound Attack,3,27802
-2025-02-07,7:00 pm,London Knights,3,Peterborough Petes,1,27803
-2025-02-07,7:00 pm,Niagara IceDogs,3,Sudbury Wolves,7,27804
-2025-02-07,7:05 pm,Oshawa Generals,5,Ottawa 67's,2,27805
-2025-02-07,7:05 pm,Windsor Spitfires,7,Sarnia Sting,2,27806
-2025-02-07,7:07 pm,Guelph Storm,5,North Bay Battalion,4,27800
 2025-02-08,4:00 pm,Brampton Steelheads,6,Kingston Frontenacs,0,27808
 2025-02-08,7:00 pm,Erie Otters,7,Sudbury Wolves,4,27809
 2025-02-08,7:00 pm,Niagara IceDogs,1,Kitchener Rangers,9,27811
@@ -574,8 +565,8 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2025-11-28,7:05 pm,Sarnia Sting,2,Soo Greyhounds,6,28400
 2025-11-28,7:05 pm,Sudbury Wolves,6,Barrie Colts,3,28401
 2025-11-28,7:07 pm,Guelph Storm,5,Windsor Spitfires,4,28395
-2025-11-29,4:00 pm,Brampton Steelheads,0,Sudbury Wolves,0,28403
-2025-11-29,4:00 pm,Owen Sound Attack,0,Windsor Spitfires,0,28407
+2025-11-29,4:00 pm,Brampton Steelheads,1,Sudbury Wolves,2,28403
+2025-11-29,4:00 pm,Owen Sound Attack,2,Windsor Spitfires,3,28407
 2025-11-29,7:00 pm,Brantford Bulldogs,0,Kitchener Rangers,0,28404
 2025-11-29,7:00 pm,Erie Otters,0,Peterborough Petes,0,28405
 2025-11-29,7:00 pm,Flint Firebirds,0,Soo Greyhounds,0,28406
@@ -999,3 +990,8 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2026-03-21,7:00 pm,Owen Sound Attack,0,Kitchener Rangers,0,28825
 2026-03-21,7:05 pm,Saginaw Spirit,0,Sarnia Sting,0,28826
 2026-03-21,7:30 pm,Barrie Colts,0,Niagara IceDogs,0,28821
+2026-03-22,2:00 pm,Brampton Steelheads,0,Brantford Bulldogs,0,28827
+2026-03-22,2:00 pm,Niagara IceDogs,0,Erie Otters,0,28828
+2026-03-22,2:00 pm,North Bay Battalion,0,Sudbury Wolves,0,28829
+2026-03-22,2:07 pm,Soo Greyhounds,0,Windsor Spitfires,0,28831
+2026-03-22,6:05 pm,Oshawa Generals,0,Peterborough Petes,0,28830
