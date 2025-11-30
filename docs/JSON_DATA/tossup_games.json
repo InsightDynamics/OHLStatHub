@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-02-08",
-        "home_team": "Erie Otters",
-        "away_team": "Sudbury Wolves",
-        "predicted_winner": "Erie Otters",
-        "actual_winner": "Erie Otters",
-        "home_score": 7,
-        "away_score": 4,
-        "odds": {
-            "Erie Otters": "-115",
-            "Sudbury Wolves": "-107"
-        }
-    },
-    {
         "date": "2025-02-11",
         "home_team": "Kitchener Rangers",
         "away_team": "Oshawa Generals",

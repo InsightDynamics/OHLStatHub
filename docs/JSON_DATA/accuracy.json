@@ -1,110 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-02-08",
-            "accuracy": 75.0,
-            "correct_predictions": 6,
-            "total_games": 8,
-            "game_details": [
-                {
-                    "home_team": "Brampton Steelheads",
-                    "away_team": "Kingston Frontenacs",
-                    "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Brampton Steelheads",
-                    "home_score": 6,
-                    "away_score": 0,
-                    "odds": {
-                        "Brampton Steelheads": "+104",
-                        "Kingston Frontenacs": "-129"
-                    }
-                },
-                {
-                    "home_team": "Erie Otters",
-                    "away_team": "Sudbury Wolves",
-                    "predicted_winner": "Erie Otters",
-                    "actual_winner": "Erie Otters",
-                    "home_score": 7,
-                    "away_score": 4,
-                    "odds": {
-                        "Erie Otters": "-115",
-                        "Sudbury Wolves": "-107"
-                    }
-                },
-                {
-                    "home_team": "Niagara IceDogs",
-                    "away_team": "Kitchener Rangers",
-                    "predicted_winner": "Kitchener Rangers",
-                    "actual_winner": "Kitchener Rangers",
-                    "home_score": 1,
-                    "away_score": 9,
-                    "odds": {
-                        "Niagara IceDogs": "+106",
-                        "Kitchener Rangers": "-131"
-                    }
-                },
-                {
-                    "home_team": "Owen Sound Attack",
-                    "away_team": "North Bay Battalion",
-                    "predicted_winner": "Owen Sound Attack",
-                    "actual_winner": "Owen Sound Attack",
-                    "home_score": 4,
-                    "away_score": 1,
-                    "odds": {
-                        "Owen Sound Attack": "-148",
-                        "North Bay Battalion": "+120"
-                    }
-                },
-                {
-                    "home_team": "Sarnia Sting",
-                    "away_team": "Peterborough Petes",
-                    "predicted_winner": "Sarnia Sting",
-                    "actual_winner": "Peterborough Petes",
-                    "home_score": 2,
-                    "away_score": 3,
-                    "odds": {
-                        "Sarnia Sting": "-256",
-                        "Peterborough Petes": "+200"
-                    }
-                },
-                {
-                    "home_team": "Windsor Spitfires",
-                    "away_team": "Brantford Bulldogs",
-                    "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Windsor Spitfires",
-                    "home_score": 3,
-                    "away_score": 2,
-                    "odds": {
-                        "Windsor Spitfires": "-135",
-                        "Brantford Bulldogs": "+109"
-                    }
-                },
-                {
-                    "home_team": "Guelph Storm",
-                    "away_team": "Saginaw Spirit",
-                    "predicted_winner": "Saginaw Spirit",
-                    "actual_winner": "Saginaw Spirit",
-                    "home_score": 7,
-                    "away_score": 10,
-                    "odds": {
-                        "Guelph Storm": "+211",
-                        "Saginaw Spirit": "-272"
-                    }
-                },
-                {
-                    "home_team": "Barrie Colts",
-                    "away_team": "Soo Greyhounds",
-                    "predicted_winner": "Barrie Colts",
-                    "actual_winner": "Barrie Colts",
-                    "home_score": 4,
-                    "away_score": 2,
-                    "odds": {
-                        "Barrie Colts": "-206",
-                        "Soo Greyhounds": "+164"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-02-09",
             "accuracy": 100.0,
             "correct_predictions": 3,
@@ -3981,13 +3877,13 @@
             ]
         }
     ],
-    "total_accuracy": 62.6,
-    "tossup_accuracy": 50.0,
-    "non_tossup_accuracy": 64.3,
-    "total_correct": 176,
-    "total_games": 281,
-    "tossup_correct": 16,
-    "tossup_games": 32,
-    "non_tossup_correct": 160,
-    "non_tossup_games": 249
+    "total_accuracy": 62.3,
+    "tossup_accuracy": 48.4,
+    "non_tossup_accuracy": 64.0,
+    "total_correct": 170,
+    "total_games": 273,
+    "tossup_correct": 15,
+    "tossup_games": 31,
+    "non_tossup_correct": 155,
+    "non_tossup_games": 242
 }
