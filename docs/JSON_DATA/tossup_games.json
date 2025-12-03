@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-02-11",
-        "home_team": "Kitchener Rangers",
-        "away_team": "Oshawa Generals",
-        "predicted_winner": "Oshawa Generals",
-        "actual_winner": "Oshawa Generals",
-        "home_score": 3,
-        "away_score": 4,
-        "odds": {
-            "Kitchener Rangers": "-104",
-            "Oshawa Generals": "-119"
-        }
-    },
-    {
         "date": "2025-02-12",
         "home_team": "Erie Otters",
         "away_team": "Niagara IceDogs",
