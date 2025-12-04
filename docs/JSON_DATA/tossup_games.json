@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-02-12",
-        "home_team": "Erie Otters",
-        "away_team": "Niagara IceDogs",
-        "predicted_winner": "Niagara IceDogs",
-        "actual_winner": "Erie Otters",
-        "home_score": 2,
-        "away_score": 1,
-        "odds": {
-            "Erie Otters": "-101",
-            "Niagara IceDogs": "-122"
-        }
-    },
-    {
         "date": "2025-02-14",
         "home_team": "Flint Firebirds",
         "away_team": "Sudbury Wolves",
