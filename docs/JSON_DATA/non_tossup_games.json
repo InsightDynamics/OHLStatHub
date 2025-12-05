@@ -1,44 +1,5 @@
 [
     {
-        "date": "2025-02-13",
-        "home_team": "Barrie Colts",
-        "away_team": "London Knights",
-        "predicted_winner": "London Knights",
-        "actual_winner": "London Knights",
-        "home_score": 4,
-        "away_score": 8,
-        "odds": {
-            "Barrie Colts": "+138",
-            "London Knights": "-172"
-        }
-    },
-    {
-        "date": "2025-02-13",
-        "home_team": "North Bay Battalion",
-        "away_team": "Brampton Steelheads",
-        "predicted_winner": "Brampton Steelheads",
-        "actual_winner": "North Bay Battalion",
-        "home_score": 4,
-        "away_score": 2,
-        "odds": {
-            "North Bay Battalion": "+289",
-            "Brampton Steelheads": "-389"
-        }
-    },
-    {
-        "date": "2025-02-13",
-        "home_team": "Windsor Spitfires",
-        "away_team": "Sarnia Sting",
-        "predicted_winner": "Windsor Spitfires",
-        "actual_winner": "Windsor Spitfires",
-        "home_score": 8,
-        "away_score": 2,
-        "odds": {
-            "Windsor Spitfires": "-351",
-            "Sarnia Sting": "+265"
-        }
-    },
-    {
         "date": "2025-02-14",
         "home_team": "Brantford Bulldogs",
         "away_team": "Niagara IceDogs",
