@@ -1,110 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-02-14",
-            "accuracy": 75.0,
-            "correct_predictions": 6,
-            "total_games": 8,
-            "game_details": [
-                {
-                    "home_team": "Brantford Bulldogs",
-                    "away_team": "Niagara IceDogs",
-                    "predicted_winner": "Brantford Bulldogs",
-                    "actual_winner": "Brantford Bulldogs",
-                    "home_score": 10,
-                    "away_score": 1,
-                    "odds": {
-                        "Brantford Bulldogs": "-137",
-                        "Niagara IceDogs": "+110"
-                    }
-                },
-                {
-                    "home_team": "Flint Firebirds",
-                    "away_team": "Sudbury Wolves",
-                    "predicted_winner": "Sudbury Wolves",
-                    "actual_winner": "Sudbury Wolves",
-                    "home_score": 2,
-                    "away_score": 3,
-                    "odds": {
-                        "Flint Firebirds": "-106",
-                        "Sudbury Wolves": "-117"
-                    }
-                },
-                {
-                    "home_team": "Kingston Frontenacs",
-                    "away_team": "Kitchener Rangers",
-                    "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Kingston Frontenacs",
-                    "home_score": 4,
-                    "away_score": 2,
-                    "odds": {
-                        "Kingston Frontenacs": "-142",
-                        "Kitchener Rangers": "+115"
-                    }
-                },
-                {
-                    "home_team": "London Knights",
-                    "away_team": "Soo Greyhounds",
-                    "predicted_winner": "London Knights",
-                    "actual_winner": "London Knights",
-                    "home_score": 7,
-                    "away_score": 3,
-                    "odds": {
-                        "London Knights": "-328",
-                        "Soo Greyhounds": "+249"
-                    }
-                },
-                {
-                    "home_team": "Owen Sound Attack",
-                    "away_team": "Erie Otters",
-                    "predicted_winner": "Erie Otters",
-                    "actual_winner": "Owen Sound Attack",
-                    "home_score": 8,
-                    "away_score": 5,
-                    "odds": {
-                        "Owen Sound Attack": "+155",
-                        "Erie Otters": "-194"
-                    }
-                },
-                {
-                    "home_team": "Saginaw Spirit",
-                    "away_team": "Windsor Spitfires",
-                    "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Saginaw Spirit",
-                    "home_score": 3,
-                    "away_score": 2,
-                    "odds": {
-                        "Saginaw Spirit": "-102",
-                        "Windsor Spitfires": "-122"
-                    }
-                },
-                {
-                    "home_team": "Peterborough Petes",
-                    "away_team": "Ottawa 67's",
-                    "predicted_winner": "Ottawa 67's",
-                    "actual_winner": "Ottawa 67's",
-                    "home_score": 1,
-                    "away_score": 4,
-                    "odds": {
-                        "Peterborough Petes": "+185",
-                        "Ottawa 67's": "-235"
-                    }
-                },
-                {
-                    "home_team": "Guelph Storm",
-                    "away_team": "Oshawa Generals",
-                    "predicted_winner": "Oshawa Generals",
-                    "actual_winner": "Oshawa Generals",
-                    "home_score": 5,
-                    "away_score": 7,
-                    "odds": {
-                        "Guelph Storm": "+195",
-                        "Oshawa Generals": "-249"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-02-15",
             "accuracy": 66.7,
             "correct_predictions": 4,
@@ -3701,13 +3597,13 @@
             ]
         }
     ],
-    "total_accuracy": 61.3,
-    "tossup_accuracy": 48.3,
-    "non_tossup_accuracy": 62.9,
-    "total_correct": 160,
-    "total_games": 261,
-    "tossup_correct": 14,
-    "tossup_games": 29,
-    "non_tossup_correct": 146,
-    "non_tossup_games": 232
+    "total_accuracy": 60.9,
+    "tossup_accuracy": 48.1,
+    "non_tossup_accuracy": 62.4,
+    "total_correct": 154,
+    "total_games": 253,
+    "tossup_correct": 13,
+    "tossup_games": 27,
+    "non_tossup_correct": 141,
+    "non_tossup_games": 226
 }

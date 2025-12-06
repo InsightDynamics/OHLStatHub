@@ -1,31 +1,5 @@
 [
     {
-        "date": "2025-02-14",
-        "home_team": "Flint Firebirds",
-        "away_team": "Sudbury Wolves",
-        "predicted_winner": "Sudbury Wolves",
-        "actual_winner": "Sudbury Wolves",
-        "home_score": 2,
-        "away_score": 3,
-        "odds": {
-            "Flint Firebirds": "-106",
-            "Sudbury Wolves": "-117"
-        }
-    },
-    {
-        "date": "2025-02-14",
-        "home_team": "Saginaw Spirit",
-        "away_team": "Windsor Spitfires",
-        "predicted_winner": "Windsor Spitfires",
-        "actual_winner": "Saginaw Spirit",
-        "home_score": 3,
-        "away_score": 2,
-        "odds": {
-            "Saginaw Spirit": "-102",
-            "Windsor Spitfires": "-122"
-        }
-    },
-    {
         "date": "2025-02-15",
         "home_team": "Oshawa Generals",
         "away_team": "Brampton Steelheads",
