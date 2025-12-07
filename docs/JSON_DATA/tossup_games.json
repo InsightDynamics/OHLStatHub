@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-02-15",
-        "home_team": "Oshawa Generals",
-        "away_team": "Brampton Steelheads",
-        "predicted_winner": "Brampton Steelheads",
-        "actual_winner": "Brampton Steelheads",
-        "home_score": 2,
-        "away_score": 4,
-        "odds": {
-            "Oshawa Generals": "-107",
-            "Brampton Steelheads": "-115"
-        }
-    },
-    {
         "date": "2025-02-19",
         "home_team": "Brampton Steelheads",
         "away_team": "Oshawa Generals",
