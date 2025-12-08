@@ -1,31 +1,5 @@
 [
     {
-        "date": "2025-02-16",
-        "home_team": "Niagara IceDogs",
-        "away_team": "Brantford Bulldogs",
-        "predicted_winner": "Brantford Bulldogs",
-        "actual_winner": "Brantford Bulldogs",
-        "home_score": 4,
-        "away_score": 5,
-        "odds": {
-            "Niagara IceDogs": "+110",
-            "Brantford Bulldogs": "-137"
-        }
-    },
-    {
-        "date": "2025-02-16",
-        "home_team": "Ottawa 67's",
-        "away_team": "Kitchener Rangers",
-        "predicted_winner": "Kitchener Rangers",
-        "actual_winner": "Kitchener Rangers",
-        "home_score": 1,
-        "away_score": 5,
-        "odds": {
-            "Ottawa 67's": "+228",
-            "Kitchener Rangers": "-296"
-        }
-    },
-    {
         "date": "2025-02-17",
         "home_team": "Brampton Steelheads",
         "away_team": "Niagara IceDogs",

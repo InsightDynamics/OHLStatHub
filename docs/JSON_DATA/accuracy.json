@@ -1,38 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-02-16",
-            "accuracy": 100.0,
-            "correct_predictions": 2,
-            "total_games": 2,
-            "game_details": [
-                {
-                    "home_team": "Niagara IceDogs",
-                    "away_team": "Brantford Bulldogs",
-                    "predicted_winner": "Brantford Bulldogs",
-                    "actual_winner": "Brantford Bulldogs",
-                    "home_score": 4,
-                    "away_score": 5,
-                    "odds": {
-                        "Niagara IceDogs": "+110",
-                        "Brantford Bulldogs": "-137"
-                    }
-                },
-                {
-                    "home_team": "Ottawa 67's",
-                    "away_team": "Kitchener Rangers",
-                    "predicted_winner": "Kitchener Rangers",
-                    "actual_winner": "Kitchener Rangers",
-                    "home_score": 1,
-                    "away_score": 5,
-                    "odds": {
-                        "Ottawa 67's": "+228",
-                        "Kitchener Rangers": "-296"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-02-17",
             "accuracy": 66.7,
             "correct_predictions": 6,
@@ -3517,13 +3485,13 @@
             ]
         }
     ],
-    "total_accuracy": 60.7,
+    "total_accuracy": 60.4,
     "tossup_accuracy": 46.2,
-    "non_tossup_accuracy": 62.4,
-    "total_correct": 150,
-    "total_games": 247,
+    "non_tossup_accuracy": 62.1,
+    "total_correct": 148,
+    "total_games": 245,
     "tossup_correct": 12,
     "tossup_games": 26,
-    "non_tossup_correct": 138,
-    "non_tossup_games": 221
+    "non_tossup_correct": 136,
+    "non_tossup_games": 219
 }
