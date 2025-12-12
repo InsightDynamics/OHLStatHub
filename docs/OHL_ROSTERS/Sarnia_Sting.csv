@@ -1,6 +1,5 @@
 player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team_name,division,jersey_number,rookie
 8878,Mitch Young,Young,Mitch,D,L,6.02,190.0,2005-04-29,Sarnia Sting,West Division,5,0
-9295,Jack O'Brien,O'Brien,Jack,D,R,6.02,205.0,2005-02-01,Sarnia Sting,West Division,6,0
 9120,Jack Bodin,Bodin,Jack,D,R,6.02,220.0,2006-07-03,Sarnia Sting,West Division,9,0
 8889,Carson Hall,Hall,Carson,LW,L,6.02,190.0,2006-04-29,Sarnia Sting,West Division,10,0
 8510,Zach Filak,Filak,Zach,C,L,6.01,185.0,2004-01-21,Sarnia Sting,West Division,11,0
@@ -24,6 +23,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9122,Chase Gaughan,Gaughan,Chase,RW,R,6.02,167.0,2008-07-17,Sarnia Sting,West Division,71,1
 8922,Hughston Hurt,Hurt,Hughston,D,L,6.01,178.0,2007-07-10,Sarnia Sting,West Division,72,0
 9123,Beckham Edwards,Edwards,Beckham,C,L,6.01,184.0,2008-01-06,Sarnia Sting,West Division,81,1
+9295,Jack O'Brien,O'Brien,Jack,D,R,6.02,205.0,2005-02-01,Sarnia Sting,West Division,6,0
 9055,Dylan Luecke,Luecke,Dylan,RW,R,6.02,170.0,2007-02-22,Sarnia Sting,West Division,8,1
 9121,Ruslan Karimov,Karimov,Ruslan,LW,L,6.00,200.0,2007-04-27,Sarnia Sting,West Division,19,1
 9092,Matthew Andersen,Andersen,Matthew,D,L,6.00,174.0,2007-11-27,Sarnia Sting,West Division,21,1
