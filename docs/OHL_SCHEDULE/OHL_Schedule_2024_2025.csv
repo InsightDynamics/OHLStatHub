@@ -1,7 +1,4 @@
 Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
-2025-02-20,7:00 pm,Barrie Colts,1,Owen Sound Attack,5,27855
-2025-02-20,7:05 pm,Peterborough Petes,3,Brantford Bulldogs,4,27856
-2025-02-20,7:05 pm,Saginaw Spirit,5,North Bay Battalion,1,27857
 2025-02-21,7:00 pm,Erie Otters,2,Oshawa Generals,3,27858
 2025-02-21,7:00 pm,Flint Firebirds,1,North Bay Battalion,4,27859
 2025-02-21,7:00 pm,Kingston Frontenacs,4,Brantford Bulldogs,2,27860
@@ -577,13 +574,13 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2025-12-13,7:05 pm,Peterborough Petes,5,Brantford Bulldogs,3,28459
 2025-12-13,7:05 pm,Saginaw Spirit,4,Kitchener Rangers,5,28460
 2025-12-13,7:30 pm,Barrie Colts,2,Niagara IceDogs,1,28456
-2025-12-14,2:00 pm,Brantford Bulldogs,0,London Knights,0,28461
-2025-12-14,2:00 pm,Niagara IceDogs,0,North Bay Battalion,0,28462
-2025-12-14,2:05 pm,Sarnia Sting,0,Guelph Storm,0,28465
-2025-12-14,2:05 pm,Sudbury Wolves,0,Brampton Steelheads,0,28467
-2025-12-14,2:07 pm,Soo Greyhounds,0,Owen Sound Attack,0,28466
-2025-12-14,3:00 pm,Ottawa 67's,0,Windsor Spitfires,0,28464
-2025-12-14,6:05 pm,Oshawa Generals,0,Kingston Frontenacs,0,28463
+2025-12-14,2:00 pm,Niagara IceDogs,3,North Bay Battalion,7,28462
+2025-12-14,2:05 pm,Sarnia Sting,6,Guelph Storm,4,28465
+2025-12-14,2:05 pm,Sudbury Wolves,5,Brampton Steelheads,1,28467
+2025-12-14,2:07 pm,Soo Greyhounds,6,Owen Sound Attack,4,28466
+2025-12-14,2:30 pm,Brantford Bulldogs,2,London Knights,0,28461
+2025-12-14,3:00 pm,Ottawa 67's,2,Windsor Spitfires,1,28464
+2025-12-14,6:05 pm,Oshawa Generals,0,Kingston Frontenacs,1,28463
 2025-12-17,7:00 pm,Owen Sound Attack,0,London Knights,0,28468
 2025-12-17,7:05 pm,Saginaw Spirit,0,Soo Greyhounds,0,28469
 2025-12-17,7:05 pm,Sarnia Sting,0,Kitchener Rangers,0,28470

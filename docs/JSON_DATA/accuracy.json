@@ -1,50 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-02-20",
-            "accuracy": 66.7,
-            "correct_predictions": 2,
-            "total_games": 3,
-            "game_details": [
-                {
-                    "home_team": "Barrie Colts",
-                    "away_team": "Owen Sound Attack",
-                    "predicted_winner": "Barrie Colts",
-                    "actual_winner": "Owen Sound Attack",
-                    "home_score": 1,
-                    "away_score": 5,
-                    "odds": {
-                        "Barrie Colts": "-232",
-                        "Owen Sound Attack": "+183"
-                    }
-                },
-                {
-                    "home_team": "Peterborough Petes",
-                    "away_team": "Brantford Bulldogs",
-                    "predicted_winner": "Brantford Bulldogs",
-                    "actual_winner": "Brantford Bulldogs",
-                    "home_score": 3,
-                    "away_score": 4,
-                    "odds": {
-                        "Peterborough Petes": "+433",
-                        "Brantford Bulldogs": "-641"
-                    }
-                },
-                {
-                    "home_team": "Saginaw Spirit",
-                    "away_team": "North Bay Battalion",
-                    "predicted_winner": "Saginaw Spirit",
-                    "actual_winner": "Saginaw Spirit",
-                    "home_score": 5,
-                    "away_score": 1,
-                    "odds": {
-                        "Saginaw Spirit": "-416",
-                        "North Bay Battalion": "+306"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-02-21",
             "accuracy": 55.6,
             "correct_predictions": 5,
@@ -3329,13 +3285,13 @@
             ]
         }
     ],
-    "total_accuracy": 59.8,
+    "total_accuracy": 59.7,
     "tossup_accuracy": 44.0,
     "non_tossup_accuracy": 61.7,
-    "total_correct": 140,
-    "total_games": 234,
+    "total_correct": 138,
+    "total_games": 231,
     "tossup_correct": 11,
     "tossup_games": 25,
-    "non_tossup_correct": 129,
-    "non_tossup_games": 209
+    "non_tossup_correct": 127,
+    "non_tossup_games": 206
 }
