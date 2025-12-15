@@ -1,31 +1,5 @@
 [
     {
-        "date": "2025-02-21",
-        "home_team": "Kitchener Rangers",
-        "away_team": "Barrie Colts",
-        "predicted_winner": "Kitchener Rangers",
-        "actual_winner": "Kitchener Rangers",
-        "home_score": 4,
-        "away_score": 1,
-        "odds": {
-            "Kitchener Rangers": "-121",
-            "Barrie Colts": "-102"
-        }
-    },
-    {
-        "date": "2025-02-21",
-        "home_team": "Soo Greyhounds",
-        "away_team": "Guelph Storm",
-        "predicted_winner": "Guelph Storm",
-        "actual_winner": "Soo Greyhounds",
-        "home_score": 4,
-        "away_score": 3,
-        "odds": {
-            "Soo Greyhounds": "-109",
-            "Guelph Storm": "-114"
-        }
-    },
-    {
         "date": "2025-02-23",
         "home_team": "Soo Greyhounds",
         "away_team": "Owen Sound Attack",
