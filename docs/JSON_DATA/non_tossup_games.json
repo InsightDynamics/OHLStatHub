@@ -1,57 +1,5 @@
 [
     {
-        "date": "2025-02-23",
-        "home_team": "Ottawa 67's",
-        "away_team": "Brantford Bulldogs",
-        "predicted_winner": "Brantford Bulldogs",
-        "actual_winner": "Brantford Bulldogs",
-        "home_score": 1,
-        "away_score": 5,
-        "odds": {
-            "Ottawa 67's": "+257",
-            "Brantford Bulldogs": "-340"
-        }
-    },
-    {
-        "date": "2025-02-23",
-        "home_team": "Sarnia Sting",
-        "away_team": "North Bay Battalion",
-        "predicted_winner": "Sarnia Sting",
-        "actual_winner": "North Bay Battalion",
-        "home_score": 1,
-        "away_score": 5,
-        "odds": {
-            "Sarnia Sting": "-141",
-            "North Bay Battalion": "+114"
-        }
-    },
-    {
-        "date": "2025-02-23",
-        "home_team": "London Knights",
-        "away_team": "Kitchener Rangers",
-        "predicted_winner": "London Knights",
-        "actual_winner": "Kitchener Rangers",
-        "home_score": 4,
-        "away_score": 5,
-        "odds": {
-            "London Knights": "-161",
-            "Kitchener Rangers": "+130"
-        }
-    },
-    {
-        "date": "2025-02-23",
-        "home_team": "Oshawa Generals",
-        "away_team": "Kingston Frontenacs",
-        "predicted_winner": "Kingston Frontenacs",
-        "actual_winner": "Oshawa Generals",
-        "home_score": 5,
-        "away_score": 1,
-        "odds": {
-            "Oshawa Generals": "+110",
-            "Kingston Frontenacs": "-136"
-        }
-    },
-    {
         "date": "2025-02-24",
         "home_team": "Erie Otters",
         "away_team": "Flint Firebirds",
