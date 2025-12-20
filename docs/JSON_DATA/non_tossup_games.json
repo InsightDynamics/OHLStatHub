@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-02-24",
-        "home_team": "Erie Otters",
-        "away_team": "Flint Firebirds",
-        "predicted_winner": "Erie Otters",
-        "actual_winner": "Flint Firebirds",
-        "home_score": 1,
-        "away_score": 2,
-        "odds": {
-            "Erie Otters": "-125",
-            "Flint Firebirds": "+101"
-        }
-    },
-    {
         "date": "2025-02-25",
         "home_team": "Kitchener Rangers",
         "away_team": "Guelph Storm",

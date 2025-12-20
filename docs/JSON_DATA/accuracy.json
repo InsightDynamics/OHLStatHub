@@ -1,26 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-02-24",
-            "accuracy": 0.0,
-            "correct_predictions": 0,
-            "total_games": 1,
-            "game_details": [
-                {
-                    "home_team": "Erie Otters",
-                    "away_team": "Flint Firebirds",
-                    "predicted_winner": "Erie Otters",
-                    "actual_winner": "Flint Firebirds",
-                    "home_score": 1,
-                    "away_score": 2,
-                    "odds": {
-                        "Erie Otters": "-125",
-                        "Flint Firebirds": "+101"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-02-25",
             "accuracy": 100.0,
             "correct_predictions": 2,
@@ -3009,13 +2989,13 @@
             ]
         }
     ],
-    "total_accuracy": 60.5,
+    "total_accuracy": 60.8,
     "tossup_accuracy": 42.9,
-    "non_tossup_accuracy": 62.4,
+    "non_tossup_accuracy": 62.8,
     "total_correct": 127,
-    "total_games": 210,
+    "total_games": 209,
     "tossup_correct": 9,
     "tossup_games": 21,
     "non_tossup_correct": 118,
-    "non_tossup_games": 189
+    "non_tossup_games": 188
 }
