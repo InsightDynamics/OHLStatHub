@@ -65,10 +65,10 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8974,Xander Velliaris,Velliaris,Xander,D,L,6.03,210.0,2007-04-23,Kingston Frontenacs,East Division,77,1
 8528,Nolan Lalonde,Lalonde,Nolan,G,L,6.02,197.0,2004-02-14,Kingston Frontenacs,East Division,79,0
 8764,Jacob Battaglia,Battaglia,Jacob,LW,L,6.01,202.0,2006-03-17,Kingston Frontenacs,East Division,88,0
-8972,Tyler Hopkins,Hopkins,Tyler,C,L,6.01,186.0,2007-01-23,Kingston Frontenacs,East Division,91,0
 8372,Matthew Soto,Soto,Matthew,RW,R,6.00,185.0,2005-08-31,Kingston Frontenacs,East Division,92,0
 8384,Cedrick Guindon,Guindon,Cedrick,C,L,5.10,182.0,2004-04-21,Kingston Frontenacs,East Division,93,0
 9174,Max Shewfelt,Shewfelt,Max,LW,L,5.11,172.0,2007-03-16,Kingston Frontenacs,East Division,18,1
+8972,Tyler Hopkins,Hopkins,Tyler,C,L,6.01,186.0,2007-01-23,Kingston Frontenacs,East Division,91,0
 8497,Luca D'Amato,D'Amato,Luca,D,R,5.09,160.0,2004-08-18,Oshawa Generals,East Division,4,0
 8726,David Bedkowski,Bedkowski,David,D,R,6.06,220.0,2006-12-07,Oshawa Generals,East Division,7,0
 9293,Haoxi Wang,Wang,Haoxi,D,L,6.05,223.0,2007-07-27,Oshawa Generals,East Division,7,1
@@ -468,6 +468,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9124,Alessandro Di Iorio,Di Iorio,Alessandro,C,R,6.01,188.0,2008-03-17,Sarnia Sting,West Division,17,1
 8986,Carter Kostuch,Kostuch,Carter,LW,L,5.11,165.0,2007-04-21,Sarnia Sting,West Division,18,0
 9239,Ryan Chamberlain,Chamberlain,Ryan,LW,L,6.02,180.0,2008-04-22,Sarnia Sting,West Division,22,1
+8920,Ryan Brown,Brown,Ryan,LW,L,5.11,172.0,2007-10-27,Sarnia Sting,West Division,23,0
 8812,Daylen Moses,Moses,Daylen,C,R,6.02,180.0,2005-06-13,Sarnia Sting,West Division,24,0
 8837,Tyson Doucette,Doucette,Tyson,LW,L,6.00,181.0,2004-01-30,Sarnia Sting,West Division,25,0
 9271,Ryder Simpson,Simpson,Ryder,LW,L,6.03,190.0,2008-05-08,Sarnia Sting,West Division,28,1
@@ -484,7 +485,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9055,Dylan Luecke,Luecke,Dylan,RW,R,6.02,170.0,2007-02-22,Sarnia Sting,West Division,8,1
 9121,Ruslan Karimov,Karimov,Ruslan,LW,L,6.00,200.0,2007-04-27,Sarnia Sting,West Division,19,1
 9092,Matthew Andersen,Andersen,Matthew,D,L,6.00,174.0,2007-11-27,Sarnia Sting,West Division,21,1
-8920,Ryan Brown,Brown,Ryan,LW,L,5.11,172.0,2007-10-27,Sarnia Sting,West Division,23,0
 8923,Nathan Omeri,Omeri,Nathan,D,R,5.11,175.0,2006-06-15,Sarnia Sting,West Division,27,0
 9280,Dallys Hibbert,Hibbert,Dallys,D,R,6.02,178.0,2006-06-25,Sarnia Sting,West Division,28,0
 9045,Casey Bridgewater,Bridgewater,Casey,D,L,5.10,175.0,2007-02-07,Sarnia Sting,West Division,43,1
@@ -642,7 +642,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8385,Gavin Bryant,Bryant,Gavin,C,L,5.11,188.0,2004-07-24,Niagara IceDogs,Central Division,19,0
 9076,Rafek Dianov,Dianov,Rafek,LW,L,5.10,175.0,2007-02-25,Niagara IceDogs,Central Division,22,1
 9143,Max Crete,Crete,Max,C,L,5.09,182.0,2008-04-24,Niagara IceDogs,Central Division,23,1
-9010,Darcy Dewachter,Dewachter,Darcy,D,R,5.11,173.0,2007-03-01,Niagara IceDogs,Central Division,24,1
 8963,Ryan Roobroeck,Roobroeck,Ryan,LW,L,6.04,215.0,2007-09-25,Niagara IceDogs,Central Division,25,0
 9218,Andrei Loshko,Loshko,Andrei,C,L,6.02,184.0,2004-10-07,Niagara IceDogs,Central Division,27,0
 8427,Owen Flores,Flores,Owen,G,L,6.02,195.0,2004-05-09,Niagara IceDogs,Central Division,35,0
@@ -655,6 +654,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9263,Hayden Jeffery,Jeffery,Hayden,G,R,6.01,183.0,2006-05-08,Niagara IceDogs,Central Division,80,0
 9145,Matthew Humphries,Humphries,Matthew,G,R,6.02,196.0,2008-07-28,Niagara IceDogs,Central Division,82,1
 8971,Ivan Galiyanov,Galiyanov,Ivan,LW,L,5.10,179.0,2007-10-16,Niagara IceDogs,Central Division,92,0
+9010,Darcy Dewachter,Dewachter,Darcy,D,R,5.11,173.0,2007-03-01,Niagara IceDogs,Central Division,24,1
 8817,Matthew Virgilio,Virgilio,Matthew,D,R,5.11,200.0,2006-03-24,Niagara IceDogs,Central Division,48,0
 9147,Charlie Hotles,Hotles,Charlie,C,R,6.02,183.0,2008-07-05,Niagara IceDogs,Central Division,74,1
 8473,Andrew Wycisk,Wycisk,Andrew,D,R,5.11,170.0,2005-07-01,Niagara IceDogs,Central Division,75,0
