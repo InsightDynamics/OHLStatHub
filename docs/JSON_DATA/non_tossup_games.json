@@ -1,57 +1,5 @@
 [
     {
-        "date": "2025-02-26",
-        "home_team": "Guelph Storm",
-        "away_team": "Barrie Colts",
-        "predicted_winner": "Barrie Colts",
-        "actual_winner": "Barrie Colts",
-        "home_score": 4,
-        "away_score": 5,
-        "odds": {
-            "Guelph Storm": "+144",
-            "Barrie Colts": "-179"
-        }
-    },
-    {
-        "date": "2025-02-26",
-        "home_team": "Owen Sound Attack",
-        "away_team": "Niagara IceDogs",
-        "predicted_winner": "Niagara IceDogs",
-        "actual_winner": "Owen Sound Attack",
-        "home_score": 5,
-        "away_score": 1,
-        "odds": {
-            "Owen Sound Attack": "+154",
-            "Niagara IceDogs": "-193"
-        }
-    },
-    {
-        "date": "2025-02-26",
-        "home_team": "Flint Firebirds",
-        "away_team": "Sarnia Sting",
-        "predicted_winner": "Flint Firebirds",
-        "actual_winner": "Flint Firebirds",
-        "home_score": 6,
-        "away_score": 2,
-        "odds": {
-            "Flint Firebirds": "-179",
-            "Sarnia Sting": "+143"
-        }
-    },
-    {
-        "date": "2025-02-26",
-        "home_team": "Soo Greyhounds",
-        "away_team": "Sudbury Wolves",
-        "predicted_winner": "Sudbury Wolves",
-        "actual_winner": "Soo Greyhounds",
-        "home_score": 6,
-        "away_score": 3,
-        "odds": {
-            "Soo Greyhounds": "+130",
-            "Sudbury Wolves": "-161"
-        }
-    },
-    {
         "date": "2025-02-27",
         "home_team": "Barrie Colts",
         "away_team": "Saginaw Spirit",

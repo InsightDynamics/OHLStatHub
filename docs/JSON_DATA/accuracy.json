@@ -1,62 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-02-26",
-            "accuracy": 50.0,
-            "correct_predictions": 2,
-            "total_games": 4,
-            "game_details": [
-                {
-                    "home_team": "Guelph Storm",
-                    "away_team": "Barrie Colts",
-                    "predicted_winner": "Barrie Colts",
-                    "actual_winner": "Barrie Colts",
-                    "home_score": 4,
-                    "away_score": 5,
-                    "odds": {
-                        "Guelph Storm": "+144",
-                        "Barrie Colts": "-179"
-                    }
-                },
-                {
-                    "home_team": "Owen Sound Attack",
-                    "away_team": "Niagara IceDogs",
-                    "predicted_winner": "Niagara IceDogs",
-                    "actual_winner": "Owen Sound Attack",
-                    "home_score": 5,
-                    "away_score": 1,
-                    "odds": {
-                        "Owen Sound Attack": "+154",
-                        "Niagara IceDogs": "-193"
-                    }
-                },
-                {
-                    "home_team": "Flint Firebirds",
-                    "away_team": "Sarnia Sting",
-                    "predicted_winner": "Flint Firebirds",
-                    "actual_winner": "Flint Firebirds",
-                    "home_score": 6,
-                    "away_score": 2,
-                    "odds": {
-                        "Flint Firebirds": "-179",
-                        "Sarnia Sting": "+143"
-                    }
-                },
-                {
-                    "home_team": "Soo Greyhounds",
-                    "away_team": "Sudbury Wolves",
-                    "predicted_winner": "Sudbury Wolves",
-                    "actual_winner": "Soo Greyhounds",
-                    "home_score": 6,
-                    "away_score": 3,
-                    "odds": {
-                        "Soo Greyhounds": "+130",
-                        "Sudbury Wolves": "-161"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-02-27",
             "accuracy": 50.0,
             "correct_predictions": 2,
@@ -2957,13 +2901,13 @@
             ]
         }
     ],
-    "total_accuracy": 60.4,
+    "total_accuracy": 60.6,
     "tossup_accuracy": 42.9,
-    "non_tossup_accuracy": 62.4,
-    "total_correct": 125,
-    "total_games": 207,
+    "non_tossup_accuracy": 62.6,
+    "total_correct": 123,
+    "total_games": 203,
     "tossup_correct": 9,
     "tossup_games": 21,
-    "non_tossup_correct": 116,
-    "non_tossup_games": 186
+    "non_tossup_correct": 114,
+    "non_tossup_games": 182
 }
