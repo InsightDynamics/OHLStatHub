@@ -1,44 +1,5 @@
 [
     {
-        "date": "2025-02-27",
-        "home_team": "Barrie Colts",
-        "away_team": "Saginaw Spirit",
-        "predicted_winner": "Saginaw Spirit",
-        "actual_winner": "Barrie Colts",
-        "home_score": 5,
-        "away_score": 4,
-        "odds": {
-            "Barrie Colts": "+120",
-            "Saginaw Spirit": "-149"
-        }
-    },
-    {
-        "date": "2025-02-27",
-        "home_team": "North Bay Battalion",
-        "away_team": "Brampton Steelheads",
-        "predicted_winner": "Brampton Steelheads",
-        "actual_winner": "Brampton Steelheads",
-        "home_score": 1,
-        "away_score": 2,
-        "odds": {
-            "North Bay Battalion": "+277",
-            "Brampton Steelheads": "-370"
-        }
-    },
-    {
-        "date": "2025-02-27",
-        "home_team": "Peterborough Petes",
-        "away_team": "Windsor Spitfires",
-        "predicted_winner": "Windsor Spitfires",
-        "actual_winner": "Windsor Spitfires",
-        "home_score": 1,
-        "away_score": 7,
-        "odds": {
-            "Peterborough Petes": "+500",
-            "Windsor Spitfires": "-777"
-        }
-    },
-    {
         "date": "2025-02-28",
         "home_team": "Kitchener Rangers",
         "away_team": "Sarnia Sting",

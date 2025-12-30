@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-02-27",
-        "home_team": "Niagara IceDogs",
-        "away_team": "Erie Otters",
-        "predicted_winner": "Niagara IceDogs",
-        "actual_winner": "Erie Otters",
-        "home_score": 4,
-        "away_score": 5,
-        "odds": {
-            "Niagara IceDogs": "-117",
-            "Erie Otters": "-106"
-        }
-    },
-    {
         "date": "2025-02-28",
         "home_team": "Brantford Bulldogs",
         "away_team": "Oshawa Generals",
