@@ -1,110 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-02-28",
-            "accuracy": 100.0,
-            "correct_predictions": 8,
-            "total_games": 8,
-            "game_details": [
-                {
-                    "home_team": "Brantford Bulldogs",
-                    "away_team": "Oshawa Generals",
-                    "predicted_winner": "Brantford Bulldogs",
-                    "actual_winner": "Brantford Bulldogs",
-                    "home_score": 5,
-                    "away_score": 3,
-                    "odds": {
-                        "Brantford Bulldogs": "-117",
-                        "Oshawa Generals": "-106"
-                    }
-                },
-                {
-                    "home_team": "Kingston Frontenacs",
-                    "away_team": "Windsor Spitfires",
-                    "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Kingston Frontenacs",
-                    "home_score": 4,
-                    "away_score": 2,
-                    "odds": {
-                        "Kingston Frontenacs": "-114",
-                        "Windsor Spitfires": "-108"
-                    }
-                },
-                {
-                    "home_team": "Kitchener Rangers",
-                    "away_team": "Sarnia Sting",
-                    "predicted_winner": "Kitchener Rangers",
-                    "actual_winner": "Kitchener Rangers",
-                    "home_score": 4,
-                    "away_score": 3,
-                    "odds": {
-                        "Kitchener Rangers": "-278",
-                        "Sarnia Sting": "+215"
-                    }
-                },
-                {
-                    "home_team": "London Knights",
-                    "away_team": "Owen Sound Attack",
-                    "predicted_winner": "London Knights",
-                    "actual_winner": "London Knights",
-                    "home_score": 9,
-                    "away_score": 1,
-                    "odds": {
-                        "London Knights": "-384",
-                        "Owen Sound Attack": "+286"
-                    }
-                },
-                {
-                    "home_team": "Ottawa 67's",
-                    "away_team": "North Bay Battalion",
-                    "predicted_winner": "Ottawa 67's",
-                    "actual_winner": "Ottawa 67's",
-                    "home_score": 5,
-                    "away_score": 2,
-                    "odds": {
-                        "Ottawa 67's": "-115",
-                        "North Bay Battalion": "-108"
-                    }
-                },
-                {
-                    "home_team": "Sudbury Wolves",
-                    "away_team": "Saginaw Spirit",
-                    "predicted_winner": "Saginaw Spirit",
-                    "actual_winner": "Saginaw Spirit",
-                    "home_score": 2,
-                    "away_score": 7,
-                    "odds": {
-                        "Sudbury Wolves": "+135",
-                        "Saginaw Spirit": "-168"
-                    }
-                },
-                {
-                    "home_team": "Guelph Storm",
-                    "away_team": "Flint Firebirds",
-                    "predicted_winner": "Flint Firebirds",
-                    "actual_winner": "Flint Firebirds",
-                    "home_score": 3,
-                    "away_score": 5,
-                    "odds": {
-                        "Guelph Storm": "+114",
-                        "Flint Firebirds": "-141"
-                    }
-                },
-                {
-                    "home_team": "Soo Greyhounds",
-                    "away_team": "Brampton Steelheads",
-                    "predicted_winner": "Brampton Steelheads",
-                    "actual_winner": "Brampton Steelheads",
-                    "home_score": 3,
-                    "away_score": 6,
-                    "odds": {
-                        "Soo Greyhounds": "+180",
-                        "Brampton Steelheads": "-228"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-03-01",
             "accuracy": 20.0,
             "correct_predictions": 1,
@@ -2845,13 +2741,13 @@
             ]
         }
     ],
-    "total_accuracy": 60.8,
-    "tossup_accuracy": 45.0,
-    "non_tossup_accuracy": 62.6,
-    "total_correct": 121,
-    "total_games": 199,
-    "tossup_correct": 9,
-    "tossup_games": 20,
-    "non_tossup_correct": 112,
-    "non_tossup_games": 179
+    "total_accuracy": 59.2,
+    "tossup_accuracy": 35.3,
+    "non_tossup_accuracy": 61.5,
+    "total_correct": 113,
+    "total_games": 191,
+    "tossup_correct": 6,
+    "tossup_games": 17,
+    "non_tossup_correct": 107,
+    "non_tossup_games": 174
 }
