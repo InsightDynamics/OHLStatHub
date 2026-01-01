@@ -1,57 +1,5 @@
 [
     {
-        "date": "2025-03-01",
-        "home_team": "Brantford Bulldogs",
-        "away_team": "Peterborough Petes",
-        "predicted_winner": "Brantford Bulldogs",
-        "actual_winner": "Brantford Bulldogs",
-        "home_score": 4,
-        "away_score": 3,
-        "odds": {
-            "Brantford Bulldogs": "-644",
-            "Peterborough Petes": "+435"
-        }
-    },
-    {
-        "date": "2025-03-01",
-        "home_team": "Niagara IceDogs",
-        "away_team": "London Knights",
-        "predicted_winner": "London Knights",
-        "actual_winner": "Niagara IceDogs",
-        "home_score": 6,
-        "away_score": 4,
-        "odds": {
-            "Niagara IceDogs": "+170",
-            "London Knights": "-215"
-        }
-    },
-    {
-        "date": "2025-03-01",
-        "home_team": "Owen Sound Attack",
-        "away_team": "Kitchener Rangers",
-        "predicted_winner": "Kitchener Rangers",
-        "actual_winner": "Owen Sound Attack",
-        "home_score": 3,
-        "away_score": 2,
-        "odds": {
-            "Owen Sound Attack": "+194",
-            "Kitchener Rangers": "-248"
-        }
-    },
-    {
-        "date": "2025-03-01",
-        "home_team": "Barrie Colts",
-        "away_team": "Kingston Frontenacs",
-        "predicted_winner": "Kingston Frontenacs",
-        "actual_winner": "Barrie Colts",
-        "home_score": 6,
-        "away_score": 3,
-        "odds": {
-            "Barrie Colts": "+135",
-            "Kingston Frontenacs": "-168"
-        }
-    },
-    {
         "date": "2025-03-02",
         "home_team": "North Bay Battalion",
         "away_team": "Saginaw Spirit",
