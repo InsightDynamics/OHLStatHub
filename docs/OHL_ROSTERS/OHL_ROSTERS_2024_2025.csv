@@ -281,6 +281,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9225,Liam Conway,Conway,Liam,G,L,5.11,171.0,2007-06-19,Guelph Storm,Midwest Division,30,0
 9164,Daniil Skvortsov,Skvortsov,Daniil,D,L,6.04,200.0,2007-01-13,Guelph Storm,Midwest Division,59,1
 8873,Jakub Chromiak,Chromiak,Jakub,RD,R,5.11,183.0,2005-11-02,Kitchener Rangers,Midwest Division,3,0
+8465,Matthew Andonovski,Andonovski,Matthew,LD,L,6.02,200.0,2005-03-14,Kitchener Rangers,Midwest Division,5,0
 8748,Carson Campbell,Campbell,Carson,RD,R,6.01,180.0,2006-06-08,Kitchener Rangers,Midwest Division,8,0
 9170,Avry Anstis,Anstis,Avry,RW,R,6.00,165.0,2008-03-05,Kitchener Rangers,Midwest Division,9,1
 8673,Adrian Misaljevic,Misaljevic,Adrian,LW,L,5.11,175.0,2004-07-10,Kitchener Rangers,Midwest Division,10,0
@@ -310,7 +311,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9162,Alexander Bilecki,Bilecki,Alexander,LD,L,6.02,180.0,2008-05-09,Kitchener Rangers,Midwest Division,89,1
 9165,Jack LaBrash,LaBrash,Jack,LW,L,6.05,196.0,2007-03-04,Kitchener Rangers,Midwest Division,93,1
 9311,Jacob Xu,Xu,Jacob,LD,L,6.02,195.0,2008-03-13,Kitchener Rangers,Midwest Division,96,1
-8465,Matthew Andonovski,Andonovski,Matthew,LD,L,6.02,200.0,2005-03-14,Kitchener Rangers,Midwest Division,5,0
 8653,Antonino Pugliese,Pugliese,Antonino,RW,R,5.09,179.0,2004-04-09,Kitchener Rangers,Midwest Division,44,0
 8740,Braedyn Rogers,Rogers,Braedyn,D,R,6.01,185.0,2006-11-22,Owen Sound Attack,Midwest Division,2,0
 9272,Mason Roy,Roy,Mason,D,L,6.01,172.0,2008-07-15,Owen Sound Attack,Midwest Division,3,1
@@ -464,14 +464,12 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8675,Easton Wainwright,Wainwright,Easton,C,L,5.10,190.0,2005-01-19,Sarnia Sting,West Division,12,0
 8881,Lukas Fischer,Fischer,Lukas,D,L,6.03,184.0,2006-09-09,Sarnia Sting,West Division,13,0
 9238,JJ Franceschetti,Franceschetti,JJ,LW,L,5.09,185.0,2005-07-23,Sarnia Sting,West Division,15,0
-8921,James Barr,Barr,James,D,R,6.01,182.0,2007-06-01,Sarnia Sting,West Division,16,0
 9124,Alessandro Di Iorio,Di Iorio,Alessandro,C,R,6.01,188.0,2008-03-17,Sarnia Sting,West Division,17,1
 8986,Carter Kostuch,Kostuch,Carter,LW,L,5.11,165.0,2007-04-21,Sarnia Sting,West Division,18,0
 9239,Ryan Chamberlain,Chamberlain,Ryan,LW,L,6.02,180.0,2008-04-22,Sarnia Sting,West Division,22,1
 8920,Ryan Brown,Brown,Ryan,LW,L,5.11,172.0,2007-10-27,Sarnia Sting,West Division,23,0
 8812,Daylen Moses,Moses,Daylen,C,R,6.02,180.0,2005-06-13,Sarnia Sting,West Division,24,0
 8837,Tyson Doucette,Doucette,Tyson,LW,L,6.00,181.0,2004-01-30,Sarnia Sting,West Division,25,0
-9271,Ryder Simpson,Simpson,Ryder,LW,L,6.03,190.0,2008-05-08,Sarnia Sting,West Division,28,1
 9080,Evan Maillet,Maillet,Evan,G,R,6.00,172.0,2006-03-17,Sarnia Sting,West Division,30,0
 8677,Nick Surzycia,Surzycia,Nick,G,R,6.00,170.0,2004-12-17,Sarnia Sting,West Division,31,0
 8885,Karsen Chartier,Chartier,Karsen,G,L,6.03,183.0,2006-01-01,Sarnia Sting,West Division,33,0
@@ -483,10 +481,12 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9123,Beckham Edwards,Edwards,Beckham,C,L,6.01,184.0,2008-01-06,Sarnia Sting,West Division,81,1
 9295,Jack O'Brien,O'Brien,Jack,D,R,6.02,205.0,2005-02-01,Sarnia Sting,West Division,6,0
 9055,Dylan Luecke,Luecke,Dylan,RW,R,6.02,170.0,2007-02-22,Sarnia Sting,West Division,8,1
+8921,James Barr,Barr,James,D,R,6.01,182.0,2007-06-01,Sarnia Sting,West Division,16,0
 9121,Ruslan Karimov,Karimov,Ruslan,LW,L,6.00,200.0,2007-04-27,Sarnia Sting,West Division,19,1
 9092,Matthew Andersen,Andersen,Matthew,D,L,6.00,174.0,2007-11-27,Sarnia Sting,West Division,21,1
 8923,Nathan Omeri,Omeri,Nathan,D,R,5.11,175.0,2006-06-15,Sarnia Sting,West Division,27,0
 9280,Dallys Hibbert,Hibbert,Dallys,D,R,6.02,178.0,2006-06-25,Sarnia Sting,West Division,28,0
+9271,Ryder Simpson,Simpson,Ryder,LW,L,6.03,190.0,2008-05-08,Sarnia Sting,West Division,28,1
 9045,Casey Bridgewater,Bridgewater,Casey,D,L,5.10,175.0,2007-02-07,Sarnia Sting,West Division,43,1
 8919,Lane Sim,Sim,Lane,LW,L,5.08,160.0,2007-05-09,Sarnia Sting,West Division,92,0
 9220,Keegan Gillen,Gillen,Keegan,D,R,5.11,185.0,2007-04-24,Soo Greyhounds,West Division,3,1
