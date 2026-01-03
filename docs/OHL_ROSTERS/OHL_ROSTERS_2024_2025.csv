@@ -179,6 +179,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9351,Kaiden Thatcher,Thatcher,Kaiden,D,R,6.03,205.0,2007-02-08,Peterborough Petes,East Division,25,0
 9189,Arvin Jaswal,Jaswal,Arvin,G,R,6.02,178.0,2008-03-29,Barrie Colts,Central Division,1,1
 9188,Teague Vader,Vader,Teague,D,L,6.00,192.0,2007-08-23,Barrie Colts,Central Division,6,1
+9177,Noah Barton,Barton,Noah,D,R,6.02,184.0,2008-10-16,Barrie Colts,Central Division,7,1
 8446,Grayson Tiller,Tiller,Grayson,D,L,5.10,190.0,2005-02-20,Barrie Colts,Central Division,8,0
 8684,Zach Wigle,Wigle,Zach,C,L,6.00,193.0,2004-01-12,Barrie Colts,Central Division,9,0
 8493,Tristan Bertucci,Bertucci,Tristan,D,L,6.02,187.0,2005-07-12,Barrie Colts,Central Division,12,0
@@ -208,7 +209,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9008,Evan Passmore,Passmore,Evan,D,R,6.05,217.0,2006-12-05,Barrie Colts,Central Division,88,0
 8548,Michael Derbidge,Derbidge,Michael,LW,R,6.01,199.0,2005-04-04,Barrie Colts,Central Division,91,0
 9175,Parker Vaughan,Vaughan,Parker,RW,R,6.01,189.0,2008-03-06,Barrie Colts,Central Division,94,1
-9177,Noah Barton,Barton,Noah,D,R,6.02,184.0,2008-10-16,Barrie Colts,Central Division,7,1
 8633,Tai York,York,Tai,LW,L,6.01,185.0,2004-06-18,Barrie Colts,Central Division,23,0
 9306,Jack Martin,Martin,Jack,RW,R,5.11,170.0,2006-03-16,Barrie Colts,Central Division,74,0
 9134,Noah Erliden,Erliden,Noah,G,L,5.11,183.0,2005-09-09,Erie Otters,Midwest Division,1,0

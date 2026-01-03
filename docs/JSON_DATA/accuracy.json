@@ -1,62 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-03-05",
-            "accuracy": 50.0,
-            "correct_predictions": 2,
-            "total_games": 4,
-            "game_details": [
-                {
-                    "home_team": "Brampton Steelheads",
-                    "away_team": "Oshawa Generals",
-                    "predicted_winner": "Brampton Steelheads",
-                    "actual_winner": "Oshawa Generals",
-                    "home_score": 0,
-                    "away_score": 4,
-                    "odds": {
-                        "Brampton Steelheads": "-125",
-                        "Oshawa Generals": "+101"
-                    }
-                },
-                {
-                    "home_team": "Brantford Bulldogs",
-                    "away_team": "London Knights",
-                    "predicted_winner": "London Knights",
-                    "actual_winner": "London Knights",
-                    "home_score": 0,
-                    "away_score": 5,
-                    "odds": {
-                        "Brantford Bulldogs": "+114",
-                        "London Knights": "-141"
-                    }
-                },
-                {
-                    "home_team": "Flint Firebirds",
-                    "away_team": "Saginaw Spirit",
-                    "predicted_winner": "Saginaw Spirit",
-                    "actual_winner": "Saginaw Spirit",
-                    "home_score": 3,
-                    "away_score": 5,
-                    "odds": {
-                        "Flint Firebirds": "+149",
-                        "Saginaw Spirit": "-187"
-                    }
-                },
-                {
-                    "home_team": "Sudbury Wolves",
-                    "away_team": "Niagara IceDogs",
-                    "predicted_winner": "Niagara IceDogs",
-                    "actual_winner": "Sudbury Wolves",
-                    "home_score": 3,
-                    "away_score": 2,
-                    "odds": {
-                        "Sudbury Wolves": "-109",
-                        "Niagara IceDogs": "-113"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-03-06",
             "accuracy": 50.0,
             "correct_predictions": 2,
@@ -2593,13 +2537,13 @@
             ]
         }
     ],
-    "total_accuracy": 60.6,
-    "tossup_accuracy": 37.5,
-    "non_tossup_accuracy": 62.8,
-    "total_correct": 109,
-    "total_games": 180,
+    "total_accuracy": 60.8,
+    "tossup_accuracy": 40.0,
+    "non_tossup_accuracy": 62.7,
+    "total_correct": 107,
+    "total_games": 176,
     "tossup_correct": 6,
-    "tossup_games": 16,
-    "non_tossup_correct": 103,
-    "non_tossup_games": 164
+    "tossup_games": 15,
+    "non_tossup_correct": 101,
+    "non_tossup_games": 161
 }
