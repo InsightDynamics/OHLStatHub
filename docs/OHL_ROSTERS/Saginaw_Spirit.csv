@@ -1,12 +1,10 @@
 player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team_name,division,jersey_number,rookie
 8547,Will Bishop,Bishop,Will,RD,R,6.06,209.0,2005-03-17,Saginaw Spirit,West Division,4,0
 8774,Josh Glavin,Glavin,Josh,D,L,6.02,205.0,2006-09-24,Saginaw Spirit,West Division,5,0
-9319,Hayden Barch,Barch,Hayden,D,R,6.01,200.0,2007-04-14,Saginaw Spirit,West Division,6,1
 8366,Calem Mangone,Mangone,Calem,LW,R,5.09,165.0,2004-11-04,Saginaw Spirit,West Division,7,0
 9002,Graydon Jones,Jones,Graydon,D,L,5.11,180.0,2007-01-01,Saginaw Spirit,West Division,9,1
 8991,Carson Harmer,Harmer,Carson,C,L,5.10,195.0,2007-01-13,Saginaw Spirit,West Division,13,1
 8770,Joey Willis,Willis,Joey,C,L,5.11,185.0,2005-03-14,Saginaw Spirit,West Division,14,0
-8505,Sebastien Gervais,Gervais,Sebastien,C,L,6.00,200.0,2005-04-11,Saginaw Spirit,West Division,15,0
 8974,Xander Velliaris,Velliaris,Xander,D,L,6.03,210.0,2007-04-23,Saginaw Spirit,West Division,17,1
 8773,Zayne Parekh,Parekh,Zayne,D,R,6.00,185.0,2006-02-15,Saginaw Spirit,West Division,19,0
 8703,Kaeden Johnston,Johnston,Kaeden,RW,R,6.01,175.0,2005-02-03,Saginaw Spirit,West Division,20,0
@@ -28,7 +26,9 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9116,Kristian Epperson,Epperson,Kristian,LW,L,6.00,185.0,2006-05-16,Saginaw Spirit,West Division,86,0
 8399,Nic Sima,Sima,Nic,RW,R,6.03,205.0,2005-03-31,Saginaw Spirit,West Division,92,0
 9349,Declan McNamara,McNamara,Declan,G,L,6.00,175.0,2007-02-19,Saginaw Spirit,West Division,1,1
+9319,Hayden Barch,Barch,Hayden,D,R,6.01,200.0,2007-04-14,Saginaw Spirit,West Division,6,1
 9153,Brody Najim,Najim,Brody,LW,L,5.11,165.0,2008-07-16,Saginaw Spirit,West Division,8,1
 9347,Candon O'Neill,O'Neill,Candon,D,L,6.00,200.0,2007-08-11,Saginaw Spirit,West Division,10,0
+8505,Sebastien Gervais,Gervais,Sebastien,C,L,6.00,200.0,2005-04-11,Saginaw Spirit,West Division,15,0
 8772,Lincoln Moore,Moore,Lincoln,RW,R,6.02,215.0,2005-09-21,Saginaw Spirit,West Division,18,0
 9154,Liam Campbell,Campbell,Liam,LW,L,5.10,170.0,2008-10-22,Saginaw Spirit,West Division,28,1
