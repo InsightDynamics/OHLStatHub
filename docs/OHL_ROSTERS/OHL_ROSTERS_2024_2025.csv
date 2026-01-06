@@ -190,7 +190,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8925,Riley Patterson,Patterson,Riley,C,R,6.00 1/2,194.0,2006-03-22,Barrie Colts,Central Division,21,0
 9335,Ethan Armstrong,Armstrong,Ethan,D,R,6.03,185.0,2007-01-23,Barrie Colts,Central Division,23,1
 8589,Brad Gardiner,Gardiner,Brad,C,R,6.01,191.0,2005-03-06,Barrie Colts,Central Division,25,0
-9098,Cole Dubowsky,Dubowsky,Cole,LW,L,6.00,184.0,2007-06-11,Barrie Colts,Central Division,27,1
+9098,Cole Dubowsky,Dubowsky,Cole,LW,L,6.00,185.0,2007-06-11,Barrie Colts,Central Division,27,1
 9179,Emil Hemming,Hemming,Emil,RW,R,6.01,205.0,2006-06-27,Barrie Colts,Central Division,28,0
 8761,Cole Beaudoin,Beaudoin,Cole,C,L,6.02,211.0,2006-04-24,Barrie Colts,Central Division,29,0
 8841,Sam Hillebrandt,Hillebrandt,Sam,G,R,6.01,170.0,2005-02-21,Barrie Colts,Central Division,30,0
@@ -522,31 +522,31 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9254,Camerin Cardona,Cardona,Camerin,RW,R,5.11,170.0,2006-01-01,Soo Greyhounds,West Division,27,0
 9348,Noah Metivier,Metivier,Noah,G,R,5.11,174.0,2004-01-28,Soo Greyhounds,West Division,31,0
 9292,Nick Marson,Marson,Nick,G,R,5.11,163.0,2007-12-16,Soo Greyhounds,West Division,33,0
-8602,Wyatt Kennedy,Kennedy,Wyatt,D,R,6.05,202.0,2005-05-27,Windsor Spitfires,West Division,2,0
+8602,Wyatt Kennedy,Kennedy,Wyatt,D,R,6.05,204.0,2005-05-27,Windsor Spitfires,West Division,2,0
 8941,Michael Lavigne,Lavigne,Michael,D,L,6.05,213.0,2007-01-17,Windsor Spitfires,West Division,3,0
 8939,Josef Eichler,Eichler,Josef,D,R,6.00,194.0,2005-12-14,Windsor Spitfires,West Division,5,0
 8710,AJ Spellacy,Spellacy,AJ,C,R,6.03,204.0,2006-02-24,Windsor Spitfires,West Division,8,0
 8955,Shawn Costello,Costello,Shawn,C,L,6.02,188.0,2007-01-20,Windsor Spitfires,West Division,10,0
 8711,Noah Morneau,Morneau,Noah,C,L,6.00,182.0,2004-05-07,Windsor Spitfires,West Division,11,0
 8401,Ryan Abraham,Abraham,Ryan,C,L,5.08,168.0,2004-04-05,Windsor Spitfires,West Division,12,0
-9358,Andrew Robinson,Robinson,Andrew,D,L,6.00,185.0,2008-01-08,Windsor Spitfires,West Division,13,1
-9095,Nathan Gaymes,Gaymes,Nathan,RW,R,5.11,177.0,2006-02-03,Windsor Spitfires,West Division,19,0
+9358,Andrew Robinson,Robinson,Andrew,D,L,6.00,191.0,2008-01-08,Windsor Spitfires,West Division,13,1
+9095,Nathan Gaymes,Gaymes,Nathan,RW,R,5.11,170.0,2006-02-03,Windsor Spitfires,West Division,19,0
 9106,Jean-Cristoph Lemieux,Lemieux,Jean-Cristoph,C,L,5.11,176.0,2008-06-19,Windsor Spitfires,West Division,22,1
-8907,Carson Woodall,Woodall,Carson,D,L,5.11,183.0,2006-05-25,Windsor Spitfires,West Division,24,0
+8907,Carson Woodall,Woodall,Carson,D,L,5.11,179.0,2006-05-25,Windsor Spitfires,West Division,24,0
 8898,Alec Stewart,Stewart,Alec,C,L,6.00,186.0,2005-04-02,Windsor Spitfires,West Division,25,0
-8778,Conor Walton,Walton,Conor,D,L,6.05,211.0,2006-04-22,Windsor Spitfires,West Division,28,0
+8778,Conor Walton,Walton,Conor,D,L,6.05,209.0,2006-04-22,Windsor Spitfires,West Division,28,0
 8364,Luke McNamara,McNamara,Luke,C,L,6.03,182.0,2005-03-02,Windsor Spitfires,West Division,29,0
-9248,Michael Newlove,Newlove,Michael,G,L,6.02,171.0,2007-01-14,Windsor Spitfires,West Division,30,1
-8466,Joey Costanzo,Costanzo,Joey,G,L,6.01,174.0,2005-07-26,Windsor Spitfires,West Division,33,0
-9105,Max Brocklehurst,Brocklehurst,Max,RW,L,5.09,171.0,2008-12-30,Windsor Spitfires,West Division,42,0
-8708,Anthony Cristoforo,Cristoforo,Anthony,D,R,6.00,180.0,2006-02-23,Windsor Spitfires,West Division,44,0
+9248,Michael Newlove,Newlove,Michael,G,L,6.02,184.0,2007-01-14,Windsor Spitfires,West Division,30,1
+8466,Joey Costanzo,Costanzo,Joey,G,L,6.01,184.0,2005-07-26,Windsor Spitfires,West Division,33,0
+9105,Max Brocklehurst,Brocklehurst,Max,RW,L,5.09,166.0,2008-12-30,Windsor Spitfires,West Division,42,0
+8708,Anthony Cristoforo,Cristoforo,Anthony,D,R,6.00,190.0,2006-02-23,Windsor Spitfires,West Division,44,0
 9107,Carter Hicks,Hicks,Carter,D,R,6.01,182.0,2008-02-20,Windsor Spitfires,West Division,58,1
-9102,Ethan Belchetz,Belchetz,Ethan,LW,L,6.05,226.0,2008-03-30,Windsor Spitfires,West Division,61,1
+9102,Ethan Belchetz,Belchetz,Ethan,LW,L,6.05,227.0,2008-03-30,Windsor Spitfires,West Division,61,1
 8709,Liam Greentree,Greentree,Liam,LW,L,6.03,216.0,2006-01-01,Windsor Spitfires,West Division,66,0
-8942,Jack Nesbitt,Nesbitt,Jack,C,L,6.04,182.0,2007-01-12,Windsor Spitfires,West Division,71,0
+8942,Jack Nesbitt,Nesbitt,Jack,C,L,6.04,189.0,2007-01-12,Windsor Spitfires,West Division,71,0
 8412,Ethan Martin,Martin,Ethan,LW,L,6.06,222.0,2005-03-25,Windsor Spitfires,West Division,72,0
 8393,Tnias Mathurin,Mathurin,Tnias,D,L,6.03,200.0,2004-01-15,Windsor Spitfires,West Division,74,0
-9108,Ethan Garden,Garden,Ethan,LW,L,5.08,166.0,2008-04-13,Windsor Spitfires,West Division,77,1
+9108,Ethan Garden,Garden,Ethan,LW,L,5.08,169.0,2008-04-13,Windsor Spitfires,West Division,77,1
 8831,Cole Davis,Davis,Cole,LW,L,5.11,188.0,2006-06-22,Windsor Spitfires,West Division,78,0
 8940,Adrian Manzo,Manzo,Adrian,D,R,6.00,183.0,2007-08-28,Windsor Spitfires,West Division,89,0
 8768,Tanner Winegard,Winegard,Tanner,D,R,6.06,226.0,2005-01-11,Windsor Spitfires,West Division,91,0
@@ -593,7 +593,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8783,Jacob Gibbons,Gibbons,Jacob,G,R,6.05,205.0,2006-11-23,Brampton Steelheads,Central Division,38,0
 8825,Chase Lefebvre,Lefebvre,Chase,C,L,6.03,180.0,2004-05-13,Brampton Steelheads,Central Division,71,0
 9187,Martin Vaculik,Vaculik,Martin,RW,R,6.00,174.0,2006-09-20,Brampton Steelheads,Central Division,88,1
-8602,Wyatt Kennedy,Kennedy,Wyatt,D,R,6.05,202.0,2005-05-27,North Bay Battalion,Central Division,2,0
+8602,Wyatt Kennedy,Kennedy,Wyatt,D,R,6.05,204.0,2005-05-27,North Bay Battalion,Central Division,2,0
 8940,Adrian Manzo,Manzo,Adrian,D,R,6.00,183.0,2007-08-28,North Bay Battalion,Central Division,2,0
 9322,Jonathan Kapageridis,Kapageridis,Jonathan,D,L,6.00,176.0,2007-05-08,North Bay Battalion,Central Division,3,1
 9232,Aaron Enright,Enright,Aaron,D,L,6.00,211.0,2007-03-28,North Bay Battalion,Central Division,4,1
@@ -686,7 +686,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8352,James Guo,Guo,James,D,R,6.01,190.0,2005-04-02,Saginaw Spirit,West Division,73,0
 8769,Michael Misa,Misa,Michael,C,L,6.01,185.0,2007-02-16,Saginaw Spirit,West Division,77,0
 9116,Kristian Epperson,Epperson,Kristian,LW,L,6.00,185.0,2006-05-16,Saginaw Spirit,West Division,86,0
-8399,Nic Sima,Sima,Nic,RW,R,6.03,205.0,2005-03-31,Saginaw Spirit,West Division,92,0
 9349,Declan McNamara,McNamara,Declan,G,L,6.00,175.0,2007-02-19,Saginaw Spirit,West Division,1,1
 9319,Hayden Barch,Barch,Hayden,D,R,6.01,200.0,2007-04-14,Saginaw Spirit,West Division,6,1
 9153,Brody Najim,Najim,Brody,LW,L,5.11,165.0,2008-07-16,Saginaw Spirit,West Division,8,1
@@ -694,3 +693,4 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8505,Sebastien Gervais,Gervais,Sebastien,C,L,6.00,200.0,2005-04-11,Saginaw Spirit,West Division,15,0
 8772,Lincoln Moore,Moore,Lincoln,RW,R,6.02,215.0,2005-09-21,Saginaw Spirit,West Division,18,0
 9154,Liam Campbell,Campbell,Liam,LW,L,5.10,170.0,2008-10-22,Saginaw Spirit,West Division,28,1
+8399,Nic Sima,Sima,Nic,RW,R,6.03,205.0,2005-03-31,Saginaw Spirit,West Division,92,0
