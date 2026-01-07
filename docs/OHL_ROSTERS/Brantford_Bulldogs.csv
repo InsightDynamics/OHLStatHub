@@ -12,7 +12,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9150,Patrick Babin,Babin,Patrick,D,R,5.11,188.0,2008-01-30,Brantford Bulldogs,East Division,17,1
 8967,Dylan Tsherna,Tsherna,Dylan,RW,R,6.00,185.0,2007-02-22,Brantford Bulldogs,East Division,18,0
 9151,Nikolas Rossetto,Rossetto,Nikolas,RW,R,5.09,156.0,2008-08-02,Brantford Bulldogs,East Division,19,1
-9366,Luca Diplacido,Diplacido,Luca,D,R,6.01,187.0,2008-09-11,Brantford Bulldogs,East Division,20,0
 9149,Aiden O'Donnell,O'Donnell,Aiden,LW,L,6.01,182.0,2008-01-03,Brantford Bulldogs,East Division,22,1
 8670,Braeden O'Keefe,O'Keefe,Braeden,C,L,5.09,170.0,2005-06-08,Brantford Bulldogs,East Division,23,0
 8377,Thomas Budnick,Budnick,Thomas,D,L,6.01,210.0,2004-02-14,Brantford Bulldogs,East Division,24,0
@@ -21,12 +20,14 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8965,Jake O'Brien,O'Brien,Jake,C,R,6.02,177.0,2007-06-16,Brantford Bulldogs,East Division,44,0
 9152,Parker Holmes,Holmes,Parker,LW,L,6.04,228.0,2007-03-08,Brantford Bulldogs,East Division,53,1
 8752,Marek Vanacker,Vanacker,Marek,LW,L,6.01,188.0,2006-04-12,Brantford Bulldogs,East Division,78,0
+8968,Joshua Avery,Avery,Joshua,C,L,6.01,189.0,2007-01-30,Brantford Bulldogs,East Division,86,1
 8754,David Egorov,Egorov,David,G,R,6.02,195.0,2006-05-18,Brantford Bulldogs,East Division,88,0
 8713,Luca Testa,Testa,Luca,C,L,6.01,190.0,2006-04-10,Brantford Bulldogs,East Division,91,0
 8430,Cole Brown,Brown,Cole,RW,L,6.03,189.0,2005-04-27,Brantford Bulldogs,East Division,92,0
 8641,Patrick Thomas,Thomas,Patrick,C,L,6.00,178.0,2004-08-21,Brantford Bulldogs,East Division,93,0
 9296,Rylan Donovan,Donovan,Rylan,G,L,6.01,190.0,2005-08-30,Brantford Bulldogs,East Division,1,0
 9344,Brock Schaus,Schaus,Brock,G,R,6.00,165.0,2008-03-17,Brantford Bulldogs,East Division,1,0
+9366,Luca Diplacido,Diplacido,Luca,D,R,6.01,187.0,2008-09-11,Brantford Bulldogs,East Division,20,0
 9003,Daniel Chen,Chen,Daniel,D,R,6.05,196.0,2006-08-04,Brantford Bulldogs,East Division,27,0
 9343,Ethan Facchina,Facchina,Ethan,C,L,6.00,185.0,2006-01-12,Brantford Bulldogs,East Division,28,0
 8435,Zakary Lavoie,Lavoie,Zakary,RW,R,5.11,194.0,2004-03-13,Brantford Bulldogs,East Division,29,0
@@ -34,5 +35,4 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9320,Tommy Karmiris,Karmiris,Tommy,LW,R,5.11,191.0,2006-06-15,Brantford Bulldogs,East Division,74,0
 8969,Ben Radley,Radley,Ben,D,L,6.00,182.0,2007-07-29,Brantford Bulldogs,East Division,77,1
 9085,Briir Long,Long,Briir,C,L,5.11,154.0,2007-07-22,Brantford Bulldogs,East Division,84,1
-8968,Joshua Avery,Avery,Joshua,C,L,6.01,189.0,2007-01-30,Brantford Bulldogs,East Division,86,1
 8419,Ben Bujold,Bujold,Ben,C,L,5.11,181.0,2004-03-03,Brantford Bulldogs,East Division,89,0

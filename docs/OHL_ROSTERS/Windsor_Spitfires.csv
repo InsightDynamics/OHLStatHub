@@ -17,7 +17,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8466,Joey Costanzo,Costanzo,Joey,G,L,6.01,184.0,2005-07-26,Windsor Spitfires,West Division,33,0
 9105,Max Brocklehurst,Brocklehurst,Max,RW,L,5.09,166.0,2008-12-30,Windsor Spitfires,West Division,42,0
 8708,Anthony Cristoforo,Cristoforo,Anthony,D,R,6.00,190.0,2006-02-23,Windsor Spitfires,West Division,44,0
-9107,Carter Hicks,Hicks,Carter,D,R,6.01,182.0,2008-02-20,Windsor Spitfires,West Division,58,1
 9102,Ethan Belchetz,Belchetz,Ethan,LW,L,6.05,227.0,2008-03-30,Windsor Spitfires,West Division,61,1
 8709,Liam Greentree,Greentree,Liam,LW,L,6.03,216.0,2006-01-01,Windsor Spitfires,West Division,66,0
 8942,Jack Nesbitt,Nesbitt,Jack,C,L,6.04,189.0,2007-01-12,Windsor Spitfires,West Division,71,0
@@ -31,5 +30,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8411,Jack Greenwell,Greenwell,Jack,RW,R,6.00,176.0,2005-01-05,Windsor Spitfires,West Division,10,0
 9104,Jake Windbiel,Windbiel,Jake,G,L,6.04,223.0,2008-02-11,Windsor Spitfires,West Division,34,0
 9103,Ilya Protas,Protas,Ilya,C,L,6.05,200.0,2006-07-18,Windsor Spitfires,West Division,37,0
+9107,Carter Hicks,Hicks,Carter,D,R,6.01,182.0,2008-02-20,Windsor Spitfires,West Division,58,1
 8938,Carter Froggett,Froggett,Carter,G,L,6.04,215.0,2006-04-07,Windsor Spitfires,West Division,88,0
 8400,Owen Outwater,Outwater,Owen,LW,L,6.02,187.0,2005-01-04,Windsor Spitfires,West Division,93,0
