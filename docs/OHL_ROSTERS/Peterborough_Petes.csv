@@ -6,6 +6,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8897,Grayden Strohack,Strohack,Grayden,D,L,6.04,203.0,2006-06-09,Peterborough Petes,East Division,6,0
 9212,Genc Ula,Ula,Genc,D,L,6.01,205.0,2008-10-26,Peterborough Petes,East Division,7,1
 9022,Liam Ladds,Ladds,Liam,D,R,6.02,175.0,2007-10-28,Peterborough Petes,East Division,8,0
+9214,Blake Gowan,Gowan,Blake,D,L,6.01,185.0,2008-04-29,Peterborough Petes,East Division,9,1
 9226,Adam Levac,Levac,Adam,C,R,6.00,172.0,2008-06-27,Peterborough Petes,East Division,10,1
 9024,Brody Partridge,Partridge,Brody,C,L,5.11,194.0,2006-09-14,Peterborough Petes,East Division,11,0
 8838,Matthew Jenken,Jenken,Matthew,D,R,6.04,202.0,2005-10-12,Peterborough Petes,East Division,12,0
@@ -28,7 +29,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9331,Luka Gelinas,Gelinas,Luka,G,L,6.01,179.0,2008-01-01,Peterborough Petes,East Division,1,1
 8498,Liam Sztuska,Sztuska,Liam,G,L,6.01,182.0,2004-05-01,Peterborough Petes,East Division,1,0
 8825,Chase Lefebvre,Lefebvre,Chase,C,L,6.03,180.0,2004-05-13,Peterborough Petes,East Division,7,0
-9214,Blake Gowan,Gowan,Blake,D,L,6.01,185.0,2008-04-29,Peterborough Petes,East Division,9,1
 9356,Luis Sturgeon,Sturgeon,Luis,D,L,6.03,194.0,2008-12-11,Peterborough Petes,East Division,20,0
 8519,Ryder McIntyre,McIntyre,Ryder,RW,R,6.04,225.0,2004-07-15,Peterborough Petes,East Division,21,0
 9352,Dylan Turcotte,Turcotte,Dylan,LW,L,6.01,164.0,2007-02-06,Peterborough Petes,East Division,21,0
