@@ -313,6 +313,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9311,Jacob Xu,Xu,Jacob,LD,L,6.02,195.0,2008-03-13,Kitchener Rangers,Midwest Division,96,1
 8653,Antonino Pugliese,Pugliese,Antonino,RW,R,5.09,179.0,2004-04-09,Kitchener Rangers,Midwest Division,44,0
 8740,Braedyn Rogers,Rogers,Braedyn,D,R,6.01,185.0,2006-11-22,Owen Sound Attack,Midwest Division,2,0
+9272,Mason Roy,Roy,Mason,D,L,6.01,172.0,2008-07-15,Owen Sound Attack,Midwest Division,3,1
 9190,Elliot Arnett,Arnett,Elliot,D,L,6.02,185.0,2008-03-12,Owen Sound Attack,Midwest Division,4,1
 8553,Konnor Smith,Smith,Konnor,D,L,6.06,217.0,2004-11-06,Owen Sound Attack,Midwest Division,6,0
 8739,Ben Cormier,Cormier,Ben,C,L,6.00,179.0,2006-07-20,Owen Sound Attack,Midwest Division,8,0
@@ -338,7 +339,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8741,Antonio Tersigni,Tersigni,Antonio,LW,L,5.11,172.0,2006-05-03,Owen Sound Attack,Midwest Division,37,0
 8388,Colby Barlow,Barlow,Colby,LW,L,6.01,190.0,2005-02-14,Owen Sound Attack,Midwest Division,39,0
 8934,Tristan Delisle,Delisle,Tristan,C,L,5.11,184.0,2007-05-15,Owen Sound Attack,Midwest Division,40,0
-9272,Mason Roy,Roy,Mason,D,L,6.01,172.0,2008-07-15,Owen Sound Attack,Midwest Division,3,1
 9032,Gabriel Smith,Smith,Gabriel,D,L,6.04,204.0,2007-01-01,Owen Sound Attack,Midwest Division,5,1
 9197,Trent Gates,Gates,Trent,LW,R,5.11,164.0,2007-09-17,Owen Sound Attack,Midwest Division,7,1
 8632,Taos Jordan,Jordan,Taos,D,L,5.11,190.0,2004-03-29,Owen Sound Attack,Midwest Division,24,0
@@ -540,6 +540,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8466,Joey Costanzo,Costanzo,Joey,G,L,6.01,184.0,2005-07-26,Windsor Spitfires,West Division,33,0
 9105,Max Brocklehurst,Brocklehurst,Max,RW,L,5.09,166.0,2008-12-30,Windsor Spitfires,West Division,42,0
 8708,Anthony Cristoforo,Cristoforo,Anthony,D,R,6.00,190.0,2006-02-23,Windsor Spitfires,West Division,44,0
+9107,Carter Hicks,Hicks,Carter,D,R,6.01,182.0,2008-02-20,Windsor Spitfires,West Division,58,1
 9102,Ethan Belchetz,Belchetz,Ethan,LW,L,6.05,227.0,2008-03-30,Windsor Spitfires,West Division,61,1
 8709,Liam Greentree,Greentree,Liam,LW,L,6.03,216.0,2006-01-01,Windsor Spitfires,West Division,66,0
 8942,Jack Nesbitt,Nesbitt,Jack,C,L,6.04,189.0,2007-01-12,Windsor Spitfires,West Division,71,0
@@ -553,11 +554,11 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8411,Jack Greenwell,Greenwell,Jack,RW,R,6.00,176.0,2005-01-05,Windsor Spitfires,West Division,10,0
 9104,Jake Windbiel,Windbiel,Jake,G,L,6.04,223.0,2008-02-11,Windsor Spitfires,West Division,34,0
 9103,Ilya Protas,Protas,Ilya,C,L,6.05,200.0,2006-07-18,Windsor Spitfires,West Division,37,0
-9107,Carter Hicks,Hicks,Carter,D,R,6.01,182.0,2008-02-20,Windsor Spitfires,West Division,58,1
 8938,Carter Froggett,Froggett,Carter,G,L,6.04,215.0,2006-04-07,Windsor Spitfires,West Division,88,0
 8400,Owen Outwater,Outwater,Owen,LW,L,6.02,187.0,2005-01-04,Windsor Spitfires,West Division,93,0
 8636,Stevie Leskovar,Leskovar,Stevie,D,L,6.03,216.0,2004-09-09,Brampton Steelheads,Central Division,4,0
 8954,Jakub Fibigr,Fibigr,Jakub,D,L,6.00,171.0,2006-07-22,Brampton Steelheads,Central Division,5,0
+8733,Parker von Richter,von Richter,Parker,D,R,6.01,195.0,2006-05-17,Brampton Steelheads,Central Division,6,0
 8775,Finn Harding,Harding,Finn,D,R,6.01,206.0,2005-03-02,Brampton Steelheads,Central Division,7,0
 8706,Reed Gee,Gee,Reed,D,L,6.00,185.0,2006-03-12,Brampton Steelheads,Central Division,8,0
 9308,Julian DeMiglio,DeMiglio,Julian,C,L,5.11,180.0,2006-04-22,Brampton Steelheads,Central Division,9,0
@@ -568,6 +569,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8349,Carson Rehkopf,Rehkopf,Carson,RW,L,6.02,202.0,2005-01-07,Brampton Steelheads,Central Division,16,0
 8517,Angus MacDonell,MacDonell,Angus,C,L,5.10,185.0,2005-05-11,Brampton Steelheads,Central Division,17,0
 8737,William Eggleton,Eggleton,William,LW,L,5.11,180.0,2006-02-19,Brampton Steelheads,Central Division,18,0
+8516,Mason Zebeski,Zebeski,Mason,LW,L,6.02,197.0,2005-10-04,Brampton Steelheads,Central Division,19,0
 8953,Gabriel Chiarot,Chiarot,Gabriel,RW,R,5.11,191.0,2006-09-17,Brampton Steelheads,Central Division,20,0
 8346,Spencer Sova,Sova,Spencer,D,L,6.01,190.0,2004-01-10,Brampton Steelheads,Central Division,22,0
 8951,Luke Dragusica,Dragusica,Luke,D,L,6.01,178.0,2007-02-16,Brampton Steelheads,Central Division,23,0
@@ -584,8 +586,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8605,Adam Zidlicky,Zidlicky,Adam,LW,L,6.00,170.0,2005-01-28,Brampton Steelheads,Central Division,91,0
 8743,Porter Martone,Martone,Porter,RW,R,6.03,208.0,2006-10-26,Brampton Steelheads,Central Division,94,0
 9282,Alexander Stephen,Stephen,Alexander,D,L,6.03,195.0,2005-03-22,Brampton Steelheads,Central Division,2,0
-8733,Parker von Richter,von Richter,Parker,D,R,6.01,195.0,2006-05-17,Brampton Steelheads,Central Division,6,0
-8516,Mason Zebeski,Zebeski,Mason,LW,L,6.02,197.0,2005-10-04,Brampton Steelheads,Central Division,19,0
 9082,Wyatt Jinman,Jinman,Wyatt,LW,L,6.02,160.0,2007-10-11,Brampton Steelheads,Central Division,21,0
 9274,Jared Harding,Harding,Jared,D,L,5.08,162.0,2007-12-05,Brampton Steelheads,Central Division,24,1
 9283,Graeme MacAuley,MacAuley,Graeme,D,L,6.00,190.0,2005-11-29,Brampton Steelheads,Central Division,26,0
@@ -665,6 +665,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8774,Josh Glavin,Glavin,Josh,D,L,6.02,205.0,2006-09-24,Saginaw Spirit,West Division,5,0
 9319,Hayden Barch,Barch,Hayden,D,R,6.01,200.0,2007-04-14,Saginaw Spirit,West Division,6,1
 8366,Calem Mangone,Mangone,Calem,LW,R,5.09,165.0,2004-11-04,Saginaw Spirit,West Division,7,0
+9153,Brody Najim,Najim,Brody,LW,L,5.11,165.0,2008-07-16,Saginaw Spirit,West Division,8,1
 9002,Graydon Jones,Jones,Graydon,D,L,5.11,180.0,2007-01-01,Saginaw Spirit,West Division,9,1
 8991,Carson Harmer,Harmer,Carson,C,L,5.10,195.0,2007-01-13,Saginaw Spirit,West Division,13,1
 8770,Joey Willis,Willis,Joey,C,L,5.11,185.0,2005-03-14,Saginaw Spirit,West Division,14,0
@@ -690,7 +691,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9116,Kristian Epperson,Epperson,Kristian,LW,L,6.00,185.0,2006-05-16,Saginaw Spirit,West Division,86,0
 8399,Nic Sima,Sima,Nic,RW,R,6.03,205.0,2005-03-31,Saginaw Spirit,West Division,92,0
 9349,Declan McNamara,McNamara,Declan,G,L,6.00,175.0,2007-02-19,Saginaw Spirit,West Division,1,1
-9153,Brody Najim,Najim,Brody,LW,L,5.11,165.0,2008-07-16,Saginaw Spirit,West Division,8,1
 9347,Candon O'Neill,O'Neill,Candon,D,L,6.00,200.0,2007-08-11,Saginaw Spirit,West Division,10,0
 8772,Lincoln Moore,Moore,Lincoln,RW,R,6.02,215.0,2005-09-21,Saginaw Spirit,West Division,18,0
 9154,Liam Campbell,Campbell,Liam,LW,L,5.10,170.0,2008-10-22,Saginaw Spirit,West Division,28,1
