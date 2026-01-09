@@ -1,74 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-03-09",
-            "accuracy": 60.0,
-            "correct_predictions": 3,
-            "total_games": 5,
-            "game_details": [
-                {
-                    "home_team": "Kitchener Rangers",
-                    "away_team": "Guelph Storm",
-                    "predicted_winner": "Kitchener Rangers",
-                    "actual_winner": "Kitchener Rangers",
-                    "home_score": 4,
-                    "away_score": 3,
-                    "odds": {
-                        "Kitchener Rangers": "-224",
-                        "Guelph Storm": "+177"
-                    }
-                },
-                {
-                    "home_team": "Niagara IceDogs",
-                    "away_team": "Kingston Frontenacs",
-                    "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Kingston Frontenacs",
-                    "home_score": 3,
-                    "away_score": 4,
-                    "odds": {
-                        "Niagara IceDogs": "+149",
-                        "Kingston Frontenacs": "-186"
-                    }
-                },
-                {
-                    "home_team": "North Bay Battalion",
-                    "away_team": "Ottawa 67's",
-                    "predicted_winner": "Ottawa 67's",
-                    "actual_winner": "North Bay Battalion",
-                    "home_score": 5,
-                    "away_score": 2,
-                    "odds": {
-                        "North Bay Battalion": "+113",
-                        "Ottawa 67's": "-140"
-                    }
-                },
-                {
-                    "home_team": "Sarnia Sting",
-                    "away_team": "London Knights",
-                    "predicted_winner": "London Knights",
-                    "actual_winner": "London Knights",
-                    "home_score": 0,
-                    "away_score": 9,
-                    "odds": {
-                        "Sarnia Sting": "+303",
-                        "London Knights": "-411"
-                    }
-                },
-                {
-                    "home_team": "Sudbury Wolves",
-                    "away_team": "Barrie Colts",
-                    "predicted_winner": "Barrie Colts",
-                    "actual_winner": "Sudbury Wolves",
-                    "home_score": 7,
-                    "away_score": 2,
-                    "odds": {
-                        "Sudbury Wolves": "+107",
-                        "Barrie Colts": "-132"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-03-11",
             "accuracy": 75.0,
             "correct_predictions": 3,
@@ -2311,11 +2243,11 @@
     ],
     "total_accuracy": 61.0,
     "tossup_accuracy": 35.7,
-    "non_tossup_accuracy": 63.4,
-    "total_correct": 97,
-    "total_games": 159,
+    "non_tossup_accuracy": 63.6,
+    "total_correct": 94,
+    "total_games": 154,
     "tossup_correct": 5,
     "tossup_games": 14,
-    "non_tossup_correct": 92,
-    "non_tossup_games": 145
+    "non_tossup_correct": 89,
+    "non_tossup_games": 140
 }
