@@ -1,62 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-03-11",
-            "accuracy": 75.0,
-            "correct_predictions": 3,
-            "total_games": 4,
-            "game_details": [
-                {
-                    "home_team": "Brampton Steelheads",
-                    "away_team": "Sudbury Wolves",
-                    "predicted_winner": "Brampton Steelheads",
-                    "actual_winner": "Sudbury Wolves",
-                    "home_score": 6,
-                    "away_score": 8,
-                    "odds": {
-                        "Brampton Steelheads": "-163",
-                        "Sudbury Wolves": "+131"
-                    }
-                },
-                {
-                    "home_team": "London Knights",
-                    "away_team": "Guelph Storm",
-                    "predicted_winner": "London Knights",
-                    "actual_winner": "London Knights",
-                    "home_score": 7,
-                    "away_score": 3,
-                    "odds": {
-                        "London Knights": "-349",
-                        "Guelph Storm": "+263"
-                    }
-                },
-                {
-                    "home_team": "Niagara IceDogs",
-                    "away_team": "Barrie Colts",
-                    "predicted_winner": "Barrie Colts",
-                    "actual_winner": "Barrie Colts",
-                    "home_score": 4,
-                    "away_score": 7,
-                    "odds": {
-                        "Niagara IceDogs": "+105",
-                        "Barrie Colts": "-130"
-                    }
-                },
-                {
-                    "home_team": "Windsor Spitfires",
-                    "away_team": "Erie Otters",
-                    "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Windsor Spitfires",
-                    "home_score": 7,
-                    "away_score": 5,
-                    "odds": {
-                        "Windsor Spitfires": "-188",
-                        "Erie Otters": "+150"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-03-12",
             "accuracy": 80.0,
             "correct_predictions": 4,
@@ -2241,13 +2185,13 @@
             ]
         }
     ],
-    "total_accuracy": 61.0,
+    "total_accuracy": 60.7,
     "tossup_accuracy": 35.7,
-    "non_tossup_accuracy": 63.6,
-    "total_correct": 94,
-    "total_games": 154,
+    "non_tossup_accuracy": 63.2,
+    "total_correct": 91,
+    "total_games": 150,
     "tossup_correct": 5,
     "tossup_games": 14,
-    "non_tossup_correct": 89,
-    "non_tossup_games": 140
+    "non_tossup_correct": 86,
+    "non_tossup_games": 136
 }

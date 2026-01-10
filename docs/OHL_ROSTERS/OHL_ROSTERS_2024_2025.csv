@@ -295,7 +295,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9276,Jack Pridham,Pridham,Jack,RW,R,6.02,185.0,2005-10-08,Kitchener Rangers,Midwest Division,24,0
 9081,Max Dirracolo,Dirracolo,Max,LD,L,6.04,216.0,2006-06-29,Kitchener Rangers,Midwest Division,25,0
 8758,Andrew Vermeulen,Vermeulen,Andrew,C,L,6.02,200.0,2006-02-07,Kitchener Rangers,Midwest Division,27,0
-8944,Matheas Stark,Stark,Matheas,LW,L,6.00,161.0,2007-01-14,Kitchener Rangers,Midwest Division,28,0
 9053,Owen Edwards,Edwards,Owen,G,R,6.03,170.0,2007-01-02,Kitchener Rangers,Midwest Division,31,1
 8464,Jackson Parsons,Parsons,Jackson,G,L,6.02,202.0,2004-11-23,Kitchener Rangers,Midwest Division,32,0
 8945,Tanner Lam,Lam,Tanner,RW,R,5.10,160.0,2007-07-14,Kitchener Rangers,Midwest Division,37,0
@@ -311,6 +310,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9162,Alexander Bilecki,Bilecki,Alexander,LD,L,6.02,180.0,2008-05-09,Kitchener Rangers,Midwest Division,89,1
 9165,Jack LaBrash,LaBrash,Jack,LW,L,6.05,196.0,2007-03-04,Kitchener Rangers,Midwest Division,93,1
 9311,Jacob Xu,Xu,Jacob,LD,L,6.02,195.0,2008-03-13,Kitchener Rangers,Midwest Division,96,1
+8944,Matheas Stark,Stark,Matheas,LW,L,6.00,161.0,2007-01-14,Kitchener Rangers,Midwest Division,28,0
 8653,Antonino Pugliese,Pugliese,Antonino,RW,R,5.09,179.0,2004-04-09,Kitchener Rangers,Midwest Division,44,0
 8740,Braedyn Rogers,Rogers,Braedyn,D,R,6.01,185.0,2006-11-22,Owen Sound Attack,Midwest Division,2,0
 9272,Mason Roy,Roy,Mason,D,L,6.01,172.0,2008-07-15,Owen Sound Attack,Midwest Division,3,1
