@@ -1,74 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-03-12",
-            "accuracy": 80.0,
-            "correct_predictions": 4,
-            "total_games": 5,
-            "game_details": [
-                {
-                    "home_team": "Guelph Storm",
-                    "away_team": "London Knights",
-                    "predicted_winner": "London Knights",
-                    "actual_winner": "London Knights",
-                    "home_score": 3,
-                    "away_score": 6,
-                    "odds": {
-                        "Guelph Storm": "+262",
-                        "London Knights": "-348"
-                    }
-                },
-                {
-                    "home_team": "Kingston Frontenacs",
-                    "away_team": "Ottawa 67's",
-                    "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Kingston Frontenacs",
-                    "home_score": 7,
-                    "away_score": 1,
-                    "odds": {
-                        "Kingston Frontenacs": "-330",
-                        "Ottawa 67's": "+251"
-                    }
-                },
-                {
-                    "home_team": "Owen Sound Attack",
-                    "away_team": "Flint Firebirds",
-                    "predicted_winner": "Flint Firebirds",
-                    "actual_winner": "Owen Sound Attack",
-                    "home_score": 6,
-                    "away_score": 3,
-                    "odds": {
-                        "Owen Sound Attack": "+157",
-                        "Flint Firebirds": "-197"
-                    }
-                },
-                {
-                    "home_team": "Peterborough Petes",
-                    "away_team": "Brampton Steelheads",
-                    "predicted_winner": "Brampton Steelheads",
-                    "actual_winner": "Brampton Steelheads",
-                    "home_score": 3,
-                    "away_score": 6,
-                    "odds": {
-                        "Peterborough Petes": "+432",
-                        "Brampton Steelheads": "-639"
-                    }
-                },
-                {
-                    "home_team": "Sarnia Sting",
-                    "away_team": "Erie Otters",
-                    "predicted_winner": "Erie Otters",
-                    "actual_winner": "Erie Otters",
-                    "home_score": 5,
-                    "away_score": 6,
-                    "odds": {
-                        "Sarnia Sting": "+169",
-                        "Erie Otters": "-213"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-03-13",
             "accuracy": 100.0,
             "correct_predictions": 2,
@@ -2185,13 +2117,13 @@
             ]
         }
     ],
-    "total_accuracy": 60.7,
+    "total_accuracy": 60.0,
     "tossup_accuracy": 35.7,
-    "non_tossup_accuracy": 63.2,
-    "total_correct": 91,
-    "total_games": 150,
+    "non_tossup_accuracy": 62.6,
+    "total_correct": 87,
+    "total_games": 145,
     "tossup_correct": 5,
     "tossup_games": 14,
-    "non_tossup_correct": 86,
-    "non_tossup_games": 136
+    "non_tossup_correct": 82,
+    "non_tossup_games": 131
 }
