@@ -1,38 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-03-13",
-            "accuracy": 100.0,
-            "correct_predictions": 2,
-            "total_games": 2,
-            "game_details": [
-                {
-                    "home_team": "North Bay Battalion",
-                    "away_team": "Brantford Bulldogs",
-                    "predicted_winner": "Brantford Bulldogs",
-                    "actual_winner": "Brantford Bulldogs",
-                    "home_score": 1,
-                    "away_score": 2,
-                    "odds": {
-                        "North Bay Battalion": "+292",
-                        "Brantford Bulldogs": "-394"
-                    }
-                },
-                {
-                    "home_team": "Windsor Spitfires",
-                    "away_team": "Soo Greyhounds",
-                    "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Windsor Spitfires",
-                    "home_score": 6,
-                    "away_score": 3,
-                    "odds": {
-                        "Windsor Spitfires": "-247",
-                        "Soo Greyhounds": "+193"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-03-14",
             "accuracy": 75.0,
             "correct_predictions": 6,
@@ -2117,13 +2085,13 @@
             ]
         }
     ],
-    "total_accuracy": 60.0,
+    "total_accuracy": 59.4,
     "tossup_accuracy": 35.7,
-    "non_tossup_accuracy": 62.6,
-    "total_correct": 87,
-    "total_games": 145,
+    "non_tossup_accuracy": 62.0,
+    "total_correct": 85,
+    "total_games": 143,
     "tossup_correct": 5,
     "tossup_games": 14,
-    "non_tossup_correct": 82,
-    "non_tossup_games": 131
+    "non_tossup_correct": 80,
+    "non_tossup_games": 129
 }

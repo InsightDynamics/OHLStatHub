@@ -1,31 +1,5 @@
 [
     {
-        "date": "2025-03-13",
-        "home_team": "North Bay Battalion",
-        "away_team": "Brantford Bulldogs",
-        "predicted_winner": "Brantford Bulldogs",
-        "actual_winner": "Brantford Bulldogs",
-        "home_score": 1,
-        "away_score": 2,
-        "odds": {
-            "North Bay Battalion": "+292",
-            "Brantford Bulldogs": "-394"
-        }
-    },
-    {
-        "date": "2025-03-13",
-        "home_team": "Windsor Spitfires",
-        "away_team": "Soo Greyhounds",
-        "predicted_winner": "Windsor Spitfires",
-        "actual_winner": "Windsor Spitfires",
-        "home_score": 6,
-        "away_score": 3,
-        "odds": {
-            "Windsor Spitfires": "-247",
-            "Soo Greyhounds": "+193"
-        }
-    },
-    {
         "date": "2025-03-14",
         "home_team": "Brampton Steelheads",
         "away_team": "Barrie Colts",
