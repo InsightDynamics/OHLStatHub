@@ -84,7 +84,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8936,Jonathon Pylypuik,Pylypuik,Jonathon,LW,L,6.00,160.0,2006-03-25,Oshawa Generals,East Division,18,0
 8543,Luca Marrelli,Marrelli,Luca,D,R,6.02,185.0,2005-10-04,Oshawa Generals,East Division,19,0
 8413,Calum Ritchie,Ritchie,Calum,C,R,6.03,190.0,2005-01-21,Oshawa Generals,East Division,21,0
-9096,Tyler O'Toole,O'Toole,Tyler,RW,R,6.01,200.0,2006-07-28,Oshawa Generals,East Division,23,0
 9128,David Svozil,Svozil,David,D,L,6.02,177.0,2006-03-07,Oshawa Generals,East Division,29,0
 8937,Hayden Sabourin,Sabourin,Hayden,G,L,5.11,183.0,2005-05-27,Oshawa Generals,East Division,30,0
 8955,Shawn Costello,Costello,Shawn,C,L,6.02,188.0,2007-01-20,Oshawa Generals,East Division,32,1
@@ -92,18 +91,19 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8388,Colby Barlow,Barlow,Colby,LW,L,6.01,190.0,2005-02-14,Oshawa Generals,East Division,39,0
 8934,Tristan Delisle,Delisle,Tristan,C,L,5.11,184.0,2007-05-15,Oshawa Generals,East Division,40,0
 9129,Lauri Sinivuori,Sinivuori,Lauri,C,L,6.01,180.0,2006-04-28,Oshawa Generals,East Division,42,0
-8724,Beckett Sennecke,Sennecke,Beckett,RW,R,6.04,195.0,2006-01-28,Oshawa Generals,East Division,45,0
 8563,Zackary Sandhu,Sandhu,Zackary,D,L,6.02,206.0,2005-12-20,Oshawa Generals,East Division,72,0
 8725,Ben Danford,Danford,Ben,D,R,6.02,200.0,2006-02-06,Oshawa Generals,East Division,77,0
 8935,Isaac Gravelle,Gravelle,Isaac,G,L,6.00,174.0,2007-01-18,Oshawa Generals,East Division,90,1
 8570,Andrew Gibson,Gibson,Andrew,D,R,6.04,210.0,2005-02-13,Oshawa Generals,East Division,92,0
 8932,Owen Griffin,Griffin,Owen,C,R,5.11,170.0,2007-04-08,Oshawa Generals,East Division,96,0
 9039,Fraser McDonell,McDonell,Fraser,D,L,6.06,220.0,2006-03-02,Oshawa Generals,East Division,6,0
+9096,Tyler O'Toole,O'Toole,Tyler,RW,R,6.01,200.0,2006-07-28,Oshawa Generals,East Division,23,0
 8470,Dylan Roobroeck,Roobroeck,Dylan,C,L,6.07,205.0,2004-07-27,Oshawa Generals,East Division,25,0
 8728,Lucas Rodriguez,Rodriguez,Lucas,D,R,6.02,192.0,2006-04-26,Oshawa Generals,East Division,26,0
 8727,Tyler Graham,Graham,Tyler,LW,L,5.10,192.0,2006-08-10,Oshawa Generals,East Division,28,0
 9026,Noah Bender,Bender,Noah,G,R,6.04,195.0,2006-06-30,Oshawa Generals,East Division,36,0
 9034,Caeden Heins,Heins,Caeden,LW,L,6.00,182.0,2006-02-06,Oshawa Generals,East Division,44,0
+8724,Beckett Sennecke,Sennecke,Beckett,RW,R,6.04,195.0,2006-01-28,Oshawa Generals,East Division,45,0
 8794,Ethan Toms,Toms,Ethan,C,L,5.11,186.0,2006-01-19,Oshawa Generals,East Division,61,0
 9019,Josh Brady,Brady,Josh,D,R,6.01,185.0,2006-01-11,Ottawa 67's,East Division,3,0
 8975,Kaleb Dietsch,Dietsch,Kaleb,D,L,6.03,208.0,2007-01-03,Ottawa 67's,East Division,4,1
@@ -505,7 +505,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9299,Chase Reid,Reid,Chase,D,R,6.02,187.0,2007-12-30,Soo Greyhounds,West Division,25,1
 8577,Marco Mignosa,Mignosa,Marco,RW,R,5.11,170.0,2005-04-13,Soo Greyhounds,West Division,26,0
 9279,Jordan Charron,Charron,Jordan,RW,R,6.02,198.0,2007-06-21,Soo Greyhounds,West Division,27,1
-9219,Reid Thomas,Thomas,Reid,G,R,6.02,191.0,2007-06-07,Soo Greyhounds,West Division,30,1
 8558,Charlie Schenkel,Schenkel,Charlie,G,R,6.05.,203.0,2004-08-16,Soo Greyhounds,West Division,31,0
 8809,Landon Miller,Miller,Landon,G,R,6.04,214.0,2006-01-03,Soo Greyhounds,West Division,36,0
 9265,Noel Nordh,Nordh,Noel,LW,L,6.02,198.0,2005-01-25,Soo Greyhounds,West Division,43,0
@@ -519,6 +518,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9224,Sam Bowness,Bowness,Sam,LW,L,6.01.25,194.0,2005-04-29,Soo Greyhounds,West Division,21,0
 9223,Erik Muxlow,Muxlow,Erik,LW,L,5.10,192.0,2007-03-21,Soo Greyhounds,West Division,22,1
 9254,Camerin Cardona,Cardona,Camerin,RW,R,5.11,170.0,2006-01-01,Soo Greyhounds,West Division,27,0
+9219,Reid Thomas,Thomas,Reid,G,R,6.02,191.0,2007-06-07,Soo Greyhounds,West Division,30,1
 9348,Noah Metivier,Metivier,Noah,G,R,5.11,174.0,2004-01-28,Soo Greyhounds,West Division,31,0
 9340,Noah Tegelaar,Tegelaar,Noah,G,L,6.05,172.0,2006-10-15,Soo Greyhounds,West Division,31,0
 9292,Nick Marson,Marson,Nick,G,R,5.11,163.0,2007-12-16,Soo Greyhounds,West Division,33,0
