@@ -1,86 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-03-15",
-            "accuracy": 50.0,
-            "correct_predictions": 3,
-            "total_games": 6,
-            "game_details": [
-                {
-                    "home_team": "Erie Otters",
-                    "away_team": "Niagara IceDogs",
-                    "predicted_winner": "Erie Otters",
-                    "actual_winner": "Niagara IceDogs",
-                    "home_score": 2,
-                    "away_score": 5,
-                    "odds": {
-                        "Erie Otters": "-119",
-                        "Niagara IceDogs": "-104"
-                    }
-                },
-                {
-                    "home_team": "Flint Firebirds",
-                    "away_team": "Soo Greyhounds",
-                    "predicted_winner": "Flint Firebirds",
-                    "actual_winner": "Soo Greyhounds",
-                    "home_score": 3,
-                    "away_score": 6,
-                    "odds": {
-                        "Flint Firebirds": "-136",
-                        "Soo Greyhounds": "+110"
-                    }
-                },
-                {
-                    "home_team": "Owen Sound Attack",
-                    "away_team": "Kitchener Rangers",
-                    "predicted_winner": "Kitchener Rangers",
-                    "actual_winner": "Kitchener Rangers",
-                    "home_score": 2,
-                    "away_score": 3,
-                    "odds": {
-                        "Owen Sound Attack": "+197",
-                        "Kitchener Rangers": "-252"
-                    }
-                },
-                {
-                    "home_team": "Peterborough Petes",
-                    "away_team": "Sudbury Wolves",
-                    "predicted_winner": "Sudbury Wolves",
-                    "actual_winner": "Sudbury Wolves",
-                    "home_score": 1,
-                    "away_score": 2,
-                    "odds": {
-                        "Peterborough Petes": "+327",
-                        "Sudbury Wolves": "-451"
-                    }
-                },
-                {
-                    "home_team": "Saginaw Spirit",
-                    "away_team": "Windsor Spitfires",
-                    "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Saginaw Spirit",
-                    "home_score": 6,
-                    "away_score": 5,
-                    "odds": {
-                        "Saginaw Spirit": "-101",
-                        "Windsor Spitfires": "-122"
-                    }
-                },
-                {
-                    "home_team": "Barrie Colts",
-                    "away_team": "Sarnia Sting",
-                    "predicted_winner": "Barrie Colts",
-                    "actual_winner": "Barrie Colts",
-                    "home_score": 4,
-                    "away_score": 3,
-                    "odds": {
-                        "Barrie Colts": "-239",
-                        "Sarnia Sting": "+188"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-03-16",
             "accuracy": 83.3,
             "correct_predictions": 5,
@@ -1981,13 +1901,13 @@
             ]
         }
     ],
-    "total_accuracy": 58.5,
-    "tossup_accuracy": 35.7,
-    "non_tossup_accuracy": 61.2,
-    "total_correct": 79,
-    "total_games": 135,
+    "total_accuracy": 58.9,
+    "tossup_accuracy": 41.7,
+    "non_tossup_accuracy": 60.7,
+    "total_correct": 76,
+    "total_games": 129,
     "tossup_correct": 5,
-    "tossup_games": 14,
-    "non_tossup_correct": 74,
-    "non_tossup_games": 121
+    "tossup_games": 12,
+    "non_tossup_correct": 71,
+    "non_tossup_games": 117
 }
