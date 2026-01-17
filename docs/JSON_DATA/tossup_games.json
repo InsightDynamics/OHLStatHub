@@ -1,5 +1,31 @@
 [
     {
+        "date": "2025-03-15",
+        "home_team": "Erie Otters",
+        "away_team": "Niagara IceDogs",
+        "predicted_winner": "Erie Otters",
+        "actual_winner": "Niagara IceDogs",
+        "home_score": 2,
+        "away_score": 5,
+        "odds": {
+            "Erie Otters": "-119",
+            "Niagara IceDogs": "-104"
+        }
+    },
+    {
+        "date": "2025-03-15",
+        "home_team": "Saginaw Spirit",
+        "away_team": "Windsor Spitfires",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Saginaw Spirit",
+        "home_score": 6,
+        "away_score": 5,
+        "odds": {
+            "Saginaw Spirit": "-101",
+            "Windsor Spitfires": "-122"
+        }
+    },
+    {
         "date": "2025-03-16",
         "home_team": "Windsor Spitfires",
         "away_team": "London Knights",
