@@ -1,86 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-03-16",
-            "accuracy": 83.3,
-            "correct_predictions": 5,
-            "total_games": 6,
-            "game_details": [
-                {
-                    "home_team": "Niagara IceDogs",
-                    "away_team": "Brampton Steelheads",
-                    "predicted_winner": "Brampton Steelheads",
-                    "actual_winner": "Brampton Steelheads",
-                    "home_score": 2,
-                    "away_score": 6,
-                    "odds": {
-                        "Niagara IceDogs": "+136",
-                        "Brampton Steelheads": "-169"
-                    }
-                },
-                {
-                    "home_team": "North Bay Battalion",
-                    "away_team": "Barrie Colts",
-                    "predicted_winner": "Barrie Colts",
-                    "actual_winner": "Barrie Colts",
-                    "home_score": 4,
-                    "away_score": 5,
-                    "odds": {
-                        "North Bay Battalion": "+230",
-                        "Barrie Colts": "-299"
-                    }
-                },
-                {
-                    "home_team": "Ottawa 67's",
-                    "away_team": "Kingston Frontenacs",
-                    "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Kingston Frontenacs",
-                    "home_score": 2,
-                    "away_score": 3,
-                    "odds": {
-                        "Ottawa 67's": "+261",
-                        "Kingston Frontenacs": "-346"
-                    }
-                },
-                {
-                    "home_team": "Erie Otters",
-                    "away_team": "Guelph Storm",
-                    "predicted_winner": "Erie Otters",
-                    "actual_winner": "Erie Otters",
-                    "home_score": 6,
-                    "away_score": 4,
-                    "odds": {
-                        "Erie Otters": "-185",
-                        "Guelph Storm": "+148"
-                    }
-                },
-                {
-                    "home_team": "Windsor Spitfires",
-                    "away_team": "London Knights",
-                    "predicted_winner": "London Knights",
-                    "actual_winner": "Windsor Spitfires",
-                    "home_score": 8,
-                    "away_score": 5,
-                    "odds": {
-                        "Windsor Spitfires": "-101",
-                        "London Knights": "-123"
-                    }
-                },
-                {
-                    "home_team": "Oshawa Generals",
-                    "away_team": "Sudbury Wolves",
-                    "predicted_winner": "Oshawa Generals",
-                    "actual_winner": "Oshawa Generals",
-                    "home_score": 3,
-                    "away_score": 2,
-                    "odds": {
-                        "Oshawa Generals": "-133",
-                        "Sudbury Wolves": "+108"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-03-18",
             "accuracy": 50.0,
             "correct_predictions": 1,
@@ -1901,13 +1821,13 @@
             ]
         }
     ],
-    "total_accuracy": 58.9,
-    "tossup_accuracy": 41.7,
-    "non_tossup_accuracy": 60.7,
-    "total_correct": 76,
-    "total_games": 129,
+    "total_accuracy": 57.7,
+    "tossup_accuracy": 45.5,
+    "non_tossup_accuracy": 58.9,
+    "total_correct": 71,
+    "total_games": 123,
     "tossup_correct": 5,
-    "tossup_games": 12,
-    "non_tossup_correct": 71,
-    "non_tossup_games": 117
+    "tossup_games": 11,
+    "non_tossup_correct": 66,
+    "non_tossup_games": 112
 }
