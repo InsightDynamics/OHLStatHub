@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-03-19",
-        "home_team": "Brantford Bulldogs",
-        "away_team": "Brampton Steelheads",
-        "predicted_winner": "Brantford Bulldogs",
-        "actual_winner": "Brampton Steelheads",
-        "home_score": 2,
-        "away_score": 7,
-        "odds": {
-            "Brantford Bulldogs": "-113",
-            "Brampton Steelheads": "-110"
-        }
-    },
-    {
         "date": "2025-03-21",
         "home_team": "Kingston Frontenacs",
         "away_team": "Brantford Bulldogs",
