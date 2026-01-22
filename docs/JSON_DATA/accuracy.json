@@ -1,86 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-03-20",
-            "accuracy": 33.3,
-            "correct_predictions": 2,
-            "total_games": 6,
-            "game_details": [
-                {
-                    "home_team": "Guelph Storm",
-                    "away_team": "Erie Otters",
-                    "predicted_winner": "Erie Otters",
-                    "actual_winner": "Guelph Storm",
-                    "home_score": 6,
-                    "away_score": 4,
-                    "odds": {
-                        "Guelph Storm": "+151",
-                        "Erie Otters": "-189"
-                    }
-                },
-                {
-                    "home_team": "Barrie Colts",
-                    "away_team": "Owen Sound Attack",
-                    "predicted_winner": "Barrie Colts",
-                    "actual_winner": "Owen Sound Attack",
-                    "home_score": 1,
-                    "away_score": 3,
-                    "odds": {
-                        "Barrie Colts": "-218",
-                        "Owen Sound Attack": "+172"
-                    }
-                },
-                {
-                    "home_team": "Niagara IceDogs",
-                    "away_team": "Ottawa 67's",
-                    "predicted_winner": "Niagara IceDogs",
-                    "actual_winner": "Ottawa 67's",
-                    "home_score": 1,
-                    "away_score": 2,
-                    "odds": {
-                        "Niagara IceDogs": "-187",
-                        "Ottawa 67's": "+149"
-                    }
-                },
-                {
-                    "home_team": "North Bay Battalion",
-                    "away_team": "Oshawa Generals",
-                    "predicted_winner": "Oshawa Generals",
-                    "actual_winner": "North Bay Battalion",
-                    "home_score": 5,
-                    "away_score": 1,
-                    "odds": {
-                        "North Bay Battalion": "+267",
-                        "Oshawa Generals": "-355"
-                    }
-                },
-                {
-                    "home_team": "Peterborough Petes",
-                    "away_team": "Kingston Frontenacs",
-                    "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Kingston Frontenacs",
-                    "home_score": 2,
-                    "away_score": 6,
-                    "odds": {
-                        "Peterborough Petes": "+525",
-                        "Kingston Frontenacs": "-831"
-                    }
-                },
-                {
-                    "home_team": "Windsor Spitfires",
-                    "away_team": "Sarnia Sting",
-                    "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Windsor Spitfires",
-                    "home_score": 5,
-                    "away_score": 0,
-                    "odds": {
-                        "Windsor Spitfires": "-367",
-                        "Sarnia Sting": "+275"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-03-21",
             "accuracy": 50.0,
             "correct_predictions": 4,
@@ -1757,13 +1677,13 @@
             ]
         }
     ],
-    "total_accuracy": 58.8,
+    "total_accuracy": 60.2,
     "tossup_accuracy": 50.0,
-    "non_tossup_accuracy": 59.6,
-    "total_correct": 70,
-    "total_games": 119,
+    "non_tossup_accuracy": 61.2,
+    "total_correct": 68,
+    "total_games": 113,
     "tossup_correct": 5,
     "tossup_games": 10,
-    "non_tossup_correct": 65,
-    "non_tossup_games": 109
+    "non_tossup_correct": 63,
+    "non_tossup_games": 103
 }
