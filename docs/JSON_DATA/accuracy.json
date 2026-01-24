@@ -1,62 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-03-22",
-            "accuracy": 25.0,
-            "correct_predictions": 1,
-            "total_games": 4,
-            "game_details": [
-                {
-                    "home_team": "Erie Otters",
-                    "away_team": "Ottawa 67's",
-                    "predicted_winner": "Erie Otters",
-                    "actual_winner": "Ottawa 67's",
-                    "home_score": 1,
-                    "away_score": 7,
-                    "odds": {
-                        "Erie Otters": "-204",
-                        "Ottawa 67's": "+162"
-                    }
-                },
-                {
-                    "home_team": "Flint Firebirds",
-                    "away_team": "Saginaw Spirit",
-                    "predicted_winner": "Saginaw Spirit",
-                    "actual_winner": "Flint Firebirds",
-                    "home_score": 6,
-                    "away_score": 3,
-                    "odds": {
-                        "Flint Firebirds": "+154",
-                        "Saginaw Spirit": "-193"
-                    }
-                },
-                {
-                    "home_team": "Owen Sound Attack",
-                    "away_team": "Guelph Storm",
-                    "predicted_winner": "Guelph Storm",
-                    "actual_winner": "Owen Sound Attack",
-                    "home_score": 4,
-                    "away_score": 2,
-                    "odds": {
-                        "Owen Sound Attack": "-106",
-                        "Guelph Storm": "-117"
-                    }
-                },
-                {
-                    "home_team": "Barrie Colts",
-                    "away_team": "Niagara IceDogs",
-                    "predicted_winner": "Barrie Colts",
-                    "actual_winner": "Barrie Colts",
-                    "home_score": 8,
-                    "away_score": 1,
-                    "odds": {
-                        "Barrie Colts": "-137",
-                        "Niagara IceDogs": "+111"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-03-23",
             "accuracy": 50.0,
             "correct_predictions": 4,
@@ -1573,13 +1517,13 @@
             ]
         }
     ],
-    "total_accuracy": 61.0,
-    "tossup_accuracy": 55.6,
-    "non_tossup_accuracy": 61.5,
-    "total_correct": 64,
-    "total_games": 105,
+    "total_accuracy": 62.4,
+    "tossup_accuracy": 62.5,
+    "non_tossup_accuracy": 62.4,
+    "total_correct": 63,
+    "total_games": 101,
     "tossup_correct": 5,
-    "tossup_games": 9,
-    "non_tossup_correct": 59,
-    "non_tossup_games": 96
+    "tossup_games": 8,
+    "non_tossup_correct": 58,
+    "non_tossup_games": 93
 }

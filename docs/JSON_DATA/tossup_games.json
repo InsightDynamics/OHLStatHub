@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-03-22",
-        "home_team": "Owen Sound Attack",
-        "away_team": "Guelph Storm",
-        "predicted_winner": "Guelph Storm",
-        "actual_winner": "Owen Sound Attack",
-        "home_score": 4,
-        "away_score": 2,
-        "odds": {
-            "Owen Sound Attack": "-106",
-            "Guelph Storm": "-117"
-        }
-    },
-    {
         "date": "2025-04-25",
         "home_team": "Barrie Colts",
         "away_team": "Oshawa Generals",

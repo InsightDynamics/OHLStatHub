@@ -1,8 +1,4 @@
 Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
-2025-03-22,7:00 pm,Erie Otters,1,Ottawa 67's,7,27981
-2025-03-22,7:00 pm,Flint Firebirds,6,Saginaw Spirit,3,27982
-2025-03-22,7:00 pm,Owen Sound Attack,4,Guelph Storm,2,27983
-2025-03-22,7:30 pm,Barrie Colts,8,Niagara IceDogs,1,27980
 2025-03-23,2:00 pm,Brampton Steelheads,4,Kingston Frontenacs,1,27984
 2025-03-23,2:00 pm,Brantford Bulldogs,7,Ottawa 67's,2,27985
 2025-03-23,2:00 pm,North Bay Battalion,4,Sudbury Wolves,0,27988
@@ -581,7 +577,7 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2026-01-23,7:05 pm,Sudbury Wolves,4,Brantford Bulldogs,5,28593
 2026-01-23,7:05 pm,Windsor Spitfires,2,Flint Firebirds,4,28594
 2026-01-23,7:07 pm,Guelph Storm,4,Erie Otters,3,28589
-2026-01-24,3:00 pm,Ottawa 67's,0,Oshawa Generals,0,28598
+2026-01-24,3:00 pm,Ottawa 67's,4,Oshawa Generals,3,28598
 2026-01-24,7:00 pm,Erie Otters,0,Kitchener Rangers,0,28596
 2026-01-24,7:00 pm,Flint Firebirds,0,Windsor Spitfires,0,28597
 2026-01-24,7:00 pm,Owen Sound Attack,0,Niagara IceDogs,0,28599

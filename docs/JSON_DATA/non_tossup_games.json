@@ -1,44 +1,5 @@
 [
     {
-        "date": "2025-03-22",
-        "home_team": "Erie Otters",
-        "away_team": "Ottawa 67's",
-        "predicted_winner": "Erie Otters",
-        "actual_winner": "Ottawa 67's",
-        "home_score": 1,
-        "away_score": 7,
-        "odds": {
-            "Erie Otters": "-204",
-            "Ottawa 67's": "+162"
-        }
-    },
-    {
-        "date": "2025-03-22",
-        "home_team": "Flint Firebirds",
-        "away_team": "Saginaw Spirit",
-        "predicted_winner": "Saginaw Spirit",
-        "actual_winner": "Flint Firebirds",
-        "home_score": 6,
-        "away_score": 3,
-        "odds": {
-            "Flint Firebirds": "+154",
-            "Saginaw Spirit": "-193"
-        }
-    },
-    {
-        "date": "2025-03-22",
-        "home_team": "Barrie Colts",
-        "away_team": "Niagara IceDogs",
-        "predicted_winner": "Barrie Colts",
-        "actual_winner": "Barrie Colts",
-        "home_score": 8,
-        "away_score": 1,
-        "odds": {
-            "Barrie Colts": "-137",
-            "Niagara IceDogs": "+111"
-        }
-    },
-    {
         "date": "2025-03-23",
         "home_team": "Brampton Steelheads",
         "away_team": "Kingston Frontenacs",
