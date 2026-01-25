@@ -8,6 +8,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9238,JJ Franceschetti,Franceschetti,JJ,LW,L,5.09,185.0,2005-07-23,Sarnia Sting,West Division,15,0
 9124,Alessandro Di Iorio,Di Iorio,Alessandro,C,R,6.01,188.0,2008-03-17,Sarnia Sting,West Division,17,1
 8986,Carter Kostuch,Kostuch,Carter,LW,L,5.11,165.0,2007-04-21,Sarnia Sting,West Division,18,0
+9239,Ryan Chamberlain,Chamberlain,Ryan,LW,L,6.02,180.0,2008-04-22,Sarnia Sting,West Division,22,1
 8920,Ryan Brown,Brown,Ryan,LW,L,5.11,172.0,2007-10-27,Sarnia Sting,West Division,23,0
 8812,Daylen Moses,Moses,Daylen,C,R,6.02,180.0,2005-06-13,Sarnia Sting,West Division,24,0
 8837,Tyson Doucette,Doucette,Tyson,LW,L,6.00,181.0,2004-01-30,Sarnia Sting,West Division,25,0
@@ -25,7 +26,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8921,James Barr,Barr,James,D,R,6.01,182.0,2007-06-01,Sarnia Sting,West Division,16,0
 9121,Ruslan Karimov,Karimov,Ruslan,LW,L,6.00,200.0,2007-04-27,Sarnia Sting,West Division,19,1
 9092,Matthew Andersen,Andersen,Matthew,D,L,6.00,174.0,2007-11-27,Sarnia Sting,West Division,21,1
-9239,Ryan Chamberlain,Chamberlain,Ryan,LW,L,6.02,180.0,2008-04-22,Sarnia Sting,West Division,22,1
 8923,Nathan Omeri,Omeri,Nathan,D,R,5.11,175.0,2006-06-15,Sarnia Sting,West Division,27,0
 9280,Dallys Hibbert,Hibbert,Dallys,D,R,6.02,178.0,2006-06-25,Sarnia Sting,West Division,28,0
 9271,Ryder Simpson,Simpson,Ryder,LW,L,6.03,190.0,2008-05-08,Sarnia Sting,West Division,28,1
