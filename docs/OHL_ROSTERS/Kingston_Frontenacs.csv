@@ -11,6 +11,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8770,Joey Willis,Willis,Joey,LW,L,5.11,185.0,2005-03-14,Kingston Frontenacs,East Division,14,0
 8407,Ethan Miedema,Miedema,Ethan,LW,L,6.04,212.0,2005-03-22,Kingston Frontenacs,East Division,15,0
 9262,Riley Clark,Clark,Riley,LW,L,6.01,187.0,2006-05-03,Kingston Frontenacs,East Division,17,0
+9141,Camden McCuaig,McCuaig,Camden,LW,L,6.02,195.0,2008-06-19,Kingston Frontenacs,East Division,20,1
 9137,Nolan Buttar,Buttar,Nolan,C,L,6.02,190.0,2008-05-23,Kingston Frontenacs,East Division,22,1
 9307,André Mondoux,Mondoux,André,D,L,6.04,198.0,2007-03-16,Kingston Frontenacs,East Division,25,1
 8820,Vann Williamson,Williamson,Vann,D,R,6.01,187.0,2006-07-19,Kingston Frontenacs,East Division,27,0
@@ -31,4 +32,3 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8372,Matthew Soto,Soto,Matthew,RW,R,6.00,185.0,2005-08-31,Kingston Frontenacs,East Division,92,0
 8384,Cedrick Guindon,Guindon,Cedrick,C,L,5.10,182.0,2004-04-21,Kingston Frontenacs,East Division,93,0
 9174,Max Shewfelt,Shewfelt,Max,LW,L,5.11,172.0,2007-03-16,Kingston Frontenacs,East Division,18,1
-9141,Camden McCuaig,McCuaig,Camden,LW,L,6.02,195.0,2008-06-19,Kingston Frontenacs,East Division,20,1

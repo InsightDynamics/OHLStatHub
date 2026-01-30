@@ -1,31 +1,5 @@
 [
     {
-        "date": "2025-03-29",
-        "home_team": "Windsor Spitfires",
-        "away_team": "Soo Greyhounds",
-        "predicted_winner": "Windsor Spitfires",
-        "actual_winner": "Windsor Spitfires",
-        "home_score": 7,
-        "away_score": 1,
-        "odds": {
-            "Windsor Spitfires": "-207",
-            "Soo Greyhounds": "+164"
-        }
-    },
-    {
-        "date": "2025-03-29",
-        "home_team": "Saginaw Spirit",
-        "away_team": "Erie Otters",
-        "predicted_winner": "Saginaw Spirit",
-        "actual_winner": "Erie Otters",
-        "home_score": 5,
-        "away_score": 9,
-        "odds": {
-            "Saginaw Spirit": "-160",
-            "Erie Otters": "+129"
-        }
-    },
-    {
         "date": "2025-03-30",
         "home_team": "Kingston Frontenacs",
         "away_team": "Sudbury Wolves",
