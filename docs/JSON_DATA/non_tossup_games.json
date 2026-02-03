@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-04-02",
-        "home_team": "Soo Greyhounds",
-        "away_team": "Windsor Spitfires",
-        "predicted_winner": "Windsor Spitfires",
-        "actual_winner": "Windsor Spitfires",
-        "home_score": 1,
-        "away_score": 4,
-        "odds": {
-            "Soo Greyhounds": "+164",
-            "Windsor Spitfires": "-207"
-        }
-    },
-    {
         "date": "2025-04-03",
         "home_team": "North Bay Battalion",
         "away_team": "Brantford Bulldogs",
