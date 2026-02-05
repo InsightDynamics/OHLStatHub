@@ -159,7 +159,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9317,Rio Kaiser,Kaiser,Rio,D,L,6.07,220.0,2006-10-07,Peterborough Petes,East Division,17,0
 9247,Francis Parish,Parish,Francis,RW,R,5.09,160.0,2007-03-06,Peterborough Petes,East Division,18,1
 9011,Caden Taylor,Taylor,Caden,LW,L,6.03,206.0,2007-03-31,Peterborough Petes,East Division,19,0
-9356,Luis Sturgeon,Sturgeon,Luis,D,L,6.03,194.0,2008-12-11,Peterborough Petes,East Division,20,0
 9031,Nico Addy,Addy,Nico,RW,R,6.04,207.0,2007-08-17,Peterborough Petes,East Division,22,0
 8440,Jonathan Melee,Melee,Jonathan,LW,L,6.00,184.0,2004-01-15,Peterborough Petes,East Division,23,0
 8992,Aiden Young,Young,Aiden,C,L,5.11,181.0,2007-04-18,Peterborough Petes,East Division,26,0
@@ -172,6 +171,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9331,Luka Gelinas,Gelinas,Luka,G,L,6.01,179.0,2008-01-01,Peterborough Petes,East Division,1,1
 8498,Liam Sztuska,Sztuska,Liam,G,L,6.01,182.0,2004-05-01,Peterborough Petes,East Division,1,0
 8825,Chase Lefebvre,Lefebvre,Chase,C,L,6.03,180.0,2004-05-13,Peterborough Petes,East Division,7,0
+9356,Luis Sturgeon,Sturgeon,Luis,D,L,6.03,194.0,2008-12-11,Peterborough Petes,East Division,20,0
 8519,Ryder McIntyre,McIntyre,Ryder,RW,R,6.04,225.0,2004-07-15,Peterborough Petes,East Division,21,0
 9352,Dylan Turcotte,Turcotte,Dylan,LW,L,6.01,164.0,2007-02-06,Peterborough Petes,East Division,21,0
 9021,Joseph Cadorin,Cadorin,Joseph,LW,L,5.11,180.0,2007-03-29,Peterborough Petes,East Division,24,0
@@ -466,7 +466,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9238,JJ Franceschetti,Franceschetti,JJ,LW,L,5.09,185.0,2005-07-23,Sarnia Sting,West Division,15,0
 9124,Alessandro Di Iorio,Di Iorio,Alessandro,C,R,6.01,188.0,2008-03-17,Sarnia Sting,West Division,17,1
 8986,Carter Kostuch,Kostuch,Carter,LW,L,5.11,165.0,2007-04-21,Sarnia Sting,West Division,18,0
-9239,Ryan Chamberlain,Chamberlain,Ryan,LW,L,6.02,180.0,2008-04-22,Sarnia Sting,West Division,22,1
 8920,Ryan Brown,Brown,Ryan,LW,L,5.11,172.0,2007-10-27,Sarnia Sting,West Division,23,0
 8812,Daylen Moses,Moses,Daylen,C,R,6.02,180.0,2005-06-13,Sarnia Sting,West Division,24,0
 8837,Tyson Doucette,Doucette,Tyson,LW,L,6.00,181.0,2004-01-30,Sarnia Sting,West Division,25,0
@@ -484,6 +483,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8921,James Barr,Barr,James,D,R,6.01,182.0,2007-06-01,Sarnia Sting,West Division,16,0
 9121,Ruslan Karimov,Karimov,Ruslan,LW,L,6.00,200.0,2007-04-27,Sarnia Sting,West Division,19,1
 9092,Matthew Andersen,Andersen,Matthew,D,L,6.00,174.0,2007-11-27,Sarnia Sting,West Division,21,1
+9239,Ryan Chamberlain,Chamberlain,Ryan,LW,L,6.02,180.0,2008-04-22,Sarnia Sting,West Division,22,1
 8923,Nathan Omeri,Omeri,Nathan,D,R,5.11,175.0,2006-06-15,Sarnia Sting,West Division,27,0
 9280,Dallys Hibbert,Hibbert,Dallys,D,R,6.02,178.0,2006-06-25,Sarnia Sting,West Division,28,0
 9271,Ryder Simpson,Simpson,Ryder,LW,L,6.03,190.0,2008-05-08,Sarnia Sting,West Division,28,1
