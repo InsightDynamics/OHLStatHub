@@ -1,44 +1,5 @@
 [
     {
-        "date": "2025-04-04",
-        "home_team": "Kitchener Rangers",
-        "away_team": "Flint Firebirds",
-        "predicted_winner": "Kitchener Rangers",
-        "actual_winner": "Kitchener Rangers",
-        "home_score": 2,
-        "away_score": 1,
-        "odds": {
-            "Kitchener Rangers": "-155",
-            "Flint Firebirds": "+125"
-        }
-    },
-    {
-        "date": "2025-04-04",
-        "home_team": "Oshawa Generals",
-        "away_team": "Brampton Steelheads",
-        "predicted_winner": "Brampton Steelheads",
-        "actual_winner": "Brampton Steelheads",
-        "home_score": 3,
-        "away_score": 6,
-        "odds": {
-            "Oshawa Generals": "+113",
-            "Brampton Steelheads": "-140"
-        }
-    },
-    {
-        "date": "2025-04-04",
-        "home_team": "Windsor Spitfires",
-        "away_team": "Soo Greyhounds",
-        "predicted_winner": "Windsor Spitfires",
-        "actual_winner": "Windsor Spitfires",
-        "home_score": 8,
-        "away_score": 4,
-        "odds": {
-            "Windsor Spitfires": "-206",
-            "Soo Greyhounds": "+164"
-        }
-    },
-    {
         "date": "2025-04-05",
         "home_team": "Brantford Bulldogs",
         "away_team": "North Bay Battalion",
