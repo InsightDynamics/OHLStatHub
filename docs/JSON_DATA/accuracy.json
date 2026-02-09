@@ -1,26 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-04-06",
-            "accuracy": 0.0,
-            "correct_predictions": 0,
-            "total_games": 1,
-            "game_details": [
-                {
-                    "home_team": "Brampton Steelheads",
-                    "away_team": "Oshawa Generals",
-                    "predicted_winner": "Brampton Steelheads",
-                    "actual_winner": "Oshawa Generals",
-                    "home_score": 1,
-                    "away_score": 4,
-                    "odds": {
-                        "Brampton Steelheads": "-140",
-                        "Oshawa Generals": "+113"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-04-10",
             "accuracy": 75.0,
             "correct_predictions": 3,
@@ -877,13 +857,13 @@
             ]
         }
     ],
-    "total_accuracy": 58.2,
+    "total_accuracy": 59.3,
     "tossup_accuracy": 62.5,
-    "non_tossup_accuracy": 57.4,
+    "non_tossup_accuracy": 58.7,
     "total_correct": 32,
-    "total_games": 55,
+    "total_games": 54,
     "tossup_correct": 5,
     "tossup_games": 8,
     "non_tossup_correct": 27,
-    "non_tossup_games": 47
+    "non_tossup_games": 46
 }
