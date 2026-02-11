@@ -1,44 +1,5 @@
 [
     {
-        "date": "2025-04-12",
-        "home_team": "London Knights",
-        "away_team": "Erie Otters",
-        "predicted_winner": "London Knights",
-        "actual_winner": "London Knights",
-        "home_score": 7,
-        "away_score": 2,
-        "odds": {
-            "London Knights": "-195",
-            "Erie Otters": "+155"
-        }
-    },
-    {
-        "date": "2025-04-12",
-        "home_team": "Windsor Spitfires",
-        "away_team": "Kitchener Rangers",
-        "predicted_winner": "Windsor Spitfires",
-        "actual_winner": "Windsor Spitfires",
-        "home_score": 5,
-        "away_score": 1,
-        "odds": {
-            "Windsor Spitfires": "-149",
-            "Kitchener Rangers": "+121"
-        }
-    },
-    {
-        "date": "2025-04-12",
-        "home_team": "Barrie Colts",
-        "away_team": "Kingston Frontenacs",
-        "predicted_winner": "Kingston Frontenacs",
-        "actual_winner": "Barrie Colts",
-        "home_score": 7,
-        "away_score": 4,
-        "odds": {
-            "Barrie Colts": "+128",
-            "Kingston Frontenacs": "-159"
-        }
-    },
-    {
         "date": "2025-04-13",
         "home_team": "Brantford Bulldogs",
         "away_team": "Oshawa Generals",
