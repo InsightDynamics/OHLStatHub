@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-04-13",
-        "home_team": "Brantford Bulldogs",
-        "away_team": "Oshawa Generals",
-        "predicted_winner": "Brantford Bulldogs",
-        "actual_winner": "Brantford Bulldogs",
-        "home_score": 8,
-        "away_score": 5,
-        "odds": {
-            "Brantford Bulldogs": "-132",
-            "Oshawa Generals": "+107"
-        }
-    },
-    {
         "date": "2025-04-14",
         "home_team": "Kitchener Rangers",
         "away_team": "Windsor Spitfires",
