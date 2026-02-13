@@ -108,7 +108,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9019,Josh Brady,Brady,Josh,D,R,6.01,185.0,2006-01-11,Ottawa 67's,East Division,3,0
 8975,Kaleb Dietsch,Dietsch,Kaleb,D,L,6.03,208.0,2007-01-03,Ottawa 67's,East Division,4,1
 8888,Bradley Horner,Horner,Bradley,D,R,6.00,195.0,2005-06-16,Ottawa 67's,East Division,5,0
-9328,Theo Avila,Avila,Theo,D,R,5.10,182.0,2007-06-17,Ottawa 67's,East Division,6,1
 8715,Frankie Marrelli,Marrelli,Frankie,D,L,5.11,187.0,2006-02-16,Ottawa 67's,East Division,8,0
 8585,Chris Barlas,Barlas,Chris,C,L,5.10,182.0,2005-01-10,Ottawa 67's,East Division,9,0
 8976,Nic Whitehead,Whitehead,Nic,C,L,5.10,167.0,2007-02-11,Ottawa 67's,East Division,10,0
@@ -134,6 +133,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9296,Rylan Donovan,Donovan,Rylan,G,L,6.01,190.0,2005-08-30,Ottawa 67's,East Division,1,0
 9303,Daniel Giusti,Giusti,Daniel,G,L,5.10,161.0,2007-06-22,Ottawa 67's,East Division,1,1
 9312,Chase Petrova,Petrova,Chase,G,L,5.11,168.0,2008-11-12,Ottawa 67's,East Division,1,1
+9328,Theo Avila,Avila,Theo,D,R,5.10,182.0,2007-06-17,Ottawa 67's,East Division,6,1
 8590,Thomas Sirman,Sirman,Thomas,D,L,5.10,186.0,2004-03-05,Ottawa 67's,East Division,6,0
 9334,Matthew Souliere,Souliere,Matthew,LW,L,6.03,190.0,2006-08-01,Ottawa 67's,East Division,13,0
 9360,Clarence Allain,Allain,Clarence,LW,L,5.10,174.0,2008-06-13,Ottawa 67's,East Division,17,1
@@ -161,6 +161,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9011,Caden Taylor,Taylor,Caden,LW,L,6.03,206.0,2007-03-31,Peterborough Petes,East Division,19,0
 9031,Nico Addy,Addy,Nico,RW,R,6.04,207.0,2007-08-17,Peterborough Petes,East Division,22,0
 8440,Jonathan Melee,Melee,Jonathan,LW,L,6.00,184.0,2004-01-15,Peterborough Petes,East Division,23,0
+9351,Kaiden Thatcher,Thatcher,Kaiden,D,R,6.04,205.0,2007-02-08,Peterborough Petes,East Division,25,0
 8992,Aiden Young,Young,Aiden,C,L,5.11,181.0,2007-04-18,Peterborough Petes,East Division,26,0
 9213,Colin Fitzgerald,Fitzgerald,Colin,C,R,6.03,211.0,2008-04-01,Peterborough Petes,East Division,27,1
 9023,Brennan Faulkner,Faulkner,Brennan,LW,L,6.00,176.0,2005-12-28,Peterborough Petes,East Division,28,0
@@ -176,7 +177,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9352,Dylan Turcotte,Turcotte,Dylan,LW,L,6.01,164.0,2007-02-06,Peterborough Petes,East Division,21,0
 9021,Joseph Cadorin,Cadorin,Joseph,LW,L,5.11,180.0,2007-03-29,Peterborough Petes,East Division,24,0
 9359,Raiden Doxtator,Doxtator,Raiden,LW,L,5.11,161.0,2008-08-24,Peterborough Petes,East Division,24,1
-9351,Kaiden Thatcher,Thatcher,Kaiden,D,R,6.04,205.0,2007-02-08,Peterborough Petes,East Division,25,0
 9189,Arvin Jaswal,Jaswal,Arvin,G,R,6.02,178.0,2008-03-29,Barrie Colts,Central Division,1,1
 9188,Teague Vader,Vader,Teague,D,L,6.00,192.0,2007-08-23,Barrie Colts,Central Division,6,1
 9177,Noah Barton,Barton,Noah,D,R,6.02,184.0,2008-10-16,Barrie Colts,Central Division,7,1
