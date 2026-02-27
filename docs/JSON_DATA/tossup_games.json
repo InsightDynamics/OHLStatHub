@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-04-29",
-        "home_team": "Oshawa Generals",
-        "away_team": "Barrie Colts",
-        "predicted_winner": "Oshawa Generals",
-        "actual_winner": "Oshawa Generals",
-        "home_score": 7,
-        "away_score": 6,
-        "odds": {
-            "Oshawa Generals": "-120",
-            "Barrie Colts": "-103"
-        }
-    },
-    {
         "date": "2025-05-01",
         "home_team": "Oshawa Generals",
         "away_team": "Barrie Colts",
