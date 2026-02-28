@@ -1,26 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-04-30",
-            "accuracy": 100.0,
-            "correct_predictions": 1,
-            "total_games": 1,
-            "game_details": [
-                {
-                    "home_team": "Kitchener Rangers",
-                    "away_team": "London Knights",
-                    "predicted_winner": "London Knights",
-                    "actual_winner": "London Knights",
-                    "home_score": 2,
-                    "away_score": 4,
-                    "odds": {
-                        "Kitchener Rangers": "+133",
-                        "London Knights": "-166"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-05-01",
             "accuracy": 100.0,
             "correct_predictions": 1,
@@ -377,13 +357,13 @@
             ]
         }
     ],
-    "total_accuracy": 58.3,
+    "total_accuracy": 56.5,
     "tossup_accuracy": 40.0,
-    "non_tossup_accuracy": 63.2,
-    "total_correct": 14,
-    "total_games": 24,
+    "non_tossup_accuracy": 61.1,
+    "total_correct": 13,
+    "total_games": 23,
     "tossup_correct": 2,
     "tossup_games": 5,
-    "non_tossup_correct": 12,
-    "non_tossup_games": 19
+    "non_tossup_correct": 11,
+    "non_tossup_games": 18
 }
