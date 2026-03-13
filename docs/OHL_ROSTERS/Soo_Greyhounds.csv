@@ -1,4 +1,5 @@
 player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team_name,division,jersey_number,rookie
+9220,Keegan Gillen,Gillen,Keegan,D,R,5.11,185.0,2007-04-24,Soo Greyhounds,West Division,3,1
 8570,Andrew Gibson,Gibson,Andrew,D,R,6.04,210.0,2005-02-13,Soo Greyhounds,West Division,6,0
 8571,Caeden Carlisle,Carlisle,Caeden,D,L,6.01.25,197.0,2004-01-31,Soo Greyhounds,West Division,7,0
 8810,Brodie McConnell-Barker,McConnell-Barker,Brodie,D,L,6.00,188.0,2006-01-31,Soo Greyhounds,West Division,8,0
@@ -23,7 +24,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8814,Christopher Brown,Brown,Christopher,C,L,6.00,183.0,2006-01-27,Soo Greyhounds,West Division,67,0
 9222,Carson Andrew,Andrew,Carson,RW,R,6.02,196.0,2008-03-10,Soo Greyhounds,West Division,71,1
 8528,Nolan Lalonde,Lalonde,Nolan,G,L,6.02,197.0,2004-02-14,Soo Greyhounds,West Division,79,0
-9220,Keegan Gillen,Gillen,Keegan,D,R,5.11,185.0,2007-04-24,Soo Greyhounds,West Division,3,1
 8899,Tate Vader,Vader,Tate,C,L,5.11,187.0,2006-01-09,Soo Greyhounds,West Division,9,0
 8354,Justin DeZoete,DeZoete,Justin,LW,L,6.00.25,196.0,2004-01-02,Soo Greyhounds,West Division,11,0
 9224,Sam Bowness,Bowness,Sam,LW,L,6.01.25,194.0,2005-04-29,Soo Greyhounds,West Division,21,0
