@@ -1,0 +1,16 @@
+[
+    {
+        "home_team": "Brampton Steelheads",
+        "away_team": "Niagara IceDogs",
+        "winner": "Brampton Steelheads",
+        "probabilities": {
+            "Brampton Steelheads": "61.84%",
+            "Niagara IceDogs": "38.16%"
+        },
+        "odds": {
+            "Brampton Steelheads": "-186",
+            "Niagara IceDogs": "+149"
+        },
+        "game_time": "7:00 pm"
+    }
+]

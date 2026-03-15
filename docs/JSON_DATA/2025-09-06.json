@@ -1,0 +1,44 @@
+[
+    {
+        "home_team": "Ottawa 67's",
+        "away_team": "North Bay Battalion",
+        "winner": "Ottawa 67's",
+        "probabilities": {
+            "Ottawa 67's": "51.60%",
+            "North Bay Battalion": "48.40%"
+        },
+        "odds": {
+            "Ottawa 67's": "-119",
+            "North Bay Battalion": "-104"
+        },
+        "game_time": "1:00 pm"
+    },
+    {
+        "home_team": "Erie Otters",
+        "away_team": "London Knights",
+        "winner": "London Knights",
+        "probabilities": {
+            "Erie Otters": "36.81%",
+            "London Knights": "63.19%"
+        },
+        "odds": {
+            "Erie Otters": "+158",
+            "London Knights": "-199"
+        },
+        "game_time": "4:00 pm"
+    },
+    {
+        "home_team": "Sarnia Sting",
+        "away_team": "Barrie Colts",
+        "winner": "Barrie Colts",
+        "probabilities": {
+            "Sarnia Sting": "33.13%",
+            "Barrie Colts": "66.87%"
+        },
+        "odds": {
+            "Sarnia Sting": "+187",
+            "Barrie Colts": "-238"
+        },
+        "game_time": "7:05 pm"
+    }
+]

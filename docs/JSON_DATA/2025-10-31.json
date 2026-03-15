@@ -1,0 +1,44 @@
+[
+    {
+        "home_team": "Niagara IceDogs",
+        "away_team": "Brampton Steelheads",
+        "winner": "Brampton Steelheads",
+        "probabilities": {
+            "Niagara IceDogs": "38.16%",
+            "Brampton Steelheads": "61.84%"
+        },
+        "odds": {
+            "Niagara IceDogs": "+149",
+            "Brampton Steelheads": "-186"
+        },
+        "game_time": "6:00 pm"
+    },
+    {
+        "home_team": "Kitchener Rangers",
+        "away_team": "Sudbury Wolves",
+        "winner": "Kitchener Rangers",
+        "probabilities": {
+            "Kitchener Rangers": "55.48%",
+            "Sudbury Wolves": "44.52%"
+        },
+        "odds": {
+            "Kitchener Rangers": "-140",
+            "Sudbury Wolves": "+113"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Ottawa 67's",
+        "away_team": "London Knights",
+        "winner": "London Knights",
+        "probabilities": {
+            "Ottawa 67's": "26.77%",
+            "London Knights": "73.23%"
+        },
+        "odds": {
+            "Ottawa 67's": "+255",
+            "London Knights": "-336"
+        },
+        "game_time": "7:00 pm"
+    }
+]

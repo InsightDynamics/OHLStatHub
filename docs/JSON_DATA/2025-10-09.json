@@ -1,0 +1,58 @@
+[
+    {
+        "home_team": "Barrie Colts",
+        "away_team": "Ottawa 67's",
+        "winner": "Barrie Colts",
+        "probabilities": {
+            "Barrie Colts": "64.42%",
+            "Ottawa 67's": "35.58%"
+        },
+        "odds": {
+            "Barrie Colts": "-211",
+            "Ottawa 67's": "+167"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Niagara IceDogs",
+        "away_team": "Brantford Bulldogs",
+        "winner": "Brantford Bulldogs",
+        "probabilities": {
+            "Niagara IceDogs": "39.10%",
+            "Brantford Bulldogs": "60.90%"
+        },
+        "odds": {
+            "Niagara IceDogs": "+143",
+            "Brantford Bulldogs": "-179"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Peterborough Petes",
+        "away_team": "Kingston Frontenacs",
+        "winner": "Kingston Frontenacs",
+        "probabilities": {
+            "Peterborough Petes": "18.15%",
+            "Kingston Frontenacs": "81.85%"
+        },
+        "odds": {
+            "Peterborough Petes": "+423",
+            "Kingston Frontenacs": "-622"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Windsor Spitfires",
+        "away_team": "Guelph Storm",
+        "winner": "Windsor Spitfires",
+        "probabilities": {
+            "Windsor Spitfires": "69.65%",
+            "Guelph Storm": "30.35%"
+        },
+        "odds": {
+            "Windsor Spitfires": "-275",
+            "Guelph Storm": "+213"
+        },
+        "game_time": "7:05 pm"
+    }
+]

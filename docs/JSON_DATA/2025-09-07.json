@@ -1,0 +1,58 @@
+[
+    {
+        "home_team": "Owen Sound Attack",
+        "away_team": "Barrie Colts",
+        "winner": "Barrie Colts",
+        "probabilities": {
+            "Owen Sound Attack": "37.04%",
+            "Barrie Colts": "62.96%"
+        },
+        "odds": {
+            "Owen Sound Attack": "+156",
+            "Barrie Colts": "-197"
+        },
+        "game_time": "2:00 pm"
+    },
+    {
+        "home_team": "Peterborough Petes",
+        "away_team": "Kingston Frontenacs",
+        "winner": "Kingston Frontenacs",
+        "probabilities": {
+            "Peterborough Petes": "18.15%",
+            "Kingston Frontenacs": "81.85%"
+        },
+        "odds": {
+            "Peterborough Petes": "+423",
+            "Kingston Frontenacs": "-622"
+        },
+        "game_time": "2:05 pm"
+    },
+    {
+        "home_team": "Saginaw Spirit",
+        "away_team": "Windsor Spitfires",
+        "winner": "Windsor Spitfires",
+        "probabilities": {
+            "Saginaw Spirit": "47.15%",
+            "Windsor Spitfires": "52.85%"
+        },
+        "odds": {
+            "Saginaw Spirit": "+101",
+            "Windsor Spitfires": "-125"
+        },
+        "game_time": "2:05 pm"
+    },
+    {
+        "home_team": "Oshawa Generals",
+        "away_team": "Guelph Storm",
+        "winner": "Oshawa Generals",
+        "probabilities": {
+            "Oshawa Generals": "62.66%",
+            "Guelph Storm": "37.34%"
+        },
+        "odds": {
+            "Oshawa Generals": "-194",
+            "Guelph Storm": "+154"
+        },
+        "game_time": "4:05 pm"
+    }
+]

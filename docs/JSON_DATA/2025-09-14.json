@@ -1,0 +1,58 @@
+[
+    {
+        "home_team": "Barrie Colts",
+        "away_team": "Oshawa Generals",
+        "winner": "Oshawa Generals",
+        "probabilities": {
+            "Barrie Colts": "49.31%",
+            "Oshawa Generals": "50.69%"
+        },
+        "odds": {
+            "Barrie Colts": "-108",
+            "Oshawa Generals": "-114"
+        },
+        "game_time": "2:00 pm"
+    },
+    {
+        "home_team": "Windsor Spitfires",
+        "away_team": "Flint Firebirds",
+        "winner": "Windsor Spitfires",
+        "probabilities": {
+            "Windsor Spitfires": "63.59%",
+            "Flint Firebirds": "36.41%"
+        },
+        "odds": {
+            "Windsor Spitfires": "-202",
+            "Flint Firebirds": "+161"
+        },
+        "game_time": "2:05 pm"
+    },
+    {
+        "home_team": "Soo Greyhounds",
+        "away_team": "Saginaw Spirit",
+        "winner": "Saginaw Spirit",
+        "probabilities": {
+            "Soo Greyhounds": "39.25%",
+            "Saginaw Spirit": "60.75%"
+        },
+        "odds": {
+            "Soo Greyhounds": "+142",
+            "Saginaw Spirit": "-177"
+        },
+        "game_time": "2:07 pm"
+    },
+    {
+        "home_team": "Sudbury Wolves",
+        "away_team": "Kingston Frontenacs",
+        "winner": "Kingston Frontenacs",
+        "probabilities": {
+            "Sudbury Wolves": "38.15%",
+            "Kingston Frontenacs": "61.85%"
+        },
+        "odds": {
+            "Sudbury Wolves": "+149",
+            "Kingston Frontenacs": "-187"
+        },
+        "game_time": "4:00 pm"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "home_team": "Ottawa 67's",
+        "away_team": "Guelph Storm",
+        "winner": "Guelph Storm",
+        "probabilities": {
+            "Ottawa 67's": "47.41%",
+            "Guelph Storm": "52.59%"
+        },
+        "odds": {
+            "Ottawa 67's": "+100",
+            "Guelph Storm": "-124"
+        },
+        "game_time": "3:00 pm"
+    },
+    {
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Erie Otters",
+        "winner": "Brantford Bulldogs",
+        "probabilities": {
+            "Brantford Bulldogs": "58.83%",
+            "Erie Otters": "41.17%"
+        },
+        "odds": {
+            "Brantford Bulldogs": "-163",
+            "Erie Otters": "+131"
+        },
+        "game_time": "4:00 pm"
+    },
+    {
+        "home_team": "Saginaw Spirit",
+        "away_team": "Sarnia Sting",
+        "winner": "Saginaw Spirit",
+        "probabilities": {
+            "Saginaw Spirit": "71.69%",
+            "Sarnia Sting": "28.31%"
+        },
+        "odds": {
+            "Saginaw Spirit": "-308",
+            "Sarnia Sting": "+236"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Sudbury Wolves",
+        "away_team": "Kitchener Rangers",
+        "winner": "Kitchener Rangers",
+        "probabilities": {
+            "Sudbury Wolves": "44.52%",
+            "Kitchener Rangers": "55.48%"
+        },
+        "odds": {
+            "Sudbury Wolves": "+113",
+            "Kitchener Rangers": "-140"
+        },
+        "game_time": "7:05 pm"
+    }
+]

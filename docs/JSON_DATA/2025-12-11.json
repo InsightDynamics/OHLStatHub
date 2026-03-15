@@ -1,0 +1,72 @@
+[
+    {
+        "home_team": "Barrie Colts",
+        "away_team": "Owen Sound Attack",
+        "winner": "Barrie Colts",
+        "probabilities": {
+            "Barrie Colts": "62.96%",
+            "Owen Sound Attack": "37.04%"
+        },
+        "odds": {
+            "Barrie Colts": "-197",
+            "Owen Sound Attack": "+156"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Erie Otters",
+        "away_team": "Brantford Bulldogs",
+        "winner": "Brantford Bulldogs",
+        "probabilities": {
+            "Erie Otters": "41.17%",
+            "Brantford Bulldogs": "58.83%"
+        },
+        "odds": {
+            "Erie Otters": "+131",
+            "Brantford Bulldogs": "-163"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Niagara IceDogs",
+        "away_team": "London Knights",
+        "winner": "London Knights",
+        "probabilities": {
+            "Niagara IceDogs": "34.82%",
+            "London Knights": "65.18%"
+        },
+        "odds": {
+            "Niagara IceDogs": "+173",
+            "London Knights": "-219"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "North Bay Battalion",
+        "away_team": "Brampton Steelheads",
+        "winner": "Brampton Steelheads",
+        "probabilities": {
+            "North Bay Battalion": "28.37%",
+            "Brampton Steelheads": "71.63%"
+        },
+        "odds": {
+            "North Bay Battalion": "+235",
+            "Brampton Steelheads": "-306"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Peterborough Petes",
+        "away_team": "Windsor Spitfires",
+        "winner": "Windsor Spitfires",
+        "probabilities": {
+            "Peterborough Petes": "17.91%",
+            "Windsor Spitfires": "82.09%"
+        },
+        "odds": {
+            "Peterborough Petes": "+431",
+            "Windsor Spitfires": "-636"
+        },
+        "game_time": "7:05 pm"
+    }
+]

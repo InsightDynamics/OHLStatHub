@@ -1,0 +1,30 @@
+[
+    {
+        "home_team": "North Bay Battalion",
+        "away_team": "Oshawa Generals",
+        "winner": "Oshawa Generals",
+        "probabilities": {
+            "North Bay Battalion": "33.50%",
+            "Oshawa Generals": "66.50%"
+        },
+        "odds": {
+            "North Bay Battalion": "+184",
+            "Oshawa Generals": "-233"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Peterborough Petes",
+        "away_team": "Brampton Steelheads",
+        "winner": "Brampton Steelheads",
+        "probabilities": {
+            "Peterborough Petes": "18.99%",
+            "Brampton Steelheads": "81.01%"
+        },
+        "odds": {
+            "Peterborough Petes": "+400",
+            "Brampton Steelheads": "-579"
+        },
+        "game_time": "7:05 pm"
+    }
+]

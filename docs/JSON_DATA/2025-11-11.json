@@ -1,0 +1,16 @@
+[
+    {
+        "home_team": "Peterborough Petes",
+        "away_team": "Oshawa Generals",
+        "winner": "Oshawa Generals",
+        "probabilities": {
+            "Peterborough Petes": "22.97%",
+            "Oshawa Generals": "77.03%"
+        },
+        "odds": {
+            "Peterborough Petes": "+314",
+            "Oshawa Generals": "-429"
+        },
+        "game_time": "7:05 pm"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "home_team": "North Bay Battalion",
+        "away_team": "Sarnia Sting",
+        "winner": "North Bay Battalion",
+        "probabilities": {
+            "North Bay Battalion": "51.12%",
+            "Sarnia Sting": "48.88%"
+        },
+        "odds": {
+            "North Bay Battalion": "-116",
+            "Sarnia Sting": "-106"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Peterborough Petes",
+        "away_team": "Flint Firebirds",
+        "winner": "Flint Firebirds",
+        "probabilities": {
+            "Peterborough Petes": "27.59%",
+            "Flint Firebirds": "72.41%"
+        },
+        "odds": {
+            "Peterborough Petes": "+244",
+            "Flint Firebirds": "-321"
+        },
+        "game_time": "7:05 pm"
+    }
+]

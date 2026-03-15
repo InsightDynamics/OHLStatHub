@@ -1,0 +1,86 @@
+[
+    {
+        "home_team": "Ottawa 67's",
+        "away_team": "Brantford Bulldogs",
+        "winner": "Brantford Bulldogs",
+        "probabilities": {
+            "Ottawa 67's": "30.52%",
+            "Brantford Bulldogs": "69.48%"
+        },
+        "odds": {
+            "Ottawa 67's": "+211",
+            "Brantford Bulldogs": "-272"
+        },
+        "game_time": "3:00 pm"
+    },
+    {
+        "home_team": "Brampton Steelheads",
+        "away_team": "Kingston Frontenacs",
+        "winner": "Kingston Frontenacs",
+        "probabilities": {
+            "Brampton Steelheads": "48.61%",
+            "Kingston Frontenacs": "51.39%"
+        },
+        "odds": {
+            "Brampton Steelheads": "-105",
+            "Kingston Frontenacs": "-118"
+        },
+        "game_time": "4:00 pm"
+    },
+    {
+        "home_team": "Erie Otters",
+        "away_team": "Flint Firebirds",
+        "winner": "Erie Otters",
+        "probabilities": {
+            "Erie Otters": "52.23%",
+            "Flint Firebirds": "47.77%"
+        },
+        "odds": {
+            "Erie Otters": "-122",
+            "Flint Firebirds": "-101"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Niagara IceDogs",
+        "away_team": "Sarnia Sting",
+        "winner": "Niagara IceDogs",
+        "probabilities": {
+            "Niagara IceDogs": "61.97%",
+            "Sarnia Sting": "38.03%"
+        },
+        "odds": {
+            "Niagara IceDogs": "-188",
+            "Sarnia Sting": "+150"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Saginaw Spirit",
+        "away_team": "Oshawa Generals",
+        "winner": "Saginaw Spirit",
+        "probabilities": {
+            "Saginaw Spirit": "54.96%",
+            "Oshawa Generals": "45.04%"
+        },
+        "odds": {
+            "Saginaw Spirit": "-137",
+            "Oshawa Generals": "+111"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Barrie Colts",
+        "away_team": "London Knights",
+        "winner": "London Knights",
+        "probabilities": {
+            "Barrie Colts": "39.83%",
+            "London Knights": "60.17%"
+        },
+        "odds": {
+            "Barrie Colts": "+139",
+            "London Knights": "-173"
+        },
+        "game_time": "7:30 pm"
+    }
+]

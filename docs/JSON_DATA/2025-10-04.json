@@ -1,0 +1,86 @@
+[
+    {
+        "home_team": "Ottawa 67's",
+        "away_team": "Erie Otters",
+        "winner": "Erie Otters",
+        "probabilities": {
+            "Ottawa 67's": "38.56%",
+            "Erie Otters": "61.44%"
+        },
+        "odds": {
+            "Ottawa 67's": "+146",
+            "Erie Otters": "-183"
+        },
+        "game_time": "3:00 pm"
+    },
+    {
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Windsor Spitfires",
+        "winner": "Windsor Spitfires",
+        "probabilities": {
+            "Brantford Bulldogs": "47.21%",
+            "Windsor Spitfires": "52.79%"
+        },
+        "odds": {
+            "Brantford Bulldogs": "+101",
+            "Windsor Spitfires": "-125"
+        },
+        "game_time": "4:00 pm"
+    },
+    {
+        "home_team": "Owen Sound Attack",
+        "away_team": "Saginaw Spirit",
+        "winner": "Saginaw Spirit",
+        "probabilities": {
+            "Owen Sound Attack": "31.92%",
+            "Saginaw Spirit": "68.08%"
+        },
+        "odds": {
+            "Owen Sound Attack": "+198",
+            "Saginaw Spirit": "-253"
+        },
+        "game_time": "4:00 pm"
+    },
+    {
+        "home_team": "Guelph Storm",
+        "away_team": "London Knights",
+        "winner": "London Knights",
+        "probabilities": {
+            "Guelph Storm": "28.85%",
+            "London Knights": "71.15%"
+        },
+        "odds": {
+            "Guelph Storm": "+229",
+            "London Knights": "-298"
+        },
+        "game_time": "4:07 pm"
+    },
+    {
+        "home_team": "Flint Firebirds",
+        "away_team": "Sarnia Sting",
+        "winner": "Flint Firebirds",
+        "probabilities": {
+            "Flint Firebirds": "61.91%",
+            "Sarnia Sting": "38.09%"
+        },
+        "odds": {
+            "Flint Firebirds": "-187",
+            "Sarnia Sting": "+149"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Barrie Colts",
+        "away_team": "Oshawa Generals",
+        "winner": "Oshawa Generals",
+        "probabilities": {
+            "Barrie Colts": "49.31%",
+            "Oshawa Generals": "50.69%"
+        },
+        "odds": {
+            "Barrie Colts": "-108",
+            "Oshawa Generals": "-114"
+        },
+        "game_time": "7:30 pm"
+    }
+]

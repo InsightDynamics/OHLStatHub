@@ -1,0 +1,58 @@
+[
+    {
+        "home_team": "North Bay Battalion",
+        "away_team": "Sudbury Wolves",
+        "winner": "Sudbury Wolves",
+        "probabilities": {
+            "North Bay Battalion": "37.79%",
+            "Sudbury Wolves": "62.21%"
+        },
+        "odds": {
+            "North Bay Battalion": "+151",
+            "Sudbury Wolves": "-190"
+        },
+        "game_time": "2:00 pm"
+    },
+    {
+        "home_team": "Oshawa Generals",
+        "away_team": "London Knights",
+        "winner": "London Knights",
+        "probabilities": {
+            "Oshawa Generals": "40.49%",
+            "London Knights": "59.51%"
+        },
+        "odds": {
+            "Oshawa Generals": "+135",
+            "London Knights": "-168"
+        },
+        "game_time": "2:05 pm"
+    },
+    {
+        "home_team": "Guelph Storm",
+        "away_team": "Peterborough Petes",
+        "winner": "Guelph Storm",
+        "probabilities": {
+            "Guelph Storm": "66.64%",
+            "Peterborough Petes": "33.36%"
+        },
+        "odds": {
+            "Guelph Storm": "-235",
+            "Peterborough Petes": "+185"
+        },
+        "game_time": "2:07 pm"
+    },
+    {
+        "home_team": "Saginaw Spirit",
+        "away_team": "Brampton Steelheads",
+        "winner": "Brampton Steelheads",
+        "probabilities": {
+            "Saginaw Spirit": "48.96%",
+            "Brampton Steelheads": "51.04%"
+        },
+        "odds": {
+            "Saginaw Spirit": "-106",
+            "Brampton Steelheads": "-116"
+        },
+        "game_time": "5:30 pm"
+    }
+]

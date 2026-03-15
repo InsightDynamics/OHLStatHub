@@ -1,0 +1,100 @@
+[
+    {
+        "home_team": "Brampton Steelheads",
+        "away_team": "Sudbury Wolves",
+        "winner": "Brampton Steelheads",
+        "probabilities": {
+            "Brampton Steelheads": "60.53%",
+            "Sudbury Wolves": "39.47%"
+        },
+        "odds": {
+            "Brampton Steelheads": "-176",
+            "Sudbury Wolves": "+141"
+        },
+        "game_time": "4:00 pm"
+    },
+    {
+        "home_team": "Owen Sound Attack",
+        "away_team": "Windsor Spitfires",
+        "winner": "Windsor Spitfires",
+        "probabilities": {
+            "Owen Sound Attack": "29.50%",
+            "Windsor Spitfires": "70.50%"
+        },
+        "odds": {
+            "Owen Sound Attack": "+222",
+            "Windsor Spitfires": "-288"
+        },
+        "game_time": "4:00 pm"
+    },
+    {
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Kitchener Rangers",
+        "winner": "Brantford Bulldogs",
+        "probabilities": {
+            "Brantford Bulldogs": "54.20%",
+            "Kitchener Rangers": "45.80%"
+        },
+        "odds": {
+            "Brantford Bulldogs": "-133",
+            "Kitchener Rangers": "+107"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Erie Otters",
+        "away_team": "Peterborough Petes",
+        "winner": "Erie Otters",
+        "probabilities": {
+            "Erie Otters": "74.16%",
+            "Peterborough Petes": "25.84%"
+        },
+        "odds": {
+            "Erie Otters": "-356",
+            "Peterborough Petes": "+268"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Flint Firebirds",
+        "away_team": "Soo Greyhounds",
+        "winner": "Soo Greyhounds",
+        "probabilities": {
+            "Flint Firebirds": "49.83%",
+            "Soo Greyhounds": "50.17%"
+        },
+        "odds": {
+            "Flint Firebirds": "-110",
+            "Soo Greyhounds": "-112"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Saginaw Spirit",
+        "away_team": "London Knights",
+        "winner": "London Knights",
+        "probabilities": {
+            "Saginaw Spirit": "45.36%",
+            "London Knights": "54.64%"
+        },
+        "odds": {
+            "Saginaw Spirit": "+109",
+            "London Knights": "-135"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Barrie Colts",
+        "away_team": "Kingston Frontenacs",
+        "winner": "Kingston Frontenacs",
+        "probabilities": {
+            "Barrie Colts": "41.97%",
+            "Kingston Frontenacs": "58.03%"
+        },
+        "odds": {
+            "Barrie Colts": "+126",
+            "Kingston Frontenacs": "-157"
+        },
+        "game_time": "7:30 pm"
+    }
+]

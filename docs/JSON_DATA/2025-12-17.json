@@ -1,0 +1,44 @@
+[
+    {
+        "home_team": "Owen Sound Attack",
+        "away_team": "London Knights",
+        "winner": "London Knights",
+        "probabilities": {
+            "Owen Sound Attack": "28.02%",
+            "London Knights": "71.98%"
+        },
+        "odds": {
+            "Owen Sound Attack": "+239",
+            "London Knights": "-313"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Saginaw Spirit",
+        "away_team": "Soo Greyhounds",
+        "winner": "Saginaw Spirit",
+        "probabilities": {
+            "Saginaw Spirit": "60.75%",
+            "Soo Greyhounds": "39.25%"
+        },
+        "odds": {
+            "Saginaw Spirit": "-177",
+            "Soo Greyhounds": "+142"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Sarnia Sting",
+        "away_team": "Kitchener Rangers",
+        "winner": "Kitchener Rangers",
+        "probabilities": {
+            "Sarnia Sting": "31.80%",
+            "Kitchener Rangers": "68.20%"
+        },
+        "odds": {
+            "Sarnia Sting": "+199",
+            "Kitchener Rangers": "-255"
+        },
+        "game_time": "7:05 pm"
+    }
+]

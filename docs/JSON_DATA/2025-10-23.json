@@ -1,0 +1,30 @@
+[
+    {
+        "home_team": "North Bay Battalion",
+        "away_team": "Peterborough Petes",
+        "winner": "North Bay Battalion",
+        "probabilities": {
+            "North Bay Battalion": "62.81%",
+            "Peterborough Petes": "37.19%"
+        },
+        "odds": {
+            "North Bay Battalion": "-195",
+            "Peterborough Petes": "+155"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Windsor Spitfires",
+        "away_team": "Ottawa 67's",
+        "winner": "Windsor Spitfires",
+        "probabilities": {
+            "Windsor Spitfires": "71.80%",
+            "Ottawa 67's": "28.20%"
+        },
+        "odds": {
+            "Windsor Spitfires": "-309",
+            "Ottawa 67's": "+237"
+        },
+        "game_time": "7:05 pm"
+    }
+]

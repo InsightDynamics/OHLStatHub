@@ -1,0 +1,44 @@
+[
+    {
+        "home_team": "Erie Otters",
+        "away_team": "Brampton Steelheads",
+        "winner": "Brampton Steelheads",
+        "probabilities": {
+            "Erie Otters": "40.22%",
+            "Brampton Steelheads": "59.78%"
+        },
+        "odds": {
+            "Erie Otters": "+136",
+            "Brampton Steelheads": "-170"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Flint Firebirds",
+        "away_team": "Saginaw Spirit",
+        "winner": "Saginaw Spirit",
+        "probabilities": {
+            "Flint Firebirds": "39.09%",
+            "Saginaw Spirit": "60.91%"
+        },
+        "odds": {
+            "Flint Firebirds": "+143",
+            "Saginaw Spirit": "-179"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Windsor Spitfires",
+        "away_team": "Owen Sound Attack",
+        "winner": "Windsor Spitfires",
+        "probabilities": {
+            "Windsor Spitfires": "70.50%",
+            "Owen Sound Attack": "29.50%"
+        },
+        "odds": {
+            "Windsor Spitfires": "-288",
+            "Owen Sound Attack": "+222"
+        },
+        "game_time": "7:05 pm"
+    }
+]

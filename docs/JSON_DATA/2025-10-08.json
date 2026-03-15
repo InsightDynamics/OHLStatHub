@@ -1,0 +1,16 @@
+[
+    {
+        "home_team": "Flint Firebirds",
+        "away_team": "Kitchener Rangers",
+        "winner": "Kitchener Rangers",
+        "probabilities": {
+            "Flint Firebirds": "43.10%",
+            "Kitchener Rangers": "56.90%"
+        },
+        "odds": {
+            "Flint Firebirds": "+120",
+            "Kitchener Rangers": "-149"
+        },
+        "game_time": "7:00 pm"
+    }
+]

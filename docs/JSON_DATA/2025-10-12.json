@@ -1,0 +1,30 @@
+[
+    {
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Ottawa 67's",
+        "winner": "Brantford Bulldogs",
+        "probabilities": {
+            "Brantford Bulldogs": "69.48%",
+            "Ottawa 67's": "30.52%"
+        },
+        "odds": {
+            "Brantford Bulldogs": "-272",
+            "Ottawa 67's": "+211"
+        },
+        "game_time": "1:00 pm"
+    },
+    {
+        "home_team": "Niagara IceDogs",
+        "away_team": "Sudbury Wolves",
+        "winner": "Sudbury Wolves",
+        "probabilities": {
+            "Niagara IceDogs": "48.63%",
+            "Sudbury Wolves": "51.37%"
+        },
+        "odds": {
+            "Niagara IceDogs": "-105",
+            "Sudbury Wolves": "-118"
+        },
+        "game_time": "2:00 pm"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "home_team": "London Knights",
+        "away_team": "Soo Greyhounds",
+        "winner": "London Knights",
+        "probabilities": {
+            "London Knights": "65.09%",
+            "Soo Greyhounds": "34.91%"
+        },
+        "odds": {
+            "London Knights": "-218",
+            "Soo Greyhounds": "+172"
+        },
+        "game_time": "2:00 pm"
+    },
+    {
+        "home_team": "Oshawa Generals",
+        "away_team": "Erie Otters",
+        "winner": "Oshawa Generals",
+        "probabilities": {
+            "Oshawa Generals": "53.88%",
+            "Erie Otters": "46.12%"
+        },
+        "odds": {
+            "Oshawa Generals": "-131",
+            "Erie Otters": "+106"
+        },
+        "game_time": "2:05 pm"
+    },
+    {
+        "home_team": "North Bay Battalion",
+        "away_team": "Saginaw Spirit",
+        "winner": "Saginaw Spirit",
+        "probabilities": {
+            "North Bay Battalion": "29.22%",
+            "Saginaw Spirit": "70.78%"
+        },
+        "odds": {
+            "North Bay Battalion": "+225",
+            "Saginaw Spirit": "-292"
+        },
+        "game_time": "3:00 pm"
+    },
+    {
+        "home_team": "Kingston Frontenacs",
+        "away_team": "Sarnia Sting",
+        "winner": "Kingston Frontenacs",
+        "probabilities": {
+            "Kingston Frontenacs": "73.62%",
+            "Sarnia Sting": "26.38%"
+        },
+        "odds": {
+            "Kingston Frontenacs": "-344",
+            "Sarnia Sting": "+260"
+        },
+        "game_time": "4:05 pm"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "home_team": "Niagara IceDogs",
+        "away_team": "North Bay Battalion",
+        "winner": "Niagara IceDogs",
+        "probabilities": {
+            "Niagara IceDogs": "60.91%",
+            "North Bay Battalion": "39.09%"
+        },
+        "odds": {
+            "Niagara IceDogs": "-179",
+            "North Bay Battalion": "+143"
+        },
+        "game_time": "2:00 pm"
+    },
+    {
+        "home_team": "Sudbury Wolves",
+        "away_team": "Oshawa Generals",
+        "winner": "Oshawa Generals",
+        "probabilities": {
+            "Sudbury Wolves": "45.34%",
+            "Oshawa Generals": "54.66%"
+        },
+        "odds": {
+            "Sudbury Wolves": "+110",
+            "Oshawa Generals": "-136"
+        },
+        "game_time": "2:05 pm"
+    },
+    {
+        "home_team": "Guelph Storm",
+        "away_team": "Kitchener Rangers",
+        "winner": "Kitchener Rangers",
+        "probabilities": {
+            "Guelph Storm": "36.57%",
+            "Kitchener Rangers": "63.43%"
+        },
+        "odds": {
+            "Guelph Storm": "+160",
+            "Kitchener Rangers": "-201"
+        },
+        "game_time": "2:07 pm"
+    },
+    {
+        "home_team": "Soo Greyhounds",
+        "away_team": "Sarnia Sting",
+        "winner": "Soo Greyhounds",
+        "probabilities": {
+            "Soo Greyhounds": "62.06%",
+            "Sarnia Sting": "37.94%"
+        },
+        "odds": {
+            "Soo Greyhounds": "-188",
+            "Sarnia Sting": "+150"
+        },
+        "game_time": "2:07 pm"
+    },
+    {
+        "home_team": "Ottawa 67's",
+        "away_team": "Flint Firebirds",
+        "winner": "Flint Firebirds",
+        "probabilities": {
+            "Ottawa 67's": "40.69%",
+            "Flint Firebirds": "59.31%"
+        },
+        "odds": {
+            "Ottawa 67's": "+133",
+            "Flint Firebirds": "-166"
+        },
+        "game_time": "3:00 pm"
+    }
+]

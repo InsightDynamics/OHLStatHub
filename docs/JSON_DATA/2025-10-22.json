@@ -1,0 +1,16 @@
+[
+    {
+        "home_team": "Soo Greyhounds",
+        "away_team": "Erie Otters",
+        "winner": "Erie Otters",
+        "probabilities": {
+            "Soo Greyhounds": "47.94%",
+            "Erie Otters": "52.06%"
+        },
+        "odds": {
+            "Soo Greyhounds": "-102",
+            "Erie Otters": "-121"
+        },
+        "game_time": "7:07 pm"
+    }
+]

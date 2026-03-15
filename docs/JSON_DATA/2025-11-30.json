@@ -1,0 +1,86 @@
+[
+    {
+        "home_team": "Niagara IceDogs",
+        "away_team": "Peterborough Petes",
+        "winner": "Niagara IceDogs",
+        "probabilities": {
+            "Niagara IceDogs": "72.47%",
+            "Peterborough Petes": "27.53%"
+        },
+        "odds": {
+            "Niagara IceDogs": "-322",
+            "Peterborough Petes": "+245"
+        },
+        "game_time": "2:00 pm"
+    },
+    {
+        "home_team": "Owen Sound Attack",
+        "away_team": "Kingston Frontenacs",
+        "winner": "Kingston Frontenacs",
+        "probabilities": {
+            "Owen Sound Attack": "29.85%",
+            "Kingston Frontenacs": "70.15%"
+        },
+        "odds": {
+            "Owen Sound Attack": "+218",
+            "Kingston Frontenacs": "-282"
+        },
+        "game_time": "2:00 pm"
+    },
+    {
+        "home_team": "Sarnia Sting",
+        "away_team": "Flint Firebirds",
+        "winner": "Flint Firebirds",
+        "probabilities": {
+            "Sarnia Sting": "38.09%",
+            "Flint Firebirds": "61.91%"
+        },
+        "odds": {
+            "Sarnia Sting": "+149",
+            "Flint Firebirds": "-187"
+        },
+        "game_time": "2:05 pm"
+    },
+    {
+        "home_team": "Guelph Storm",
+        "away_team": "Sudbury Wolves",
+        "winner": "Sudbury Wolves",
+        "probabilities": {
+            "Guelph Storm": "41.81%",
+            "Sudbury Wolves": "58.19%"
+        },
+        "odds": {
+            "Guelph Storm": "+127",
+            "Sudbury Wolves": "-158"
+        },
+        "game_time": "2:07 pm"
+    },
+    {
+        "home_team": "Ottawa 67's",
+        "away_team": "North Bay Battalion",
+        "winner": "Ottawa 67's",
+        "probabilities": {
+            "Ottawa 67's": "51.60%",
+            "North Bay Battalion": "48.40%"
+        },
+        "odds": {
+            "Ottawa 67's": "-119",
+            "North Bay Battalion": "-104"
+        },
+        "game_time": "3:00 pm"
+    },
+    {
+        "home_team": "Oshawa Generals",
+        "away_team": "Brantford Bulldogs",
+        "winner": "Brantford Bulldogs",
+        "probabilities": {
+            "Oshawa Generals": "44.99%",
+            "Brantford Bulldogs": "55.01%"
+        },
+        "odds": {
+            "Oshawa Generals": "+111",
+            "Brantford Bulldogs": "-138"
+        },
+        "game_time": "6:05 pm"
+    }
+]

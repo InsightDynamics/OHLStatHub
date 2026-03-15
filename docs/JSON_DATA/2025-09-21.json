@@ -1,0 +1,44 @@
+[
+    {
+        "home_team": "Niagara IceDogs",
+        "away_team": "Sudbury Wolves",
+        "winner": "Sudbury Wolves",
+        "probabilities": {
+            "Niagara IceDogs": "48.63%",
+            "Sudbury Wolves": "51.37%"
+        },
+        "odds": {
+            "Niagara IceDogs": "-105",
+            "Sudbury Wolves": "-118"
+        },
+        "game_time": "2:00 pm"
+    },
+    {
+        "home_team": "Soo Greyhounds",
+        "away_team": "Sarnia Sting",
+        "winner": "Soo Greyhounds",
+        "probabilities": {
+            "Soo Greyhounds": "62.06%",
+            "Sarnia Sting": "37.94%"
+        },
+        "odds": {
+            "Soo Greyhounds": "-188",
+            "Sarnia Sting": "+150"
+        },
+        "game_time": "2:07 pm"
+    },
+    {
+        "home_team": "Oshawa Generals",
+        "away_team": "Kingston Frontenacs",
+        "winner": "Kingston Frontenacs",
+        "probabilities": {
+            "Oshawa Generals": "42.65%",
+            "Kingston Frontenacs": "57.35%"
+        },
+        "odds": {
+            "Oshawa Generals": "+123",
+            "Kingston Frontenacs": "-152"
+        },
+        "game_time": "6:05 pm"
+    }
+]

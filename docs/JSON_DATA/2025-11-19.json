@@ -1,0 +1,30 @@
+[
+    {
+        "home_team": "Kingston Frontenacs",
+        "away_team": "Ottawa 67's",
+        "winner": "Kingston Frontenacs",
+        "probabilities": {
+            "Kingston Frontenacs": "71.46%",
+            "Ottawa 67's": "28.54%"
+        },
+        "odds": {
+            "Kingston Frontenacs": "-304",
+            "Ottawa 67's": "+233"
+        },
+        "game_time": "10:30 am"
+    },
+    {
+        "home_team": "Sudbury Wolves",
+        "away_team": "Barrie Colts",
+        "winner": "Barrie Colts",
+        "probabilities": {
+            "Sudbury Wolves": "46.02%",
+            "Barrie Colts": "53.98%"
+        },
+        "odds": {
+            "Sudbury Wolves": "+106",
+            "Barrie Colts": "-132"
+        },
+        "game_time": "7:05 pm"
+    }
+]

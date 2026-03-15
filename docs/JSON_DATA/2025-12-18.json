@@ -1,0 +1,58 @@
+[
+    {
+        "home_team": "Barrie Colts",
+        "away_team": "Sudbury Wolves",
+        "winner": "Barrie Colts",
+        "probabilities": {
+            "Barrie Colts": "53.98%",
+            "Sudbury Wolves": "46.02%"
+        },
+        "odds": {
+            "Barrie Colts": "-132",
+            "Sudbury Wolves": "+106"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "North Bay Battalion",
+        "away_team": "Guelph Storm",
+        "winner": "Guelph Storm",
+        "probabilities": {
+            "North Bay Battalion": "45.81%",
+            "Guelph Storm": "54.19%"
+        },
+        "odds": {
+            "North Bay Battalion": "+107",
+            "Guelph Storm": "-133"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Peterborough Petes",
+        "away_team": "Niagara IceDogs",
+        "winner": "Niagara IceDogs",
+        "probabilities": {
+            "Peterborough Petes": "27.53%",
+            "Niagara IceDogs": "72.47%"
+        },
+        "odds": {
+            "Peterborough Petes": "+245",
+            "Niagara IceDogs": "-322"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Windsor Spitfires",
+        "away_team": "Soo Greyhounds",
+        "winner": "Windsor Spitfires",
+        "probabilities": {
+            "Windsor Spitfires": "63.43%",
+            "Soo Greyhounds": "36.57%"
+        },
+        "odds": {
+            "Windsor Spitfires": "-201",
+            "Soo Greyhounds": "+160"
+        },
+        "game_time": "7:05 pm"
+    }
+]

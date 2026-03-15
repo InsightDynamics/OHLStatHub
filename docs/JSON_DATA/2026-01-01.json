@@ -1,0 +1,30 @@
+[
+    {
+        "home_team": "Oshawa Generals",
+        "away_team": "Ottawa 67's",
+        "winner": "Oshawa Generals",
+        "probabilities": {
+            "Oshawa Generals": "65.06%",
+            "Ottawa 67's": "34.94%"
+        },
+        "odds": {
+            "Oshawa Generals": "-217",
+            "Ottawa 67's": "+172"
+        },
+        "game_time": "2:05 pm"
+    },
+    {
+        "home_team": "Peterborough Petes",
+        "away_team": "Kingston Frontenacs",
+        "winner": "Kingston Frontenacs",
+        "probabilities": {
+            "Peterborough Petes": "18.15%",
+            "Kingston Frontenacs": "81.85%"
+        },
+        "odds": {
+            "Peterborough Petes": "+423",
+            "Kingston Frontenacs": "-622"
+        },
+        "game_time": "2:05 pm"
+    }
+]

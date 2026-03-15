@@ -1,0 +1,58 @@
+[
+    {
+        "home_team": "Ottawa 67's",
+        "away_team": "Brampton Steelheads",
+        "winner": "Brampton Steelheads",
+        "probabilities": {
+            "Ottawa 67's": "29.69%",
+            "Brampton Steelheads": "70.31%"
+        },
+        "odds": {
+            "Ottawa 67's": "+220",
+            "Brampton Steelheads": "-285"
+        },
+        "game_time": "10:30 am"
+    },
+    {
+        "home_team": "Owen Sound Attack",
+        "away_team": "Sarnia Sting",
+        "winner": "Owen Sound Attack",
+        "probabilities": {
+            "Owen Sound Attack": "54.29%",
+            "Sarnia Sting": "45.71%"
+        },
+        "odds": {
+            "Owen Sound Attack": "-133",
+            "Sarnia Sting": "+108"
+        },
+        "game_time": "10:30 am"
+    },
+    {
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Barrie Colts",
+        "winner": "Brantford Bulldogs",
+        "probabilities": {
+            "Brantford Bulldogs": "55.70%",
+            "Barrie Colts": "44.30%"
+        },
+        "odds": {
+            "Brantford Bulldogs": "-142",
+            "Barrie Colts": "+114"
+        },
+        "game_time": "6:00 pm"
+    },
+    {
+        "home_team": "Sudbury Wolves",
+        "away_team": "Soo Greyhounds",
+        "winner": "Sudbury Wolves",
+        "probabilities": {
+            "Sudbury Wolves": "51.27%",
+            "Soo Greyhounds": "48.73%"
+        },
+        "odds": {
+            "Sudbury Wolves": "-117",
+            "Soo Greyhounds": "-105"
+        },
+        "game_time": "6:00 pm"
+    }
+]

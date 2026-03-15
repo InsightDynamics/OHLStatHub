@@ -1,0 +1,44 @@
+[
+    {
+        "home_team": "Sarnia Sting",
+        "away_team": "Owen Sound Attack",
+        "winner": "Owen Sound Attack",
+        "probabilities": {
+            "Sarnia Sting": "45.71%",
+            "Owen Sound Attack": "54.29%"
+        },
+        "odds": {
+            "Sarnia Sting": "+108",
+            "Owen Sound Attack": "-133"
+        },
+        "game_time": "10:30 am"
+    },
+    {
+        "home_team": "Guelph Storm",
+        "away_team": "London Knights",
+        "winner": "London Knights",
+        "probabilities": {
+            "Guelph Storm": "28.85%",
+            "London Knights": "71.15%"
+        },
+        "odds": {
+            "Guelph Storm": "+229",
+            "London Knights": "-298"
+        },
+        "game_time": "6:37 pm"
+    },
+    {
+        "home_team": "Soo Greyhounds",
+        "away_team": "Flint Firebirds",
+        "winner": "Soo Greyhounds",
+        "probabilities": {
+            "Soo Greyhounds": "50.17%",
+            "Flint Firebirds": "49.83%"
+        },
+        "odds": {
+            "Soo Greyhounds": "-112",
+            "Flint Firebirds": "-110"
+        },
+        "game_time": "7:07 pm"
+    }
+]

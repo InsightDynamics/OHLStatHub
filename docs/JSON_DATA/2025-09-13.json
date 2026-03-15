@@ -1,0 +1,44 @@
+[
+    {
+        "home_team": "Brampton Steelheads",
+        "away_team": "Niagara IceDogs",
+        "winner": "Brampton Steelheads",
+        "probabilities": {
+            "Brampton Steelheads": "61.84%",
+            "Niagara IceDogs": "38.16%"
+        },
+        "odds": {
+            "Brampton Steelheads": "-186",
+            "Niagara IceDogs": "+149"
+        },
+        "game_time": "4:00 pm"
+    },
+    {
+        "home_team": "North Bay Battalion",
+        "away_team": "Owen Sound Attack",
+        "winner": "Owen Sound Attack",
+        "probabilities": {
+            "North Bay Battalion": "46.82%",
+            "Owen Sound Attack": "53.18%"
+        },
+        "odds": {
+            "North Bay Battalion": "+103",
+            "Owen Sound Attack": "-127"
+        },
+        "game_time": "4:00 pm"
+    },
+    {
+        "home_team": "Windsor Spitfires",
+        "away_team": "Kitchener Rangers",
+        "winner": "Windsor Spitfires",
+        "probabilities": {
+            "Windsor Spitfires": "56.96%",
+            "Kitchener Rangers": "43.04%"
+        },
+        "odds": {
+            "Windsor Spitfires": "-150",
+            "Kitchener Rangers": "+121"
+        },
+        "game_time": "7:05 pm"
+    }
+]

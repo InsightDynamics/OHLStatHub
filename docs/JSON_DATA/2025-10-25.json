@@ -1,0 +1,86 @@
+[
+    {
+        "home_team": "Brampton Steelheads",
+        "away_team": "North Bay Battalion",
+        "winner": "Brampton Steelheads",
+        "probabilities": {
+            "Brampton Steelheads": "71.63%",
+            "North Bay Battalion": "28.37%"
+        },
+        "odds": {
+            "Brampton Steelheads": "-306",
+            "North Bay Battalion": "+235"
+        },
+        "game_time": "4:00 pm"
+    },
+    {
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Oshawa Generals",
+        "winner": "Brantford Bulldogs",
+        "probabilities": {
+            "Brantford Bulldogs": "55.01%",
+            "Oshawa Generals": "44.99%"
+        },
+        "odds": {
+            "Brantford Bulldogs": "-138",
+            "Oshawa Generals": "+111"
+        },
+        "game_time": "5:00 pm"
+    },
+    {
+        "home_team": "Niagara IceDogs",
+        "away_team": "Kingston Frontenacs",
+        "winner": "Kingston Frontenacs",
+        "probabilities": {
+            "Niagara IceDogs": "36.86%",
+            "Kingston Frontenacs": "63.14%"
+        },
+        "odds": {
+            "Niagara IceDogs": "+158",
+            "Kingston Frontenacs": "-198"
+        },
+        "game_time": "6:00 pm"
+    },
+    {
+        "home_team": "Flint Firebirds",
+        "away_team": "Erie Otters",
+        "winner": "Erie Otters",
+        "probabilities": {
+            "Flint Firebirds": "47.77%",
+            "Erie Otters": "52.23%"
+        },
+        "odds": {
+            "Flint Firebirds": "-101",
+            "Erie Otters": "-122"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Saginaw Spirit",
+        "away_team": "Owen Sound Attack",
+        "winner": "Saginaw Spirit",
+        "probabilities": {
+            "Saginaw Spirit": "68.08%",
+            "Owen Sound Attack": "31.92%"
+        },
+        "odds": {
+            "Saginaw Spirit": "-253",
+            "Owen Sound Attack": "+198"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Barrie Colts",
+        "away_team": "Kitchener Rangers",
+        "winner": "Kitchener Rangers",
+        "probabilities": {
+            "Barrie Colts": "48.49%",
+            "Kitchener Rangers": "51.51%"
+        },
+        "odds": {
+            "Barrie Colts": "-104",
+            "Kitchener Rangers": "-118"
+        },
+        "game_time": "7:30 pm"
+    }
+]

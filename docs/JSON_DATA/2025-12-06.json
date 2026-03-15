@@ -1,0 +1,86 @@
+[
+    {
+        "home_team": "Brampton Steelheads",
+        "away_team": "Saginaw Spirit",
+        "winner": "Brampton Steelheads",
+        "probabilities": {
+            "Brampton Steelheads": "51.04%",
+            "Saginaw Spirit": "48.96%"
+        },
+        "odds": {
+            "Brampton Steelheads": "-116",
+            "Saginaw Spirit": "-106"
+        },
+        "game_time": "4:00 pm"
+    },
+    {
+        "home_team": "Brantford Bulldogs",
+        "away_team": "North Bay Battalion",
+        "winner": "Brantford Bulldogs",
+        "probabilities": {
+            "Brantford Bulldogs": "70.82%",
+            "North Bay Battalion": "29.18%"
+        },
+        "odds": {
+            "Brantford Bulldogs": "-293",
+            "North Bay Battalion": "+226"
+        },
+        "game_time": "4:00 pm"
+    },
+    {
+        "home_team": "Kingston Frontenacs",
+        "away_team": "Barrie Colts",
+        "winner": "Kingston Frontenacs",
+        "probabilities": {
+            "Kingston Frontenacs": "58.03%",
+            "Barrie Colts": "41.97%"
+        },
+        "odds": {
+            "Kingston Frontenacs": "-157",
+            "Barrie Colts": "+126"
+        },
+        "game_time": "4:05 pm"
+    },
+    {
+        "home_team": "Owen Sound Attack",
+        "away_team": "Erie Otters",
+        "winner": "Erie Otters",
+        "probabilities": {
+            "Owen Sound Attack": "40.06%",
+            "Erie Otters": "59.94%"
+        },
+        "odds": {
+            "Owen Sound Attack": "+137",
+            "Erie Otters": "-171"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Peterborough Petes",
+        "away_team": "Ottawa 67's",
+        "winner": "Ottawa 67's",
+        "probabilities": {
+            "Peterborough Petes": "35.70%",
+            "Ottawa 67's": "64.30%"
+        },
+        "odds": {
+            "Peterborough Petes": "+166",
+            "Ottawa 67's": "-209"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Windsor Spitfires",
+        "away_team": "London Knights",
+        "winner": "London Knights",
+        "probabilities": {
+            "Windsor Spitfires": "48.20%",
+            "London Knights": "51.80%"
+        },
+        "odds": {
+            "Windsor Spitfires": "-103",
+            "London Knights": "-120"
+        },
+        "game_time": "7:05 pm"
+    }
+]

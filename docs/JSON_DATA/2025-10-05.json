@@ -1,0 +1,72 @@
+[
+    {
+        "home_team": "Niagara IceDogs",
+        "away_team": "Barrie Colts",
+        "winner": "Barrie Colts",
+        "probabilities": {
+            "Niagara IceDogs": "44.66%",
+            "Barrie Colts": "55.34%"
+        },
+        "odds": {
+            "Niagara IceDogs": "+113",
+            "Barrie Colts": "-140"
+        },
+        "game_time": "2:00 pm"
+    },
+    {
+        "home_team": "North Bay Battalion",
+        "away_team": "Soo Greyhounds",
+        "winner": "Soo Greyhounds",
+        "probabilities": {
+            "North Bay Battalion": "38.99%",
+            "Soo Greyhounds": "61.01%"
+        },
+        "odds": {
+            "North Bay Battalion": "+144",
+            "Soo Greyhounds": "-179"
+        },
+        "game_time": "2:00 pm"
+    },
+    {
+        "home_team": "Owen Sound Attack",
+        "away_team": "Windsor Spitfires",
+        "winner": "Windsor Spitfires",
+        "probabilities": {
+            "Owen Sound Attack": "29.50%",
+            "Windsor Spitfires": "70.50%"
+        },
+        "odds": {
+            "Owen Sound Attack": "+222",
+            "Windsor Spitfires": "-288"
+        },
+        "game_time": "2:00 pm"
+    },
+    {
+        "home_team": "Kingston Frontenacs",
+        "away_team": "Erie Otters",
+        "winner": "Kingston Frontenacs",
+        "probabilities": {
+            "Kingston Frontenacs": "61.10%",
+            "Erie Otters": "38.90%"
+        },
+        "odds": {
+            "Kingston Frontenacs": "-180",
+            "Erie Otters": "+144"
+        },
+        "game_time": "2:05 pm"
+    },
+    {
+        "home_team": "Oshawa Generals",
+        "away_team": "Saginaw Spirit",
+        "winner": "Saginaw Spirit",
+        "probabilities": {
+            "Oshawa Generals": "45.04%",
+            "Saginaw Spirit": "54.96%"
+        },
+        "odds": {
+            "Oshawa Generals": "+111",
+            "Saginaw Spirit": "-137"
+        },
+        "game_time": "6:05 pm"
+    }
+]

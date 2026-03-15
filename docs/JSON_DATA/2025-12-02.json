@@ -1,0 +1,16 @@
+[
+    {
+        "home_team": "Kitchener Rangers",
+        "away_team": "Erie Otters",
+        "winner": "Kitchener Rangers",
+        "probabilities": {
+            "Kitchener Rangers": "54.70%",
+            "Erie Otters": "45.30%"
+        },
+        "odds": {
+            "Kitchener Rangers": "-136",
+            "Erie Otters": "+110"
+        },
+        "game_time": "7:00 pm"
+    }
+]

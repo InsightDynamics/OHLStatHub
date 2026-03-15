@@ -1,0 +1,30 @@
+[
+    {
+        "home_team": "Owen Sound Attack",
+        "away_team": "Barrie Colts",
+        "winner": "Barrie Colts",
+        "probabilities": {
+            "Owen Sound Attack": "37.04%",
+            "Barrie Colts": "62.96%"
+        },
+        "odds": {
+            "Owen Sound Attack": "+156",
+            "Barrie Colts": "-197"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Soo Greyhounds",
+        "away_team": "Saginaw Spirit",
+        "winner": "Saginaw Spirit",
+        "probabilities": {
+            "Soo Greyhounds": "39.25%",
+            "Saginaw Spirit": "60.75%"
+        },
+        "odds": {
+            "Soo Greyhounds": "+142",
+            "Saginaw Spirit": "-177"
+        },
+        "game_time": "7:07 pm"
+    }
+]

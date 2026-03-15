@@ -1,0 +1,58 @@
+[
+    {
+        "home_team": "Barrie Colts",
+        "away_team": "Saginaw Spirit",
+        "winner": "Saginaw Spirit",
+        "probabilities": {
+            "Barrie Colts": "44.36%",
+            "Saginaw Spirit": "55.64%"
+        },
+        "odds": {
+            "Barrie Colts": "+114",
+            "Saginaw Spirit": "-141"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "North Bay Battalion",
+        "away_team": "Erie Otters",
+        "winner": "Erie Otters",
+        "probabilities": {
+            "North Bay Battalion": "37.05%",
+            "Erie Otters": "62.95%"
+        },
+        "odds": {
+            "North Bay Battalion": "+156",
+            "Erie Otters": "-196"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Peterborough Petes",
+        "away_team": "Sarnia Sting",
+        "winner": "Sarnia Sting",
+        "probabilities": {
+            "Peterborough Petes": "38.24%",
+            "Sarnia Sting": "61.76%"
+        },
+        "odds": {
+            "Peterborough Petes": "+148",
+            "Sarnia Sting": "-186"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Windsor Spitfires",
+        "away_team": "Soo Greyhounds",
+        "winner": "Windsor Spitfires",
+        "probabilities": {
+            "Windsor Spitfires": "63.43%",
+            "Soo Greyhounds": "36.57%"
+        },
+        "odds": {
+            "Windsor Spitfires": "-201",
+            "Soo Greyhounds": "+160"
+        },
+        "game_time": "7:05 pm"
+    }
+]

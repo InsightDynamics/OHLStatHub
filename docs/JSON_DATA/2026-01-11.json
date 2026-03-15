@@ -1,0 +1,58 @@
+[
+    {
+        "home_team": "Sarnia Sting",
+        "away_team": "Kingston Frontenacs",
+        "winner": "Kingston Frontenacs",
+        "probabilities": {
+            "Sarnia Sting": "26.38%",
+            "Kingston Frontenacs": "73.62%"
+        },
+        "odds": {
+            "Sarnia Sting": "+260",
+            "Kingston Frontenacs": "-344"
+        },
+        "game_time": "2:05 pm"
+    },
+    {
+        "home_team": "Sudbury Wolves",
+        "away_team": "Ottawa 67's",
+        "winner": "Sudbury Wolves",
+        "probabilities": {
+            "Sudbury Wolves": "60.69%",
+            "Ottawa 67's": "39.31%"
+        },
+        "odds": {
+            "Sudbury Wolves": "-177",
+            "Ottawa 67's": "+142"
+        },
+        "game_time": "2:05 pm"
+    },
+    {
+        "home_team": "Windsor Spitfires",
+        "away_team": "Brantford Bulldogs",
+        "winner": "Windsor Spitfires",
+        "probabilities": {
+            "Windsor Spitfires": "52.79%",
+            "Brantford Bulldogs": "47.21%"
+        },
+        "odds": {
+            "Windsor Spitfires": "-125",
+            "Brantford Bulldogs": "+101"
+        },
+        "game_time": "4:05 pm"
+    },
+    {
+        "home_team": "Oshawa Generals",
+        "away_team": "Barrie Colts",
+        "winner": "Oshawa Generals",
+        "probabilities": {
+            "Oshawa Generals": "50.69%",
+            "Barrie Colts": "49.31%"
+        },
+        "odds": {
+            "Oshawa Generals": "-114",
+            "Barrie Colts": "-108"
+        },
+        "game_time": "6:05 pm"
+    }
+]

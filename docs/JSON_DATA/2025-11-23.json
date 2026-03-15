@@ -1,0 +1,58 @@
+[
+    {
+        "home_team": "Brampton Steelheads",
+        "away_team": "Sudbury Wolves",
+        "winner": "Brampton Steelheads",
+        "probabilities": {
+            "Brampton Steelheads": "60.53%",
+            "Sudbury Wolves": "39.47%"
+        },
+        "odds": {
+            "Brampton Steelheads": "-176",
+            "Sudbury Wolves": "+141"
+        },
+        "game_time": "2:00 pm"
+    },
+    {
+        "home_team": "Owen Sound Attack",
+        "away_team": "Flint Firebirds",
+        "winner": "Flint Firebirds",
+        "probabilities": {
+            "Owen Sound Attack": "42.22%",
+            "Flint Firebirds": "57.78%"
+        },
+        "odds": {
+            "Owen Sound Attack": "+125",
+            "Flint Firebirds": "-155"
+        },
+        "game_time": "2:00 pm"
+    },
+    {
+        "home_team": "Windsor Spitfires",
+        "away_team": "Guelph Storm",
+        "winner": "Windsor Spitfires",
+        "probabilities": {
+            "Windsor Spitfires": "69.65%",
+            "Guelph Storm": "30.35%"
+        },
+        "odds": {
+            "Windsor Spitfires": "-275",
+            "Guelph Storm": "+213"
+        },
+        "game_time": "4:05 pm"
+    },
+    {
+        "home_team": "Oshawa Generals",
+        "away_team": "Kitchener Rangers",
+        "winner": "Kitchener Rangers",
+        "probabilities": {
+            "Oshawa Generals": "49.18%",
+            "Kitchener Rangers": "50.82%"
+        },
+        "odds": {
+            "Oshawa Generals": "-107",
+            "Kitchener Rangers": "-115"
+        },
+        "game_time": "6:05 pm"
+    }
+]

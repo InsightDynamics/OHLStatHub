@@ -1,0 +1,16 @@
+[
+    {
+        "home_team": "Peterborough Petes",
+        "away_team": "North Bay Battalion",
+        "winner": "North Bay Battalion",
+        "probabilities": {
+            "Peterborough Petes": "37.19%",
+            "North Bay Battalion": "62.81%"
+        },
+        "odds": {
+            "Peterborough Petes": "+155",
+            "North Bay Battalion": "-195"
+        },
+        "game_time": "7:05 pm"
+    }
+]
