@@ -1,44 +1,5 @@
 [
     {
-        "date": "2025-09-05",
-        "home_team": "Sarnia Sting",
-        "away_team": "North Bay Battalion",
-        "predicted_winner": "North Bay Battalion",
-        "actual_winner": "North Bay Battalion",
-        "home_score": 2,
-        "away_score": 7,
-        "odds": {
-            "Sarnia Sting": "-106",
-            "North Bay Battalion": "-116"
-        }
-    },
-    {
-        "date": "2025-09-05",
-        "home_team": "Sudbury Wolves",
-        "away_team": "Soo Greyhounds",
-        "predicted_winner": "Sudbury Wolves",
-        "actual_winner": "Sudbury Wolves",
-        "home_score": 6,
-        "away_score": 5,
-        "odds": {
-            "Sudbury Wolves": "-117",
-            "Soo Greyhounds": "-105"
-        }
-    },
-    {
-        "date": "2025-09-06",
-        "home_team": "Ottawa 67's",
-        "away_team": "North Bay Battalion",
-        "predicted_winner": "Ottawa 67's",
-        "actual_winner": "Ottawa 67's",
-        "home_score": 6,
-        "away_score": 1,
-        "odds": {
-            "Ottawa 67's": "-119",
-            "North Bay Battalion": "-104"
-        }
-    },
-    {
         "date": "2025-09-12",
         "home_team": "Kitchener Rangers",
         "away_team": "Oshawa Generals",

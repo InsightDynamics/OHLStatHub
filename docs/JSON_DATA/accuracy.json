@@ -1,154 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-09-05",
-            "accuracy": 75.0,
-            "correct_predictions": 6,
-            "total_games": 8,
-            "game_details": [
-                {
-                    "home_team": "Brampton Steelheads",
-                    "away_team": "Owen Sound Attack",
-                    "predicted_winner": "Brampton Steelheads",
-                    "actual_winner": "Brampton Steelheads",
-                    "home_score": 6,
-                    "away_score": 2,
-                    "odds": {
-                        "Brampton Steelheads": "-265",
-                        "Owen Sound Attack": "+206"
-                    }
-                },
-                {
-                    "home_team": "Brantford Bulldogs",
-                    "away_team": "Niagara IceDogs",
-                    "predicted_winner": "Brantford Bulldogs",
-                    "actual_winner": "Brantford Bulldogs",
-                    "home_score": 7,
-                    "away_score": 2,
-                    "odds": {
-                        "Brantford Bulldogs": "-179",
-                        "Niagara IceDogs": "+143"
-                    }
-                },
-                {
-                    "home_team": "Flint Firebirds",
-                    "away_team": "Windsor Spitfires",
-                    "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Flint Firebirds",
-                    "home_score": 8,
-                    "away_score": 1,
-                    "odds": {
-                        "Flint Firebirds": "+161",
-                        "Windsor Spitfires": "-202"
-                    }
-                },
-                {
-                    "home_team": "London Knights",
-                    "away_team": "Erie Otters",
-                    "predicted_winner": "London Knights",
-                    "actual_winner": "London Knights",
-                    "home_score": 2,
-                    "away_score": 1,
-                    "odds": {
-                        "London Knights": "-199",
-                        "Erie Otters": "+158"
-                    }
-                },
-                {
-                    "home_team": "Ottawa 67's",
-                    "away_team": "Kingston Frontenacs",
-                    "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Kingston Frontenacs",
-                    "home_score": 2,
-                    "away_score": 3,
-                    "odds": {
-                        "Ottawa 67's": "+233",
-                        "Kingston Frontenacs": "-304"
-                    }
-                },
-                {
-                    "home_team": "Sarnia Sting",
-                    "away_team": "North Bay Battalion",
-                    "predicted_winner": "North Bay Battalion",
-                    "actual_winner": "North Bay Battalion",
-                    "home_score": 2,
-                    "away_score": 7,
-                    "odds": {
-                        "Sarnia Sting": "-106",
-                        "North Bay Battalion": "-116"
-                    }
-                },
-                {
-                    "home_team": "Sudbury Wolves",
-                    "away_team": "Soo Greyhounds",
-                    "predicted_winner": "Sudbury Wolves",
-                    "actual_winner": "Sudbury Wolves",
-                    "home_score": 6,
-                    "away_score": 5,
-                    "odds": {
-                        "Sudbury Wolves": "-117",
-                        "Soo Greyhounds": "-105"
-                    }
-                },
-                {
-                    "home_team": "Guelph Storm",
-                    "away_team": "Oshawa Generals",
-                    "predicted_winner": "Oshawa Generals",
-                    "actual_winner": "Guelph Storm",
-                    "home_score": 6,
-                    "away_score": 4,
-                    "odds": {
-                        "Guelph Storm": "+154",
-                        "Oshawa Generals": "-194"
-                    }
-                }
-            ]
-        },
-        {
-            "date": "2025-09-06",
-            "accuracy": 100.0,
-            "correct_predictions": 3,
-            "total_games": 3,
-            "game_details": [
-                {
-                    "home_team": "Ottawa 67's",
-                    "away_team": "North Bay Battalion",
-                    "predicted_winner": "Ottawa 67's",
-                    "actual_winner": "Ottawa 67's",
-                    "home_score": 6,
-                    "away_score": 1,
-                    "odds": {
-                        "Ottawa 67's": "-119",
-                        "North Bay Battalion": "-104"
-                    }
-                },
-                {
-                    "home_team": "Erie Otters",
-                    "away_team": "London Knights",
-                    "predicted_winner": "London Knights",
-                    "actual_winner": "London Knights",
-                    "home_score": 0,
-                    "away_score": 2,
-                    "odds": {
-                        "Erie Otters": "+158",
-                        "London Knights": "-199"
-                    }
-                },
-                {
-                    "home_team": "Sarnia Sting",
-                    "away_team": "Barrie Colts",
-                    "predicted_winner": "Barrie Colts",
-                    "actual_winner": "Barrie Colts",
-                    "home_score": 3,
-                    "away_score": 5,
-                    "odds": {
-                        "Sarnia Sting": "+187",
-                        "Barrie Colts": "-238"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-09-07",
             "accuracy": 50.0,
             "correct_predictions": 2,
@@ -5941,13 +5793,13 @@
             ]
         }
     ],
-    "total_accuracy": 51.5,
-    "tossup_accuracy": 48.4,
-    "non_tossup_accuracy": 52.0,
-    "total_correct": 224,
-    "total_games": 435,
-    "tossup_correct": 30,
-    "tossup_games": 62,
-    "non_tossup_correct": 194,
-    "non_tossup_games": 373
+    "total_accuracy": 50.7,
+    "tossup_accuracy": 45.8,
+    "non_tossup_accuracy": 51.5,
+    "total_correct": 215,
+    "total_games": 424,
+    "tossup_correct": 27,
+    "tossup_games": 59,
+    "non_tossup_correct": 188,
+    "non_tossup_games": 365
 }
