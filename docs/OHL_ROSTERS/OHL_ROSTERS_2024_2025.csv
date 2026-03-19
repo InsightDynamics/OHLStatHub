@@ -345,7 +345,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8632,Taos Jordan,Jordan,Taos,D,L,5.11,190.0,2004-03-29,Owen Sound Attack,Midwest Division,24,0
 8471,Declan Waddick,Waddick,Declan,LW,L,5.09,172.0,2005-01-24,Owen Sound Attack,Midwest Division,27,0
 9357,Finn Kearns,Kearns,Finn,D,L,6.03,212.0,2008-06-08,Sudbury Wolves,Central Division,2,1
-9341,Bodhi Ryan,Ryan,Bodhi,C,L,5.11,146.0,2008-07-08,Sudbury Wolves,Central Division,2,1
 9204,Brady Smith,Smith,Brady,D,L,6.02,196.0,2008-03-27,Sudbury Wolves,Central Division,3,0
 9049,Trevor O’Dell,O’Dell,Trevor,D,L,6.04,180.0,2006-07-17,Sudbury Wolves,Central Division,4,0
 9199,Henry Doucet,Doucet,Henry,LW,L,6.00,187.0,2008-08-11,Sudbury Wolves,Central Division,5,1
@@ -373,6 +372,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8402,Nick DeAngelis,DeAngelis,Nick,D,L,6.02,188.0,2004-05-22,Sudbury Wolves,Central Division,95,0
 8887,Ondrej Molnar,Molnar,Ondrej,LW,L,5.10,175.0,2005-02-08,Sudbury Wolves,Central Division,96,0
 9071,Spencer Horgan,Horgan,Spencer,D,R,5.11,165.0,2005-03-17,Sudbury Wolves,Central Division,2,0
+9341,Bodhi Ryan,Ryan,Bodhi,C,L,5.11,146.0,2008-07-08,Sudbury Wolves,Central Division,2,1
 9365,Jayden Connors,Connors,Jayden,D,R,5.10,185.0,2007-02-26,Sudbury Wolves,Central Division,5,0
 9261,Mason Walker,Walker,Mason,LW,L,5.10,169.0,2008-11-26,Sudbury Wolves,Central Division,16,1
 9332,Jack Ziliotto,Ziliotto,Jack,C,R,6.02,185.0,2005-06-22,Sudbury Wolves,Central Division,16,0
@@ -563,7 +563,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8706,Reed Gee,Gee,Reed,D,L,6.00,185.0,2006-03-12,Brampton Steelheads,Central Division,8,0
 9308,Julian DeMiglio,DeMiglio,Julian,C,L,5.11,180.0,2006-04-22,Brampton Steelheads,Central Division,9,0
 9301,Aidan Lane,Lane,Aidan,RW,R,6.01,193.0,2007-02-04,Brampton Steelheads,Central Division,11,1
-9304,Thomas Kuipers,Kuipers,Thomas,RW,R,6.02,180.0,2006-04-20,Brampton Steelheads,Central Division,12,0
 8950,Kieran Witkowski,Witkowski,Kieran,LW,L,5.11,176.0,2007-02-07,Brampton Steelheads,Central Division,13,0
 8802,Jack Van Volsen,Van Volsen,Jack,C,L,6.02,190.0,2006-01-12,Brampton Steelheads,Central Division,14,0
 8349,Carson Rehkopf,Rehkopf,Carson,RW,L,6.02,202.0,2005-01-07,Brampton Steelheads,Central Division,16,0
@@ -586,6 +585,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8605,Adam Zidlicky,Zidlicky,Adam,LW,L,6.00,170.0,2005-01-28,Brampton Steelheads,Central Division,91,0
 8743,Porter Martone,Martone,Porter,RW,R,6.03,208.0,2006-10-26,Brampton Steelheads,Central Division,94,0
 9282,Alexander Stephen,Stephen,Alexander,D,L,6.03,195.0,2005-03-22,Brampton Steelheads,Central Division,2,0
+9304,Thomas Kuipers,Kuipers,Thomas,RW,R,6.02,180.0,2006-04-20,Brampton Steelheads,Central Division,12,0
 9082,Wyatt Jinman,Jinman,Wyatt,LW,L,6.02,160.0,2007-10-11,Brampton Steelheads,Central Division,21,0
 9274,Jared Harding,Harding,Jared,D,L,5.08,162.0,2007-12-05,Brampton Steelheads,Central Division,24,1
 9283,Graeme MacAuley,MacAuley,Graeme,D,L,6.00,190.0,2005-11-29,Brampton Steelheads,Central Division,26,0
