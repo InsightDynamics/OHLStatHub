@@ -1,6 +1,4 @@
 Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
-2025-09-18,7:00 pm,North Bay Battalion,4,Oshawa Generals,2,28150
-2025-09-18,7:05 pm,Peterborough Petes,6,Brampton Steelheads,3,28151
 2025-09-19,7:00 pm,Brampton Steelheads,4,Niagara IceDogs,1,28152
 2025-09-19,7:00 pm,Kitchener Rangers,4,Brantford Bulldogs,3,28155
 2025-09-19,7:00 pm,London Knights,2,Owen Sound Attack,3,28156
@@ -678,8 +676,8 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2026-03-21,7:00 pm,Owen Sound Attack,8,Kitchener Rangers,7,28825
 2026-03-21,7:05 pm,Saginaw Spirit,3,Sarnia Sting,4,28826
 2026-03-21,7:30 pm,Barrie Colts,2,Niagara IceDogs,3,28821
-2026-03-22,2:00 pm,Brampton Steelheads,0,Brantford Bulldogs,0,28827
-2026-03-22,2:00 pm,Niagara IceDogs,0,Erie Otters,0,28828
-2026-03-22,2:00 pm,North Bay Battalion,0,Sudbury Wolves,0,28829
-2026-03-22,2:07 pm,Soo Greyhounds,0,Windsor Spitfires,0,28831
-2026-03-22,6:05 pm,Oshawa Generals,0,Peterborough Petes,0,28830
+2026-03-22,2:00 pm,Brampton Steelheads,6,Brantford Bulldogs,1,28827
+2026-03-22,2:00 pm,Niagara IceDogs,6,Erie Otters,5,28828
+2026-03-22,2:00 pm,North Bay Battalion,4,Sudbury Wolves,2,28829
+2026-03-22,2:07 pm,Soo Greyhounds,3,Windsor Spitfires,5,28831
+2026-03-22,6:05 pm,Oshawa Generals,3,Peterborough Petes,7,28830

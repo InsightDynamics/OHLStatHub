@@ -1,38 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-09-18",
-            "accuracy": 0.0,
-            "correct_predictions": 0,
-            "total_games": 2,
-            "game_details": [
-                {
-                    "home_team": "North Bay Battalion",
-                    "away_team": "Oshawa Generals",
-                    "predicted_winner": "Oshawa Generals",
-                    "actual_winner": "North Bay Battalion",
-                    "home_score": 4,
-                    "away_score": 2,
-                    "odds": {
-                        "North Bay Battalion": "+184",
-                        "Oshawa Generals": "-233"
-                    }
-                },
-                {
-                    "home_team": "Peterborough Petes",
-                    "away_team": "Brampton Steelheads",
-                    "predicted_winner": "Brampton Steelheads",
-                    "actual_winner": "Peterborough Petes",
-                    "home_score": 6,
-                    "away_score": 3,
-                    "odds": {
-                        "Peterborough Petes": "+400",
-                        "Brampton Steelheads": "-579"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-09-19",
             "accuracy": 37.5,
             "correct_predictions": 3,
@@ -5545,13 +5513,13 @@
             ]
         }
     ],
-    "total_accuracy": 50.0,
+    "total_accuracy": 50.2,
     "tossup_accuracy": 46.4,
-    "non_tossup_accuracy": 50.6,
+    "non_tossup_accuracy": 50.9,
     "total_correct": 203,
-    "total_games": 406,
+    "total_games": 404,
     "tossup_correct": 26,
     "tossup_games": 56,
     "non_tossup_correct": 177,
-    "non_tossup_games": 350
+    "non_tossup_games": 348
 }

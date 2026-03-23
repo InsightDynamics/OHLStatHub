@@ -1,31 +1,5 @@
 [
     {
-        "date": "2025-09-18",
-        "home_team": "North Bay Battalion",
-        "away_team": "Oshawa Generals",
-        "predicted_winner": "Oshawa Generals",
-        "actual_winner": "North Bay Battalion",
-        "home_score": 4,
-        "away_score": 2,
-        "odds": {
-            "North Bay Battalion": "+184",
-            "Oshawa Generals": "-233"
-        }
-    },
-    {
-        "date": "2025-09-18",
-        "home_team": "Peterborough Petes",
-        "away_team": "Brampton Steelheads",
-        "predicted_winner": "Brampton Steelheads",
-        "actual_winner": "Peterborough Petes",
-        "home_score": 6,
-        "away_score": 3,
-        "odds": {
-            "Peterborough Petes": "+400",
-            "Brampton Steelheads": "-579"
-        }
-    },
-    {
         "date": "2025-09-19",
         "home_team": "Brampton Steelheads",
         "away_team": "Niagara IceDogs",
