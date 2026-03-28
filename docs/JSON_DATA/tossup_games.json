@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-09-20",
-        "home_team": "Windsor Spitfires",
-        "away_team": "London Knights",
-        "predicted_winner": "London Knights",
-        "actual_winner": "Windsor Spitfires",
-        "home_score": 4,
-        "away_score": 1,
-        "odds": {
-            "Windsor Spitfires": "-103",
-            "London Knights": "-120"
-        }
-    },
-    {
         "date": "2025-09-21",
         "home_team": "Niagara IceDogs",
         "away_team": "Sudbury Wolves",

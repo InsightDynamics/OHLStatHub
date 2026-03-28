@@ -1,74 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-09-20",
-            "accuracy": 60.0,
-            "correct_predictions": 3,
-            "total_games": 5,
-            "game_details": [
-                {
-                    "home_team": "Brantford Bulldogs",
-                    "away_team": "Peterborough Petes",
-                    "predicted_winner": "Brantford Bulldogs",
-                    "actual_winner": "Brantford Bulldogs",
-                    "home_score": 5,
-                    "away_score": 1,
-                    "odds": {
-                        "Brantford Bulldogs": "-550",
-                        "Peterborough Petes": "+385"
-                    }
-                },
-                {
-                    "home_team": "Erie Otters",
-                    "away_team": "Kitchener Rangers",
-                    "predicted_winner": "Kitchener Rangers",
-                    "actual_winner": "Kitchener Rangers",
-                    "home_score": 1,
-                    "away_score": 3,
-                    "odds": {
-                        "Erie Otters": "+110",
-                        "Kitchener Rangers": "-136"
-                    }
-                },
-                {
-                    "home_team": "Saginaw Spirit",
-                    "away_team": "Flint Firebirds",
-                    "predicted_winner": "Saginaw Spirit",
-                    "actual_winner": "Flint Firebirds",
-                    "home_score": 5,
-                    "away_score": 6,
-                    "odds": {
-                        "Saginaw Spirit": "-179",
-                        "Flint Firebirds": "+143"
-                    }
-                },
-                {
-                    "home_team": "Windsor Spitfires",
-                    "away_team": "London Knights",
-                    "predicted_winner": "London Knights",
-                    "actual_winner": "Windsor Spitfires",
-                    "home_score": 4,
-                    "away_score": 1,
-                    "odds": {
-                        "Windsor Spitfires": "-103",
-                        "London Knights": "-120"
-                    }
-                },
-                {
-                    "home_team": "Barrie Colts",
-                    "away_team": "Guelph Storm",
-                    "predicted_winner": "Barrie Colts",
-                    "actual_winner": "Barrie Colts",
-                    "home_score": 6,
-                    "away_score": 2,
-                    "odds": {
-                        "Barrie Colts": "-188",
-                        "Guelph Storm": "+150"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-09-21",
             "accuracy": 66.7,
             "correct_predictions": 2,
@@ -5409,13 +5341,13 @@
             ]
         }
     ],
-    "total_accuracy": 50.5,
-    "tossup_accuracy": 46.4,
-    "non_tossup_accuracy": 51.2,
-    "total_correct": 200,
-    "total_games": 396,
+    "total_accuracy": 50.4,
+    "tossup_accuracy": 47.3,
+    "non_tossup_accuracy": 50.9,
+    "total_correct": 197,
+    "total_games": 391,
     "tossup_correct": 26,
-    "tossup_games": 56,
-    "non_tossup_correct": 174,
-    "non_tossup_games": 340
+    "tossup_games": 55,
+    "non_tossup_correct": 171,
+    "non_tossup_games": 336
 }

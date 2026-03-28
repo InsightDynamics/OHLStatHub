@@ -1,9 +1,4 @@
 Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
-2025-09-20,7:00 pm,Brantford Bulldogs,5,Peterborough Petes,1,28161
-2025-09-20,7:00 pm,Erie Otters,1,Kitchener Rangers,3,28162
-2025-09-20,7:05 pm,Saginaw Spirit,5,Flint Firebirds,6,28163
-2025-09-20,7:05 pm,Windsor Spitfires,4,London Knights,1,28164
-2025-09-20,7:30 pm,Barrie Colts,6,Guelph Storm,2,28160
 2025-09-21,2:00 pm,Niagara IceDogs,5,Sudbury Wolves,1,28165
 2025-09-21,2:07 pm,Soo Greyhounds,5,Sarnia Sting,2,28167
 2025-09-21,6:05 pm,Oshawa Generals,2,Kingston Frontenacs,5,28166
@@ -677,11 +672,11 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2026-03-26,7:00 pm,Flint Firebirds,8,Owen Sound Attack,1,28888
 2026-03-26,7:05 pm,Peterborough Petes,0,North Bay Battalion,1,28886
 2026-03-26,7:05 pm,Windsor Spitfires,4,Guelph Storm,0,28887
-2026-03-27,7:00 pm,Brantford Bulldogs,0,Sudbury Wolves,0,28889
-2026-03-27,7:00 pm,Ottawa 67's,0,Kingston Frontenacs,0,28890
-2026-03-27,7:00 pm,Kitchener Rangers,0,Saginaw Spirit,0,28892
-2026-03-27,7:00 pm,London Knights,0,Soo Greyhounds,0,28893
-2026-03-27,7:05 pm,Peterborough Petes,0,North Bay Battalion,0,28891
+2026-03-27,7:00 pm,Brantford Bulldogs,3,Sudbury Wolves,1,28889
+2026-03-27,7:00 pm,Ottawa 67's,5,Kingston Frontenacs,4,28890
+2026-03-27,7:00 pm,Kitchener Rangers,2,Saginaw Spirit,3,28892
+2026-03-27,7:00 pm,London Knights,1,Soo Greyhounds,3,28893
+2026-03-27,7:05 pm,Peterborough Petes,3,North Bay Battalion,3,28891
 2026-03-28,7:00 pm,Flint Firebirds,0,Owen Sound Attack,0,28896
 2026-03-28,7:05 pm,Windsor Spitfires,0,Guelph Storm,0,28895
 2026-03-28,7:30 pm,Barrie Colts,0,Niagara IceDogs,0,28894
