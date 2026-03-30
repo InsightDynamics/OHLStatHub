@@ -1,7 +1,4 @@
 Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
-2025-09-25,7:00 pm,Barrie Colts,1,Owen Sound Attack,2,28168
-2025-09-25,7:05 pm,Peterborough Petes,0,Soo Greyhounds,3,28169
-2025-09-25,7:05 pm,Windsor Spitfires,4,Sudbury Wolves,0,28170
 2025-09-26,7:00 pm,Kitchener Rangers,5,Erie Otters,2,28173
 2025-09-26,7:00 pm,London Knights,1,Brampton Steelheads,2,28174
 2025-09-26,7:00 pm,North Bay Battalion,1,Ottawa 67's,3,28175
@@ -677,17 +674,17 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2026-03-28,7:00 pm,Flint Firebirds,11,Owen Sound Attack,1,28896
 2026-03-28,7:05 pm,Windsor Spitfires,4,Guelph Storm,1,28895
 2026-03-28,7:30 pm,Barrie Colts,3,Niagara IceDogs,4,28894
-2026-03-29,2:05 pm,North Bay Battalion,0,Peterborough Petes,0,28899
-2026-03-29,3:00 pm,Ottawa 67's,0,Kingston Frontenacs,0,28898
-2026-03-29,4:00 pm,Brantford Bulldogs,0,Sudbury Wolves,0,28897
-2026-03-29,6:00 pm,London Knights,0,Soo Greyhounds,0,28901
-2026-03-29,7:00 pm,Kitchener Rangers,0,Saginaw Spirit,0,28900
+2026-03-29,2:00 pm,North Bay Battalion,1,Peterborough Petes,2,28899
+2026-03-29,3:00 pm,Ottawa 67's,4,Kingston Frontenacs,3,28898
+2026-03-29,4:00 pm,Brantford Bulldogs,4,Sudbury Wolves,2,28897
+2026-03-29,6:00 pm,London Knights,2,Soo Greyhounds,2,28901
+2026-03-29,7:00 pm,Kitchener Rangers,3,Saginaw Spirit,0,28900
 2026-03-30,7:00 pm,Owen Sound Attack,0,Flint Firebirds,0,28902
 2026-03-31,6:30 pm,Guelph Storm,0,Windsor Spitfires,0,28908
 2026-03-31,7:00 pm,Niagara IceDogs,0,Barrie Colts,0,28904
+2026-03-31,7:00 pm,North Bay Battalion,0,Peterborough Petes,0,28906
 2026-03-31,7:05 pm,Sudbury Wolves,0,Brantford Bulldogs,0,28903
 2026-03-31,7:05 pm,Kingston Frontenacs,0,Ottawa 67's,0,28905
-2026-03-31,7:05 pm,North Bay Battalion,0,Peterborough Petes,0,28906
 2026-03-31,7:05 pm,Saginaw Spirit,0,Kitchener Rangers,0,28907
 2026-03-31,8:07 pm,Soo Greyhounds,0,London Knights,0,28909
 2026-04-01,7:00 pm,Owen Sound Attack,0,Flint Firebirds,0,28910
@@ -702,8 +699,8 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2026-04-03,7:00 pm,London Knights,0,Soo Greyhounds,0,28919
 2026-04-04,7:00 pm,Brantford Bulldogs,0,Sudbury Wolves,0,28920
 2026-04-04,7:00 pm,Ottawa 67's,0,Kingston Frontenacs,0,28922
+2026-04-04,7:00 pm,North Bay Battalion,0,Peterborough Petes,0,28923
 2026-04-04,7:00 pm,Flint Firebirds,0,Owen Sound Attack,0,28925
-2026-04-04,7:05 pm,North Bay Battalion,0,Peterborough Petes,0,28923
 2026-04-04,7:05 pm,Windsor Spitfires,0,Guelph Storm,0,28924
 2026-04-04,7:30 pm,Barrie Colts,0,Niagara IceDogs,0,28921
 2026-04-05,7:07 pm,Soo Greyhounds,0,London Knights,0,28927
