@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-09-26",
-        "home_team": "North Bay Battalion",
-        "away_team": "Ottawa 67's",
-        "predicted_winner": "Ottawa 67's",
-        "actual_winner": "Ottawa 67's",
-        "home_score": 1,
-        "away_score": 3,
-        "odds": {
-            "North Bay Battalion": "-104",
-            "Ottawa 67's": "-119"
-        }
-    },
-    {
         "date": "2025-09-27",
         "home_team": "Flint Firebirds",
         "away_team": "Niagara IceDogs",
