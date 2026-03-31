@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-09-27",
-        "home_team": "Flint Firebirds",
-        "away_team": "Niagara IceDogs",
-        "predicted_winner": "Niagara IceDogs",
-        "actual_winner": "Niagara IceDogs",
-        "home_score": 0,
-        "away_score": 4,
-        "odds": {
-            "Flint Firebirds": "-111",
-            "Niagara IceDogs": "-111"
-        }
-    },
-    {
         "date": "2025-10-04",
         "home_team": "Barrie Colts",
         "away_team": "Oshawa Generals",
