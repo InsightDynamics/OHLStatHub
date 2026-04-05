@@ -1,86 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-10-04",
-            "accuracy": 50.0,
-            "correct_predictions": 3,
-            "total_games": 6,
-            "game_details": [
-                {
-                    "home_team": "Ottawa 67's",
-                    "away_team": "Erie Otters",
-                    "predicted_winner": "Erie Otters",
-                    "actual_winner": "Ottawa 67's",
-                    "home_score": 4,
-                    "away_score": 1,
-                    "odds": {
-                        "Ottawa 67's": "+146",
-                        "Erie Otters": "-183"
-                    }
-                },
-                {
-                    "home_team": "Brantford Bulldogs",
-                    "away_team": "Windsor Spitfires",
-                    "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Windsor Spitfires",
-                    "home_score": 3,
-                    "away_score": 4,
-                    "odds": {
-                        "Brantford Bulldogs": "+101",
-                        "Windsor Spitfires": "-125"
-                    }
-                },
-                {
-                    "home_team": "Owen Sound Attack",
-                    "away_team": "Saginaw Spirit",
-                    "predicted_winner": "Saginaw Spirit",
-                    "actual_winner": "Saginaw Spirit",
-                    "home_score": 5,
-                    "away_score": 7,
-                    "odds": {
-                        "Owen Sound Attack": "+198",
-                        "Saginaw Spirit": "-253"
-                    }
-                },
-                {
-                    "home_team": "Guelph Storm",
-                    "away_team": "London Knights",
-                    "predicted_winner": "London Knights",
-                    "actual_winner": "London Knights",
-                    "home_score": 2,
-                    "away_score": 3,
-                    "odds": {
-                        "Guelph Storm": "+229",
-                        "London Knights": "-298"
-                    }
-                },
-                {
-                    "home_team": "Flint Firebirds",
-                    "away_team": "Sarnia Sting",
-                    "predicted_winner": "Flint Firebirds",
-                    "actual_winner": "Sarnia Sting",
-                    "home_score": 2,
-                    "away_score": 4,
-                    "odds": {
-                        "Flint Firebirds": "-187",
-                        "Sarnia Sting": "+149"
-                    }
-                },
-                {
-                    "home_team": "Barrie Colts",
-                    "away_team": "Oshawa Generals",
-                    "predicted_winner": "Oshawa Generals",
-                    "actual_winner": "Barrie Colts",
-                    "home_score": 5,
-                    "away_score": 3,
-                    "odds": {
-                        "Barrie Colts": "-108",
-                        "Oshawa Generals": "-114"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-10-05",
             "accuracy": 60.0,
             "correct_predictions": 3,
@@ -4854,12 +4774,12 @@
         }
     ],
     "total_accuracy": 49.9,
-    "tossup_accuracy": 46.2,
-    "non_tossup_accuracy": 50.5,
-    "total_correct": 177,
-    "total_games": 355,
+    "tossup_accuracy": 47.1,
+    "non_tossup_accuracy": 50.3,
+    "total_correct": 174,
+    "total_games": 349,
     "tossup_correct": 24,
-    "tossup_games": 52,
-    "non_tossup_correct": 153,
-    "non_tossup_games": 303
+    "tossup_games": 51,
+    "non_tossup_correct": 150,
+    "non_tossup_games": 298
 }

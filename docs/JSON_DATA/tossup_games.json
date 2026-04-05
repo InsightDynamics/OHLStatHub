@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-10-04",
-        "home_team": "Barrie Colts",
-        "away_team": "Oshawa Generals",
-        "predicted_winner": "Oshawa Generals",
-        "actual_winner": "Barrie Colts",
-        "home_score": 5,
-        "away_score": 3,
-        "odds": {
-            "Barrie Colts": "-108",
-            "Oshawa Generals": "-114"
-        }
-    },
-    {
         "date": "2025-10-11",
         "home_team": "Erie Otters",
         "away_team": "Sudbury Wolves",

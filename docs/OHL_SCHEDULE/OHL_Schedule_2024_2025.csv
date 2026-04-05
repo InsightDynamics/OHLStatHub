@@ -1,10 +1,4 @@
 Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
-2025-10-04,3:00 pm,Ottawa 67's,4,Erie Otters,1,28205
-2025-10-04,4:00 pm,Brantford Bulldogs,3,Windsor Spitfires,4,28202
-2025-10-04,4:00 pm,Owen Sound Attack,5,Saginaw Spirit,7,28206
-2025-10-04,4:07 pm,Guelph Storm,2,London Knights,3,28204
-2025-10-04,7:00 pm,Flint Firebirds,2,Sarnia Sting,4,28203
-2025-10-04,7:30 pm,Barrie Colts,5,Oshawa Generals,3,28201
 2025-10-05,2:00 pm,Niagara IceDogs,5,Barrie Colts,6,28208
 2025-10-05,2:00 pm,North Bay Battalion,3,Soo Greyhounds,4,28209
 2025-10-05,2:00 pm,Owen Sound Attack,6,Windsor Spitfires,3,28211
@@ -665,8 +659,8 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2026-04-02,7:05 pm,Saginaw Spirit,1,Kitchener Rangers,5,28916
 2026-04-02,7:07 pm,Guelph Storm,3,Windsor Spitfires,11,28917
 2026-04-03,7:00 pm,London Knights,0,Soo Greyhounds,4,28919
-2026-04-04,7:00 pm,North Bay Battalion,0,Peterborough Petes,0,28923
-2026-04-04,7:30 pm,Barrie Colts,0,Niagara IceDogs,0,28921
+2026-04-04,7:00 pm,North Bay Battalion,3,Peterborough Petes,2,28923
+2026-04-04,7:30 pm,Barrie Colts,3,Niagara IceDogs,0,28921
 2026-04-06,7:00 pm,Niagara IceDogs,0,Barrie Colts,0,28926
 2026-04-06,7:05 pm,Peterborough Petes,0,North Bay Battalion,0,28930
 2026-04-07,7:00 pm,Barrie Colts,0,Niagara IceDogs,0,28935
