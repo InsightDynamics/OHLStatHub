@@ -1,26 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-10-08",
-            "accuracy": 0.0,
-            "correct_predictions": 0,
-            "total_games": 1,
-            "game_details": [
-                {
-                    "home_team": "Flint Firebirds",
-                    "away_team": "Kitchener Rangers",
-                    "predicted_winner": "Kitchener Rangers",
-                    "actual_winner": "Flint Firebirds",
-                    "home_score": 3,
-                    "away_score": 0,
-                    "odds": {
-                        "Flint Firebirds": "+120",
-                        "Kitchener Rangers": "-149"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-10-09",
             "accuracy": 50.0,
             "correct_predictions": 2,
@@ -4705,13 +4685,13 @@
             ]
         }
     ],
-    "total_accuracy": 49.7,
+    "total_accuracy": 49.9,
     "tossup_accuracy": 47.1,
-    "non_tossup_accuracy": 50.2,
+    "non_tossup_accuracy": 50.3,
     "total_correct": 171,
-    "total_games": 344,
+    "total_games": 343,
     "tossup_correct": 24,
     "tossup_games": 51,
     "non_tossup_correct": 147,
-    "non_tossup_games": 293
+    "non_tossup_games": 292
 }
