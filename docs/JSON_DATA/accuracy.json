@@ -1,62 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-10-09",
-            "accuracy": 50.0,
-            "correct_predictions": 2,
-            "total_games": 4,
-            "game_details": [
-                {
-                    "home_team": "Barrie Colts",
-                    "away_team": "Ottawa 67's",
-                    "predicted_winner": "Barrie Colts",
-                    "actual_winner": "Ottawa 67's",
-                    "home_score": 1,
-                    "away_score": 2,
-                    "odds": {
-                        "Barrie Colts": "-211",
-                        "Ottawa 67's": "+167"
-                    }
-                },
-                {
-                    "home_team": "Niagara IceDogs",
-                    "away_team": "Brantford Bulldogs",
-                    "predicted_winner": "Brantford Bulldogs",
-                    "actual_winner": "Brantford Bulldogs",
-                    "home_score": 4,
-                    "away_score": 7,
-                    "odds": {
-                        "Niagara IceDogs": "+143",
-                        "Brantford Bulldogs": "-179"
-                    }
-                },
-                {
-                    "home_team": "Peterborough Petes",
-                    "away_team": "Kingston Frontenacs",
-                    "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Peterborough Petes",
-                    "home_score": 5,
-                    "away_score": 2,
-                    "odds": {
-                        "Peterborough Petes": "+423",
-                        "Kingston Frontenacs": "-622"
-                    }
-                },
-                {
-                    "home_team": "Windsor Spitfires",
-                    "away_team": "Guelph Storm",
-                    "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Windsor Spitfires",
-                    "home_score": 3,
-                    "away_score": 2,
-                    "odds": {
-                        "Windsor Spitfires": "-275",
-                        "Guelph Storm": "+213"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-10-10",
             "accuracy": 57.1,
             "correct_predictions": 4,
@@ -4688,10 +4632,10 @@
     "total_accuracy": 49.9,
     "tossup_accuracy": 47.1,
     "non_tossup_accuracy": 50.3,
-    "total_correct": 171,
-    "total_games": 343,
+    "total_correct": 169,
+    "total_games": 339,
     "tossup_correct": 24,
     "tossup_games": 51,
-    "non_tossup_correct": 147,
-    "non_tossup_games": 292
+    "non_tossup_correct": 145,
+    "non_tossup_games": 288
 }
