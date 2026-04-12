@@ -1,98 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-10-10",
-            "accuracy": 57.1,
-            "correct_predictions": 4,
-            "total_games": 7,
-            "game_details": [
-                {
-                    "home_team": "Brampton Steelheads",
-                    "away_team": "Ottawa 67's",
-                    "predicted_winner": "Brampton Steelheads",
-                    "actual_winner": "Ottawa 67's",
-                    "home_score": 3,
-                    "away_score": 5,
-                    "odds": {
-                        "Brampton Steelheads": "-285",
-                        "Ottawa 67's": "+220"
-                    }
-                },
-                {
-                    "home_team": "Brantford Bulldogs",
-                    "away_team": "Sudbury Wolves",
-                    "predicted_winner": "Brantford Bulldogs",
-                    "actual_winner": "Brantford Bulldogs",
-                    "home_score": 6,
-                    "away_score": 0,
-                    "odds": {
-                        "Brantford Bulldogs": "-168",
-                        "Sudbury Wolves": "+135"
-                    }
-                },
-                {
-                    "home_team": "London Knights",
-                    "away_team": "Erie Otters",
-                    "predicted_winner": "London Knights",
-                    "actual_winner": "London Knights",
-                    "home_score": 6,
-                    "away_score": 1,
-                    "odds": {
-                        "London Knights": "-199",
-                        "Erie Otters": "+158"
-                    }
-                },
-                {
-                    "home_team": "Kingston Frontenacs",
-                    "away_team": "Peterborough Petes",
-                    "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Kingston Frontenacs",
-                    "home_score": 9,
-                    "away_score": 1,
-                    "odds": {
-                        "Kingston Frontenacs": "-622",
-                        "Peterborough Petes": "+423"
-                    }
-                },
-                {
-                    "home_team": "Sarnia Sting",
-                    "away_team": "Oshawa Generals",
-                    "predicted_winner": "Oshawa Generals",
-                    "actual_winner": "Oshawa Generals",
-                    "home_score": 1,
-                    "away_score": 3,
-                    "odds": {
-                        "Sarnia Sting": "+192",
-                        "Oshawa Generals": "-245"
-                    }
-                },
-                {
-                    "home_team": "Guelph Storm",
-                    "away_team": "North Bay Battalion",
-                    "predicted_winner": "Guelph Storm",
-                    "actual_winner": "North Bay Battalion",
-                    "home_score": 2,
-                    "away_score": 5,
-                    "odds": {
-                        "Guelph Storm": "-133",
-                        "North Bay Battalion": "+107"
-                    }
-                },
-                {
-                    "home_team": "Soo Greyhounds",
-                    "away_team": "Kitchener Rangers",
-                    "predicted_winner": "Kitchener Rangers",
-                    "actual_winner": "Soo Greyhounds",
-                    "home_score": 5,
-                    "away_score": 4,
-                    "odds": {
-                        "Soo Greyhounds": "+120",
-                        "Kitchener Rangers": "-148"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-10-11",
             "accuracy": 57.1,
             "correct_predictions": 4,
@@ -4629,13 +4537,13 @@
             ]
         }
     ],
-    "total_accuracy": 49.9,
+    "total_accuracy": 49.7,
     "tossup_accuracy": 47.1,
-    "non_tossup_accuracy": 50.3,
-    "total_correct": 169,
-    "total_games": 339,
+    "non_tossup_accuracy": 50.2,
+    "total_correct": 165,
+    "total_games": 332,
     "tossup_correct": 24,
     "tossup_games": 51,
-    "non_tossup_correct": 145,
-    "non_tossup_games": 288
+    "non_tossup_correct": 141,
+    "non_tossup_games": 281
 }
