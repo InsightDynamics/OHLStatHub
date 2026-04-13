@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-10-12",
-        "home_team": "Brantford Bulldogs",
-        "away_team": "Ottawa 67's",
-        "predicted_winner": "Brantford Bulldogs",
-        "actual_winner": "Brantford Bulldogs",
-        "home_score": 8,
-        "away_score": 5,
-        "odds": {
-            "Brantford Bulldogs": "-272",
-            "Ottawa 67's": "+211"
-        }
-    },
-    {
         "date": "2025-10-13",
         "home_team": "North Bay Battalion",
         "away_team": "Owen Sound Attack",

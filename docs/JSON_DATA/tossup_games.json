@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-10-12",
-        "home_team": "Niagara IceDogs",
-        "away_team": "Sudbury Wolves",
-        "predicted_winner": "Sudbury Wolves",
-        "actual_winner": "Niagara IceDogs",
-        "home_score": 4,
-        "away_score": 3,
-        "odds": {
-            "Niagara IceDogs": "-105",
-            "Sudbury Wolves": "-118"
-        }
-    },
-    {
         "date": "2025-10-17",
         "home_team": "Brampton Steelheads",
         "away_team": "Brantford Bulldogs",
