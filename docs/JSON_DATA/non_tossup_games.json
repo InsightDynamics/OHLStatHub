@@ -1,31 +1,5 @@
 [
     {
-        "date": "2025-10-13",
-        "home_team": "North Bay Battalion",
-        "away_team": "Owen Sound Attack",
-        "predicted_winner": "Owen Sound Attack",
-        "actual_winner": "Owen Sound Attack",
-        "home_score": 4,
-        "away_score": 6,
-        "odds": {
-            "North Bay Battalion": "+103",
-            "Owen Sound Attack": "-127"
-        }
-    },
-    {
-        "date": "2025-10-13",
-        "home_team": "Windsor Spitfires",
-        "away_team": "Oshawa Generals",
-        "predicted_winner": "Windsor Spitfires",
-        "actual_winner": "Oshawa Generals",
-        "home_score": 3,
-        "away_score": 4,
-        "odds": {
-            "Windsor Spitfires": "-155",
-            "Oshawa Generals": "+125"
-        }
-    },
-    {
         "date": "2025-10-14",
         "home_team": "Kitchener Rangers",
         "away_team": "Guelph Storm",
