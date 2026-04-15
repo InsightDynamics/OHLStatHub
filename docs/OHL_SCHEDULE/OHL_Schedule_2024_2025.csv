@@ -644,10 +644,11 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2026-04-12,2:00 pm,North Bay Battalion,2,Brantford Bulldogs,3,28944
 2026-04-12,4:05 pm,Windsor Spitfires,6,Flint Firebirds,5,28957
 2026-04-12,7:00 pm,Kitchener Rangers,8,Soo Greyhounds,5,28964
-2026-04-14,7:00 pm,North Bay Battalion,0,Brantford Bulldogs,0,28945
-2026-04-14,7:00 pm,Ottawa 67's,0,Barrie Colts,0,28951
-2026-04-14,7:00 pm,Flint Firebirds,0,Windsor Spitfires,0,28958
-2026-04-14,7:07 pm,Soo Greyhounds,0,Kitchener Rangers,0,28965
+2026-04-14,7:00 pm,Ottawa 67's,4,Barrie Colts,2,28951
+2026-04-14,7:00 pm,Flint Firebirds,1,Windsor Spitfires,2,28958
+2026-04-14,7:00 pm,North Bay Battalion,0,Brantford Bulldogs,0,28970
+2026-04-14,7:07 pm,Soo Greyhounds,2,Kitchener Rangers,3,28965
+2026-04-15,6:00 pm,North Bay Battalion,0,Brantford Bulldogs,0,28945
 2026-04-16,7:00 pm,Brantford Bulldogs,0,North Bay Battalion,0,28946
 2026-04-16,7:00 pm,Ottawa 67's,0,Barrie Colts,0,28952
 2026-04-16,7:00 pm,Flint Firebirds,0,Windsor Spitfires,0,28959
