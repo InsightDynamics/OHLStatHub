@@ -1,26 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-10-14",
-            "accuracy": 100.0,
-            "correct_predictions": 1,
-            "total_games": 1,
-            "game_details": [
-                {
-                    "home_team": "Kitchener Rangers",
-                    "away_team": "Guelph Storm",
-                    "predicted_winner": "Kitchener Rangers",
-                    "actual_winner": "Kitchener Rangers",
-                    "home_score": 6,
-                    "away_score": 1,
-                    "odds": {
-                        "Kitchener Rangers": "-201",
-                        "Guelph Storm": "+160"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-10-15",
             "accuracy": 0.0,
             "correct_predictions": 0,
@@ -4381,13 +4361,13 @@
             ]
         }
     ],
-    "total_accuracy": 49.5,
+    "total_accuracy": 49.4,
     "tossup_accuracy": 49.0,
-    "non_tossup_accuracy": 49.6,
-    "total_correct": 159,
-    "total_games": 321,
+    "non_tossup_accuracy": 49.4,
+    "total_correct": 158,
+    "total_games": 320,
     "tossup_correct": 24,
     "tossup_games": 49,
-    "non_tossup_correct": 135,
-    "non_tossup_games": 272
+    "non_tossup_correct": 134,
+    "non_tossup_games": 271
 }
