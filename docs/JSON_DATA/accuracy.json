@@ -1,26 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-10-16",
-            "accuracy": 0.0,
-            "correct_predictions": 0,
-            "total_games": 1,
-            "game_details": [
-                {
-                    "home_team": "Peterborough Petes",
-                    "away_team": "Oshawa Generals",
-                    "predicted_winner": "Oshawa Generals",
-                    "actual_winner": "Peterborough Petes",
-                    "home_score": 7,
-                    "away_score": 3,
-                    "odds": {
-                        "Peterborough Petes": "+314",
-                        "Oshawa Generals": "-429"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-10-17",
             "accuracy": 57.1,
             "correct_predictions": 4,
@@ -4329,13 +4309,13 @@
             ]
         }
     ],
-    "total_accuracy": 49.7,
+    "total_accuracy": 49.8,
     "tossup_accuracy": 49.0,
-    "non_tossup_accuracy": 49.8,
+    "non_tossup_accuracy": 50.0,
     "total_correct": 158,
-    "total_games": 318,
+    "total_games": 317,
     "tossup_correct": 24,
     "tossup_games": 49,
     "non_tossup_correct": 134,
-    "non_tossup_games": 269
+    "non_tossup_games": 268
 }
