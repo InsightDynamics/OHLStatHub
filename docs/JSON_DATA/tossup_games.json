@@ -1,57 +1,5 @@
 [
     {
-        "date": "2025-10-18",
-        "home_team": "Brantford Bulldogs",
-        "away_team": "Brampton Steelheads",
-        "predicted_winner": "Brampton Steelheads",
-        "actual_winner": "Brantford Bulldogs",
-        "home_score": 9,
-        "away_score": 3,
-        "odds": {
-            "Brantford Bulldogs": "-107",
-            "Brampton Steelheads": "-116"
-        }
-    },
-    {
-        "date": "2025-10-18",
-        "home_team": "Niagara IceDogs",
-        "away_team": "Erie Otters",
-        "predicted_winner": "Erie Otters",
-        "actual_winner": "Niagara IceDogs",
-        "home_score": 4,
-        "away_score": 3,
-        "odds": {
-            "Niagara IceDogs": "-101",
-            "Erie Otters": "-122"
-        }
-    },
-    {
-        "date": "2025-10-18",
-        "home_team": "Owen Sound Attack",
-        "away_team": "Guelph Storm",
-        "predicted_winner": "Guelph Storm",
-        "actual_winner": "Guelph Storm",
-        "home_score": 3,
-        "away_score": 6,
-        "odds": {
-            "Owen Sound Attack": "-106",
-            "Guelph Storm": "-116"
-        }
-    },
-    {
-        "date": "2025-10-18",
-        "home_team": "Soo Greyhounds",
-        "away_team": "Sudbury Wolves",
-        "predicted_winner": "Sudbury Wolves",
-        "actual_winner": "Soo Greyhounds",
-        "home_score": 3,
-        "away_score": 1,
-        "odds": {
-            "Soo Greyhounds": "-105",
-            "Sudbury Wolves": "-117"
-        }
-    },
-    {
         "date": "2025-10-22",
         "home_team": "Soo Greyhounds",
         "away_team": "Erie Otters",

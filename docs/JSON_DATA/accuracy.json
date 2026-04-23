@@ -1,122 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-10-18",
-            "accuracy": 22.2,
-            "correct_predictions": 2,
-            "total_games": 9,
-            "game_details": [
-                {
-                    "home_team": "Brantford Bulldogs",
-                    "away_team": "Brampton Steelheads",
-                    "predicted_winner": "Brampton Steelheads",
-                    "actual_winner": "Brantford Bulldogs",
-                    "home_score": 9,
-                    "away_score": 3,
-                    "odds": {
-                        "Brantford Bulldogs": "-107",
-                        "Brampton Steelheads": "-116"
-                    }
-                },
-                {
-                    "home_team": "Kingston Frontenacs",
-                    "away_team": "Oshawa Generals",
-                    "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Kingston Frontenacs",
-                    "home_score": 7,
-                    "away_score": 1,
-                    "odds": {
-                        "Kingston Frontenacs": "-152",
-                        "Oshawa Generals": "+123"
-                    }
-                },
-                {
-                    "home_team": "Flint Firebirds",
-                    "away_team": "Saginaw Spirit",
-                    "predicted_winner": "Saginaw Spirit",
-                    "actual_winner": "Flint Firebirds",
-                    "home_score": 5,
-                    "away_score": 4,
-                    "odds": {
-                        "Flint Firebirds": "+143",
-                        "Saginaw Spirit": "-179"
-                    }
-                },
-                {
-                    "home_team": "Niagara IceDogs",
-                    "away_team": "Erie Otters",
-                    "predicted_winner": "Erie Otters",
-                    "actual_winner": "Niagara IceDogs",
-                    "home_score": 4,
-                    "away_score": 3,
-                    "odds": {
-                        "Niagara IceDogs": "-101",
-                        "Erie Otters": "-122"
-                    }
-                },
-                {
-                    "home_team": "Owen Sound Attack",
-                    "away_team": "Guelph Storm",
-                    "predicted_winner": "Guelph Storm",
-                    "actual_winner": "Guelph Storm",
-                    "home_score": 3,
-                    "away_score": 6,
-                    "odds": {
-                        "Owen Sound Attack": "-106",
-                        "Guelph Storm": "-116"
-                    }
-                },
-                {
-                    "home_team": "Peterborough Petes",
-                    "away_team": "Ottawa 67's",
-                    "predicted_winner": "Ottawa 67's",
-                    "actual_winner": "Peterborough Petes",
-                    "home_score": 2,
-                    "away_score": 1,
-                    "odds": {
-                        "Peterborough Petes": "+166",
-                        "Ottawa 67's": "-209"
-                    }
-                },
-                {
-                    "home_team": "Windsor Spitfires",
-                    "away_team": "Sarnia Sting",
-                    "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Sarnia Sting",
-                    "home_score": 3,
-                    "away_score": 5,
-                    "odds": {
-                        "Windsor Spitfires": "-351",
-                        "Sarnia Sting": "+265"
-                    }
-                },
-                {
-                    "home_team": "Soo Greyhounds",
-                    "away_team": "Sudbury Wolves",
-                    "predicted_winner": "Sudbury Wolves",
-                    "actual_winner": "Soo Greyhounds",
-                    "home_score": 3,
-                    "away_score": 1,
-                    "odds": {
-                        "Soo Greyhounds": "-105",
-                        "Sudbury Wolves": "-117"
-                    }
-                },
-                {
-                    "home_team": "Barrie Colts",
-                    "away_team": "North Bay Battalion",
-                    "predicted_winner": "Barrie Colts",
-                    "actual_winner": "North Bay Battalion",
-                    "home_score": 3,
-                    "away_score": 4,
-                    "odds": {
-                        "Barrie Colts": "-226",
-                        "North Bay Battalion": "+178"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-10-19",
             "accuracy": 50.0,
             "correct_predictions": 3,
@@ -4217,13 +4101,13 @@
             ]
         }
     ],
-    "total_accuracy": 49.7,
-    "tossup_accuracy": 48.9,
-    "non_tossup_accuracy": 49.8,
-    "total_correct": 154,
-    "total_games": 310,
-    "tossup_correct": 22,
-    "tossup_games": 45,
-    "non_tossup_correct": 132,
-    "non_tossup_games": 265
+    "total_accuracy": 50.5,
+    "tossup_accuracy": 51.2,
+    "non_tossup_accuracy": 50.4,
+    "total_correct": 152,
+    "total_games": 301,
+    "tossup_correct": 21,
+    "tossup_games": 41,
+    "non_tossup_correct": 131,
+    "non_tossup_games": 260
 }
