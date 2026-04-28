@@ -1,38 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-10-23",
-            "accuracy": 100.0,
-            "correct_predictions": 2,
-            "total_games": 2,
-            "game_details": [
-                {
-                    "home_team": "North Bay Battalion",
-                    "away_team": "Peterborough Petes",
-                    "predicted_winner": "North Bay Battalion",
-                    "actual_winner": "North Bay Battalion",
-                    "home_score": 5,
-                    "away_score": 4,
-                    "odds": {
-                        "North Bay Battalion": "-195",
-                        "Peterborough Petes": "+155"
-                    }
-                },
-                {
-                    "home_team": "Windsor Spitfires",
-                    "away_team": "Ottawa 67's",
-                    "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Windsor Spitfires",
-                    "home_score": 2,
-                    "away_score": 0,
-                    "odds": {
-                        "Windsor Spitfires": "-309",
-                        "Ottawa 67's": "+237"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-10-24",
             "accuracy": 55.6,
             "correct_predictions": 5,
@@ -4001,13 +3969,13 @@
             ]
         }
     ],
-    "total_accuracy": 50.3,
+    "total_accuracy": 50.0,
     "tossup_accuracy": 50.0,
-    "non_tossup_accuracy": 50.4,
-    "total_correct": 148,
-    "total_games": 294,
+    "non_tossup_accuracy": 50.0,
+    "total_correct": 146,
+    "total_games": 292,
     "tossup_correct": 20,
     "tossup_games": 40,
-    "non_tossup_correct": 128,
-    "non_tossup_games": 254
+    "non_tossup_correct": 126,
+    "non_tossup_games": 252
 }
