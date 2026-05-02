@@ -1,12 +1,4 @@
 Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
-2025-10-26,2:00 pm,Brampton Steelheads,1,Niagara IceDogs,5,28279
-2025-10-26,2:05 pm,Sarnia Sting,0,London Knights,3,28284
-2025-10-26,2:05 pm,Sudbury Wolves,8,Peterborough Petes,2,28285
-2025-10-26,2:07 pm,Guelph Storm,4,Ottawa 67's,3,28281
-2025-10-26,4:00 pm,Flint Firebirds,6,Owen Sound Attack,2,28280
-2025-10-26,4:05 pm,Windsor Spitfires,5,Saginaw Spirit,6,28286
-2025-10-26,6:00 pm,Kitchener Rangers,3,North Bay Battalion,1,28282
-2025-10-26,6:05 pm,Oshawa Generals,1,Brantford Bulldogs,4,28283
 2025-10-29,10:30 am,Ottawa 67's,3,Brampton Steelheads,2,28288
 2025-10-29,10:30 am,Owen Sound Attack,7,Sarnia Sting,3,28289
 2025-10-29,6:00 pm,Brantford Bulldogs,4,Barrie Colts,5,28287
@@ -617,8 +609,8 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2026-04-28,7:00 pm,Barrie Colts,1,Brantford Bulldogs,6,28974
 2026-04-29,7:05 pm,Windsor Spitfires,3,Kitchener Rangers,6,28981
 2026-04-30,7:00 pm,Brantford Bulldogs,3,Barrie Colts,4,28975
-2026-05-01,7:00 pm,Kitchener Rangers,0,Windsor Spitfires,0,28982
-2026-05-02,7:00 pm,Barrie Colts,0,Brantford Bulldogs,0,28976
+2026-05-01,7:00 pm,Kitchener Rangers,3,Windsor Spitfires,4,28982
+2026-05-02,7:30 pm,Barrie Colts,0,Brantford Bulldogs,0,28976
 2026-05-03,4:05 pm,Windsor Spitfires,0,Kitchener Rangers,0,28983
 2026-05-04,7:00 pm,Brantford Bulldogs,0,Barrie Colts,0,28977
 2026-05-04,7:00 pm,Kitchener Rangers,0,Windsor Spitfires,0,28984
