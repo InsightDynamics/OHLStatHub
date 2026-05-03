@@ -1,44 +1,5 @@
 [
     {
-        "date": "2025-10-29",
-        "home_team": "Ottawa 67's",
-        "away_team": "Brampton Steelheads",
-        "predicted_winner": "Brampton Steelheads",
-        "actual_winner": "Ottawa 67's",
-        "home_score": 3,
-        "away_score": 2,
-        "odds": {
-            "Ottawa 67's": "+220",
-            "Brampton Steelheads": "-285"
-        }
-    },
-    {
-        "date": "2025-10-29",
-        "home_team": "Owen Sound Attack",
-        "away_team": "Sarnia Sting",
-        "predicted_winner": "Owen Sound Attack",
-        "actual_winner": "Owen Sound Attack",
-        "home_score": 7,
-        "away_score": 3,
-        "odds": {
-            "Owen Sound Attack": "-133",
-            "Sarnia Sting": "+108"
-        }
-    },
-    {
-        "date": "2025-10-29",
-        "home_team": "Brantford Bulldogs",
-        "away_team": "Barrie Colts",
-        "predicted_winner": "Brantford Bulldogs",
-        "actual_winner": "Barrie Colts",
-        "home_score": 4,
-        "away_score": 5,
-        "odds": {
-            "Brantford Bulldogs": "-142",
-            "Barrie Colts": "+114"
-        }
-    },
-    {
         "date": "2025-10-30",
         "home_team": "Barrie Colts",
         "away_team": "Sarnia Sting",

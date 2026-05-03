@@ -1,62 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-10-29",
-            "accuracy": 25.0,
-            "correct_predictions": 1,
-            "total_games": 4,
-            "game_details": [
-                {
-                    "home_team": "Ottawa 67's",
-                    "away_team": "Brampton Steelheads",
-                    "predicted_winner": "Brampton Steelheads",
-                    "actual_winner": "Ottawa 67's",
-                    "home_score": 3,
-                    "away_score": 2,
-                    "odds": {
-                        "Ottawa 67's": "+220",
-                        "Brampton Steelheads": "-285"
-                    }
-                },
-                {
-                    "home_team": "Owen Sound Attack",
-                    "away_team": "Sarnia Sting",
-                    "predicted_winner": "Owen Sound Attack",
-                    "actual_winner": "Owen Sound Attack",
-                    "home_score": 7,
-                    "away_score": 3,
-                    "odds": {
-                        "Owen Sound Attack": "-133",
-                        "Sarnia Sting": "+108"
-                    }
-                },
-                {
-                    "home_team": "Brantford Bulldogs",
-                    "away_team": "Barrie Colts",
-                    "predicted_winner": "Brantford Bulldogs",
-                    "actual_winner": "Barrie Colts",
-                    "home_score": 4,
-                    "away_score": 5,
-                    "odds": {
-                        "Brantford Bulldogs": "-142",
-                        "Barrie Colts": "+114"
-                    }
-                },
-                {
-                    "home_team": "Sudbury Wolves",
-                    "away_team": "Soo Greyhounds",
-                    "predicted_winner": "Sudbury Wolves",
-                    "actual_winner": "Soo Greyhounds",
-                    "home_score": 2,
-                    "away_score": 8,
-                    "odds": {
-                        "Sudbury Wolves": "-117",
-                        "Soo Greyhounds": "-105"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-10-30",
             "accuracy": 80.0,
             "correct_predictions": 4,
@@ -3669,13 +3613,13 @@
             ]
         }
     ],
-    "total_accuracy": 49.1,
-    "tossup_accuracy": 52.6,
-    "non_tossup_accuracy": 48.5,
-    "total_correct": 132,
-    "total_games": 269,
+    "total_accuracy": 49.4,
+    "tossup_accuracy": 54.1,
+    "non_tossup_accuracy": 48.7,
+    "total_correct": 131,
+    "total_games": 265,
     "tossup_correct": 20,
-    "tossup_games": 38,
-    "non_tossup_correct": 112,
-    "non_tossup_games": 231
+    "tossup_games": 37,
+    "non_tossup_correct": 111,
+    "non_tossup_games": 228
 }
