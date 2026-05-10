@@ -1,31 +1,5 @@
 [
     {
-        "date": "2025-11-02",
-        "home_team": "Kingston Frontenacs",
-        "away_team": "London Knights",
-        "predicted_winner": "London Knights",
-        "actual_winner": "London Knights",
-        "home_score": 1,
-        "away_score": 6,
-        "odds": {
-            "Kingston Frontenacs": "-101",
-            "London Knights": "-122"
-        }
-    },
-    {
-        "date": "2025-11-02",
-        "home_team": "Saginaw Spirit",
-        "away_team": "Brantford Bulldogs",
-        "predicted_winner": "Brantford Bulldogs",
-        "actual_winner": "Brantford Bulldogs",
-        "home_score": 2,
-        "away_score": 6,
-        "odds": {
-            "Saginaw Spirit": "-111",
-            "Brantford Bulldogs": "-111"
-        }
-    },
-    {
         "date": "2025-11-05",
         "home_team": "Soo Greyhounds",
         "away_team": "Flint Firebirds",

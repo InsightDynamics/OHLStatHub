@@ -1,98 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-11-02",
-            "accuracy": 57.1,
-            "correct_predictions": 4,
-            "total_games": 7,
-            "game_details": [
-                {
-                    "home_team": "North Bay Battalion",
-                    "away_team": "Niagara IceDogs",
-                    "predicted_winner": "Niagara IceDogs",
-                    "actual_winner": "North Bay Battalion",
-                    "home_score": 6,
-                    "away_score": 2,
-                    "odds": {
-                        "North Bay Battalion": "+143",
-                        "Niagara IceDogs": "-179"
-                    }
-                },
-                {
-                    "home_team": "Owen Sound Attack",
-                    "away_team": "Erie Otters",
-                    "predicted_winner": "Erie Otters",
-                    "actual_winner": "Owen Sound Attack",
-                    "home_score": 8,
-                    "away_score": 3,
-                    "odds": {
-                        "Owen Sound Attack": "+137",
-                        "Erie Otters": "-171"
-                    }
-                },
-                {
-                    "home_team": "Guelph Storm",
-                    "away_team": "Sarnia Sting",
-                    "predicted_winner": "Guelph Storm",
-                    "actual_winner": "Guelph Storm",
-                    "home_score": 4,
-                    "away_score": 1,
-                    "odds": {
-                        "Guelph Storm": "-139",
-                        "Sarnia Sting": "+112"
-                    }
-                },
-                {
-                    "home_team": "Kingston Frontenacs",
-                    "away_team": "London Knights",
-                    "predicted_winner": "London Knights",
-                    "actual_winner": "London Knights",
-                    "home_score": 1,
-                    "away_score": 6,
-                    "odds": {
-                        "Kingston Frontenacs": "-101",
-                        "London Knights": "-122"
-                    }
-                },
-                {
-                    "home_team": "Windsor Spitfires",
-                    "away_team": "Flint Firebirds",
-                    "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Windsor Spitfires",
-                    "home_score": 5,
-                    "away_score": 2,
-                    "odds": {
-                        "Windsor Spitfires": "-202",
-                        "Flint Firebirds": "+161"
-                    }
-                },
-                {
-                    "home_team": "Saginaw Spirit",
-                    "away_team": "Brantford Bulldogs",
-                    "predicted_winner": "Brantford Bulldogs",
-                    "actual_winner": "Brantford Bulldogs",
-                    "home_score": 2,
-                    "away_score": 6,
-                    "odds": {
-                        "Saginaw Spirit": "-111",
-                        "Brantford Bulldogs": "-111"
-                    }
-                },
-                {
-                    "home_team": "Oshawa Generals",
-                    "away_team": "Ottawa 67's",
-                    "predicted_winner": "Oshawa Generals",
-                    "actual_winner": "Ottawa 67's",
-                    "home_score": 0,
-                    "away_score": 3,
-                    "odds": {
-                        "Oshawa Generals": "-217",
-                        "Ottawa 67's": "+172"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-11-05",
             "accuracy": 0.0,
             "correct_predictions": 0,
@@ -3409,13 +3317,13 @@
             ]
         }
     ],
-    "total_accuracy": 49.6,
-    "tossup_accuracy": 54.1,
-    "non_tossup_accuracy": 48.8,
-    "total_correct": 124,
-    "total_games": 250,
-    "tossup_correct": 20,
-    "tossup_games": 37,
-    "non_tossup_correct": 104,
-    "non_tossup_games": 213
+    "total_accuracy": 49.4,
+    "tossup_accuracy": 51.4,
+    "non_tossup_accuracy": 49.0,
+    "total_correct": 120,
+    "total_games": 243,
+    "tossup_correct": 18,
+    "tossup_games": 35,
+    "non_tossup_correct": 102,
+    "non_tossup_games": 208
 }
