@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-11-05",
-        "home_team": "Soo Greyhounds",
-        "away_team": "Flint Firebirds",
-        "predicted_winner": "Soo Greyhounds",
-        "actual_winner": "Flint Firebirds",
-        "home_score": 2,
-        "away_score": 3,
-        "odds": {
-            "Soo Greyhounds": "-112",
-            "Flint Firebirds": "-110"
-        }
-    },
-    {
         "date": "2025-11-06",
         "home_team": "Windsor Spitfires",
         "away_team": "Kingston Frontenacs",

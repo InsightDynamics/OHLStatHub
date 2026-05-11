@@ -1,31 +1,5 @@
 [
     {
-        "date": "2025-11-05",
-        "home_team": "Sarnia Sting",
-        "away_team": "Owen Sound Attack",
-        "predicted_winner": "Owen Sound Attack",
-        "actual_winner": "Sarnia Sting",
-        "home_score": 6,
-        "away_score": 4,
-        "odds": {
-            "Sarnia Sting": "+108",
-            "Owen Sound Attack": "-133"
-        }
-    },
-    {
-        "date": "2025-11-05",
-        "home_team": "Guelph Storm",
-        "away_team": "London Knights",
-        "predicted_winner": "London Knights",
-        "actual_winner": "Guelph Storm",
-        "home_score": 6,
-        "away_score": 4,
-        "odds": {
-            "Guelph Storm": "+229",
-            "London Knights": "-298"
-        }
-    },
-    {
         "date": "2025-11-06",
         "home_team": "Barrie Colts",
         "away_team": "Sudbury Wolves",
