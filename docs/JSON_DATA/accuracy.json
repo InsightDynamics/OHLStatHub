@@ -1,62 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-11-06",
-            "accuracy": 50.0,
-            "correct_predictions": 2,
-            "total_games": 4,
-            "game_details": [
-                {
-                    "home_team": "Barrie Colts",
-                    "away_team": "Sudbury Wolves",
-                    "predicted_winner": "Barrie Colts",
-                    "actual_winner": "Barrie Colts",
-                    "home_score": 6,
-                    "away_score": 2,
-                    "odds": {
-                        "Barrie Colts": "-132",
-                        "Sudbury Wolves": "+106"
-                    }
-                },
-                {
-                    "home_team": "Niagara IceDogs",
-                    "away_team": "Ottawa 67's",
-                    "predicted_winner": "Niagara IceDogs",
-                    "actual_winner": "Ottawa 67's",
-                    "home_score": 3,
-                    "away_score": 4,
-                    "odds": {
-                        "Niagara IceDogs": "-167",
-                        "Ottawa 67's": "+134"
-                    }
-                },
-                {
-                    "home_team": "Peterborough Petes",
-                    "away_team": "Brantford Bulldogs",
-                    "predicted_winner": "Brantford Bulldogs",
-                    "actual_winner": "Peterborough Petes",
-                    "home_score": 4,
-                    "away_score": 3,
-                    "odds": {
-                        "Peterborough Petes": "+385",
-                        "Brantford Bulldogs": "-550"
-                    }
-                },
-                {
-                    "home_team": "Windsor Spitfires",
-                    "away_team": "Kingston Frontenacs",
-                    "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Windsor Spitfires",
-                    "home_score": 3,
-                    "away_score": 0,
-                    "odds": {
-                        "Windsor Spitfires": "-113",
-                        "Kingston Frontenacs": "-109"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-11-07",
             "accuracy": 62.5,
             "correct_predictions": 5,
@@ -3274,12 +3218,12 @@
         }
     ],
     "total_accuracy": 50.0,
-    "tossup_accuracy": 52.9,
-    "non_tossup_accuracy": 49.5,
-    "total_correct": 120,
-    "total_games": 240,
-    "tossup_correct": 18,
-    "tossup_games": 34,
-    "non_tossup_correct": 102,
-    "non_tossup_games": 206
+    "tossup_accuracy": 51.5,
+    "non_tossup_accuracy": 49.8,
+    "total_correct": 118,
+    "total_games": 236,
+    "tossup_correct": 17,
+    "tossup_games": 33,
+    "non_tossup_correct": 101,
+    "non_tossup_games": 203
 }
