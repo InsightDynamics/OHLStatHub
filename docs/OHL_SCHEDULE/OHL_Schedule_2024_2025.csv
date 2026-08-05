@@ -582,6 +582,59 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2026-05-08,7:00 pm,Kitchener Rangers,4,Barrie Colts,3,28986
 2026-05-10,6:00 pm,Barrie Colts,3,Kitchener Rangers,4,28987
 2026-05-12,7:00 pm,Barrie Colts,2,Kitchener Rangers,4,28988
+2026-08-28,7:00 pm,Guelph Storm,0,Peterborough Petes,0,29676
+2026-08-28,7:00 pm,London Knights,0,Erie Otters,0,29677
+2026-08-28,7:00 pm,Newfoundland,0,Saginaw Spirit,0,29678
+2026-08-29,1:00 pm,Owen Sound Attack,0,Oshawa Generals,0,29682
+2026-08-29,4:00 pm,Erie Otters,0,London Knights,0,29680
+2026-08-29,4:00 pm,Newfoundland,0,Saginaw Spirit,0,29681
+2026-08-29,7:30 pm,Barrie Colts,0,Brantford Bulldogs,0,29679
+2026-08-30,12:30 pm,Brantford Bulldogs,0,Oshawa Generals,0,29685
+2026-08-30,2:00 pm,Kingston Frontenacs,0,Ottawa 67's,0,29686
+2026-08-30,2:00 pm,Kitchener Rangers,0,Sarnia Sting,0,29687
+2026-08-30,4:00 pm,Brampton Steelheads,0,North Bay Battalion,0,29684
+2026-08-30,4:05 pm,Windsor Spitfires,0,Soo Greyhounds,0,29688
+2026-08-30,7:00 pm,Barrie Colts,0,Owen Sound Attack,0,29683
+2026-08-31,6:30 pm,Sudbury Wolves,0,Barrie Colts,0,29690
+2026-08-31,7:00 pm,Newfoundland,0,Saginaw Spirit,0,29689
+2026-09-02,6:30 pm,Guelph Storm,0,Brantford Bulldogs,0,29691
+2026-09-02,7:00 pm,Owen Sound Attack,0,North Bay Battalion,0,29692
+2026-09-02,7:00 pm,Sudbury Wolves,0,Rouyn-Noranda Huskies,0,29693
+2026-09-03,7:00 pm,Niagara IceDogs,0,Oshawa Generals,0,29694
+2026-09-03,7:00 pm,Peterborough Petes,0,Sarnia Sting,0,29695
+2026-09-04,7:00 pm,Brantford Bulldogs,0,Niagara IceDogs,0,29696
+2026-09-04,7:00 pm,Guelph Storm,0,Brampton Steelheads,0,29697
+2026-09-04,7:00 pm,Kitchener Rangers,0,Oshawa Generals,0,29698
+2026-09-04,7:00 pm,Ottawa 67's,0,Kingston Frontenacs,0,29699
+2026-09-04,7:05 pm,Victoria,0,London Knights,0,29700
+2026-09-04,7:07 pm,Soo Greyhounds,0,Sudbury Wolves,0,29701
+2026-09-05,2:00 pm,Owen Sound Attack,0,Barrie Colts,0,29704
+2026-09-05,4:00 pm,Brampton Steelheads,0,Guelph Storm,0,29702
+2026-09-05,4:00 pm,Ottawa 67's,0,Peterborough Petes,0,29703
+2026-09-05,4:00 pm,Saginaw Spirit,0,Erie Otters,0,29705
+2026-09-05,4:00 pm,Soo Greyhounds,0,Windsor Spitfires,0,29707
+2026-09-05,4:05 pm,Victoria,0,London Knights,0,29708
+2026-09-05,7:05 pm,Sarnia Sting,0,Flint Firebirds,0,29706
+2026-09-06,2:00 pm,Kitchener Rangers,0,Erie Otters,0,29709
+2026-09-06,2:00 pm,Niagara IceDogs,0,Brantford Bulldogs,0,29710
+2026-09-06,2:00 pm,North Bay Battalion,0,Sudbury Wolves,0,29711
+2026-09-06,6:00 pm,Saginaw Spirit,0,Oshawa Generals,0,29712
+2026-09-07,2:00 pm,Kitchener Rangers,0,Saginaw Spirit,0,29713
+2026-09-10,7:00 pm,London Knights,0,Sarnia Sting,0,29714
+2026-09-10,7:00 pm,Owen Sound Attack,0,Brampton Steelheads,0,29715
+2026-09-11,7:00 pm,Brampton Steelheads,0,Barrie Colts,0,29716
+2026-09-11,7:00 pm,Brantford Bulldogs,0,Guelph Storm,0,29717
+2026-09-11,7:00 pm,Erie Otters,0,Niagara IceDogs,0,29718
+2026-09-11,7:00 pm,Flint Firebirds,0,Windsor Spitfires,0,29719
+2026-09-11,7:00 pm,Sudbury Wolves,0,Soo Greyhounds,0,29721
+2026-09-11,7:05 pm,Sarnia Sting,0,London Knights,0,29720
+2026-09-12,4:00 pm,North Bay Battalion,0,Owen Sound Attack,0,29723
+2026-09-12,7:00 pm,Peterborough Petes,0,Niagara IceDogs,0,29724
+2026-09-12,7:00 pm,Windsor Spitfires,0,Flint Firebirds,0,29725
+2026-09-12,7:30 pm,Barrie Colts,0,Kitchener Rangers,0,29722
+2026-09-13,2:07 pm,Soo Greyhounds,0,Saginaw Spirit,0,29727
+2026-09-13,4:00 pm,Sudbury Wolves,0,Kingston Frontenacs,0,29728
+2026-09-13,4:05 pm,Oshawa Generals,0,Niagara IceDogs,0,29726
 2026-09-17,7:05 pm,Peterborough Petes,0,Kingston Frontenacs,0,28992
 2026-09-18,7:00 pm,Brampton Steelheads,0,Oshawa Generals,0,28993
 2026-09-18,7:00 pm,Brantford Bulldogs,0,Niagara IceDogs,0,28994
@@ -946,56 +999,3 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2026-12-31,6:00 pm,Erie Otters,0,Brantford Bulldogs,0,29349
 2026-12-31,6:00 pm,Niagara IceDogs,0,Guelph Storm,0,29352
 2026-12-31,7:30 pm,Barrie Colts,0,Owen Sound Attack,0,29348
-2027-01-01,2:05 pm,Oshawa Generals,0,North Bay Battalion,0,29357
-2027-01-01,7:07 pm,Guelph Storm,0,Peterborough Petes,0,29356
-2027-01-02,4:00 pm,Brampton Steelheads,0,Sudbury Wolves,0,29359
-2027-01-02,4:05 pm,Kingston Frontenacs,0,London Knights,0,29361
-2027-01-02,7:00 pm,Flint Firebirds,0,Windsor Spitfires,0,29360
-2027-01-02,7:00 pm,Owen Sound Attack,0,Erie Otters,0,29362
-2027-01-02,7:05 pm,Saginaw Spirit,0,Sarnia Sting,0,29363
-2027-01-02,7:07 pm,Soo Greyhounds,0,Kitchener Rangers,0,29364
-2027-01-02,7:30 pm,Barrie Colts,0,Niagara IceDogs,0,29358
-2027-01-03,2:00 pm,Niagara IceDogs,0,Sudbury Wolves,0,29367
-2027-01-03,2:00 pm,North Bay Battalion,0,Peterborough Petes,0,29368
-2027-01-03,2:00 pm,Owen Sound Attack,0,Erie Otters,0,29371
-2027-01-03,2:05 pm,Oshawa Generals,0,Barrie Colts,0,29369
-2027-01-03,3:00 pm,Ottawa 67's,0,London Knights,0,29370
-2027-01-03,4:00 pm,Flint Firebirds,0,Kitchener Rangers,0,29365
-2027-01-03,4:07 pm,Guelph Storm,0,Sarnia Sting,0,29366
-2027-01-06,7:00 pm,Brantford Bulldogs,0,Oshawa Generals,0,29372
-2027-01-06,7:00 pm,Erie Otters,0,Brampton Steelheads,0,29373
-2027-01-06,7:05 pm,Sudbury Wolves,0,Soo Greyhounds,0,29374
-2027-01-07,7:00 pm,Niagara IceDogs,0,Ottawa 67's,0,29375
-2027-01-07,7:00 pm,North Bay Battalion,0,Windsor Spitfires,0,29376
-2027-01-07,7:05 pm,Saginaw Spirit,0,Kingston Frontenacs,0,29377
-2027-01-08,7:00 pm,Brampton Steelheads,0,Barrie Colts,0,29378
-2027-01-08,7:00 pm,Brantford Bulldogs,0,Ottawa 67's,0,29379
-2027-01-08,7:00 pm,Flint Firebirds,0,Kingston Frontenacs,0,29380
-2027-01-08,7:00 pm,Kitchener Rangers,0,Erie Otters,0,29382
-2027-01-08,7:00 pm,London Knights,0,Oshawa Generals,0,29383
-2027-01-08,7:05 pm,Sarnia Sting,0,Peterborough Petes,0,29384
-2027-01-08,7:05 pm,Sudbury Wolves,0,Windsor Spitfires,0,29386
-2027-01-08,7:07 pm,Guelph Storm,0,Owen Sound Attack,0,29381
-2027-01-08,7:07 pm,Soo Greyhounds,0,North Bay Battalion,0,29385
-2027-01-09,6:00 pm,Erie Otters,0,Niagara IceDogs,0,29388
-2027-01-09,7:00 pm,Flint Firebirds,0,Peterborough Petes,0,29389
-2027-01-09,7:00 pm,Owen Sound Attack,0,Guelph Storm,0,29390
-2027-01-09,7:05 pm,Saginaw Spirit,0,Kitchener Rangers,0,29391
-2027-01-09,7:30 pm,Barrie Colts,0,Sudbury Wolves,0,29387
-2027-01-10,2:00 pm,Brampton Steelheads,0,Ottawa 67's,0,29392
-2027-01-10,2:00 pm,North Bay Battalion,0,Brantford Bulldogs,0,29395
-2027-01-10,2:07 pm,Soo Greyhounds,0,Windsor Spitfires,0,29398
-2027-01-10,4:00 pm,London Knights,0,Flint Firebirds,0,29394
-2027-01-10,4:07 pm,Guelph Storm,0,Kingston Frontenacs,0,29393
-2027-01-10,5:30 pm,Saginaw Spirit,0,Peterborough Petes,0,29397
-2027-01-10,6:05 pm,Oshawa Generals,0,Owen Sound Attack,0,29396
-2027-01-12,7:00 pm,Kitchener Rangers,0,London Knights,0,29399
-2027-01-13,7:05 pm,Kingston Frontenacs,0,Saginaw Spirit,0,29400
-2027-01-13,7:05 pm,Sarnia Sting,0,Kitchener Rangers,0,29401
-2027-01-14,7:00 pm,Niagara IceDogs,0,Flint Firebirds,0,29402
-2027-01-14,7:00 pm,North Bay Battalion,0,Soo Greyhounds,0,29403
-2027-01-14,7:05 pm,Peterborough Petes,0,Sudbury Wolves,0,29404
-2027-01-14,7:05 pm,Windsor Spitfires,0,London Knights,0,29405
-2027-01-15,7:00 pm,Brampton Steelheads,0,Soo Greyhounds,0,29406
-2027-01-15,7:00 pm,Brantford Bulldogs,0,Barrie Colts,0,29407
-2027-01-15,7:00 pm,Erie Otters,0,Flint Firebirds,0,29408
