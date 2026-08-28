@@ -10,7 +10,7 @@ Player_ID,Name,Rookie,JN,BD,BD_Y,Hgt,Wgt,Pos,Team,GP,G,A,PTS,Pts/G,+/-,PPG,PPA,G
 8566,Cam Allen,NO,17,,2005.0,6.00,197,D,London Knights,49,11,34,45,0.92,15,3,6,1,0,68,9,20.0,20.0
 9042,Henry Brzustewicz,NO,2,,2007.0,6.02,205,D,London Knights,67,10,32,42,0.63,24,2,12,2,0,77,14,33.3,15.0
 8931,Kasper Halttunen,NO,12,,2005.0,6.03,207,RW,London Knights,38,21,20,41,1.08,13,10,5,4,0,38,15,36.6,47.0
-9044,Evan Van Gorp,NO,14,,2006.0,5.10,165,LW,London Knights,64,19,22,41,0.64,13,2,3,4,4,12,5,12.2,72.0
+9044,Evan Van Gorp,NO,14,,2006.0,5.11,180,LW,London Knights,64,19,22,41,0.64,13,2,3,4,4,12,5,12.2,72.0
 8426,Oliver Bonk,NO,59,,2005.0,6.02,210,D,London Knights,52,11,29,40,0.77,37,4,12,1,0,36,16,40.0,66.5
 9109,Jesse Nurmi,NO,44,,2005.0,6.00,180,LW,London Knights,58,9,22,31,0.53,10,0,4,0,0,10,4,12.9,51.0
 9043,Jared Woolley,NO,51,,2006.0,6.05,215,D,London Knights,68,9,19,28,0.41,49,1,1,2,0,75,2,7.1,20.5
@@ -21,10 +21,10 @@ Player_ID,Name,Rookie,JN,BD,BD_Y,Hgt,Wgt,Pos,Team,GP,G,A,PTS,Pts/G,+/-,PPG,PPA,G
 9245,Noah Aboflan,NO,74,,2005.0,6.00,192,LW,London Knights,33,4,4,8,0.24,5,0,1,0,0,33,1,12.5,-14.0
 9041,Ryder Boulton,NO,11,,2006.0,5.10,195,LW,London Knights,43,2,4,6,0.14,8,0,0,0,0,85,0,0.0,-67.0
 8981,PJ Fagan II,YES,67,,2007.0,6.01,205,D,London Knights,44,2,3,5,0.11,6,0,0,1,0,39,0,0.0,-24.5
-9111,Cohen Bidgood,YES,34,,2007.0,6.00,185,RW,London Knights,19,2,2,4,0.21,-5,1,0,0,0,30,1,25.0,-28.0
-9333,Jaxon Cover,YES,24,,2008.0,6.01,185,LW,London Knights,3,0,2,2,0.67,3,0,0,0,0,2,0,0.0,4.0
+9111,Cohen Bidgood,YES,34,,2007.0,6.01,185,RW,London Knights,19,2,2,4,0.21,-5,1,0,0,0,30,1,25.0,-28.0
+9333,Jaxon Cover,YES,24,,2008.0,6.02,185,LW,London Knights,3,0,2,2,0.67,3,0,0,0,0,2,0,0.0,4.0
 8736,Liam Spencer,NO,49,,2006.0,6.05,220,D,London Knights,35,0,2,2,0.06,4,0,0,0,0,38,0,0.0,-31.0
 9083,Brendan Gerber,YES,89,,2007.0,5.09,179,LW,London Knights,6,1,0,1,0.17,-1,0,0,0,0,0,0,0.0,1.0
-9367,Brody Cook,NO,27,,2007.0,5.11,180,RW,London Knights,1,0,0,0,0.0,-2,0,0,0,0,0,0,,-2.0
+9367,Brody Cook,NO,27,,2007.0,6.00,190,RW,London Knights,1,0,0,0,0.0,-2,0,0,0,0,0,0,,-2.0
 9368,Eddie Hickson,NO,10,,2008.0,5.10,180,C,London Knights,1,0,0,0,0.0,-1,0,0,0,0,0,0,,-1.0
-9115,Caleb Mitchell,NO,77,,2008.0,5.11,180,D,London Knights,1,0,0,0,0.0,-1,0,0,0,0,0,0,,-1.0
+9115,Caleb Mitchell,NO,77,,2008.0,6.00,180,D,London Knights,1,0,0,0,0.0,-1,0,0,0,0,0,0,,-1.0

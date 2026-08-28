@@ -144,22 +144,22 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9331,Luka Gelinas,Gelinas,Luka,G,L,6.01,179.0,2008-01-01,Peterborough Petes,East Division,1,1
 9363,Marcus Sulug,Sulug,Marcus,D,L,6.02,191.0,2008-02-07,Peterborough Petes,East Division,2,0
 9211,Thanasi Marentette,Marentette,Thanasi,D,L,6.00,216.0,2007-01-30,Peterborough Petes,East Division,3,1
-9350,Calum Hartnell,Hartnell,Calum,D,L,5.08,165.0,2007-06-08,Peterborough Petes,East Division,4,0
+9350,Calum Hartnell,Hartnell,Calum,D,L,5.08,168.0,2007-06-08,Peterborough Petes,East Division,4,0
 9029,Martin Matejicek,Matejicek,Martin,D,L,6.02,205.0,2005-08-05,Peterborough Petes,East Division,5,0
 8897,Grayden Strohack,Strohack,Grayden,D,L,6.04,203.0,2006-06-09,Peterborough Petes,East Division,6,0
 9212,Genc Ula,Ula,Genc,D,L,6.01,205.0,2008-10-26,Peterborough Petes,East Division,7,1
 9022,Liam Ladds,Ladds,Liam,D,R,6.02,175.0,2007-10-28,Peterborough Petes,East Division,8,0
 9214,Blake Gowan,Gowan,Blake,D,L,6.01,185.0,2008-04-29,Peterborough Petes,East Division,9,1
-9226,Adam Levac,Levac,Adam,C,R,6.00,172.0,2008-06-27,Peterborough Petes,East Division,10,1
+9226,Adam Levac,Levac,Adam,C,R,6.00,183.0,2008-06-27,Peterborough Petes,East Division,10,1
 9024,Brody Partridge,Partridge,Brody,C,L,5.11,194.0,2006-09-14,Peterborough Petes,East Division,11,0
 8838,Matthew Jenken,Jenken,Matthew,D,R,6.04,202.0,2005-10-12,Peterborough Petes,East Division,12,0
 8385,Gavin Bryant,Bryant,Gavin,C,L,5.11,188.0,2004-07-24,Peterborough Petes,East Division,13,0
 8669,Quinton Pagé,Pagé,Quinton,LW,L,5.07,172.0,2005-08-03,Peterborough Petes,East Division,14,0
-9020,Carson Cameron,Cameron,Carson,D,R,6.02,209.0,2007-06-27,Peterborough Petes,East Division,15,0
+9020,Carson Cameron,Cameron,Carson,D,R,6.02,195.0,2007-06-27,Peterborough Petes,East Division,15,0
 8586,Brady Stonehouse,Stonehouse,Brady,RW,L,5.10,194.0,2004-08-06,Peterborough Petes,East Division,16,0
 9317,Rio Kaiser,Kaiser,Rio,D,L,6.07,220.0,2006-10-07,Peterborough Petes,East Division,17,0
 9247,Francis Parish,Parish,Francis,RW,R,5.09,160.0,2007-03-06,Peterborough Petes,East Division,18,1
-9011,Caden Taylor,Taylor,Caden,LW,L,6.03,206.0,2007-03-31,Peterborough Petes,East Division,19,0
+9011,Caden Taylor,Taylor,Caden,LW,L,6.03,189.0,2007-03-31,Peterborough Petes,East Division,19,0
 9356,Luis Sturgeon,Sturgeon,Luis,D,L,6.03,194.0,2008-12-11,Peterborough Petes,East Division,20,0
 9031,Nico Addy,Addy,Nico,RW,R,6.04,207.0,2007-08-17,Peterborough Petes,East Division,22,0
 8440,Jonathan Melee,Melee,Jonathan,LW,L,6.00,184.0,2004-01-15,Peterborough Petes,East Division,23,0
@@ -427,17 +427,17 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9041,Ryder Boulton,Boulton,Ryder,LW,L,5.10,195.0,2006-06-21,London Knights,Midwest Division,11,0
 8931,Kasper Halttunen,Halttunen,Kasper,RW,R,6.03,207.0,2005-06-07,London Knights,Midwest Division,12,0
 8879,Jacob Julien,Julien,Jacob,C,L,6.04,190.0,2004-09-12,London Knights,Midwest Division,13,0
-9044,Evan Van Gorp,Van Gorp,Evan,LW,L,5.10,165.0,2006-05-18,London Knights,Midwest Division,14,0
+9044,Evan Van Gorp,Van Gorp,Evan,LW,L,5.11,180.0,2006-05-18,London Knights,Midwest Division,14,0
 8566,Cam Allen,Allen,Cam,D,R,6.00,197.0,2005-01-07,London Knights,Midwest Division,17,0
 8982,Blake Arrowsmith,Arrowsmith,Blake,RW,R,6.00,182.0,2007-04-17,London Knights,Midwest Division,18,1
 8712,Sam O'Reilly,O'Reilly,Sam,C,R,6.01,190.0,2006-03-30,London Knights,Midwest Division,23,0
-9333,Jaxon Cover,Cover,Jaxon,LW,L,6.01,185.0,2008-02-13,London Knights,Midwest Division,24,1
+9333,Jaxon Cover,Cover,Jaxon,LW,L,6.02,185.0,2008-02-13,London Knights,Midwest Division,24,1
 9064,Noah Jenken,Jenken,Noah,D,L,6.03,190.0,2007-03-08,London Knights,Midwest Division,24,1
 9110,Logan Hawery,Hawery,Logan,C,L,5.10,170.0,2008-03-15,London Knights,Midwest Division,26,1
-9367,Brody Cook,Cook,Brody,RW,R,5.11,180.0,2007-04-06,London Knights,Midwest Division,27,0
+9367,Brody Cook,Cook,Brody,RW,R,6.00,190.0,2007-04-06,London Knights,Midwest Division,27,0
 8472,Alec Leonard,Leonard,Alec,D,R,5.11,174.0,2004-05-13,London Knights,Midwest Division,27,0
 9264,Austin Elliott,Elliott,Austin,G,L,6.01,180.0,2004-05-14,London Knights,Midwest Division,31,0
-9111,Cohen Bidgood,Bidgood,Cohen,RW,R,6.00,185.0,2007-01-11,London Knights,Midwest Division,34,1
+9111,Cohen Bidgood,Bidgood,Cohen,RW,R,6.01,185.0,2007-01-11,London Knights,Midwest Division,34,1
 9109,Jesse Nurmi,Nurmi,Jesse,LW,L,6.00,180.0,2005-03-07,London Knights,Midwest Division,44,0
 9275,Blake Montgomery,Montgomery,Blake,LW,L,6.04,195.0,2005-05-04,London Knights,Midwest Division,47,0
 8736,Liam Spencer,Spencer,Liam,D,L,6.05,220.0,2006-01-19,London Knights,Midwest Division,49,0
@@ -446,8 +446,8 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8426,Oliver Bonk,Bonk,Oliver,D,R,6.02,210.0,2005-01-09,London Knights,Midwest Division,59,0
 8714,William Nicholl,Nicholl,William,C,L,6.00,184.0,2006-05-24,London Knights,Midwest Division,73,0
 9245,Noah Aboflan,Aboflan,Noah,LW,L,6.00,192.0,2005-03-03,London Knights,Midwest Division,74,0
-9115,Caleb Mitchell,Mitchell,Caleb,D,L,5.11,180.0,2008-03-17,London Knights,Midwest Division,77,0
-8983,Aleksei Medvedev,Medvedev,Aleksei,G,L,6.03,180.0,2007-09-10,London Knights,Midwest Division,78,1
+9115,Caleb Mitchell,Mitchell,Caleb,D,L,6.00,180.0,2008-03-17,London Knights,Midwest Division,77,0
+8983,Aleksei Medvedev,Medvedev,Aleksei,G,L,6.03,195.0,2007-09-10,London Knights,Midwest Division,78,1
 8538,Denver Barkey,Barkey,Denver,LW,L,5.10,171.0,2005-04-27,London Knights,Midwest Division,86,0
 8422,Landon Sim,Sim,Landon,LW,L,5.11,185.0,2004-07-17,London Knights,Midwest Division,90,0
 9242,Noah Read,Read,Noah,LW,L,6.00,170.0,2007-01-06,London Knights,Midwest Division,92,1
@@ -467,7 +467,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9124,Alessandro Di Iorio,Di Iorio,Alessandro,C,R,6.01,188.0,2008-03-17,Sarnia Sting,West Division,17,1
 8986,Carter Kostuch,Kostuch,Carter,LW,L,5.11,165.0,2007-04-21,Sarnia Sting,West Division,18,0
 9239,Ryan Chamberlain,Chamberlain,Ryan,LW,L,6.01,190.0,2008-04-22,Sarnia Sting,West Division,22,1
-8920,Ryan Brown,Brown,Ryan,LW,L,5.11,172.0,2007-10-27,Sarnia Sting,West Division,23,0
+8920,Ryan Brown,Brown,Ryan,LW,L,6.00,192.0,2007-10-27,Sarnia Sting,West Division,23,0
 8812,Daylen Moses,Moses,Daylen,C,R,6.02,180.0,2005-06-13,Sarnia Sting,West Division,24,0
 8837,Tyson Doucette,Doucette,Tyson,LW,L,6.00,181.0,2004-01-30,Sarnia Sting,West Division,25,0
 9080,Evan Maillet,Maillet,Evan,G,R,6.00,172.0,2006-03-17,Sarnia Sting,West Division,30,0
@@ -512,7 +512,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9265,Noel Nordh,Nordh,Noel,LW,L,6.02,198.0,2005-01-25,Soo Greyhounds,West Division,43,0
 9018,Brady Martin,Martin,Brady,C,R,6.00,184.0,2007-03-16,Soo Greyhounds,West Division,44,0
 8814,Christopher Brown,Brown,Christopher,C,L,6.00,183.0,2006-01-27,Soo Greyhounds,West Division,67,0
-9222,Carson Andrew,Andrew,Carson,RW,R,6.02,196.0,2008-03-10,Soo Greyhounds,West Division,71,1
 8528,Nolan Lalonde,Lalonde,Nolan,G,L,6.02,197.0,2004-02-14,Soo Greyhounds,West Division,79,0
 9220,Keegan Gillen,Gillen,Keegan,D,R,5.11,185.0,2007-04-24,Soo Greyhounds,West Division,3,1
 8899,Tate Vader,Vader,Tate,C,L,5.11,187.0,2006-01-09,Soo Greyhounds,West Division,9,0
@@ -522,6 +521,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9254,Camerin Cardona,Cardona,Camerin,RW,R,5.11,170.0,2006-01-01,Soo Greyhounds,West Division,27,0
 9348,Noah Metivier,Metivier,Noah,G,R,5.11,174.0,2004-01-28,Soo Greyhounds,West Division,31,0
 9292,Nick Marson,Marson,Nick,G,R,5.11,163.0,2007-12-16,Soo Greyhounds,West Division,33,0
+9222,Carson Andrew,Andrew,Carson,RW,R,6.02,196.0,2008-03-10,Soo Greyhounds,West Division,71,1
 8602,Wyatt Kennedy,Kennedy,Wyatt,D,R,6.05,204.0,2005-05-27,Windsor Spitfires,West Division,2,0
 8941,Michael Lavigne,Lavigne,Michael,D,L,6.05,213.0,2007-01-17,Windsor Spitfires,West Division,3,0
 8939,Josef Eichler,Eichler,Josef,D,R,6.00,194.0,2005-12-14,Windsor Spitfires,West Division,5,0
@@ -574,7 +574,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8951,Luke Dragusica,Dragusica,Luke,D,L,6.01,178.0,2007-02-16,Brampton Steelheads,Central Division,23,0
 9274,Jared Harding,Harding,Jared,D,L,5.08,162.0,2007-12-05,Brampton Steelheads,Central Division,24,1
 8957,Vilmer Alriksson,Alriksson,Vilmer,LW,L,6.06,234.0,2005-02-18,Brampton Steelheads,Central Division,25,0
-8731,Lucas Karmiris,Karmiris,Lucas,C,R,5.11,190.0,2006-09-27,Brampton Steelheads,Central Division,27,0
+8731,Lucas Karmiris,Karmiris,Lucas,C,R,6.00,187.0,2006-09-27,Brampton Steelheads,Central Division,27,0
 8880,Brayden Gillespie,Gillespie,Brayden,G,R,5.11,172.0,2005-07-23,Brampton Steelheads,Central Division,31,0
 8438,Luke Misa,Misa,Luke,C,L,5.10,176.0,2005-11-25,Brampton Steelheads,Central Division,33,0
 9180,Manuel Amado,Amado,Manuel,C,L,6.02,175.0,2008-02-04,Brampton Steelheads,Central Division,42,0
@@ -646,7 +646,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8427,Owen Flores,Flores,Owen,G,L,6.02,195.0,2004-05-09,Niagara IceDogs,Central Division,35,0
 8747,Sean Doherty,Doherty,Sean,RW,R,6.01,185.0,2006-03-23,Niagara IceDogs,Central Division,44,0
 8428,Mathieu Paris,Paris,Mathieu,RW,R,6.00,182.0,2005-01-01,Niagara IceDogs,Central Division,54,0
-9142,Braidy Wassilyn,Wassilyn,Braidy,C,L,5.11,194.0,2008-05-28,Niagara IceDogs,Central Division,66,1
+9142,Braidy Wassilyn,Wassilyn,Braidy,C,L,6.00,194.0,2008-05-28,Niagara IceDogs,Central Division,66,1
 8749,Masen Wray,Wray,Masen,C,L,6.04,194.0,2006-05-15,Niagara IceDogs,Central Division,71,0
 8683,Charlie Robertson,Robertson,Charlie,G,L,6.04,182.0,2005-04-02,Niagara IceDogs,Central Division,77,0
 9144,Nick Frasca,Frasca,Nick,D,L,6.01,185.0,2008-05-04,Niagara IceDogs,Central Division,78,1
