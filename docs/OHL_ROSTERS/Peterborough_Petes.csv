@@ -5,8 +5,8 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9350,Calum Hartnell,Hartnell,Calum,D,L,5.08,168.0,2007-06-08,Peterborough Petes,East Division,4,0
 9029,Martin Matejicek,Matejicek,Martin,D,L,6.02,205.0,2005-08-05,Peterborough Petes,East Division,5,0
 8897,Grayden Strohack,Strohack,Grayden,D,L,6.04,203.0,2006-06-09,Peterborough Petes,East Division,6,0
-9212,Genc Ula,Ula,Genc,D,L,6.01,205.0,2008-10-26,Peterborough Petes,East Division,7,1
-9022,Liam Ladds,Ladds,Liam,D,R,6.02,175.0,2007-10-28,Peterborough Petes,East Division,8,0
+9212,Genc Ula,Ula,Genc,D,L,6.01,198.0,2008-10-26,Peterborough Petes,East Division,7,1
+9022,Liam Ladds,Ladds,Liam,D,R,6.02,171.0,2007-10-28,Peterborough Petes,East Division,8,0
 9214,Blake Gowan,Gowan,Blake,D,L,6.01,185.0,2008-04-29,Peterborough Petes,East Division,9,1
 9226,Adam Levac,Levac,Adam,C,R,6.00,183.0,2008-06-27,Peterborough Petes,East Division,10,1
 9024,Brody Partridge,Partridge,Brody,C,L,5.11,194.0,2006-09-14,Peterborough Petes,East Division,11,0
@@ -22,7 +22,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9031,Nico Addy,Addy,Nico,RW,R,6.04,207.0,2007-08-17,Peterborough Petes,East Division,22,0
 8440,Jonathan Melee,Melee,Jonathan,LW,L,6.00,184.0,2004-01-15,Peterborough Petes,East Division,23,0
 8992,Aiden Young,Young,Aiden,C,L,5.11,181.0,2007-04-18,Peterborough Petes,East Division,26,0
-9213,Colin Fitzgerald,Fitzgerald,Colin,C,R,6.03,211.0,2008-04-01,Peterborough Petes,East Division,27,1
+9213,Colin Fitzgerald,Fitzgerald,Colin,C,R,6.02,196.0,2008-04-01,Peterborough Petes,East Division,27,1
 9023,Brennan Faulkner,Faulkner,Brennan,LW,L,6.00,176.0,2005-12-28,Peterborough Petes,East Division,28,0
 8799,Braydon McCallum,McCallum,Braydon,C,R,5.10,192.0,2006-05-03,Peterborough Petes,East Division,29,0
 8823,Easton Rye,Rye,Easton,G,L,6.00,196.0,2006-10-28,Peterborough Petes,East Division,30,0

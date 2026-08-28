@@ -8,7 +8,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8401,Ryan Abraham,Abraham,Ryan,C,L,5.08,168.0,2004-04-05,Windsor Spitfires,West Division,12,0
 9358,Andrew Robinson,Robinson,Andrew,D,L,6.00,191.0,2008-01-08,Windsor Spitfires,West Division,13,1
 9095,Nathan Gaymes,Gaymes,Nathan,RW,R,5.11,170.0,2006-02-03,Windsor Spitfires,West Division,19,0
-9106,Jean-Cristoph Lemieux,Lemieux,Jean-Cristoph,C,L,5.11,176.0,2008-06-19,Windsor Spitfires,West Division,22,1
+9106,Jean-Cristoph Lemieux,Lemieux,Jean-Cristoph,C,L,6.00,197.0,2008-06-19,Windsor Spitfires,West Division,22,1
 8907,Carson Woodall,Woodall,Carson,D,L,5.11,179.0,2006-05-25,Windsor Spitfires,West Division,24,0
 8898,Alec Stewart,Stewart,Alec,C,L,6.00,186.0,2005-04-02,Windsor Spitfires,West Division,25,0
 8778,Conor Walton,Walton,Conor,D,L,6.05,209.0,2006-04-22,Windsor Spitfires,West Division,28,0
@@ -26,7 +26,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8393,Tnias Mathurin,Mathurin,Tnias,D,L,6.03,200.0,2004-01-15,Windsor Spitfires,West Division,74,0
 9108,Ethan Garden,Garden,Ethan,LW,L,5.08,169.0,2008-04-13,Windsor Spitfires,West Division,77,1
 8831,Cole Davis,Davis,Cole,LW,L,5.11,188.0,2006-06-22,Windsor Spitfires,West Division,78,0
-8940,Adrian Manzo,Manzo,Adrian,D,R,6.00,183.0,2007-08-28,Windsor Spitfires,West Division,89,0
+8940,Adrian Manzo,Manzo,Adrian,D,R,6.01,190.0,2007-08-28,Windsor Spitfires,West Division,89,0
 8768,Tanner Winegard,Winegard,Tanner,D,R,6.06,226.0,2005-01-11,Windsor Spitfires,West Division,91,0
 9050,Evan Hjelholt,Hjelholt,Evan,D,L,6.03,209.0,2006-12-14,Windsor Spitfires,West Division,7,0
 8411,Jack Greenwell,Greenwell,Jack,RW,R,6.00,176.0,2005-01-05,Windsor Spitfires,West Division,10,0
