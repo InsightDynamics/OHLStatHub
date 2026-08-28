@@ -479,6 +479,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9122,Chase Gaughan,Gaughan,Chase,RW,R,6.02,167.0,2008-07-17,Sarnia Sting,West Division,71,1
 8922,Hughston Hurt,Hurt,Hughston,D,L,6.01,178.0,2007-07-10,Sarnia Sting,West Division,72,0
 9123,Beckham Edwards,Edwards,Beckham,C,L,6.02,184.0,2008-01-06,Sarnia Sting,West Division,81,1
+8919,Lane Sim,Sim,Lane,LW,L,5.08,171.0,2007-05-09,Sarnia Sting,West Division,92,0
 9295,Jack O'Brien,O'Brien,Jack,D,R,6.02,205.0,2005-02-01,Sarnia Sting,West Division,6,0
 9055,Dylan Luecke,Luecke,Dylan,RW,R,6.02,170.0,2007-02-22,Sarnia Sting,West Division,8,1
 8921,James Barr,Barr,James,D,R,6.01,182.0,2007-06-01,Sarnia Sting,West Division,16,0
@@ -488,7 +489,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9280,Dallys Hibbert,Hibbert,Dallys,D,R,6.02,178.0,2006-06-25,Sarnia Sting,West Division,28,0
 9271,Ryder Simpson,Simpson,Ryder,LW,L,6.03,190.0,2008-05-08,Sarnia Sting,West Division,28,1
 9045,Casey Bridgewater,Bridgewater,Casey,D,L,5.10,175.0,2007-02-07,Sarnia Sting,West Division,43,1
-8919,Lane Sim,Sim,Lane,LW,L,5.08,160.0,2007-05-09,Sarnia Sting,West Division,92,0
 8570,Andrew Gibson,Gibson,Andrew,D,R,6.04,210.0,2005-02-13,Soo Greyhounds,West Division,6,0
 8571,Caeden Carlisle,Carlisle,Caeden,D,L,6.01.25,197.0,2004-01-31,Soo Greyhounds,West Division,7,0
 8810,Brodie McConnell-Barker,McConnell-Barker,Brodie,D,L,6.00,188.0,2006-01-31,Soo Greyhounds,West Division,8,0
