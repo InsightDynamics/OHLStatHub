@@ -3,7 +3,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9204,Brady Smith,Smith,Brady,D,L,6.02,196.0,2008-03-27,Sudbury Wolves,Central Division,3,0
 9049,Trevor O’Dell,O’Dell,Trevor,D,L,6.04,180.0,2006-07-17,Sudbury Wolves,Central Division,4,0
 9199,Henry Doucet,Doucet,Henry,LW,L,6.00,187.0,2008-08-11,Sudbury Wolves,Central Division,5,1
-9015,Nolan Jackson,Jackson,Nolan,D,L,6.01,189.0,2007-01-02,Sudbury Wolves,Central Division,5,1
+9015,Nolan Jackson,Jackson,Nolan,D,L,6.02,189.0,2007-01-02,Sudbury Wolves,Central Division,5,1
 8671,Gavin Ewles,Ewles,Gavin,D,R,6.01,193.0,2005-03-01,Sudbury Wolves,Central Division,7,0
 8560,Chase Coughlan,Coughlan,Chase,RW,R,5.11,201.0,2005-06-17,Sudbury Wolves,Central Division,9,0
 9198,Ethan Dean,Dean,Ethan,C,L,5.11,182.0,2008-03-11,Sudbury Wolves,Central Division,11,1
@@ -23,9 +23,9 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9200,Rowan Henderson,Henderson,Rowan,LW,L,6.00,183.0,2007-12-10,Sudbury Wolves,Central Division,77,1
 8716,Henry Mews,Mews,Henry,D,R,6.01,183.0,2006-03-09,Sudbury Wolves,Central Division,88,0
 8776,Nathan Villeneuve,Villeneuve,Nathan,C,L,6.00,195.0,2006-04-13,Sudbury Wolves,Central Division,89,0
-9012,Hudson Chitaroni,Chitaroni,Hudson,C,L,5.11,191.0,2007-08-22,Sudbury Wolves,Central Division,91,1
+9012,Hudson Chitaroni,Chitaroni,Hudson,C,L,5.10,191.0,2007-08-22,Sudbury Wolves,Central Division,91,1
 8828,Lucas Di Giantommaso,Di Giantommaso,Lucas,RW,R,6.00,178.0,2005-11-14,Sudbury Wolves,Central Division,92,0
-9203,Luca Blonda,Blonda,Luca,D,R,5.11,188.0,2008-11-25,Sudbury Wolves,Central Division,93,1
+9203,Luca Blonda,Blonda,Luca,D,R,5.10,188.0,2008-11-25,Sudbury Wolves,Central Division,93,1
 8402,Nick DeAngelis,DeAngelis,Nick,D,L,6.02,188.0,2004-05-22,Sudbury Wolves,Central Division,95,0
 8887,Ondrej Molnar,Molnar,Ondrej,LW,L,5.10,175.0,2005-02-08,Sudbury Wolves,Central Division,96,0
 9071,Spencer Horgan,Horgan,Spencer,D,R,5.11,165.0,2005-03-17,Sudbury Wolves,Central Division,2,0

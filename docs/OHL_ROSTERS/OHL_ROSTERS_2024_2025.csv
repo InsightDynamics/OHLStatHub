@@ -57,7 +57,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8873,Jakub Chromiak,Chromiak,Jakub,D,R,5.11,183.0,2005-11-02,Kingston Frontenacs,East Division,37,0
 8558,Charlie Schenkel,Schenkel,Charlie,G,R,6.05.,203.0,2004-08-16,Kingston Frontenacs,East Division,37,0
 8376,Quinton Burns,Burns,Quinton,D,L,6.02,199.0,2005-04-14,Kingston Frontenacs,East Division,41,0
-9138,Gavin Betts,Betts,Gavin,G,L,6.0,186.0,2008-04-03,Kingston Frontenacs,East Division,43,1
+9138,Gavin Betts,Betts,Gavin,G,L,6.00,186.0,2008-04-03,Kingston Frontenacs,East Division,43,1
 8389,Cal Uens,Uens,Cal,D,R,5.09,168.0,2005-02-11,Kingston Frontenacs,East Division,44,0
 9139,Adam Kelly,Kelly,Adam,C,R,6.00,185.0,2008-09-19,Kingston Frontenacs,East Division,47,1
 8480,Ethan Hay,Hay,Ethan,C,L,6.01,195.0,2005-01-15,Kingston Frontenacs,East Division,68,0
@@ -127,7 +127,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8980,Kimi Körbler,Körbler,Kimi,RW,L,5.11,166.0,2006-09-25,Ottawa 67's,East Division,24,0
 9033,Zach Houben,Houben,Zach,LW,L,6.06,212.0,2007-02-01,Ottawa 67's,East Division,25,1
 9178,Nathan Amidovski,Amidovski,Nathan,LW,L,6.02,184.0,2008-04-06,Ottawa 67's,East Division,26,1
-9015,Nolan Jackson,Jackson,Nolan,D,L,6.01,189.0,2007-01-02,Ottawa 67's,East Division,27,1
+9015,Nolan Jackson,Jackson,Nolan,D,L,6.02,189.0,2007-01-02,Ottawa 67's,East Division,27,1
 8591,Cooper Foster,Foster,Cooper,C,L,6.00,190.0,2005-06-04,Ottawa 67's,East Division,29,0
 9075,Jaeden Nelson,Nelson,Jaeden,G,L,6.01,195.0,2007-04-11,Ottawa 67's,East Division,32,1
 8593,Collin MacKenzie,MacKenzie,Collin,G,L,6.00,175.0,2004-11-30,Ottawa 67's,East Division,33,0
@@ -142,7 +142,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8717,Caden Kelly,Kelly,Caden,RW,R,5.11,198.0,2006-01-15,Ottawa 67's,East Division,28,0
 9225,Liam Conway,Conway,Liam,G,L,5.11,171.0,2007-06-19,Ottawa 67's,East Division,30,0
 9331,Luka Gelinas,Gelinas,Luka,G,L,6.01,179.0,2008-01-01,Peterborough Petes,East Division,1,1
-9363,Marcus Sulug,Sulug,Marcus,D,L,6.02,191.0,2008-02-07,Peterborough Petes,East Division,2,0
 9211,Thanasi Marentette,Marentette,Thanasi,D,L,6.00,216.0,2007-01-30,Peterborough Petes,East Division,3,1
 9350,Calum Hartnell,Hartnell,Calum,D,L,5.08,168.0,2007-06-08,Peterborough Petes,East Division,4,0
 9029,Martin Matejicek,Matejicek,Martin,D,L,6.02,205.0,2005-08-05,Peterborough Petes,East Division,5,0
@@ -171,6 +170,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8832,Zach Bowen,Bowen,Zach,G,L,6.02,190.0,2005-04-25,Peterborough Petes,East Division,31,0
 9210,Masen Johnston,Johnston,Masen,G,L,6.01,190.0,2007-02-08,Peterborough Petes,East Division,34,1
 8498,Liam Sztuska,Sztuska,Liam,G,L,6.01,182.0,2004-05-01,Peterborough Petes,East Division,1,0
+9363,Marcus Sulug,Sulug,Marcus,D,L,6.02,191.0,2008-02-07,Peterborough Petes,East Division,2,0
 8825,Chase Lefebvre,Lefebvre,Chase,C,L,6.03,180.0,2004-05-13,Peterborough Petes,East Division,7,0
 8519,Ryder McIntyre,McIntyre,Ryder,RW,R,6.04,225.0,2004-07-15,Peterborough Petes,East Division,21,0
 9352,Dylan Turcotte,Turcotte,Dylan,LW,L,6.01,164.0,2007-02-06,Peterborough Petes,East Division,21,0
@@ -348,7 +348,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9204,Brady Smith,Smith,Brady,D,L,6.02,196.0,2008-03-27,Sudbury Wolves,Central Division,3,0
 9049,Trevor O’Dell,O’Dell,Trevor,D,L,6.04,180.0,2006-07-17,Sudbury Wolves,Central Division,4,0
 9199,Henry Doucet,Doucet,Henry,LW,L,6.00,187.0,2008-08-11,Sudbury Wolves,Central Division,5,1
-9015,Nolan Jackson,Jackson,Nolan,D,L,6.01,189.0,2007-01-02,Sudbury Wolves,Central Division,5,1
+9015,Nolan Jackson,Jackson,Nolan,D,L,6.02,189.0,2007-01-02,Sudbury Wolves,Central Division,5,1
 8671,Gavin Ewles,Ewles,Gavin,D,R,6.01,193.0,2005-03-01,Sudbury Wolves,Central Division,7,0
 8560,Chase Coughlan,Coughlan,Chase,RW,R,5.11,201.0,2005-06-17,Sudbury Wolves,Central Division,9,0
 9198,Ethan Dean,Dean,Ethan,C,L,5.11,182.0,2008-03-11,Sudbury Wolves,Central Division,11,1
@@ -368,9 +368,9 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9200,Rowan Henderson,Henderson,Rowan,LW,L,6.00,183.0,2007-12-10,Sudbury Wolves,Central Division,77,1
 8716,Henry Mews,Mews,Henry,D,R,6.01,183.0,2006-03-09,Sudbury Wolves,Central Division,88,0
 8776,Nathan Villeneuve,Villeneuve,Nathan,C,L,6.00,195.0,2006-04-13,Sudbury Wolves,Central Division,89,0
-9012,Hudson Chitaroni,Chitaroni,Hudson,C,L,5.11,191.0,2007-08-22,Sudbury Wolves,Central Division,91,1
+9012,Hudson Chitaroni,Chitaroni,Hudson,C,L,5.10,191.0,2007-08-22,Sudbury Wolves,Central Division,91,1
 8828,Lucas Di Giantommaso,Di Giantommaso,Lucas,RW,R,6.00,178.0,2005-11-14,Sudbury Wolves,Central Division,92,0
-9203,Luca Blonda,Blonda,Luca,D,R,5.11,188.0,2008-11-25,Sudbury Wolves,Central Division,93,1
+9203,Luca Blonda,Blonda,Luca,D,R,5.10,188.0,2008-11-25,Sudbury Wolves,Central Division,93,1
 8402,Nick DeAngelis,DeAngelis,Nick,D,L,6.02,188.0,2004-05-22,Sudbury Wolves,Central Division,95,0
 8887,Ondrej Molnar,Molnar,Ondrej,LW,L,5.10,175.0,2005-02-08,Sudbury Wolves,Central Division,96,0
 9071,Spencer Horgan,Horgan,Spencer,D,R,5.11,165.0,2005-03-17,Sudbury Wolves,Central Division,2,0
@@ -470,7 +470,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8920,Ryan Brown,Brown,Ryan,LW,L,6.00,192.0,2007-10-27,Sarnia Sting,West Division,23,0
 8812,Daylen Moses,Moses,Daylen,C,R,6.02,180.0,2005-06-13,Sarnia Sting,West Division,24,0
 8837,Tyson Doucette,Doucette,Tyson,LW,L,6.00,181.0,2004-01-30,Sarnia Sting,West Division,25,0
-9080,Evan Maillet,Maillet,Evan,G,R,6.00,172.0,2006-03-17,Sarnia Sting,West Division,30,0
 8677,Nick Surzycia,Surzycia,Nick,G,R,6.00,170.0,2004-12-17,Sarnia Sting,West Division,31,0
 8885,Karsen Chartier,Chartier,Karsen,G,L,6.03,183.0,2006-01-01,Sarnia Sting,West Division,33,0
 8703,Kaeden Johnston,Johnston,Kaeden,RW,R,6.01,175.0,2005-02-03,Sarnia Sting,West Division,37,0
@@ -488,6 +487,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8923,Nathan Omeri,Omeri,Nathan,D,R,5.11,175.0,2006-06-15,Sarnia Sting,West Division,27,0
 9280,Dallys Hibbert,Hibbert,Dallys,D,R,6.02,178.0,2006-06-25,Sarnia Sting,West Division,28,0
 9271,Ryder Simpson,Simpson,Ryder,LW,L,6.03,190.0,2008-05-08,Sarnia Sting,West Division,28,1
+9080,Evan Maillet,Maillet,Evan,G,R,6.00,172.0,2006-03-17,Sarnia Sting,West Division,30,0
 9045,Casey Bridgewater,Bridgewater,Casey,D,L,5.10,175.0,2007-02-07,Sarnia Sting,West Division,43,1
 8570,Andrew Gibson,Gibson,Andrew,D,R,6.04,210.0,2005-02-13,Soo Greyhounds,West Division,6,0
 8571,Caeden Carlisle,Carlisle,Caeden,D,L,6.01.25,197.0,2004-01-31,Soo Greyhounds,West Division,7,0

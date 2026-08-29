@@ -207,7 +207,7 @@ Player_ID,Name,Rookie,JN,BD,BD_Y,Hgt,Wgt,Pos,Team,GP,G,A,PTS,Pts/G,+/-,PPG,PPA,G
 9242,Noah Read,YES,92,,2007.0,6.00,170,LW,London Knights,45,10,16,26,0.58,10,0,2,2,0,20,2,7.7,34.0
 8739,Ben Cormier,NO,8,,2006.0,6.00,180,C,Owen Sound Attack,64,14,11,25,0.39,-16,2,3,0,2,33,5,20.0,-4.5
 8385,Gavin Bryant,NO,13,,2004.0,5.11,188,C,Peterborough Petes,54,10,15,25,0.46,-20,2,4,3,0,31,6,24.0,-8.5
-9012,Hudson Chitaroni,YES,91,,2007.0,5.11,191,C,Sudbury Wolves,65,9,16,25,0.38,-9,2,3,4,0,43,5,20.0,-10.0
+9012,Hudson Chitaroni,YES,91,,2007.0,5.10,191,C,Sudbury Wolves,65,9,16,25,0.38,-9,2,3,4,0,43,5,20.0,-10.0
 9027,Jake Crawford,NO,16,,2007.0,6.03,190,C,Owen Sound Attack,65,8,17,25,0.38,-21,1,0,0,0,22,1,4.0,-1.5
 8725,Ben Danford,NO,77,,2006.0,6.02,200,D,Oshawa Generals,61,5,20,25,0.41,5,0,2,2,0,68,2,8.0,-23.0
 8958,Wil McFadden,NO,93,,2007.0,5.08,170,C,Guelph Storm,61,5,20,25,0.41,-2,1,4,1,0,8,5,20.0,30.0
@@ -281,7 +281,7 @@ Player_ID,Name,Rookie,JN,BD,BD_Y,Hgt,Wgt,Pos,Team,GP,G,A,PTS,Pts/G,+/-,PPG,PPA,G
 8939,Josef Eichler,NO,5,,2005.0,6.00,194,D,Windsor Spitfires,63,2,14,16,0.25,10,0,1,1,0,74,1,6.2,-39.0
 9078,Cameron Arquette,YES,11,,2007.0,5.08,170,RW,Kitchener Rangers,53,8,7,15,0.28,-3,0,0,1,0,11,0,0.0,12.5
 9031,Nico Addy,NO,22,,2007.0,6.04,207,RW,Peterborough Petes,43,6,9,15,0.35,-15,1,0,2,0,43,1,6.7,-32.5
-9203,Luca Blonda,YES,93,,2008.0,5.11,188,D,Sudbury Wolves,65,5,10,15,0.23,-14,1,1,1,0,40,2,13.3,-29.0
+9203,Luca Blonda,YES,93,,2008.0,5.10,188,D,Sudbury Wolves,65,5,10,15,0.23,-14,1,1,1,0,40,2,13.3,-29.0
 9234,Ryder Carey,YES,11,,2008.0,6.01,199,C,North Bay Battalion,68,4,11,15,0.22,-20,0,1,0,0,37,1,6.7,-32.5
 8473,Andrew Wycisk,NO,75,,2005.0,5.11,170,D,Niagara IceDogs,57,3,12,15,0.26,-12,0,3,1,0,18,3,20.0,-6.0
 8774,Josh Glavin,NO,5,,2006.0,6.03,200,D,Saginaw Spirit,67,0,15,15,0.22,-8,0,0,0,0,97,0,0.0,-82.5
@@ -355,7 +355,7 @@ Player_ID,Name,Rookie,JN,BD,BD_Y,Hgt,Wgt,Pos,Team,GP,G,A,PTS,Pts/G,+/-,PPG,PPA,G
 9245,Noah Aboflan,NO,74,,2005.0,6.00,192,LW,London Knights,33,4,4,8,0.24,5,0,1,0,0,33,1,12.5,-14.0
 9178,Nathan Amidovski,YES,26,,2008.0,6.02,184,LW,Ottawa 67's,52,4,4,8,0.15,-25,0,1,0,0,12,1,12.5,-23.0
 9003,Daniel Chen,NO,27,,2006.0,6.05,196,D,Brantford Bulldogs,55,2,6,8,0.15,6,0,0,0,0,18,0,0.0,1.0
-9015,Nolan Jackson,YES,27,,2007.0,6.01,189,D,Ottawa 67's,49,1,7,8,0.16,2,0,0,0,0,23,0,0.0,-8.5
+9015,Nolan Jackson,YES,27,,2007.0,6.02,189,D,Ottawa 67's,49,1,7,8,0.16,2,0,0,0,0,23,0,0.0,-8.5
 8955,Shawn Costello,YES,10,,2007.0,6.02,188,C,Windsor Spitfires,39,0,8,8,0.21,3,0,0,0,0,14,0,0.0,1.0
 9220,Keegan Gillen,YES,3,,2007.0,5.11,185,D,Soo Greyhounds,58,0,8,8,0.14,-10,0,0,0,0,17,0,0.0,-15.0
 9186,Troy Patton,YES,77,,2008.0,5.10,178,C,Brampton Steelheads,36,5,2,7,0.19,4,0,0,1,0,24,0,0.0,-7.0

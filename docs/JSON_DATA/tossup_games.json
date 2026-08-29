@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-11-07",
-        "home_team": "London Knights",
-        "away_team": "Kingston Frontenacs",
-        "predicted_winner": "London Knights",
-        "actual_winner": "London Knights",
-        "home_score": 2,
-        "away_score": 1,
-        "odds": {
-            "London Knights": "-122",
-            "Kingston Frontenacs": "-101"
-        }
-    },
-    {
         "date": "2025-11-08",
         "home_team": "Erie Otters",
         "away_team": "Niagara IceDogs",

@@ -1,12 +1,4 @@
 Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
-2025-11-07,7:00 pm,Erie Otters,2,Ottawa 67's,5,28320
-2025-11-07,7:00 pm,Flint Firebirds,9,North Bay Battalion,3,28321
-2025-11-07,7:00 pm,Kitchener Rangers,5,Saginaw Spirit,2,28322
-2025-11-07,7:00 pm,London Knights,2,Kingston Frontenacs,1,28323
-2025-11-07,7:05 pm,Oshawa Generals,4,Brantford Bulldogs,5,28324
-2025-11-07,7:05 pm,Sarnia Sting,4,Brampton Steelheads,5,28325
-2025-11-07,7:05 pm,Sudbury Wolves,3,Barrie Colts,6,28327
-2025-11-07,7:07 pm,Soo Greyhounds,2,Guelph Storm,4,28326
 2025-11-08,7:00 pm,Erie Otters,5,Niagara IceDogs,2,28328
 2025-11-08,7:00 pm,Flint Firebirds,6,Guelph Storm,3,28329
 2025-11-08,7:00 pm,Owen Sound Attack,2,London Knights,3,28330
@@ -585,7 +577,7 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2026-08-28,5:30 pm,Newfoundland Regiment,3,Saginaw Spirit,4,29678
 2026-08-28,7:00 pm,Guelph Storm,2,Peterborough Petes,3,29676
 2026-08-28,7:00 pm,London Knights,5,Erie Otters,1,29677
-2026-08-29,1:00 pm,Owen Sound Attack,0,Oshawa Generals,0,29682
+2026-08-29,1:00 pm,Owen Sound Attack,2,Oshawa Generals,3,29682
 2026-08-29,2:30 pm,Newfoundland Regiment,0,Saginaw Spirit,0,29681
 2026-08-29,4:00 pm,Erie Otters,0,London Knights,0,29680
 2026-08-29,7:30 pm,Barrie Colts,0,Brantford Bulldogs,0,29679
@@ -999,3 +991,11 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2026-12-31,6:00 pm,Erie Otters,0,Brantford Bulldogs,0,29349
 2026-12-31,6:00 pm,Niagara IceDogs,0,Guelph Storm,0,29352
 2026-12-31,7:30 pm,Barrie Colts,0,Owen Sound Attack,0,29348
+2027-01-01,2:05 pm,Oshawa Generals,0,North Bay Battalion,0,29357
+2027-01-01,7:07 pm,Guelph Storm,0,Peterborough Petes,0,29356
+2027-01-02,4:00 pm,Brampton Steelheads,0,Sudbury Wolves,0,29359
+2027-01-02,4:05 pm,Kingston Frontenacs,0,London Knights,0,29361
+2027-01-02,7:00 pm,Flint Firebirds,0,Windsor Spitfires,0,29360
+2027-01-02,7:00 pm,Owen Sound Attack,0,Erie Otters,0,29362
+2027-01-02,7:05 pm,Saginaw Spirit,0,Sarnia Sting,0,29363
+2027-01-02,7:07 pm,Soo Greyhounds,0,Kitchener Rangers,0,29364
