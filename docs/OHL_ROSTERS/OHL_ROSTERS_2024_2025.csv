@@ -282,7 +282,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9164,Daniil Skvortsov,Skvortsov,Daniil,D,L,6.04,200.0,2007-01-13,Guelph Storm,Midwest Division,59,1
 8873,Jakub Chromiak,Chromiak,Jakub,RD,R,5.11,183.0,2005-11-02,Kitchener Rangers,Midwest Division,3,0
 8465,Matthew Andonovski,Andonovski,Matthew,LD,L,6.02,200.0,2005-03-14,Kitchener Rangers,Midwest Division,5,0
-8748,Carson Campbell,Campbell,Carson,RD,R,6.01,180.0,2006-06-08,Kitchener Rangers,Midwest Division,8,0
 9170,Avry Anstis,Anstis,Avry,RW,R,6.00,165.0,2008-03-05,Kitchener Rangers,Midwest Division,9,1
 8673,Adrian Misaljevic,Misaljevic,Adrian,LW,L,5.11,175.0,2004-07-10,Kitchener Rangers,Midwest Division,10,0
 9078,Cameron Arquette,Arquette,Cameron,RW,R,5.08,170.0,2007-04-27,Kitchener Rangers,Midwest Division,11,1
@@ -294,7 +293,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9161,Kaden Schneider,Schneider,Kaden,LD,L,6.03,181.0,2007-06-21,Kitchener Rangers,Midwest Division,21,1
 9276,Jack Pridham,Pridham,Jack,RW,R,6.02,185.0,2005-10-08,Kitchener Rangers,Midwest Division,24,0
 9081,Max Dirracolo,Dirracolo,Max,LD,L,6.04,216.0,2006-06-29,Kitchener Rangers,Midwest Division,25,0
-8758,Andrew Vermeulen,Vermeulen,Andrew,C,L,6.02,200.0,2006-02-07,Kitchener Rangers,Midwest Division,27,0
 9053,Owen Edwards,Edwards,Owen,G,R,6.03,170.0,2007-01-02,Kitchener Rangers,Midwest Division,31,1
 8464,Jackson Parsons,Parsons,Jackson,G,L,6.02,202.0,2004-11-23,Kitchener Rangers,Midwest Division,32,0
 8945,Tanner Lam,Lam,Tanner,RW,R,5.10,160.0,2007-07-14,Kitchener Rangers,Midwest Division,37,0
@@ -310,6 +308,8 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9162,Alexander Bilecki,Bilecki,Alexander,LD,L,6.02,180.0,2008-05-09,Kitchener Rangers,Midwest Division,89,1
 9165,Jack LaBrash,LaBrash,Jack,LW,L,6.05,196.0,2007-03-04,Kitchener Rangers,Midwest Division,93,1
 9311,Jacob Xu,Xu,Jacob,LD,L,6.02,195.0,2008-03-13,Kitchener Rangers,Midwest Division,96,1
+8748,Carson Campbell,Campbell,Carson,RD,R,6.01,180.0,2006-06-08,Kitchener Rangers,Midwest Division,8,0
+8758,Andrew Vermeulen,Vermeulen,Andrew,C,L,6.02,200.0,2006-02-07,Kitchener Rangers,Midwest Division,27,0
 8944,Matheas Stark,Stark,Matheas,LW,L,6.00,161.0,2007-01-14,Kitchener Rangers,Midwest Division,28,0
 8653,Antonino Pugliese,Pugliese,Antonino,RW,R,5.09,179.0,2004-04-09,Kitchener Rangers,Midwest Division,44,0
 8740,Braedyn Rogers,Rogers,Braedyn,D,R,6.01,185.0,2006-11-22,Owen Sound Attack,Midwest Division,2,0
@@ -569,7 +569,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8517,Angus MacDonell,MacDonell,Angus,C,L,5.10,185.0,2005-05-11,Brampton Steelheads,Central Division,17,0
 8737,William Eggleton,Eggleton,William,LW,L,5.11,180.0,2006-02-19,Brampton Steelheads,Central Division,18,0
 8516,Mason Zebeski,Zebeski,Mason,LW,L,6.02,197.0,2005-10-04,Brampton Steelheads,Central Division,19,0
-8953,Gabriel Chiarot,Chiarot,Gabriel,RW,R,5.11,191.0,2006-09-17,Brampton Steelheads,Central Division,20,0
 8346,Spencer Sova,Sova,Spencer,D,L,6.01,190.0,2004-01-10,Brampton Steelheads,Central Division,22,0
 8951,Luke Dragusica,Dragusica,Luke,D,L,6.01,178.0,2007-02-16,Brampton Steelheads,Central Division,23,0
 9274,Jared Harding,Harding,Jared,D,L,5.08,162.0,2007-12-05,Brampton Steelheads,Central Division,24,1
@@ -587,6 +586,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8743,Porter Martone,Martone,Porter,RW,R,6.03,208.0,2006-10-26,Brampton Steelheads,Central Division,94,0
 9282,Alexander Stephen,Stephen,Alexander,D,L,6.03,195.0,2005-03-22,Brampton Steelheads,Central Division,2,0
 9304,Thomas Kuipers,Kuipers,Thomas,RW,R,6.02,180.0,2006-04-20,Brampton Steelheads,Central Division,12,0
+8953,Gabriel Chiarot,Chiarot,Gabriel,RW,R,5.11,191.0,2006-09-17,Brampton Steelheads,Central Division,20,0
 9082,Wyatt Jinman,Jinman,Wyatt,LW,L,6.02,160.0,2007-10-11,Brampton Steelheads,Central Division,21,0
 9283,Graeme MacAuley,MacAuley,Graeme,D,L,6.00,190.0,2005-11-29,Brampton Steelheads,Central Division,26,0
 9070,Anthony Paolini,Paolini,Anthony,G,L,5.08,160.0,2006-07-28,Brampton Steelheads,Central Division,32,0

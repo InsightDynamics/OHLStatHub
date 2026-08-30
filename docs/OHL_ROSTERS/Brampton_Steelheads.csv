@@ -12,7 +12,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8517,Angus MacDonell,MacDonell,Angus,C,L,5.10,185.0,2005-05-11,Brampton Steelheads,Central Division,17,0
 8737,William Eggleton,Eggleton,William,LW,L,5.11,180.0,2006-02-19,Brampton Steelheads,Central Division,18,0
 8516,Mason Zebeski,Zebeski,Mason,LW,L,6.02,197.0,2005-10-04,Brampton Steelheads,Central Division,19,0
-8953,Gabriel Chiarot,Chiarot,Gabriel,RW,R,5.11,191.0,2006-09-17,Brampton Steelheads,Central Division,20,0
 8346,Spencer Sova,Sova,Spencer,D,L,6.01,190.0,2004-01-10,Brampton Steelheads,Central Division,22,0
 8951,Luke Dragusica,Dragusica,Luke,D,L,6.01,178.0,2007-02-16,Brampton Steelheads,Central Division,23,0
 9274,Jared Harding,Harding,Jared,D,L,5.08,162.0,2007-12-05,Brampton Steelheads,Central Division,24,1
@@ -30,6 +29,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8743,Porter Martone,Martone,Porter,RW,R,6.03,208.0,2006-10-26,Brampton Steelheads,Central Division,94,0
 9282,Alexander Stephen,Stephen,Alexander,D,L,6.03,195.0,2005-03-22,Brampton Steelheads,Central Division,2,0
 9304,Thomas Kuipers,Kuipers,Thomas,RW,R,6.02,180.0,2006-04-20,Brampton Steelheads,Central Division,12,0
+8953,Gabriel Chiarot,Chiarot,Gabriel,RW,R,5.11,191.0,2006-09-17,Brampton Steelheads,Central Division,20,0
 9082,Wyatt Jinman,Jinman,Wyatt,LW,L,6.02,160.0,2007-10-11,Brampton Steelheads,Central Division,21,0
 9283,Graeme MacAuley,MacAuley,Graeme,D,L,6.00,190.0,2005-11-29,Brampton Steelheads,Central Division,26,0
 9070,Anthony Paolini,Paolini,Anthony,G,L,5.08,160.0,2006-07-28,Brampton Steelheads,Central Division,32,0
