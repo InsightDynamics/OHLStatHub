@@ -1,74 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-11-09",
-            "accuracy": 40.0,
-            "correct_predictions": 2,
-            "total_games": 5,
-            "game_details": [
-                {
-                    "home_team": "Brantford Bulldogs",
-                    "away_team": "Ottawa 67's",
-                    "predicted_winner": "Brantford Bulldogs",
-                    "actual_winner": "Brantford Bulldogs",
-                    "home_score": 4,
-                    "away_score": 3,
-                    "odds": {
-                        "Brantford Bulldogs": "-272",
-                        "Ottawa 67's": "+211"
-                    }
-                },
-                {
-                    "home_team": "Kitchener Rangers",
-                    "away_team": "Kingston Frontenacs",
-                    "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Kingston Frontenacs",
-                    "home_score": 2,
-                    "away_score": 3,
-                    "odds": {
-                        "Kitchener Rangers": "+119",
-                        "Kingston Frontenacs": "-147"
-                    }
-                },
-                {
-                    "home_team": "Sarnia Sting",
-                    "away_team": "North Bay Battalion",
-                    "predicted_winner": "North Bay Battalion",
-                    "actual_winner": "Sarnia Sting",
-                    "home_score": 6,
-                    "away_score": 5,
-                    "odds": {
-                        "Sarnia Sting": "-106",
-                        "North Bay Battalion": "-116"
-                    }
-                },
-                {
-                    "home_team": "Sudbury Wolves",
-                    "away_team": "Peterborough Petes",
-                    "predicted_winner": "Sudbury Wolves",
-                    "actual_winner": "Peterborough Petes",
-                    "home_score": 4,
-                    "away_score": 5,
-                    "odds": {
-                        "Sudbury Wolves": "-343",
-                        "Peterborough Petes": "+259"
-                    }
-                },
-                {
-                    "home_team": "Oshawa Generals",
-                    "away_team": "Owen Sound Attack",
-                    "predicted_winner": "Oshawa Generals",
-                    "actual_winner": "Owen Sound Attack",
-                    "home_score": 3,
-                    "away_score": 5,
-                    "odds": {
-                        "Oshawa Generals": "-203",
-                        "Owen Sound Attack": "+161"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-11-11",
             "accuracy": 0.0,
             "correct_predictions": 0,
@@ -3033,13 +2965,13 @@
             ]
         }
     ],
-    "total_accuracy": 49.1,
-    "tossup_accuracy": 46.7,
+    "total_accuracy": 49.3,
+    "tossup_accuracy": 48.3,
     "non_tossup_accuracy": 49.5,
-    "total_correct": 109,
-    "total_games": 222,
+    "total_correct": 107,
+    "total_games": 217,
     "tossup_correct": 14,
-    "tossup_games": 30,
-    "non_tossup_correct": 95,
-    "non_tossup_games": 192
+    "tossup_games": 29,
+    "non_tossup_correct": 93,
+    "non_tossup_games": 188
 }

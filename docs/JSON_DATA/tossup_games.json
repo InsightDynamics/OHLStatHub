@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-11-09",
-        "home_team": "Sarnia Sting",
-        "away_team": "North Bay Battalion",
-        "predicted_winner": "North Bay Battalion",
-        "actual_winner": "Sarnia Sting",
-        "home_score": 6,
-        "away_score": 5,
-        "odds": {
-            "Sarnia Sting": "-106",
-            "North Bay Battalion": "-116"
-        }
-    },
-    {
         "date": "2025-11-14",
         "home_team": "Sudbury Wolves",
         "away_team": "Erie Otters",
