@@ -1,31 +1,5 @@
 [
     {
-        "date": "2025-11-12",
-        "home_team": "Ottawa 67's",
-        "away_team": "Kingston Frontenacs",
-        "predicted_winner": "Kingston Frontenacs",
-        "actual_winner": "Ottawa 67's",
-        "home_score": 2,
-        "away_score": 1,
-        "odds": {
-            "Ottawa 67's": "+233",
-            "Kingston Frontenacs": "-304"
-        }
-    },
-    {
-        "date": "2025-11-12",
-        "home_team": "Flint Firebirds",
-        "away_team": "London Knights",
-        "predicted_winner": "London Knights",
-        "actual_winner": "Flint Firebirds",
-        "home_score": 3,
-        "away_score": 2,
-        "odds": {
-            "Flint Firebirds": "+173",
-            "London Knights": "-219"
-        }
-    },
-    {
         "date": "2025-11-13",
         "home_team": "Barrie Colts",
         "away_team": "Saginaw Spirit",
