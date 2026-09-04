@@ -1,7 +1,7 @@
 player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team_name,division,jersey_number,rookie
 8792,Rowan Topp,Topp,Rowan,D,R,6.01,200.0,2006-04-02,Guelph Storm,Midwest Division,2,0
 9318,Eric Frossard,Frossard,Eric,D,L,6.05,206.0,2008-01-12,Guelph Storm,Midwest Division,3,1
-8961,Rylan Singh,Singh,Rylan,D,R,6'0.00,176.0,2007-10-04,Guelph Storm,Midwest Division,4,0
+8961,Rylan Singh,Singh,Rylan,D,R,6.00,176.0,2007-10-04,Guelph Storm,Midwest Division,4,0
 8786,Jett Luchanko,Luchanko,Jett,C,R,5.11,191.0,2006-08-21,Guelph Storm,Midwest Division,7,0
 9158,Alex McLean,McLean,Alex,C,L,5.10,185.0,2008-08-08,Guelph Storm,Midwest Division,8,1
 8962,Parker Snelgrove,Snelgrove,Parker,C,L,6.01,195.0,2007-01-20,Guelph Storm,Midwest Division,9,0
@@ -12,7 +12,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9278,Daniel Berehowsky,Berehowsky,Daniel,C,R,5.11,182.0,2006-09-29,Guelph Storm,Midwest Division,16,0
 9064,Noah Jenken,Jenken,Noah,D,L,6.03,190.0,2007-03-08,Guelph Storm,Midwest Division,19,1
 8994,Leo Serlin,Serlin,Leo,RW,R,6.00,190.0,2006-01-20,Guelph Storm,Midwest Division,20,0
-9063,Grant Spada,Spada,Grant,D,L,6.6,203.0,2007-06-24,Guelph Storm,Midwest Division,21,1
+9063,Grant Spada,Spada,Grant,D,L,6.06,203.0,2007-06-24,Guelph Storm,Midwest Division,21,1
 8377,Thomas Budnick,Budnick,Thomas,D,L,6.01,210.0,2004-02-14,Guelph Storm,Midwest Division,22,0
 8562,Charlie Paquette,Paquette,Charlie,RW,R,6.02,207.0,2005-12-06,Guelph Storm,Midwest Division,23,0
 8957,Vilmer Alriksson,Alriksson,Vilmer,LW,L,6.06,234.0,2005-02-18,Guelph Storm,Midwest Division,25,0

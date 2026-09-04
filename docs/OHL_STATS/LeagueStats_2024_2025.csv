@@ -57,7 +57,7 @@ Player_ID,Name,Rookie,JN,BD,BD_Y,Hgt,Wgt,Pos,Team,GP,G,A,PTS,Pts/G,+/-,PPG,PPA,G
 8786,Jett Luchanko,NO,7,,2006.0,5.11,191,C,Guelph Storm,46,21,35,56,1.22,-3,3,9,4,0,46,12,21.4,45.5
 8537,Dylan Edwards,NO,11,,2005.0,5.08,171,RW,Erie Otters,66,20,36,56,0.85,-6,8,9,3,1,29,17,30.4,59.0
 8824,Sam McCue,NO,12,,2005.0,6.02,200,LW,Flint Firebirds,55,36,19,55,1.0,4,11,4,1,0,67,15,27.3,37.5
-8964,Ethan Czata,NO,12,,2007.0,6.2,185,C,Niagara IceDogs,68,21,34,55,0.81,-9,4,12,3,1,72,16,29.1,12.0
+8964,Ethan Czata,NO,12,,2007.0,6.02,185,C,Niagara IceDogs,68,21,34,55,0.81,-9,4,12,3,1,72,16,29.1,12.0
 9117,Igor Chernyshov,NO,25,,2005.0,6.03,225,RW,Saginaw Spirit,23,19,36,55,2.39,10,3,16,1,1,6,19,34.5,96.0
 8798,Tomáš Hamara,NO,9,,2004.0,6.00,192,D,Brantford Bulldogs,58,8,47,55,0.95,19,4,26,2,0,37,30,54.5,68.5
 8579,Justin Cloutier,NO,24,,2005.0,5.09,186,RW,Soo Greyhounds,68,28,26,54,0.79,3,6,7,2,3,69,13,24.1,29.0
@@ -106,7 +106,7 @@ Player_ID,Name,Rookie,JN,BD,BD_Y,Hgt,Wgt,Pos,Team,GP,G,A,PTS,Pts/G,+/-,PPG,PPA,G
 8878,Mitch Young,NO,5,,2005.0,6.02,190,D,Sarnia Sting,60,8,37,45,0.75,-5,2,10,1,0,76,12,26.7,-9.5
 8675,Easton Wainwright,NO,12,,2005.0,5.10,190,C,Sarnia Sting,65,16,28,44,0.68,-6,4,5,4,0,48,9,20.5,20.0
 8560,Chase Coughlan,NO,9,,2005.0,5.11,201,RW,Sudbury Wolves,65,24,19,43,0.66,-2,6,6,3,1,113,12,27.9,-38.5
-9118,Dimian Zhilkin,YES,71,,2008.0,5.11,190,RW,Saginaw Spirit,54,16,27,43,0.8,15,2,5,1,0,55,7,16.3,32.5
+9118,Dima Zhilkin,YES,71,,2008.0,5.11,190,RW,Saginaw Spirit,54,16,27,43,0.8,15,2,5,1,0,55,7,16.3,32.5
 8752,Marek Vanacker,NO,78,,2006.0,6.01,188,LW,Brantford Bulldogs,45,24,18,42,0.93,10,6,4,1,1,36,10,23.8,49.0
 9042,Henry Brzustewicz,NO,2,,2007.0,6.02,205,D,London Knights,67,10,32,42,0.63,24,2,12,2,0,77,14,33.3,15.0
 8588,Matthew Mayich,NO,22,,2004.0,6.02,197,D,Ottawa 67's,66,7,35,42,0.64,-17,1,8,0,0,81,9,21.4,-31.5
@@ -176,7 +176,7 @@ Player_ID,Name,Rookie,JN,BD,BD_Y,Hgt,Wgt,Pos,Team,GP,G,A,PTS,Pts/G,+/-,PPG,PPA,G
 9109,Jesse Nurmi,NO,44,,2005.0,6.00,180,LW,London Knights,58,9,22,31,0.53,10,0,4,0,0,10,4,12.9,51.0
 8505,Sebastien Gervais,NO,15,,2005.0,6.00,200,C,Saginaw Spirit,57,8,23,31,0.54,-9,0,4,1,0,20,4,12.9,21.5
 9004,Calvin Crombie,NO,14,,2005.0,6.00,195,RW,Brantford Bulldogs,55,6,25,31,0.56,-7,0,3,1,0,89,3,9.7,-46.5
-8961,Rylan Singh,NO,4,,2007.0,6'0,176,D,Guelph Storm,65,3,28,31,0.48,-36,0,10,0,0,18,10,32.3,-6.0
+8961,Rylan Singh,NO,4,,2007.0,6.00,176,D,Guelph Storm,65,3,28,31,0.48,-36,0,10,0,0,18,10,32.3,-6.0
 8360,Andrew LeBlanc,NO,27,,2004.0,6.00,183,C,North Bay Battalion,60,13,17,30,0.5,-35,5,6,3,0,38,11,36.7,-21.5
 8950,Kieran Witkowski,NO,13,,2007.0,5.11,176,LW,Brampton Steelheads,68,12,18,30,0.44,10,0,0,1,0,16,0,0.0,45.0
 9221,Brady Smith,YES,12,,2007.0,6.00,187,C,Soo Greyhounds,57,11,19,30,0.53,-18,1,1,2,3,16,2,6.7,16.5
@@ -387,7 +387,7 @@ Player_ID,Name,Rookie,JN,BD,BD_Y,Hgt,Wgt,Pos,Team,GP,G,A,PTS,Pts/G,+/-,PPG,PPA,G
 8838,Matthew Jenken,NO,12,,2005.0,6.04,202,D,Peterborough Petes,27,0,6,6,0.22,-11,0,1,0,0,8,1,16.7,-10.0
 9120,Jack Bodin,NO,9,,2006.0,6.02,220,D,Sarnia Sting,41,0,6,6,0.15,-31,0,0,0,0,32,0,0.0,-54.0
 8718,Brayden Turley,NO,7,,2006.0,6.01,195,D,North Bay Battalion,57,0,6,6,0.11,-17,0,0,0,0,70,0,0.0,-78.0
-9063,Grant Spada,YES,21,,2007.0,6.6,203,D,Guelph Storm,58,0,6,6,0.1,-29,0,0,0,0,85,0,0.0,-105.0
+9063,Grant Spada,YES,21,,2007.0,6.06,203,D,Guelph Storm,58,0,6,6,0.1,-29,0,0,0,0,85,0,0.0,-105.0
 8727,Tyler Graham,NO,28,,2006.0,5.10,192,LW,Oshawa Generals,25,4,1,5,0.2,-8,2,0,1,0,4,2,40.0,-2.5
 9327,Landon Wright,NO,36,,2006.0,5.11,190,RW,Kingston Frontenacs,25,3,2,5,0.2,-3,0,1,0,0,4,1,20.0,2.0
 9194,Easton Mikus,YES,13,,2007.0,6.01,191,C,Owen Sound Attack,46,3,2,5,0.11,-17,0,0,0,0,23,0,0.0,-31.0
