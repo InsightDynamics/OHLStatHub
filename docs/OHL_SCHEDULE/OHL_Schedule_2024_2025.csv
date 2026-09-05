@@ -1,12 +1,4 @@
 Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
-2025-11-14,7:00 pm,Brampton Steelheads,3,Oshawa Generals,1,28346
-2025-11-14,7:00 pm,Brantford Bulldogs,2,Flint Firebirds,3,28347
-2025-11-14,7:00 pm,Kitchener Rangers,0,Soo Greyhounds,4,28350
-2025-11-14,7:00 pm,London Knights,5,Owen Sound Attack,2,28351
-2025-11-14,7:00 pm,Ottawa 67's,9,Sarnia Sting,3,28352
-2025-11-14,7:05 pm,Kingston Frontenacs,4,Niagara IceDogs,3,28349
-2025-11-14,7:05 pm,Sudbury Wolves,3,Erie Otters,6,28353
-2025-11-14,7:07 pm,Guelph Storm,8,Windsor Spitfires,5,28348
 2025-11-15,3:00 pm,Ottawa 67's,6,Niagara IceDogs,2,28358
 2025-11-15,4:00 pm,Brantford Bulldogs,5,Brampton Steelheads,4,28355
 2025-11-15,7:00 pm,Flint Firebirds,6,Owen Sound Attack,2,28356
@@ -581,7 +573,7 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2026-09-04,7:00 pm,Kitchener Rangers,4,Oshawa Generals,5,29698
 2026-09-04,7:00 pm,Ottawa 67's,3,Kingston Frontenacs,4,29699
 2026-09-04,7:07 pm,Soo Greyhounds,4,Sudbury Wolves,2,29701
-2026-09-04,10:05 pm,Victoria Royals,7,London Knights,2,29700
+2026-09-04,10:05 pm,Victoria Royals,7,London Knights,1,29700
 2026-09-05,2:00 pm,Owen Sound Attack,0,Barrie Colts,0,29704
 2026-09-05,4:00 pm,Brampton Steelheads,0,Guelph Storm,0,29702
 2026-09-05,4:00 pm,Ottawa 67's,0,Peterborough Petes,0,29703
@@ -999,3 +991,11 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2027-01-08,7:00 pm,Brantford Bulldogs,0,Ottawa 67's,0,29379
 2027-01-08,7:00 pm,Flint Firebirds,0,Kingston Frontenacs,0,29380
 2027-01-08,7:00 pm,Kitchener Rangers,0,Erie Otters,0,29382
+2027-01-08,7:00 pm,London Knights,0,Oshawa Generals,0,29383
+2027-01-08,7:05 pm,Sarnia Sting,0,Peterborough Petes,0,29384
+2027-01-08,7:05 pm,Sudbury Wolves,0,Windsor Spitfires,0,29386
+2027-01-08,7:07 pm,Guelph Storm,0,Owen Sound Attack,0,29381
+2027-01-08,7:07 pm,Soo Greyhounds,0,North Bay Battalion,0,29385
+2027-01-09,6:00 pm,Erie Otters,0,Niagara IceDogs,0,29388
+2027-01-09,7:00 pm,Flint Firebirds,0,Peterborough Petes,0,29389
+2027-01-09,7:00 pm,Owen Sound Attack,0,Guelph Storm,0,29390
