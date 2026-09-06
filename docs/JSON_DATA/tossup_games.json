@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-11-15",
-        "home_team": "Brantford Bulldogs",
-        "away_team": "Brampton Steelheads",
-        "predicted_winner": "Brampton Steelheads",
-        "actual_winner": "Brantford Bulldogs",
-        "home_score": 5,
-        "away_score": 4,
-        "odds": {
-            "Brantford Bulldogs": "-107",
-            "Brampton Steelheads": "-116"
-        }
-    },
-    {
         "date": "2025-11-21",
         "home_team": "Guelph Storm",
         "away_team": "Owen Sound Attack",

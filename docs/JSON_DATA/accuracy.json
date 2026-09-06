@@ -1,86 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-11-15",
-            "accuracy": 33.3,
-            "correct_predictions": 2,
-            "total_games": 6,
-            "game_details": [
-                {
-                    "home_team": "Ottawa 67's",
-                    "away_team": "Niagara IceDogs",
-                    "predicted_winner": "Niagara IceDogs",
-                    "actual_winner": "Ottawa 67's",
-                    "home_score": 6,
-                    "away_score": 2,
-                    "odds": {
-                        "Ottawa 67's": "+134",
-                        "Niagara IceDogs": "-167"
-                    }
-                },
-                {
-                    "home_team": "Brantford Bulldogs",
-                    "away_team": "Brampton Steelheads",
-                    "predicted_winner": "Brampton Steelheads",
-                    "actual_winner": "Brantford Bulldogs",
-                    "home_score": 5,
-                    "away_score": 4,
-                    "odds": {
-                        "Brantford Bulldogs": "-107",
-                        "Brampton Steelheads": "-116"
-                    }
-                },
-                {
-                    "home_team": "Flint Firebirds",
-                    "away_team": "Owen Sound Attack",
-                    "predicted_winner": "Flint Firebirds",
-                    "actual_winner": "Flint Firebirds",
-                    "home_score": 6,
-                    "away_score": 2,
-                    "odds": {
-                        "Flint Firebirds": "-155",
-                        "Owen Sound Attack": "+125"
-                    }
-                },
-                {
-                    "home_team": "Sudbury Wolves",
-                    "away_team": "Saginaw Spirit",
-                    "predicted_winner": "Saginaw Spirit",
-                    "actual_winner": "Sudbury Wolves",
-                    "home_score": 2,
-                    "away_score": 1,
-                    "odds": {
-                        "Sudbury Wolves": "+135",
-                        "Saginaw Spirit": "-168"
-                    }
-                },
-                {
-                    "home_team": "Guelph Storm",
-                    "away_team": "Kitchener Rangers",
-                    "predicted_winner": "Kitchener Rangers",
-                    "actual_winner": "Guelph Storm",
-                    "home_score": 3,
-                    "away_score": 2,
-                    "odds": {
-                        "Guelph Storm": "+160",
-                        "Kitchener Rangers": "-201"
-                    }
-                },
-                {
-                    "home_team": "Barrie Colts",
-                    "away_team": "Peterborough Petes",
-                    "predicted_winner": "Barrie Colts",
-                    "actual_winner": "Barrie Colts",
-                    "home_score": 3,
-                    "away_score": 1,
-                    "odds": {
-                        "Barrie Colts": "-414",
-                        "Peterborough Petes": "+305"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-11-16",
             "accuracy": 75.0,
             "correct_predictions": 3,
@@ -2753,13 +2673,13 @@
             ]
         }
     ],
-    "total_accuracy": 50.0,
-    "tossup_accuracy": 46.4,
-    "non_tossup_accuracy": 50.6,
-    "total_correct": 101,
-    "total_games": 202,
+    "total_accuracy": 50.5,
+    "tossup_accuracy": 48.1,
+    "non_tossup_accuracy": 50.9,
+    "total_correct": 99,
+    "total_games": 196,
     "tossup_correct": 13,
-    "tossup_games": 28,
-    "non_tossup_correct": 88,
-    "non_tossup_games": 174
+    "tossup_games": 27,
+    "non_tossup_correct": 86,
+    "non_tossup_games": 169
 }
