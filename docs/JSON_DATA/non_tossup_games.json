@@ -1,31 +1,5 @@
 [
     {
-        "date": "2025-11-19",
-        "home_team": "Kingston Frontenacs",
-        "away_team": "Ottawa 67's",
-        "predicted_winner": "Kingston Frontenacs",
-        "actual_winner": "Ottawa 67's",
-        "home_score": 2,
-        "away_score": 3,
-        "odds": {
-            "Kingston Frontenacs": "-304",
-            "Ottawa 67's": "+233"
-        }
-    },
-    {
-        "date": "2025-11-19",
-        "home_team": "Sudbury Wolves",
-        "away_team": "Barrie Colts",
-        "predicted_winner": "Barrie Colts",
-        "actual_winner": "Barrie Colts",
-        "home_score": 2,
-        "away_score": 5,
-        "odds": {
-            "Sudbury Wolves": "+106",
-            "Barrie Colts": "-132"
-        }
-    },
-    {
         "date": "2025-11-20",
         "home_team": "Niagara IceDogs",
         "away_team": "Brantford Bulldogs",
