@@ -20,6 +20,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8732,Ryerson Leenders,Leenders,Ryerson,G,L,6.01,182.0,2006-06-01,Brantford Bulldogs,East Division,31,0
 8965,Jake O'Brien,O'Brien,Jake,C,R,6.02,177.0,2007-06-16,Brantford Bulldogs,East Division,44,0
 9152,Parker Holmes,Holmes,Parker,LW,L,6.04,228.0,2007-03-08,Brantford Bulldogs,East Division,53,1
+8969,Ben Radley,Radley,Ben,D,L,6.00,190.0,2007-07-29,Brantford Bulldogs,East Division,77,1
 8752,Marek Vanacker,Vanacker,Marek,LW,L,6.01,188.0,2006-04-12,Brantford Bulldogs,East Division,78,0
 8968,Joshua Avery,Avery,Joshua,C,L,6.01,190.0,2007-01-30,Brantford Bulldogs,East Division,86,1
 8754,David Egorov,Egorov,David,G,R,6.02,195.0,2006-05-18,Brantford Bulldogs,East Division,88,0
@@ -33,7 +34,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8435,Zakary Lavoie,Lavoie,Zakary,RW,R,5.11,194.0,2004-03-13,Brantford Bulldogs,East Division,29,0
 8750,Florian Xhekaj,Xhekaj,Florian,LW,L,6.04,190.0,2004-06-27,Brantford Bulldogs,East Division,43,0
 9320,Tommy Karmiris,Karmiris,Tommy,LW,R,5.11,191.0,2006-06-15,Brantford Bulldogs,East Division,74,0
-8969,Ben Radley,Radley,Ben,D,L,6.00,182.0,2007-07-29,Brantford Bulldogs,East Division,77,1
 9085,Briir Long,Long,Briir,C,L,5.11,154.0,2007-07-22,Brantford Bulldogs,East Division,84,1
 8419,Ben Bujold,Bujold,Ben,C,L,5.11,181.0,2004-03-03,Brantford Bulldogs,East Division,89,0
 8371,Mason Vaccari,Vaccari,Mason,G,L,5.11,184.0,2005-04-29,Kingston Frontenacs,East Division,1,0
@@ -159,7 +159,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9317,Rio Kaiser,Kaiser,Rio,D,L,6.07,220.0,2006-10-07,Peterborough Petes,East Division,17,0
 9247,Francis Parish,Parish,Francis,RW,R,5.09,160.0,2007-03-06,Peterborough Petes,East Division,18,1
 9011,Caden Taylor,Taylor,Caden,LW,L,6.03,189.0,2007-03-31,Peterborough Petes,East Division,19,0
-9356,Luis Sturgeon,Sturgeon,Luis,D,L,6.03,194.0,2008-12-11,Peterborough Petes,East Division,20,0
 9031,Nico Addy,Addy,Nico,RW,R,6.04,207.0,2007-08-17,Peterborough Petes,East Division,22,0
 8440,Jonathan Melee,Melee,Jonathan,LW,L,6.00,184.0,2004-01-15,Peterborough Petes,East Division,23,0
 8992,Aiden Young,Young,Aiden,C,L,5.11,181.0,2007-04-18,Peterborough Petes,East Division,26,0
@@ -172,6 +171,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8498,Liam Sztuska,Sztuska,Liam,G,L,6.01,182.0,2004-05-01,Peterborough Petes,East Division,1,0
 9363,Marcus Sulug,Sulug,Marcus,D,L,6.02,191.0,2008-02-07,Peterborough Petes,East Division,2,0
 8825,Chase Lefebvre,Lefebvre,Chase,C,L,6.03,180.0,2004-05-13,Peterborough Petes,East Division,7,0
+9356,Luis Sturgeon,Sturgeon,Luis,D,L,6.03,194.0,2008-12-11,Peterborough Petes,East Division,20,0
 8519,Ryder McIntyre,McIntyre,Ryder,RW,R,6.04,225.0,2004-07-15,Peterborough Petes,East Division,21,0
 9352,Dylan Turcotte,Turcotte,Dylan,LW,L,6.01,164.0,2007-02-06,Peterborough Petes,East Division,21,0
 9021,Joseph Cadorin,Cadorin,Joseph,LW,L,5.11,180.0,2007-03-29,Peterborough Petes,East Division,24,0
@@ -307,11 +307,11 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8947,Luca Romano,Romano,Luca,C,R,5.11,170.0,2007-06-25,Kitchener Rangers,Midwest Division,86,0
 9162,Alexander Bilecki,Bilecki,Alexander,LD,L,6.02,180.0,2008-05-09,Kitchener Rangers,Midwest Division,89,1
 9165,Jack LaBrash,LaBrash,Jack,LW,L,6.05,196.0,2007-03-04,Kitchener Rangers,Midwest Division,93,1
+9311,Jacob Xu,Xu,Jacob,LD,L,6.02,195.0,2008-03-13,Kitchener Rangers,Midwest Division,96,1
 8748,Carson Campbell,Campbell,Carson,RD,R,6.01,180.0,2006-06-08,Kitchener Rangers,Midwest Division,8,0
 8758,Andrew Vermeulen,Vermeulen,Andrew,C,L,6.02,200.0,2006-02-07,Kitchener Rangers,Midwest Division,27,0
 8944,Matheas Stark,Stark,Matheas,LW,L,6.00,161.0,2007-01-14,Kitchener Rangers,Midwest Division,28,0
 8653,Antonino Pugliese,Pugliese,Antonino,RW,R,5.09,179.0,2004-04-09,Kitchener Rangers,Midwest Division,44,0
-9311,Jacob Xu,Xu,Jacob,LD,L,6.02,195.0,2008-03-13,Kitchener Rangers,Midwest Division,96,1
 8740,Braedyn Rogers,Rogers,Braedyn,D,R,6.01,185.0,2006-11-22,Owen Sound Attack,Midwest Division,2,0
 9272,Mason Roy,Roy,Mason,D,L,6.01,172.0,2008-07-15,Owen Sound Attack,Midwest Division,3,1
 9190,Elliot Arnett,Arnett,Elliot,D,L,6.02,190.0,2008-03-12,Owen Sound Attack,Midwest Division,4,1

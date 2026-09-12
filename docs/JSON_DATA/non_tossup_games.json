@@ -1,44 +1,5 @@
 [
     {
-        "date": "2025-11-20",
-        "home_team": "Niagara IceDogs",
-        "away_team": "Brantford Bulldogs",
-        "predicted_winner": "Brantford Bulldogs",
-        "actual_winner": "Brantford Bulldogs",
-        "home_score": 0,
-        "away_score": 5,
-        "odds": {
-            "Niagara IceDogs": "+143",
-            "Brantford Bulldogs": "-179"
-        }
-    },
-    {
-        "date": "2025-11-20",
-        "home_team": "North Bay Battalion",
-        "away_team": "London Knights",
-        "predicted_winner": "London Knights",
-        "actual_winner": "North Bay Battalion",
-        "home_score": 5,
-        "away_score": 2,
-        "odds": {
-            "North Bay Battalion": "+272",
-            "London Knights": "-363"
-        }
-    },
-    {
-        "date": "2025-11-20",
-        "home_team": "Peterborough Petes",
-        "away_team": "Brampton Steelheads",
-        "predicted_winner": "Brampton Steelheads",
-        "actual_winner": "Peterborough Petes",
-        "home_score": 7,
-        "away_score": 1,
-        "odds": {
-            "Peterborough Petes": "+400",
-            "Brampton Steelheads": "-579"
-        }
-    },
-    {
         "date": "2025-11-21",
         "home_team": "Brampton Steelheads",
         "away_team": "Flint Firebirds",

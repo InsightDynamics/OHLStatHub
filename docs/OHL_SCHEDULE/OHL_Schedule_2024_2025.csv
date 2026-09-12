@@ -1,7 +1,4 @@
 Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
-2025-11-20,7:00 pm,Niagara IceDogs,0,Brantford Bulldogs,5,28367
-2025-11-20,7:00 pm,North Bay Battalion,5,London Knights,2,28368
-2025-11-20,7:05 pm,Peterborough Petes,7,Brampton Steelheads,1,28369
 2025-11-21,7:00 pm,Brampton Steelheads,1,Flint Firebirds,2,28370
 2025-11-21,7:00 pm,Brantford Bulldogs,7,Sarnia Sting,2,28371
 2025-11-21,7:00 pm,Erie Otters,2,Barrie Colts,3,28372
@@ -999,3 +996,6 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2027-01-13,7:05 pm,Kingston Frontenacs,0,Saginaw Spirit,0,29400
 2027-01-13,7:05 pm,Sarnia Sting,0,Kitchener Rangers,0,29401
 2027-01-14,7:00 pm,Niagara IceDogs,0,Flint Firebirds,0,29402
+2027-01-14,7:00 pm,North Bay Battalion,0,Soo Greyhounds,0,29403
+2027-01-14,7:05 pm,Peterborough Petes,0,Sudbury Wolves,0,29404
+2027-01-14,7:05 pm,Windsor Spitfires,0,London Knights,0,29405
