@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-11-21",
-        "home_team": "Guelph Storm",
-        "away_team": "Owen Sound Attack",
-        "predicted_winner": "Guelph Storm",
-        "actual_winner": "Owen Sound Attack",
-        "home_score": 7,
-        "away_score": 10,
-        "odds": {
-            "Guelph Storm": "-116",
-            "Owen Sound Attack": "-106"
-        }
-    },
-    {
         "date": "2025-11-22",
         "home_team": "Owen Sound Attack",
         "away_team": "Ottawa 67's",
