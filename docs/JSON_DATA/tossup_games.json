@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-11-22",
-        "home_team": "Owen Sound Attack",
-        "away_team": "Ottawa 67's",
-        "predicted_winner": "Owen Sound Attack",
-        "actual_winner": "Owen Sound Attack",
-        "home_score": 2,
-        "away_score": 1,
-        "odds": {
-            "Owen Sound Attack": "-119",
-            "Ottawa 67's": "-104"
-        }
-    },
-    {
         "date": "2025-11-23",
         "home_team": "Oshawa Generals",
         "away_team": "Kitchener Rangers",
