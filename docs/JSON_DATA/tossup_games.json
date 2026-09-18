@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-11-23",
-        "home_team": "Oshawa Generals",
-        "away_team": "Kitchener Rangers",
-        "predicted_winner": "Kitchener Rangers",
-        "actual_winner": "Kitchener Rangers",
-        "home_score": 2,
-        "away_score": 6,
-        "odds": {
-            "Oshawa Generals": "-107",
-            "Kitchener Rangers": "-115"
-        }
-    },
-    {
         "date": "2025-11-28",
         "home_team": "Brampton Steelheads",
         "away_team": "Brantford Bulldogs",

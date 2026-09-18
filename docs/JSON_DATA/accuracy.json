@@ -1,62 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-11-23",
-            "accuracy": 100.0,
-            "correct_predictions": 4,
-            "total_games": 4,
-            "game_details": [
-                {
-                    "home_team": "Brampton Steelheads",
-                    "away_team": "Sudbury Wolves",
-                    "predicted_winner": "Brampton Steelheads",
-                    "actual_winner": "Brampton Steelheads",
-                    "home_score": 8,
-                    "away_score": 2,
-                    "odds": {
-                        "Brampton Steelheads": "-176",
-                        "Sudbury Wolves": "+141"
-                    }
-                },
-                {
-                    "home_team": "Owen Sound Attack",
-                    "away_team": "Flint Firebirds",
-                    "predicted_winner": "Flint Firebirds",
-                    "actual_winner": "Flint Firebirds",
-                    "home_score": 3,
-                    "away_score": 6,
-                    "odds": {
-                        "Owen Sound Attack": "+125",
-                        "Flint Firebirds": "-155"
-                    }
-                },
-                {
-                    "home_team": "Windsor Spitfires",
-                    "away_team": "Guelph Storm",
-                    "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Windsor Spitfires",
-                    "home_score": 5,
-                    "away_score": 1,
-                    "odds": {
-                        "Windsor Spitfires": "-275",
-                        "Guelph Storm": "+213"
-                    }
-                },
-                {
-                    "home_team": "Oshawa Generals",
-                    "away_team": "Kitchener Rangers",
-                    "predicted_winner": "Kitchener Rangers",
-                    "actual_winner": "Kitchener Rangers",
-                    "home_score": 2,
-                    "away_score": 6,
-                    "odds": {
-                        "Oshawa Generals": "-107",
-                        "Kitchener Rangers": "-115"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-11-26",
             "accuracy": 66.7,
             "correct_predictions": 2,
@@ -2313,13 +2257,13 @@
             ]
         }
     ],
-    "total_accuracy": 49.4,
-    "tossup_accuracy": 48.0,
-    "non_tossup_accuracy": 49.7,
-    "total_correct": 84,
-    "total_games": 170,
-    "tossup_correct": 12,
-    "tossup_games": 25,
-    "non_tossup_correct": 72,
-    "non_tossup_games": 145
+    "total_accuracy": 48.2,
+    "tossup_accuracy": 45.8,
+    "non_tossup_accuracy": 48.6,
+    "total_correct": 80,
+    "total_games": 166,
+    "tossup_correct": 11,
+    "tossup_games": 24,
+    "non_tossup_correct": 69,
+    "non_tossup_games": 142
 }
