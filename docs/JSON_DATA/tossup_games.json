@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-11-28",
-        "home_team": "Brampton Steelheads",
-        "away_team": "Brantford Bulldogs",
-        "predicted_winner": "Brampton Steelheads",
-        "actual_winner": "Brampton Steelheads",
-        "home_score": 2,
-        "away_score": 1,
-        "odds": {
-            "Brampton Steelheads": "-116",
-            "Brantford Bulldogs": "-107"
-        }
-    },
-    {
         "date": "2025-11-29",
         "home_team": "Flint Firebirds",
         "away_team": "Soo Greyhounds",
