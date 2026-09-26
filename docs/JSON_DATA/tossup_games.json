@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-11-30",
-        "home_team": "Ottawa 67's",
-        "away_team": "North Bay Battalion",
-        "predicted_winner": "Ottawa 67's",
-        "actual_winner": "Ottawa 67's",
-        "home_score": 6,
-        "away_score": 3,
-        "odds": {
-            "Ottawa 67's": "-119",
-            "North Bay Battalion": "-104"
-        }
-    },
-    {
         "date": "2025-12-03",
         "home_team": "Brantford Bulldogs",
         "away_team": "Kingston Frontenacs",
