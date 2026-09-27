@@ -1,26 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-12-02",
-            "accuracy": 0.0,
-            "correct_predictions": 0,
-            "total_games": 1,
-            "game_details": [
-                {
-                    "home_team": "Kitchener Rangers",
-                    "away_team": "Erie Otters",
-                    "predicted_winner": "Kitchener Rangers",
-                    "actual_winner": "Erie Otters",
-                    "home_score": 2,
-                    "away_score": 3,
-                    "odds": {
-                        "Kitchener Rangers": "-136",
-                        "Erie Otters": "+110"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-12-03",
             "accuracy": 0.0,
             "correct_predictions": 0,
@@ -1917,13 +1897,13 @@
             ]
         }
     ],
-    "total_accuracy": 48.9,
+    "total_accuracy": 49.3,
     "tossup_accuracy": 42.9,
-    "non_tossup_accuracy": 50.0,
+    "non_tossup_accuracy": 50.4,
     "total_correct": 69,
-    "total_games": 141,
+    "total_games": 140,
     "tossup_correct": 9,
     "tossup_games": 21,
     "non_tossup_correct": 60,
-    "non_tossup_games": 120
+    "non_tossup_games": 119
 }

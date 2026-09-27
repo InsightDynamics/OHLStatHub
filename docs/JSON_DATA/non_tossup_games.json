@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-12-02",
-        "home_team": "Kitchener Rangers",
-        "away_team": "Erie Otters",
-        "predicted_winner": "Kitchener Rangers",
-        "actual_winner": "Erie Otters",
-        "home_score": 2,
-        "away_score": 3,
-        "odds": {
-            "Kitchener Rangers": "-136",
-            "Erie Otters": "+110"
-        }
-    },
-    {
         "date": "2025-12-03",
         "home_team": "Brampton Steelheads",
         "away_team": "Guelph Storm",

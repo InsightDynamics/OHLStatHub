@@ -1,5 +1,4 @@
 Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
-2025-12-02,7:00 pm,Kitchener Rangers,2,Erie Otters,3,28415
 2025-12-03,11:00 am,Brampton Steelheads,2,Guelph Storm,5,28416
 2025-12-03,6:30 pm,London Knights,3,Kitchener Rangers,4,28418
 2025-12-03,7:00 pm,Brantford Bulldogs,4,Kingston Frontenacs,2,28417
@@ -577,7 +576,7 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2026-09-26,7:05 pm,Saginaw Spirit,3,Windsor Spitfires,6,29027
 2026-09-26,7:07 pm,Soo Greyhounds,5,North Bay Battalion,4,29028
 2026-09-26,7:30 pm,Barrie Colts,2,Oshawa Generals,4,29021
-2026-09-27,2:05 pm,Sudbury Wolves,0,Brampton Steelheads,0,29032
+2026-09-27,2:05 pm,Sudbury Wolves,2,Brampton Steelheads,0,29032
 2026-09-27,3:00 pm,Ottawa 67's,0,Sarnia Sting,0,29031
 2026-09-27,6:00 pm,Kitchener Rangers,0,Kingston Frontenacs,0,29029
 2026-09-27,6:05 pm,Oshawa Generals,0,Brantford Bulldogs,0,29030
@@ -999,3 +998,4 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2027-01-24,4:05 pm,Windsor Spitfires,0,Brampton Steelheads,0,29449
 2027-01-24,6:05 pm,Oshawa Generals,0,Saginaw Spirit,0,29447
 2027-01-27,6:37 pm,Guelph Storm,0,Kitchener Rangers,0,29451
+2027-01-27,7:00 pm,Brantford Bulldogs,0,Erie Otters,0,29450
