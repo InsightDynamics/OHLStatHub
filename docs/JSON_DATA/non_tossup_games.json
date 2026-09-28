@@ -1,31 +1,5 @@
 [
     {
-        "date": "2025-12-03",
-        "home_team": "Brampton Steelheads",
-        "away_team": "Guelph Storm",
-        "predicted_winner": "Brampton Steelheads",
-        "actual_winner": "Guelph Storm",
-        "home_score": 2,
-        "away_score": 5,
-        "odds": {
-            "Brampton Steelheads": "-253",
-            "Guelph Storm": "+198"
-        }
-    },
-    {
-        "date": "2025-12-03",
-        "home_team": "London Knights",
-        "away_team": "Kitchener Rangers",
-        "predicted_winner": "London Knights",
-        "actual_winner": "Kitchener Rangers",
-        "home_score": 3,
-        "away_score": 4,
-        "odds": {
-            "London Knights": "-162",
-            "Kitchener Rangers": "+130"
-        }
-    },
-    {
         "date": "2025-12-04",
         "home_team": "Peterborough Petes",
         "away_team": "Flint Firebirds",

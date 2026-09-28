@@ -1,50 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-12-03",
-            "accuracy": 0.0,
-            "correct_predictions": 0,
-            "total_games": 3,
-            "game_details": [
-                {
-                    "home_team": "Brampton Steelheads",
-                    "away_team": "Guelph Storm",
-                    "predicted_winner": "Brampton Steelheads",
-                    "actual_winner": "Guelph Storm",
-                    "home_score": 2,
-                    "away_score": 5,
-                    "odds": {
-                        "Brampton Steelheads": "-253",
-                        "Guelph Storm": "+198"
-                    }
-                },
-                {
-                    "home_team": "London Knights",
-                    "away_team": "Kitchener Rangers",
-                    "predicted_winner": "London Knights",
-                    "actual_winner": "Kitchener Rangers",
-                    "home_score": 3,
-                    "away_score": 4,
-                    "odds": {
-                        "London Knights": "-162",
-                        "Kitchener Rangers": "+130"
-                    }
-                },
-                {
-                    "home_team": "Brantford Bulldogs",
-                    "away_team": "Kingston Frontenacs",
-                    "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Brantford Bulldogs",
-                    "home_score": 4,
-                    "away_score": 2,
-                    "odds": {
-                        "Brantford Bulldogs": "-101",
-                        "Kingston Frontenacs": "-123"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-12-04",
             "accuracy": 50.0,
             "correct_predictions": 1,
@@ -1897,13 +1853,13 @@
             ]
         }
     ],
-    "total_accuracy": 49.3,
-    "tossup_accuracy": 42.9,
-    "non_tossup_accuracy": 50.4,
+    "total_accuracy": 50.4,
+    "tossup_accuracy": 45.0,
+    "non_tossup_accuracy": 51.3,
     "total_correct": 69,
-    "total_games": 140,
+    "total_games": 137,
     "tossup_correct": 9,
-    "tossup_games": 21,
+    "tossup_games": 20,
     "non_tossup_correct": 60,
-    "non_tossup_games": 119
+    "non_tossup_games": 117
 }

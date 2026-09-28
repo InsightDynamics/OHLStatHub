@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-12-03",
-        "home_team": "Brantford Bulldogs",
-        "away_team": "Kingston Frontenacs",
-        "predicted_winner": "Kingston Frontenacs",
-        "actual_winner": "Brantford Bulldogs",
-        "home_score": 4,
-        "away_score": 2,
-        "odds": {
-            "Brantford Bulldogs": "-101",
-            "Kingston Frontenacs": "-123"
-        }
-    },
-    {
         "date": "2025-12-04",
         "home_team": "North Bay Battalion",
         "away_team": "Sarnia Sting",
