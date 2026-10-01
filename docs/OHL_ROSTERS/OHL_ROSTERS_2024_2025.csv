@@ -429,7 +429,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8879,Jacob Julien,Julien,Jacob,C,L,6.04,190.0,2004-09-12,London Knights,Midwest Division,13,0
 9044,Evan Van Gorp,Van Gorp,Evan,LW,L,5.11,180.0,2006-05-18,London Knights,Midwest Division,14,0
 8566,Cam Allen,Allen,Cam,D,R,6.00,197.0,2005-01-07,London Knights,Midwest Division,17,0
-8982,Blake Arrowsmith,Arrowsmith,Blake,RW,R,6.01,195.0,2007-04-17,London Knights,Midwest Division,18,1
 8712,Sam O'Reilly,O'Reilly,Sam,C,R,6.01,190.0,2006-03-30,London Knights,Midwest Division,23,0
 9333,Jaxon Cover,Cover,Jaxon,LW,L,6.02,185.0,2008-02-13,London Knights,Midwest Division,24,1
 9064,Noah Jenken,Jenken,Noah,D,L,6.03,200.0,2007-03-08,London Knights,Midwest Division,24,1
@@ -453,6 +452,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9242,Noah Read,Read,Noah,LW,L,6.00,170.0,2007-01-06,London Knights,Midwest Division,92,1
 9114,Finn Wilson,Wilson,Finn,G,L,6.01,190.0,2006-01-03,London Knights,Midwest Division,1,0
 8826,Sam Dickinson,Dickinson,Sam,D,L,6.03,210.0,2006-06-07,London Knights,Midwest Division,3,0
+8982,Blake Arrowsmith,Arrowsmith,Blake,RW,R,6.01,195.0,2007-04-17,London Knights,Midwest Division,18,1
 8981,PJ Fagan II,Fagan II,PJ,D,L,6.01,205.0,2007-05-02,London Knights,Midwest Division,67,1
 8655,Ruslan Gazizov,Gazizov,Ruslan,RW,L,5.11,185.0,2004-01-21,London Knights,Midwest Division,70,0
 8695,Owen Willmore,Willmore,Owen,G,L,6.03,180.0,2004-12-14,London Knights,Midwest Division,80,0
@@ -637,7 +637,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8964,Ethan Czata,Czata,Ethan,C,L,6.02,186.0,2007-05-29,Niagara IceDogs,Central Division,12,0
 8638,Mike Levin,Levin,Mike,LW,L,5.08,158.0,2005-10-16,Niagara IceDogs,Central Division,16,0
 8877,Blair Scott,Scott,Blair,D,L,6.02,190.0,2005-04-14,Niagara IceDogs,Central Division,17,0
-8982,Blake Arrowsmith,Arrowsmith,Blake,RW,R,6.01,195.0,2007-04-17,Niagara IceDogs,Central Division,18,1
 8385,Gavin Bryant,Bryant,Gavin,C,L,5.11,188.0,2004-07-24,Niagara IceDogs,Central Division,19,0
 9076,Rafek Dianov,Dianov,Rafek,LW,L,5.10,175.0,2007-02-25,Niagara IceDogs,Central Division,22,1
 9143,Max Crete,Crete,Max,C,L,5.09,182.0,2008-04-24,Niagara IceDogs,Central Division,23,1
@@ -654,6 +653,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9145,Matthew Humphries,Humphries,Matthew,G,R,6.04,195.0,2008-07-28,Niagara IceDogs,Central Division,82,1
 8971,Ivan Galiyanov,Galiyanov,Ivan,LW,L,5.10,179.0,2007-10-16,Niagara IceDogs,Central Division,92,0
 8460,Alex Assadourian,Assadourian,Alex,C,L,5.10,181.0,2005-07-24,Niagara IceDogs,Central Division,8,0
+8982,Blake Arrowsmith,Arrowsmith,Blake,RW,R,6.01,195.0,2007-04-17,Niagara IceDogs,Central Division,18,1
 9010,Darcy Dewachter,Dewachter,Darcy,D,R,5.11,173.0,2007-03-01,Niagara IceDogs,Central Division,24,1
 8817,Matthew Virgilio,Virgilio,Matthew,D,R,5.11,200.0,2006-03-24,Niagara IceDogs,Central Division,48,0
 8749,Masen Wray,Wray,Masen,C,L,6.04,194.0,2006-05-15,Niagara IceDogs,Central Division,71,0
