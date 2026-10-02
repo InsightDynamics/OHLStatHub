@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-12-04",
-        "home_team": "Peterborough Petes",
-        "away_team": "Flint Firebirds",
-        "predicted_winner": "Flint Firebirds",
-        "actual_winner": "Peterborough Petes",
-        "home_score": 3,
-        "away_score": 2,
-        "odds": {
-            "Peterborough Petes": "+244",
-            "Flint Firebirds": "-321"
-        }
-    },
-    {
         "date": "2025-12-05",
         "home_team": "Brampton Steelheads",
         "away_team": "Niagara IceDogs",

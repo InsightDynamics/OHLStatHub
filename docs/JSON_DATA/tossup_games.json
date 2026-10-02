@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-12-04",
-        "home_team": "North Bay Battalion",
-        "away_team": "Sarnia Sting",
-        "predicted_winner": "North Bay Battalion",
-        "actual_winner": "North Bay Battalion",
-        "home_score": 2,
-        "away_score": 1,
-        "odds": {
-            "North Bay Battalion": "-116",
-            "Sarnia Sting": "-106"
-        }
-    },
-    {
         "date": "2025-12-05",
         "home_team": "London Knights",
         "away_team": "Windsor Spitfires",
