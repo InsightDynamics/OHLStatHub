@@ -1,31 +1,5 @@
 [
     {
-        "date": "2025-12-06",
-        "home_team": "Brampton Steelheads",
-        "away_team": "Saginaw Spirit",
-        "predicted_winner": "Brampton Steelheads",
-        "actual_winner": "Brampton Steelheads",
-        "home_score": 4,
-        "away_score": 1,
-        "odds": {
-            "Brampton Steelheads": "-116",
-            "Saginaw Spirit": "-106"
-        }
-    },
-    {
-        "date": "2025-12-06",
-        "home_team": "Windsor Spitfires",
-        "away_team": "London Knights",
-        "predicted_winner": "London Knights",
-        "actual_winner": "London Knights",
-        "home_score": 2,
-        "away_score": 3,
-        "odds": {
-            "Windsor Spitfires": "-103",
-            "London Knights": "-120"
-        }
-    },
-    {
         "date": "2025-12-12",
         "home_team": "Kingston Frontenacs",
         "away_team": "Windsor Spitfires",

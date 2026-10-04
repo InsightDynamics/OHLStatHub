@@ -1,10 +1,4 @@
 Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
-2025-12-06,4:00 pm,Brampton Steelheads,4,Saginaw Spirit,1,28430
-2025-12-06,4:00 pm,Brantford Bulldogs,7,North Bay Battalion,2,28431
-2025-12-06,4:05 pm,Kingston Frontenacs,1,Barrie Colts,2,28432
-2025-12-06,7:00 pm,Owen Sound Attack,1,Erie Otters,5,28433
-2025-12-06,7:05 pm,Peterborough Petes,5,Ottawa 67's,8,28434
-2025-12-06,7:05 pm,Windsor Spitfires,2,London Knights,3,28435
 2025-12-07,2:00 pm,Niagara IceDogs,2,North Bay Battalion,1,28437
 2025-12-07,2:05 pm,Sudbury Wolves,3,Oshawa Generals,6,28440
 2025-12-07,2:07 pm,Guelph Storm,4,Kitchener Rangers,5,28436
@@ -583,9 +577,9 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2026-10-03,7:00 pm,Flint Firebirds,2,Soo Greyhounds,3,29047
 2026-10-03,7:00 pm,Owen Sound Attack,1,Windsor Spitfires,4,29049
 2026-10-03,7:30 pm,Barrie Colts,5,Sarnia Sting,3,29044
-2026-10-04,2:00 pm,London Knights,0,Flint Firebirds,0,29052
-2026-10-04,2:00 pm,Owen Sound Attack,0,Brantford Bulldogs,0,29054
-2026-10-04,2:05 pm,Kingston Frontenacs,0,Erie Otters,0,29051
+2026-10-04,2:00 pm,London Knights,0,Flint Firebirds,2,29052
+2026-10-04,2:00 pm,Owen Sound Attack,1,Brantford Bulldogs,0,29054
+2026-10-04,2:05 pm,Kingston Frontenacs,2,Erie Otters,0,29051
 2026-10-04,2:07 pm,Guelph Storm,0,Kitchener Rangers,0,29050
 2026-10-04,6:05 pm,Oshawa Generals,0,Sarnia Sting,0,29053
 2026-10-07,7:00 pm,Flint Firebirds,0,Kitchener Rangers,0,29055
@@ -999,3 +993,9 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2027-01-29,7:05 pm,Sarnia Sting,0,Windsor Spitfires,0,29464
 2027-01-29,7:07 pm,Guelph Storm,0,Soo Greyhounds,0,29458
 2027-01-30,4:05 pm,Kingston Frontenacs,0,North Bay Battalion,0,29467
+2027-01-30,7:00 pm,Flint Firebirds,0,Sudbury Wolves,0,29466
+2027-01-30,7:00 pm,Owen Sound Attack,0,London Knights,0,29468
+2027-01-30,7:05 pm,Peterborough Petes,0,Ottawa 67's,0,29469
+2027-01-30,7:05 pm,Saginaw Spirit,0,Erie Otters,0,29470
+2027-01-30,7:30 pm,Barrie Colts,0,Brampton Steelheads,0,29465
+2027-01-31,2:00 pm,Kitchener Rangers,0,Soo Greyhounds,0,29471
