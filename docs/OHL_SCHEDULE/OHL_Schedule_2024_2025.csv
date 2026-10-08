@@ -1,7 +1,4 @@
 Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
-2025-12-10,7:00 pm,Flint Firebirds,9,Guelph Storm,1,28441
-2025-12-10,7:05 pm,Kingston Frontenacs,7,Oshawa Generals,3,28442
-2025-12-10,7:07 pm,Soo Greyhounds,3,Kitchener Rangers,2,28443
 2025-12-11,7:00 pm,Barrie Colts,6,Owen Sound Attack,1,28444
 2025-12-11,7:00 pm,Erie Otters,4,Brantford Bulldogs,8,28445
 2025-12-11,7:00 pm,Niagara IceDogs,4,London Knights,3,28446
@@ -999,3 +996,6 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2027-01-31,4:05 pm,Windsor Spitfires,0,Guelph Storm,0,29475
 2027-01-31,6:05 pm,Oshawa Generals,0,Brantford Bulldogs,0,29472
 2027-02-03,7:00 pm,Brantford Bulldogs,0,Kingston Frontenacs,0,29476
+2027-02-03,7:00 pm,London Knights,0,Kitchener Rangers,0,29477
+2027-02-03,7:00 pm,Owen Sound Attack,0,Sarnia Sting,0,29478
+2027-02-03,7:07 pm,Soo Greyhounds,0,Guelph Storm,0,29479
