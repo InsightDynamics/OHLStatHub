@@ -1,74 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-12-11",
-            "accuracy": 60.0,
-            "correct_predictions": 3,
-            "total_games": 5,
-            "game_details": [
-                {
-                    "home_team": "Barrie Colts",
-                    "away_team": "Owen Sound Attack",
-                    "predicted_winner": "Barrie Colts",
-                    "actual_winner": "Barrie Colts",
-                    "home_score": 6,
-                    "away_score": 1,
-                    "odds": {
-                        "Barrie Colts": "-197",
-                        "Owen Sound Attack": "+156"
-                    }
-                },
-                {
-                    "home_team": "Erie Otters",
-                    "away_team": "Brantford Bulldogs",
-                    "predicted_winner": "Brantford Bulldogs",
-                    "actual_winner": "Brantford Bulldogs",
-                    "home_score": 4,
-                    "away_score": 8,
-                    "odds": {
-                        "Erie Otters": "+131",
-                        "Brantford Bulldogs": "-163"
-                    }
-                },
-                {
-                    "home_team": "Niagara IceDogs",
-                    "away_team": "London Knights",
-                    "predicted_winner": "London Knights",
-                    "actual_winner": "Niagara IceDogs",
-                    "home_score": 4,
-                    "away_score": 3,
-                    "odds": {
-                        "Niagara IceDogs": "+173",
-                        "London Knights": "-219"
-                    }
-                },
-                {
-                    "home_team": "North Bay Battalion",
-                    "away_team": "Brampton Steelheads",
-                    "predicted_winner": "Brampton Steelheads",
-                    "actual_winner": "North Bay Battalion",
-                    "home_score": 4,
-                    "away_score": 3,
-                    "odds": {
-                        "North Bay Battalion": "+235",
-                        "Brampton Steelheads": "-306"
-                    }
-                },
-                {
-                    "home_team": "Peterborough Petes",
-                    "away_team": "Windsor Spitfires",
-                    "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Windsor Spitfires",
-                    "home_score": 3,
-                    "away_score": 6,
-                    "odds": {
-                        "Peterborough Petes": "+431",
-                        "Windsor Spitfires": "-636"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-12-12",
             "accuracy": 28.6,
             "correct_predictions": 2,
@@ -1513,13 +1445,13 @@
             ]
         }
     ],
-    "total_accuracy": 48.2,
+    "total_accuracy": 47.7,
     "tossup_accuracy": 37.5,
-    "non_tossup_accuracy": 50.0,
-    "total_correct": 54,
-    "total_games": 112,
+    "non_tossup_accuracy": 49.5,
+    "total_correct": 51,
+    "total_games": 107,
     "tossup_correct": 6,
     "tossup_games": 16,
-    "non_tossup_correct": 48,
-    "non_tossup_games": 96
+    "non_tossup_correct": 45,
+    "non_tossup_games": 91
 }
