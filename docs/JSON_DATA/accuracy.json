@@ -1,74 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-12-13",
-            "accuracy": 40.0,
-            "correct_predictions": 2,
-            "total_games": 5,
-            "game_details": [
-                {
-                    "home_team": "Erie Otters",
-                    "away_team": "North Bay Battalion",
-                    "predicted_winner": "Erie Otters",
-                    "actual_winner": "Erie Otters",
-                    "home_score": 3,
-                    "away_score": 1,
-                    "odds": {
-                        "Erie Otters": "-196",
-                        "North Bay Battalion": "+156"
-                    }
-                },
-                {
-                    "home_team": "Flint Firebirds",
-                    "away_team": "Sarnia Sting",
-                    "predicted_winner": "Flint Firebirds",
-                    "actual_winner": "Sarnia Sting",
-                    "home_score": 2,
-                    "away_score": 3,
-                    "odds": {
-                        "Flint Firebirds": "-187",
-                        "Sarnia Sting": "+149"
-                    }
-                },
-                {
-                    "home_team": "Peterborough Petes",
-                    "away_team": "Brantford Bulldogs",
-                    "predicted_winner": "Brantford Bulldogs",
-                    "actual_winner": "Peterborough Petes",
-                    "home_score": 5,
-                    "away_score": 3,
-                    "odds": {
-                        "Peterborough Petes": "+385",
-                        "Brantford Bulldogs": "-550"
-                    }
-                },
-                {
-                    "home_team": "Saginaw Spirit",
-                    "away_team": "Kitchener Rangers",
-                    "predicted_winner": "Saginaw Spirit",
-                    "actual_winner": "Kitchener Rangers",
-                    "home_score": 4,
-                    "away_score": 5,
-                    "odds": {
-                        "Saginaw Spirit": "-133",
-                        "Kitchener Rangers": "+107"
-                    }
-                },
-                {
-                    "home_team": "Barrie Colts",
-                    "away_team": "Niagara IceDogs",
-                    "predicted_winner": "Barrie Colts",
-                    "actual_winner": "Barrie Colts",
-                    "home_score": 2,
-                    "away_score": 1,
-                    "odds": {
-                        "Barrie Colts": "-140",
-                        "Niagara IceDogs": "+113"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-12-14",
             "accuracy": 28.6,
             "correct_predictions": 2,
@@ -1353,13 +1285,13 @@
             ]
         }
     ],
-    "total_accuracy": 49.0,
+    "total_accuracy": 49.5,
     "tossup_accuracy": 40.0,
-    "non_tossup_accuracy": 50.6,
-    "total_correct": 49,
-    "total_games": 100,
+    "non_tossup_accuracy": 51.2,
+    "total_correct": 47,
+    "total_games": 95,
     "tossup_correct": 6,
     "tossup_games": 15,
-    "non_tossup_correct": 43,
-    "non_tossup_games": 85
+    "non_tossup_correct": 41,
+    "non_tossup_games": 80
 }
