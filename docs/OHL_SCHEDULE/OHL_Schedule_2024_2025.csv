@@ -1,11 +1,4 @@
 Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
-2025-12-14,2:00 pm,Niagara IceDogs,3,North Bay Battalion,7,28462
-2025-12-14,2:05 pm,Sarnia Sting,6,Guelph Storm,4,28465
-2025-12-14,2:05 pm,Sudbury Wolves,5,Brampton Steelheads,1,28467
-2025-12-14,2:07 pm,Soo Greyhounds,6,Owen Sound Attack,4,28466
-2025-12-14,2:30 pm,Brantford Bulldogs,2,London Knights,0,28461
-2025-12-14,3:00 pm,Ottawa 67's,2,Windsor Spitfires,1,28464
-2025-12-14,6:05 pm,Oshawa Generals,0,Kingston Frontenacs,3,28463
 2025-12-17,7:00 pm,Owen Sound Attack,4,London Knights,5,28468
 2025-12-17,7:05 pm,Saginaw Spirit,4,Soo Greyhounds,8,28469
 2025-12-17,7:05 pm,Sarnia Sting,2,Kitchener Rangers,5,28470
@@ -999,3 +992,10 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2027-02-06,7:05 pm,Peterborough Petes,0,London Knights,0,29495
 2027-02-06,7:05 pm,Saginaw Spirit,0,Brantford Bulldogs,0,29496
 2027-02-06,7:30 pm,Barrie Colts,0,Sudbury Wolves,0,29492
+2027-02-07,1:00 pm,North Bay Battalion,0,Barrie Colts,0,29499
+2027-02-07,4:00 pm,Erie Otters,0,Owen Sound Attack,0,29497
+2027-02-07,4:00 pm,Windsor Spitfires,0,Sarnia Sting,0,29502
+2027-02-07,4:05 pm,Sudbury Wolves,0,Ottawa 67's,0,29501
+2027-02-07,6:05 pm,Oshawa Generals,0,Brampton Steelheads,0,29500
+2027-02-07,7:00 pm,Niagara IceDogs,0,Kingston Frontenacs,0,29498
+2027-02-09,7:00 pm,Kitchener Rangers,0,London Knights,0,29503
