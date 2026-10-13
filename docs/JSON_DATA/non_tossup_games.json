@@ -1,44 +1,5 @@
 [
     {
-        "date": "2025-12-17",
-        "home_team": "Owen Sound Attack",
-        "away_team": "London Knights",
-        "predicted_winner": "London Knights",
-        "actual_winner": "London Knights",
-        "home_score": 4,
-        "away_score": 5,
-        "odds": {
-            "Owen Sound Attack": "+239",
-            "London Knights": "-313"
-        }
-    },
-    {
-        "date": "2025-12-17",
-        "home_team": "Saginaw Spirit",
-        "away_team": "Soo Greyhounds",
-        "predicted_winner": "Saginaw Spirit",
-        "actual_winner": "Soo Greyhounds",
-        "home_score": 4,
-        "away_score": 8,
-        "odds": {
-            "Saginaw Spirit": "-177",
-            "Soo Greyhounds": "+142"
-        }
-    },
-    {
-        "date": "2025-12-17",
-        "home_team": "Sarnia Sting",
-        "away_team": "Kitchener Rangers",
-        "predicted_winner": "Kitchener Rangers",
-        "actual_winner": "Kitchener Rangers",
-        "home_score": 2,
-        "away_score": 5,
-        "odds": {
-            "Sarnia Sting": "+199",
-            "Kitchener Rangers": "-255"
-        }
-    },
-    {
         "date": "2025-12-18",
         "home_team": "Barrie Colts",
         "away_team": "Sudbury Wolves",
