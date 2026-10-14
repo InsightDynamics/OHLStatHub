@@ -1,57 +1,5 @@
 [
     {
-        "date": "2025-12-18",
-        "home_team": "Barrie Colts",
-        "away_team": "Sudbury Wolves",
-        "predicted_winner": "Barrie Colts",
-        "actual_winner": "Sudbury Wolves",
-        "home_score": 1,
-        "away_score": 4,
-        "odds": {
-            "Barrie Colts": "-132",
-            "Sudbury Wolves": "+106"
-        }
-    },
-    {
-        "date": "2025-12-18",
-        "home_team": "North Bay Battalion",
-        "away_team": "Guelph Storm",
-        "predicted_winner": "Guelph Storm",
-        "actual_winner": "North Bay Battalion",
-        "home_score": 6,
-        "away_score": 2,
-        "odds": {
-            "North Bay Battalion": "+107",
-            "Guelph Storm": "-133"
-        }
-    },
-    {
-        "date": "2025-12-18",
-        "home_team": "Peterborough Petes",
-        "away_team": "Niagara IceDogs",
-        "predicted_winner": "Niagara IceDogs",
-        "actual_winner": "Peterborough Petes",
-        "home_score": 5,
-        "away_score": 2,
-        "odds": {
-            "Peterborough Petes": "+245",
-            "Niagara IceDogs": "-322"
-        }
-    },
-    {
-        "date": "2025-12-18",
-        "home_team": "Windsor Spitfires",
-        "away_team": "Soo Greyhounds",
-        "predicted_winner": "Windsor Spitfires",
-        "actual_winner": "Windsor Spitfires",
-        "home_score": 6,
-        "away_score": 2,
-        "odds": {
-            "Windsor Spitfires": "-201",
-            "Soo Greyhounds": "+160"
-        }
-    },
-    {
         "date": "2025-12-19",
         "home_team": "Brampton Steelheads",
         "away_team": "Barrie Colts",

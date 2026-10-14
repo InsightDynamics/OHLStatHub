@@ -1,62 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-12-18",
-            "accuracy": 25.0,
-            "correct_predictions": 1,
-            "total_games": 4,
-            "game_details": [
-                {
-                    "home_team": "Barrie Colts",
-                    "away_team": "Sudbury Wolves",
-                    "predicted_winner": "Barrie Colts",
-                    "actual_winner": "Sudbury Wolves",
-                    "home_score": 1,
-                    "away_score": 4,
-                    "odds": {
-                        "Barrie Colts": "-132",
-                        "Sudbury Wolves": "+106"
-                    }
-                },
-                {
-                    "home_team": "North Bay Battalion",
-                    "away_team": "Guelph Storm",
-                    "predicted_winner": "Guelph Storm",
-                    "actual_winner": "North Bay Battalion",
-                    "home_score": 6,
-                    "away_score": 2,
-                    "odds": {
-                        "North Bay Battalion": "+107",
-                        "Guelph Storm": "-133"
-                    }
-                },
-                {
-                    "home_team": "Peterborough Petes",
-                    "away_team": "Niagara IceDogs",
-                    "predicted_winner": "Niagara IceDogs",
-                    "actual_winner": "Peterborough Petes",
-                    "home_score": 5,
-                    "away_score": 2,
-                    "odds": {
-                        "Peterborough Petes": "+245",
-                        "Niagara IceDogs": "-322"
-                    }
-                },
-                {
-                    "home_team": "Windsor Spitfires",
-                    "away_team": "Soo Greyhounds",
-                    "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Windsor Spitfires",
-                    "home_score": 6,
-                    "away_score": 2,
-                    "odds": {
-                        "Windsor Spitfires": "-201",
-                        "Soo Greyhounds": "+160"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-12-19",
             "accuracy": 75.0,
             "correct_predictions": 6,
@@ -1149,13 +1093,13 @@
             ]
         }
     ],
-    "total_accuracy": 50.6,
+    "total_accuracy": 51.9,
     "tossup_accuracy": 40.0,
-    "non_tossup_accuracy": 52.9,
-    "total_correct": 43,
-    "total_games": 85,
+    "non_tossup_accuracy": 54.5,
+    "total_correct": 42,
+    "total_games": 81,
     "tossup_correct": 6,
     "tossup_games": 15,
-    "non_tossup_correct": 37,
-    "non_tossup_games": 70
+    "non_tossup_correct": 36,
+    "non_tossup_games": 66
 }
