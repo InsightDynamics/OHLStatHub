@@ -1,122 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-12-28",
-            "accuracy": 66.7,
-            "correct_predictions": 6,
-            "total_games": 9,
-            "game_details": [
-                {
-                    "home_team": "Kitchener Rangers",
-                    "away_team": "Erie Otters",
-                    "predicted_winner": "Kitchener Rangers",
-                    "actual_winner": "Kitchener Rangers",
-                    "home_score": 5,
-                    "away_score": 3,
-                    "odds": {
-                        "Kitchener Rangers": "-136",
-                        "Erie Otters": "+110"
-                    }
-                },
-                {
-                    "home_team": "Niagara IceDogs",
-                    "away_team": "Brampton Steelheads",
-                    "predicted_winner": "Brampton Steelheads",
-                    "actual_winner": "Niagara IceDogs",
-                    "home_score": 4,
-                    "away_score": 3,
-                    "odds": {
-                        "Niagara IceDogs": "+149",
-                        "Brampton Steelheads": "-186"
-                    }
-                },
-                {
-                    "home_team": "North Bay Battalion",
-                    "away_team": "Barrie Colts",
-                    "predicted_winner": "Barrie Colts",
-                    "actual_winner": "Barrie Colts",
-                    "home_score": 1,
-                    "away_score": 3,
-                    "odds": {
-                        "North Bay Battalion": "+178",
-                        "Barrie Colts": "-226"
-                    }
-                },
-                {
-                    "home_team": "Owen Sound Attack",
-                    "away_team": "Brantford Bulldogs",
-                    "predicted_winner": "Brantford Bulldogs",
-                    "actual_winner": "Brantford Bulldogs",
-                    "home_score": 1,
-                    "away_score": 2,
-                    "odds": {
-                        "Owen Sound Attack": "+198",
-                        "Brantford Bulldogs": "-254"
-                    }
-                },
-                {
-                    "home_team": "Soo Greyhounds",
-                    "away_team": "Saginaw Spirit",
-                    "predicted_winner": "Saginaw Spirit",
-                    "actual_winner": "Saginaw Spirit",
-                    "home_score": 1,
-                    "away_score": 5,
-                    "odds": {
-                        "Soo Greyhounds": "+142",
-                        "Saginaw Spirit": "-177"
-                    }
-                },
-                {
-                    "home_team": "Ottawa 67's",
-                    "away_team": "Kingston Frontenacs",
-                    "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Ottawa 67's",
-                    "home_score": 5,
-                    "away_score": 3,
-                    "odds": {
-                        "Ottawa 67's": "+233",
-                        "Kingston Frontenacs": "-304"
-                    }
-                },
-                {
-                    "home_team": "Flint Firebirds",
-                    "away_team": "Windsor Spitfires",
-                    "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Windsor Spitfires",
-                    "home_score": 1,
-                    "away_score": 4,
-                    "odds": {
-                        "Flint Firebirds": "+161",
-                        "Windsor Spitfires": "-202"
-                    }
-                },
-                {
-                    "home_team": "Oshawa Generals",
-                    "away_team": "Peterborough Petes",
-                    "predicted_winner": "Oshawa Generals",
-                    "actual_winner": "Peterborough Petes",
-                    "home_score": 0,
-                    "away_score": 2,
-                    "odds": {
-                        "Oshawa Generals": "-429",
-                        "Peterborough Petes": "+314"
-                    }
-                },
-                {
-                    "home_team": "Sarnia Sting",
-                    "away_team": "London Knights",
-                    "predicted_winner": "London Knights",
-                    "actual_winner": "London Knights",
-                    "home_score": 1,
-                    "away_score": 3,
-                    "odds": {
-                        "Sarnia Sting": "+285",
-                        "London Knights": "-382"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2025-12-29",
             "accuracy": 0.0,
             "correct_predictions": 0,
@@ -909,13 +793,13 @@
             ]
         }
     ],
-    "total_accuracy": 47.8,
+    "total_accuracy": 44.8,
     "tossup_accuracy": 36.4,
-    "non_tossup_accuracy": 50.0,
-    "total_correct": 32,
-    "total_games": 67,
+    "non_tossup_accuracy": 46.8,
+    "total_correct": 26,
+    "total_games": 58,
     "tossup_correct": 4,
     "tossup_games": 11,
-    "non_tossup_correct": 28,
-    "non_tossup_games": 56
+    "non_tossup_correct": 22,
+    "non_tossup_games": 47
 }
