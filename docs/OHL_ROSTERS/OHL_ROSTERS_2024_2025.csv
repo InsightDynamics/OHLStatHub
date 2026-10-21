@@ -141,7 +141,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9329,Ryan White,White,Ryan,D,L,5.09,172.0,2007-06-28,Ottawa 67's,East Division,21,1
 8717,Caden Kelly,Kelly,Caden,RW,R,5.11,198.0,2006-01-15,Ottawa 67's,East Division,28,0
 9225,Liam Conway,Conway,Liam,G,L,5.11,171.0,2007-06-19,Ottawa 67's,East Division,30,0
-9211,Thanasi Marentette,Marentette,Thanasi,D,L,6.00,220.0,2007-01-30,Peterborough Petes,East Division,3,1
 9350,Calum Hartnell,Hartnell,Calum,D,L,5.08,168.0,2007-06-08,Peterborough Petes,East Division,4,0
 9029,Martin Matejicek,Matejicek,Martin,D,L,6.02,205.0,2005-08-05,Peterborough Petes,East Division,5,0
 8897,Grayden Strohack,Strohack,Grayden,D,L,6.04,203.0,2006-06-09,Peterborough Petes,East Division,6,0
@@ -170,6 +169,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9331,Luka Gelinas,Gelinas,Luka,G,L,6.01,179.0,2008-01-01,Peterborough Petes,East Division,1,1
 8498,Liam Sztuska,Sztuska,Liam,G,L,6.01,182.0,2004-05-01,Peterborough Petes,East Division,1,0
 9363,Marcus Sulug,Sulug,Marcus,D,L,6.02,191.0,2008-02-07,Peterborough Petes,East Division,2,0
+9211,Thanasi Marentette,Marentette,Thanasi,D,L,6.00,220.0,2007-01-30,Peterborough Petes,East Division,3,1
 8825,Chase Lefebvre,Lefebvre,Chase,C,L,6.03,180.0,2004-05-13,Peterborough Petes,East Division,7,0
 9356,Luis Sturgeon,Sturgeon,Luis,D,L,6.03,194.0,2008-12-11,Peterborough Petes,East Division,20,0
 8519,Ryder McIntyre,McIntyre,Ryder,RW,R,6.04,225.0,2004-07-15,Peterborough Petes,East Division,21,0
@@ -549,12 +549,12 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8393,Tnias Mathurin,Mathurin,Tnias,D,L,6.03,200.0,2004-01-15,Windsor Spitfires,West Division,74,0
 9108,Ethan Garden,Garden,Ethan,LW,L,5.08,178.0,2008-04-13,Windsor Spitfires,West Division,77,1
 8831,Cole Davis,Davis,Cole,LW,L,5.11,188.0,2006-06-22,Windsor Spitfires,West Division,78,0
-8940,Adrian Manzo,Manzo,Adrian,D,R,6.01,190.0,2007-08-28,Windsor Spitfires,West Division,89,0
 8768,Tanner Winegard,Winegard,Tanner,D,R,6.06,226.0,2005-01-11,Windsor Spitfires,West Division,91,0
 9050,Evan Hjelholt,Hjelholt,Evan,D,L,6.03,209.0,2006-12-14,Windsor Spitfires,West Division,7,0
 8411,Jack Greenwell,Greenwell,Jack,RW,R,6.00,176.0,2005-01-05,Windsor Spitfires,West Division,10,0
 9103,Ilya Protas,Protas,Ilya,C,L,6.05,200.0,2006-07-18,Windsor Spitfires,West Division,37,0
 8938,Carter Froggett,Froggett,Carter,G,L,6.04,215.0,2006-04-07,Windsor Spitfires,West Division,88,0
+8940,Adrian Manzo,Manzo,Adrian,D,R,6.01,190.0,2007-08-28,Windsor Spitfires,West Division,89,0
 8400,Owen Outwater,Outwater,Owen,LW,L,6.02,187.0,2005-01-04,Windsor Spitfires,West Division,93,0
 8636,Stevie Leskovar,Leskovar,Stevie,D,L,6.03,216.0,2004-09-09,Brampton Steelheads,Central Division,4,0
 8954,Jakub Fibigr,Fibigr,Jakub,D,L,6.01,195.0,2006-07-22,Brampton Steelheads,Central Division,5,0
@@ -594,7 +594,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8825,Chase Lefebvre,Lefebvre,Chase,C,L,6.03,180.0,2004-05-13,Brampton Steelheads,Central Division,71,0
 9187,Martin Vaculik,Vaculik,Martin,RW,R,6.00,174.0,2006-09-20,Brampton Steelheads,Central Division,88,1
 8602,Wyatt Kennedy,Kennedy,Wyatt,D,R,6.05,204.0,2005-05-27,North Bay Battalion,Central Division,2,0
-8940,Adrian Manzo,Manzo,Adrian,D,R,6.01,190.0,2007-08-28,North Bay Battalion,Central Division,2,0
 9322,Jonathan Kapageridis,Kapageridis,Jonathan,D,L,6.00,182.0,2007-05-08,North Bay Battalion,Central Division,3,1
 9232,Aaron Enright,Enright,Aaron,D,L,6.00,213.0,2007-03-28,North Bay Battalion,Central Division,4,1
 9233,Kent Greer,Greer,Kent,D,R,5.09,163.0,2008-02-07,North Bay Battalion,Central Division,5,1
@@ -621,6 +620,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9316,Jack Lisson,Lisson,Jack,G,R,6.02,190.0,2006-03-31,North Bay Battalion,Central Division,30,0
 8833,Mike McIvor,McIvor,Mike,G,R,6.01,182.0,2006-03-22,North Bay Battalion,Central Division,34,0
 9101,Charlie Larocque,Larocque,Charlie,G,L,6.03,181.0,2007-07-16,North Bay Battalion,Central Division,1,1
+8940,Adrian Manzo,Manzo,Adrian,D,R,6.01,190.0,2007-08-28,North Bay Battalion,Central Division,2,0
 9294,Sam Rivet,Rivet,Sam,D,L,6.00,211.0,2008-02-27,North Bay Battalion,Central Division,8,1
 9085,Briir Long,Long,Briir,C,L,5.11,154.0,2007-07-22,North Bay Battalion,Central Division,9,0
 9054,Declan Gallivan,Gallivan,Declan,D,L,6.02,166.0,2007-06-03,North Bay Battalion,Central Division,10,1
