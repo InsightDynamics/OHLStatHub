@@ -1,110 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-12-31",
-            "accuracy": 62.5,
-            "correct_predictions": 5,
-            "total_games": 8,
-            "game_details": [
-                {
-                    "home_team": "North Bay Battalion",
-                    "away_team": "Kitchener Rangers",
-                    "predicted_winner": "Kitchener Rangers",
-                    "actual_winner": "Kitchener Rangers",
-                    "home_score": 2,
-                    "away_score": 4,
-                    "odds": {
-                        "North Bay Battalion": "+190",
-                        "Kitchener Rangers": "-242"
-                    }
-                },
-                {
-                    "home_team": "Kingston Frontenacs",
-                    "away_team": "Guelph Storm",
-                    "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Kingston Frontenacs",
-                    "home_score": 5,
-                    "away_score": 3,
-                    "odds": {
-                        "Kingston Frontenacs": "-270",
-                        "Guelph Storm": "+209"
-                    }
-                },
-                {
-                    "home_team": "Windsor Spitfires",
-                    "away_team": "Saginaw Spirit",
-                    "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Windsor Spitfires",
-                    "home_score": 6,
-                    "away_score": 0,
-                    "odds": {
-                        "Windsor Spitfires": "-125",
-                        "Saginaw Spirit": "+101"
-                    }
-                },
-                {
-                    "home_team": "London Knights",
-                    "away_team": "Sarnia Sting",
-                    "predicted_winner": "London Knights",
-                    "actual_winner": "Sarnia Sting",
-                    "home_score": 1,
-                    "away_score": 5,
-                    "odds": {
-                        "London Knights": "-382",
-                        "Sarnia Sting": "+285"
-                    }
-                },
-                {
-                    "home_team": "Soo Greyhounds",
-                    "away_team": "Flint Firebirds",
-                    "predicted_winner": "Soo Greyhounds",
-                    "actual_winner": "Flint Firebirds",
-                    "home_score": 1,
-                    "away_score": 3,
-                    "odds": {
-                        "Soo Greyhounds": "-112",
-                        "Flint Firebirds": "-110"
-                    }
-                },
-                {
-                    "home_team": "Erie Otters",
-                    "away_team": "Brantford Bulldogs",
-                    "predicted_winner": "Brantford Bulldogs",
-                    "actual_winner": "Brantford Bulldogs",
-                    "home_score": 2,
-                    "away_score": 5,
-                    "odds": {
-                        "Erie Otters": "+131",
-                        "Brantford Bulldogs": "-163"
-                    }
-                },
-                {
-                    "home_team": "Niagara IceDogs",
-                    "away_team": "Oshawa Generals",
-                    "predicted_winner": "Oshawa Generals",
-                    "actual_winner": "Niagara IceDogs",
-                    "home_score": 2,
-                    "away_score": 1,
-                    "odds": {
-                        "Niagara IceDogs": "+116",
-                        "Oshawa Generals": "-144"
-                    }
-                },
-                {
-                    "home_team": "Barrie Colts",
-                    "away_team": "Sudbury Wolves",
-                    "predicted_winner": "Barrie Colts",
-                    "actual_winner": "Barrie Colts",
-                    "home_score": 4,
-                    "away_score": 1,
-                    "odds": {
-                        "Barrie Colts": "-132",
-                        "Sudbury Wolves": "+106"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2026-01-01",
             "accuracy": 0.0,
             "correct_predictions": 0,
@@ -717,13 +613,13 @@
             ]
         }
     ],
-    "total_accuracy": 47.2,
-    "tossup_accuracy": 36.4,
-    "non_tossup_accuracy": 50.0,
-    "total_correct": 25,
-    "total_games": 53,
+    "total_accuracy": 44.4,
+    "tossup_accuracy": 40.0,
+    "non_tossup_accuracy": 45.7,
+    "total_correct": 20,
+    "total_games": 45,
     "tossup_correct": 4,
-    "tossup_games": 11,
-    "non_tossup_correct": 21,
-    "non_tossup_games": 42
+    "tossup_games": 10,
+    "non_tossup_correct": 16,
+    "non_tossup_games": 35
 }

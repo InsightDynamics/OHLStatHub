@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-12-31",
-        "home_team": "Soo Greyhounds",
-        "away_team": "Flint Firebirds",
-        "predicted_winner": "Soo Greyhounds",
-        "actual_winner": "Flint Firebirds",
-        "home_score": 1,
-        "away_score": 3,
-        "odds": {
-            "Soo Greyhounds": "-112",
-            "Flint Firebirds": "-110"
-        }
-    },
-    {
         "date": "2026-01-02",
         "home_team": "Kitchener Rangers",
         "away_team": "Barrie Colts",
