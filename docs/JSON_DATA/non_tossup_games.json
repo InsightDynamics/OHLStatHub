@@ -1,31 +1,5 @@
 [
     {
-        "date": "2026-01-01",
-        "home_team": "Oshawa Generals",
-        "away_team": "Ottawa 67's",
-        "predicted_winner": "Oshawa Generals",
-        "actual_winner": "Ottawa 67's",
-        "home_score": 2,
-        "away_score": 3,
-        "odds": {
-            "Oshawa Generals": "-217",
-            "Ottawa 67's": "+172"
-        }
-    },
-    {
-        "date": "2026-01-01",
-        "home_team": "Peterborough Petes",
-        "away_team": "Kingston Frontenacs",
-        "predicted_winner": "Kingston Frontenacs",
-        "actual_winner": "Peterborough Petes",
-        "home_score": 3,
-        "away_score": 1,
-        "odds": {
-            "Peterborough Petes": "+423",
-            "Kingston Frontenacs": "-622"
-        }
-    },
-    {
         "date": "2026-01-02",
         "home_team": "London Knights",
         "away_team": "Flint Firebirds",

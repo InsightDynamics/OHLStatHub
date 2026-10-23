@@ -1,38 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2026-01-01",
-            "accuracy": 0.0,
-            "correct_predictions": 0,
-            "total_games": 2,
-            "game_details": [
-                {
-                    "home_team": "Oshawa Generals",
-                    "away_team": "Ottawa 67's",
-                    "predicted_winner": "Oshawa Generals",
-                    "actual_winner": "Ottawa 67's",
-                    "home_score": 2,
-                    "away_score": 3,
-                    "odds": {
-                        "Oshawa Generals": "-217",
-                        "Ottawa 67's": "+172"
-                    }
-                },
-                {
-                    "home_team": "Peterborough Petes",
-                    "away_team": "Kingston Frontenacs",
-                    "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Peterborough Petes",
-                    "home_score": 3,
-                    "away_score": 1,
-                    "odds": {
-                        "Peterborough Petes": "+423",
-                        "Kingston Frontenacs": "-622"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2026-01-02",
             "accuracy": 57.1,
             "correct_predictions": 4,
@@ -613,13 +581,13 @@
             ]
         }
     ],
-    "total_accuracy": 44.4,
+    "total_accuracy": 46.5,
     "tossup_accuracy": 40.0,
-    "non_tossup_accuracy": 45.7,
+    "non_tossup_accuracy": 48.5,
     "total_correct": 20,
-    "total_games": 45,
+    "total_games": 43,
     "tossup_correct": 4,
     "tossup_games": 10,
     "non_tossup_correct": 16,
-    "non_tossup_games": 35
+    "non_tossup_games": 33
 }
