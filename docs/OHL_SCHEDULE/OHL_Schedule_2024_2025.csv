@@ -1,11 +1,4 @@
 Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
-2026-01-02,7:00 pm,Kitchener Rangers,2,Barrie Colts,3,28516
-2026-01-02,7:00 pm,London Knights,0,Flint Firebirds,5,28517
-2026-01-02,7:00 pm,Niagara IceDogs,1,Windsor Spitfires,2,28518
-2026-01-02,7:05 pm,Kingston Frontenacs,4,Ottawa 67's,3,28515
-2026-01-02,7:05 pm,Sarnia Sting,3,Owen Sound Attack,5,28519
-2026-01-02,7:05 pm,Sudbury Wolves,6,North Bay Battalion,2,28520
-2026-01-02,7:07 pm,Guelph Storm,6,Brantford Bulldogs,4,28514
 2026-01-03,7:00 pm,Erie Otters,1,Windsor Spitfires,4,28522
 2026-01-03,7:00 pm,Flint Firebirds,1,Brampton Steelheads,2,28523
 2026-01-03,7:00 pm,Owen Sound Attack,3,Peterborough Petes,5,28524
@@ -999,3 +992,10 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2027-02-19,7:05 pm,Saginaw Spirit,0,Soo Greyhounds,0,29547
 2027-02-19,7:05 pm,Sudbury Wolves,0,Barrie Colts,0,29548
 2027-02-19,7:07 pm,Guelph Storm,0,Sarnia Sting,0,29542
+2027-02-20,4:00 pm,Niagara IceDogs,0,Windsor Spitfires,0,29552
+2027-02-20,6:00 pm,Erie Otters,0,Peterborough Petes,0,29550
+2027-02-20,7:00 pm,Flint Firebirds,0,Soo Greyhounds,0,29551
+2027-02-20,7:05 pm,Saginaw Spirit,0,North Bay Battalion,0,29553
+2027-02-20,7:30 pm,Barrie Colts,0,Brantford Bulldogs,0,29549
+2027-02-21,2:00 pm,Brampton Steelheads,0,London Knights,0,29554
+2027-02-21,2:00 pm,Kitchener Rangers,0,Guelph Storm,0,29556

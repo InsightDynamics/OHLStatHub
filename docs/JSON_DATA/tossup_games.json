@@ -1,18 +1,5 @@
 [
     {
-        "date": "2026-01-02",
-        "home_team": "Kitchener Rangers",
-        "away_team": "Barrie Colts",
-        "predicted_winner": "Kitchener Rangers",
-        "actual_winner": "Barrie Colts",
-        "home_score": 2,
-        "away_score": 3,
-        "odds": {
-            "Kitchener Rangers": "-118",
-            "Barrie Colts": "-104"
-        }
-    },
-    {
         "date": "2026-01-04",
         "home_team": "Saginaw Spirit",
         "away_team": "Brampton Steelheads",
