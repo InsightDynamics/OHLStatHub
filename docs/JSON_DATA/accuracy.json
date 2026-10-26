@@ -1,62 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2026-01-04",
-            "accuracy": 50.0,
-            "correct_predictions": 2,
-            "total_games": 4,
-            "game_details": [
-                {
-                    "home_team": "North Bay Battalion",
-                    "away_team": "Sudbury Wolves",
-                    "predicted_winner": "Sudbury Wolves",
-                    "actual_winner": "North Bay Battalion",
-                    "home_score": 5,
-                    "away_score": 2,
-                    "odds": {
-                        "North Bay Battalion": "+151",
-                        "Sudbury Wolves": "-190"
-                    }
-                },
-                {
-                    "home_team": "Oshawa Generals",
-                    "away_team": "London Knights",
-                    "predicted_winner": "London Knights",
-                    "actual_winner": "London Knights",
-                    "home_score": 4,
-                    "away_score": 5,
-                    "odds": {
-                        "Oshawa Generals": "+135",
-                        "London Knights": "-168"
-                    }
-                },
-                {
-                    "home_team": "Guelph Storm",
-                    "away_team": "Peterborough Petes",
-                    "predicted_winner": "Guelph Storm",
-                    "actual_winner": "Guelph Storm",
-                    "home_score": 3,
-                    "away_score": 2,
-                    "odds": {
-                        "Guelph Storm": "-235",
-                        "Peterborough Petes": "+185"
-                    }
-                },
-                {
-                    "home_team": "Saginaw Spirit",
-                    "away_team": "Brampton Steelheads",
-                    "predicted_winner": "Brampton Steelheads",
-                    "actual_winner": "Saginaw Spirit",
-                    "home_score": 4,
-                    "away_score": 3,
-                    "odds": {
-                        "Saginaw Spirit": "-106",
-                        "Brampton Steelheads": "-116"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2026-01-07",
             "accuracy": 75.0,
             "correct_predictions": 3,
@@ -421,13 +365,13 @@
             ]
         }
     ],
-    "total_accuracy": 41.9,
-    "tossup_accuracy": 44.4,
-    "non_tossup_accuracy": 40.9,
-    "total_correct": 13,
-    "total_games": 31,
+    "total_accuracy": 40.7,
+    "tossup_accuracy": 50.0,
+    "non_tossup_accuracy": 36.8,
+    "total_correct": 11,
+    "total_games": 27,
     "tossup_correct": 4,
-    "tossup_games": 9,
-    "non_tossup_correct": 9,
-    "non_tossup_games": 22
+    "tossup_games": 8,
+    "non_tossup_correct": 7,
+    "non_tossup_games": 19
 }

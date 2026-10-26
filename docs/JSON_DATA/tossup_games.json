@@ -1,18 +1,5 @@
 [
     {
-        "date": "2026-01-04",
-        "home_team": "Saginaw Spirit",
-        "away_team": "Brampton Steelheads",
-        "predicted_winner": "Brampton Steelheads",
-        "actual_winner": "Saginaw Spirit",
-        "home_score": 4,
-        "away_score": 3,
-        "odds": {
-            "Saginaw Spirit": "-106",
-            "Brampton Steelheads": "-116"
-        }
-    },
-    {
         "date": "2026-01-07",
         "home_team": "Owen Sound Attack",
         "away_team": "Guelph Storm",
