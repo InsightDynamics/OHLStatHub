@@ -1,31 +1,5 @@
 [
     {
-        "date": "2026-01-07",
-        "home_team": "Brantford Bulldogs",
-        "away_team": "Niagara IceDogs",
-        "predicted_winner": "Brantford Bulldogs",
-        "actual_winner": "Brantford Bulldogs",
-        "home_score": 4,
-        "away_score": 2,
-        "odds": {
-            "Brantford Bulldogs": "-179",
-            "Niagara IceDogs": "+143"
-        }
-    },
-    {
-        "date": "2026-01-07",
-        "home_team": "Flint Firebirds",
-        "away_team": "Sarnia Sting",
-        "predicted_winner": "Flint Firebirds",
-        "actual_winner": "Flint Firebirds",
-        "home_score": 7,
-        "away_score": 4,
-        "odds": {
-            "Flint Firebirds": "-187",
-            "Sarnia Sting": "+149"
-        }
-    },
-    {
         "date": "2026-01-08",
         "home_team": "Peterborough Petes",
         "away_team": "Oshawa Generals",
