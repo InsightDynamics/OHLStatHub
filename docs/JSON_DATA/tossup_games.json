@@ -1,31 +1,5 @@
 [
     {
-        "date": "2026-01-08",
-        "home_team": "North Bay Battalion",
-        "away_team": "Ottawa 67's",
-        "predicted_winner": "Ottawa 67's",
-        "actual_winner": "North Bay Battalion",
-        "home_score": 4,
-        "away_score": 2,
-        "odds": {
-            "North Bay Battalion": "-104",
-            "Ottawa 67's": "-119"
-        }
-    },
-    {
-        "date": "2026-01-08",
-        "home_team": "Saginaw Spirit",
-        "away_team": "Kingston Frontenacs",
-        "predicted_winner": "Kingston Frontenacs",
-        "actual_winner": "Kingston Frontenacs",
-        "home_score": 1,
-        "away_score": 6,
-        "odds": {
-            "Saginaw Spirit": "-100",
-            "Kingston Frontenacs": "-123"
-        }
-    },
-    {
         "date": "2026-01-09",
         "home_team": "Kitchener Rangers",
         "away_team": "Oshawa Generals",
