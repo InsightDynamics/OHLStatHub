@@ -1,8 +1,4 @@
 Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
-2026-01-11,2:05 pm,Sarnia Sting,3,Kingston Frontenacs,1,28554
-2026-01-11,2:05 pm,Sudbury Wolves,4,Ottawa 67's,6,28555
-2026-01-11,4:05 pm,Windsor Spitfires,3,Brantford Bulldogs,7,28556
-2026-01-11,6:05 pm,Oshawa Generals,1,Barrie Colts,4,28553
 2026-01-14,7:00 pm,Top Prospects East,3,Top Prospects West,4,28882
 2026-01-15,7:00 pm,Barrie Colts,5,Flint Firebirds,3,28557
 2026-01-15,7:00 pm,North Bay Battalion,2,Sudbury Wolves,1,28559
@@ -999,3 +995,7 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2027-02-28,2:00 pm,North Bay Battalion,0,Barrie Colts,0,29585
 2027-02-28,2:05 pm,Sudbury Wolves,0,Niagara IceDogs,0,29588
 2027-02-28,3:00 pm,Ottawa 67's,0,Brantford Bulldogs,0,29586
+2027-02-28,5:30 pm,Saginaw Spirit,0,Windsor Spitfires,0,29587
+2027-03-02,7:00 pm,Kitchener Rangers,0,Flint Firebirds,0,29589
+2027-03-03,11:00 am,Brampton Steelheads,0,Niagara IceDogs,0,29590
+2027-03-03,7:00 pm,London Knights,0,Kitchener Rangers,0,29591

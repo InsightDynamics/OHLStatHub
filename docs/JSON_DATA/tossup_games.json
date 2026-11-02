@@ -1,15 +1,1 @@
-[
-    {
-        "date": "2026-01-11",
-        "home_team": "Oshawa Generals",
-        "away_team": "Barrie Colts",
-        "predicted_winner": "Oshawa Generals",
-        "actual_winner": "Barrie Colts",
-        "home_score": 1,
-        "away_score": 4,
-        "odds": {
-            "Oshawa Generals": "-114",
-            "Barrie Colts": "-108"
-        }
-    }
-]
+[]

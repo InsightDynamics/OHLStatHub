@@ -1,69 +1,12 @@
 {
-    "daily_accuracies": [
-        {
-            "date": "2026-01-11",
-            "accuracy": 0.0,
-            "correct_predictions": 0,
-            "total_games": 4,
-            "game_details": [
-                {
-                    "home_team": "Sarnia Sting",
-                    "away_team": "Kingston Frontenacs",
-                    "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Sarnia Sting",
-                    "home_score": 3,
-                    "away_score": 1,
-                    "odds": {
-                        "Sarnia Sting": "+260",
-                        "Kingston Frontenacs": "-344"
-                    }
-                },
-                {
-                    "home_team": "Sudbury Wolves",
-                    "away_team": "Ottawa 67's",
-                    "predicted_winner": "Sudbury Wolves",
-                    "actual_winner": "Ottawa 67's",
-                    "home_score": 4,
-                    "away_score": 6,
-                    "odds": {
-                        "Sudbury Wolves": "-177",
-                        "Ottawa 67's": "+142"
-                    }
-                },
-                {
-                    "home_team": "Windsor Spitfires",
-                    "away_team": "Brantford Bulldogs",
-                    "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Brantford Bulldogs",
-                    "home_score": 3,
-                    "away_score": 7,
-                    "odds": {
-                        "Windsor Spitfires": "-125",
-                        "Brantford Bulldogs": "+101"
-                    }
-                },
-                {
-                    "home_team": "Oshawa Generals",
-                    "away_team": "Barrie Colts",
-                    "predicted_winner": "Oshawa Generals",
-                    "actual_winner": "Barrie Colts",
-                    "home_score": 1,
-                    "away_score": 4,
-                    "odds": {
-                        "Oshawa Generals": "-114",
-                        "Barrie Colts": "-108"
-                    }
-                }
-            ]
-        }
-    ],
-    "total_accuracy": 0.0,
-    "tossup_accuracy": 0.0,
-    "non_tossup_accuracy": 0.0,
+    "daily_accuracies": [],
+    "total_accuracy": 0,
+    "tossup_accuracy": 0,
+    "non_tossup_accuracy": 0,
     "total_correct": 0,
-    "total_games": 4,
+    "total_games": 0,
     "tossup_correct": 0,
-    "tossup_games": 1,
+    "tossup_games": 0,
     "non_tossup_correct": 0,
-    "non_tossup_games": 3
+    "non_tossup_games": 0
 }
