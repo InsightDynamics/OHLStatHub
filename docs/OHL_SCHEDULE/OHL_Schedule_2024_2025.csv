@@ -1,5 +1,4 @@
 Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
-2026-01-14,7:00 pm,Top Prospects East,3,Top Prospects West,4,28882
 2026-01-15,7:00 pm,Barrie Colts,5,Flint Firebirds,3,28557
 2026-01-15,7:00 pm,North Bay Battalion,2,Sudbury Wolves,1,28559
 2026-01-15,7:05 pm,Sarnia Sting,2,Soo Greyhounds,5,28560
@@ -561,7 +560,7 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2026-11-01,2:07 pm,Soo Greyhounds,4,London Knights,5,29151
 2026-11-01,6:05 pm,Oshawa Generals,6,Ottawa 67's,7,29149
 2026-11-03,7:00 pm,Kitchener Rangers,2,Guelph Storm,3,29153
-2026-11-04,10:30 am,Ottawa 67's,0,Kingston Frontenacs,1,29155
+2026-11-04,10:30 am,Ottawa 67's,1,Kingston Frontenacs,3,29155
 2026-11-04,6:00 pm,Barrie Colts,0,Sudbury Wolves,0,29154
 2026-11-04,7:05 pm,Sarnia Sting,0,Owen Sound Attack,0,29156
 2026-11-04,7:07 pm,Soo Greyhounds,0,Erie Otters,0,29157
@@ -999,3 +998,4 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2027-03-02,7:00 pm,Kitchener Rangers,0,Flint Firebirds,0,29589
 2027-03-03,11:00 am,Brampton Steelheads,0,Niagara IceDogs,0,29590
 2027-03-03,7:00 pm,London Knights,0,Kitchener Rangers,0,29591
+2027-03-03,7:00 pm,Ottawa 67's,0,Peterborough Petes,0,29592
