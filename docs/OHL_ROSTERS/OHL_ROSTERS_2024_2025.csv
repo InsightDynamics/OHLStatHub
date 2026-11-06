@@ -300,7 +300,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8946,Andrew MacNiel,MacNiel,Andrew,RD,R,6.02,204.0,2007-07-25,Kitchener Rangers,Midwest Division,43,1
 9324,Christian Humphreys,Humphreys,Christian,C,R,5.11,170.0,2006-02-04,Kitchener Rangers,Midwest Division,48,0
 8362,Trent Swick,Swick,Trent,LW,L,6.06,208.0,2004-04-25,Kitchener Rangers,Midwest Division,57,0
-9168,Matthew Hlacar,Hlacar,Matthew,LW,L,6.03,205.0,2006-05-31,Kitchener Rangers,Midwest Division,61,0
 8796,Justin Bottineau,Bottineau,Justin,RW,R,6.00,168.0,2006-01-11,Kitchener Rangers,Midwest Division,77,0
 9166,Evan Headrick,Headrick,Evan,RW,R,5.08,171.0,2008-01-08,Kitchener Rangers,Midwest Division,81,1
 8450,Chris Grisolia,Grisolia,Chris,LW,L,6.00,187.0,2005-04-30,Kitchener Rangers,Midwest Division,85,0
@@ -312,6 +311,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8758,Andrew Vermeulen,Vermeulen,Andrew,C,L,6.02,200.0,2006-02-07,Kitchener Rangers,Midwest Division,27,0
 8944,Matheas Stark,Stark,Matheas,LW,L,6.00,161.0,2007-01-14,Kitchener Rangers,Midwest Division,28,0
 8653,Antonino Pugliese,Pugliese,Antonino,RW,R,5.09,179.0,2004-04-09,Kitchener Rangers,Midwest Division,44,0
+9168,Matthew Hlacar,Hlacar,Matthew,LW,L,6.03,205.0,2006-05-31,Kitchener Rangers,Midwest Division,61,0
 8740,Braedyn Rogers,Rogers,Braedyn,D,R,6.01,185.0,2006-11-22,Owen Sound Attack,Midwest Division,2,0
 9272,Mason Roy,Roy,Mason,D,L,6.01,172.0,2008-07-15,Owen Sound Attack,Midwest Division,3,1
 9190,Elliot Arnett,Arnett,Elliot,D,L,6.02,190.0,2008-03-12,Owen Sound Attack,Midwest Division,4,1
