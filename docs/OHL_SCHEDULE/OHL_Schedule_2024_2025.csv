@@ -1,11 +1,4 @@
 Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
-2026-01-17,4:00 pm,Brampton Steelheads,2,Windsor Spitfires,5,28571
-2026-01-17,4:00 pm,Brantford Bulldogs,5,Kingston Frontenacs,2,28572
-2026-01-17,4:00 pm,Gatineau Olympiques,3,Ottawa 67's,5,28574
-2026-01-17,4:00 pm,Owen Sound Attack,4,London Knights,5,28575
-2026-01-17,7:00 pm,Erie Otters,1,Saginaw Spirit,6,28573
-2026-01-17,7:05 pm,Peterborough Petes,1,Niagara IceDogs,0,28576
-2026-01-17,7:30 pm,Barrie Colts,4,Oshawa Generals,2,28570
 2026-01-18,2:00 pm,Kitchener Rangers,4,Guelph Storm,3,28577
 2026-01-18,2:00 pm,Niagara IceDogs,4,Brantford Bulldogs,3,28578
 2026-01-18,2:00 pm,North Bay Battalion,3,Flint Firebirds,6,28579
@@ -999,3 +992,10 @@ Date,Time,HomeTeam,HomeGoals,AwayTeam,AwayGoals,GameID
 2027-03-05,7:05 pm,Kingston Frontenacs,0,Soo Greyhounds,0,29600
 2027-03-05,7:05 pm,Sarnia Sting,0,Owen Sound Attack,0,29603
 2027-03-05,7:07 pm,Guelph Storm,0,Saginaw Spirit,0,29599
+2027-03-06,4:00 pm,Brantford Bulldogs,0,Saginaw Spirit,0,29605
+2027-03-06,6:00 pm,Erie Otters,0,North Bay Battalion,0,29606
+2027-03-06,7:00 pm,Flint Firebirds,0,Windsor Spitfires,0,29607
+2027-03-06,7:00 pm,Owen Sound Attack,0,Oshawa Generals,0,29609
+2027-03-06,7:05 pm,Peterborough Petes,0,Kingston Frontenacs,0,29610
+2027-03-06,7:30 pm,Barrie Colts,0,Guelph Storm,0,29604
+2027-03-07,2:00 pm,Niagara IceDogs,0,North Bay Battalion,0,29613
