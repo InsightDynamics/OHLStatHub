@@ -1,0 +1,86 @@
+[
+    {
+        "home_team": "Kitchener Rangers",
+        "away_team": "Owen Sound Attack",
+        "winner": "Kitchener Rangers",
+        "probabilities": {
+            "Kitchener Rangers": "64.78%",
+            "Owen Sound Attack": "35.22%"
+        },
+        "odds": {
+            "Kitchener Rangers": "-214",
+            "Owen Sound Attack": "+170"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "London Knights",
+        "away_team": "Sarnia Sting",
+        "winner": "London Knights",
+        "probabilities": {
+            "London Knights": "75.24%",
+            "Sarnia Sting": "24.76%"
+        },
+        "odds": {
+            "London Knights": "-381",
+            "Sarnia Sting": "+284"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Kingston Frontenacs",
+        "away_team": "Saginaw Spirit",
+        "winner": "Kingston Frontenacs",
+        "probabilities": {
+            "Kingston Frontenacs": "52.45%",
+            "Saginaw Spirit": "47.55%"
+        },
+        "odds": {
+            "Kingston Frontenacs": "-123",
+            "Saginaw Spirit": "-100"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Sudbury Wolves",
+        "away_team": "Brantford Bulldogs",
+        "winner": "Brantford Bulldogs",
+        "probabilities": {
+            "Sudbury Wolves": "40.51%",
+            "Brantford Bulldogs": "59.49%"
+        },
+        "odds": {
+            "Sudbury Wolves": "+135",
+            "Brantford Bulldogs": "-168"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Windsor Spitfires",
+        "away_team": "Flint Firebirds",
+        "winner": "Windsor Spitfires",
+        "probabilities": {
+            "Windsor Spitfires": "64.19%",
+            "Flint Firebirds": "35.81%"
+        },
+        "odds": {
+            "Windsor Spitfires": "-208",
+            "Flint Firebirds": "+165"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Guelph Storm",
+        "away_team": "Erie Otters",
+        "winner": "Erie Otters",
+        "probabilities": {
+            "Guelph Storm": "40.68%",
+            "Erie Otters": "59.32%"
+        },
+        "odds": {
+            "Guelph Storm": "+134",
+            "Erie Otters": "-166"
+        },
+        "game_time": "7:07 pm"
+    }
+]

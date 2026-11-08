@@ -1,0 +1,30 @@
+[
+    {
+        "home_team": "Windsor Spitfires",
+        "away_team": "Kitchener Rangers",
+        "winner": "Windsor Spitfires",
+        "probabilities": {
+            "Windsor Spitfires": "57.00%",
+            "Kitchener Rangers": "43.00%"
+        },
+        "odds": {
+            "Windsor Spitfires": "-150",
+            "Kitchener Rangers": "+121"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Soo Greyhounds",
+        "away_team": "London Knights",
+        "winner": "London Knights",
+        "probabilities": {
+            "Soo Greyhounds": "34.65%",
+            "London Knights": "65.35%"
+        },
+        "odds": {
+            "Soo Greyhounds": "+174",
+            "London Knights": "-220"
+        },
+        "game_time": "7:07 pm"
+    }
+]

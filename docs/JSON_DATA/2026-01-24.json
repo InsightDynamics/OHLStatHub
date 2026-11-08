@@ -1,0 +1,100 @@
+[
+    {
+        "home_team": "Ottawa 67's",
+        "away_team": "Oshawa Generals",
+        "winner": "Oshawa Generals",
+        "probabilities": {
+            "Ottawa 67's": "33.44%",
+            "Oshawa Generals": "66.56%"
+        },
+        "odds": {
+            "Ottawa 67's": "+184",
+            "Oshawa Generals": "-234"
+        },
+        "game_time": "3:00 pm"
+    },
+    {
+        "home_team": "Erie Otters",
+        "away_team": "Kitchener Rangers",
+        "winner": "Kitchener Rangers",
+        "probabilities": {
+            "Erie Otters": "45.70%",
+            "Kitchener Rangers": "54.30%"
+        },
+        "odds": {
+            "Erie Otters": "+108",
+            "Kitchener Rangers": "-133"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Flint Firebirds",
+        "away_team": "Windsor Spitfires",
+        "winner": "Windsor Spitfires",
+        "probabilities": {
+            "Flint Firebirds": "35.81%",
+            "Windsor Spitfires": "64.19%"
+        },
+        "odds": {
+            "Flint Firebirds": "+165",
+            "Windsor Spitfires": "-208"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Owen Sound Attack",
+        "away_team": "Niagara IceDogs",
+        "winner": "Niagara IceDogs",
+        "probabilities": {
+            "Owen Sound Attack": "41.89%",
+            "Niagara IceDogs": "58.11%"
+        },
+        "odds": {
+            "Owen Sound Attack": "+127",
+            "Niagara IceDogs": "-158"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Sarnia Sting",
+        "away_team": "Peterborough Petes",
+        "winner": "Sarnia Sting",
+        "probabilities": {
+            "Sarnia Sting": "63.41%",
+            "Peterborough Petes": "36.59%"
+        },
+        "odds": {
+            "Sarnia Sting": "-201",
+            "Peterborough Petes": "+160"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Soo Greyhounds",
+        "away_team": "North Bay Battalion",
+        "winner": "Soo Greyhounds",
+        "probabilities": {
+            "Soo Greyhounds": "61.57%",
+            "North Bay Battalion": "38.43%"
+        },
+        "odds": {
+            "Soo Greyhounds": "-184",
+            "North Bay Battalion": "+147"
+        },
+        "game_time": "7:07 pm"
+    },
+    {
+        "home_team": "Barrie Colts",
+        "away_team": "Brampton Steelheads",
+        "winner": "Brampton Steelheads",
+        "probabilities": {
+            "Barrie Colts": "42.73%",
+            "Brampton Steelheads": "57.27%"
+        },
+        "odds": {
+            "Barrie Colts": "+122",
+            "Brampton Steelheads": "-152"
+        },
+        "game_time": "7:30 pm"
+    }
+]
