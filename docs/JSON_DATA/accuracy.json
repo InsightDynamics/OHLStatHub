@@ -1,86 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2026-01-23",
-            "accuracy": 66.7,
-            "correct_predictions": 4,
-            "total_games": 6,
-            "game_details": [
-                {
-                    "home_team": "Kitchener Rangers",
-                    "away_team": "Owen Sound Attack",
-                    "predicted_winner": "Kitchener Rangers",
-                    "actual_winner": "Kitchener Rangers",
-                    "home_score": 6,
-                    "away_score": 2,
-                    "odds": {
-                        "Kitchener Rangers": "-214",
-                        "Owen Sound Attack": "+170"
-                    }
-                },
-                {
-                    "home_team": "London Knights",
-                    "away_team": "Sarnia Sting",
-                    "predicted_winner": "London Knights",
-                    "actual_winner": "London Knights",
-                    "home_score": 3,
-                    "away_score": 2,
-                    "odds": {
-                        "London Knights": "-381",
-                        "Sarnia Sting": "+284"
-                    }
-                },
-                {
-                    "home_team": "Kingston Frontenacs",
-                    "away_team": "Saginaw Spirit",
-                    "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Kingston Frontenacs",
-                    "home_score": 8,
-                    "away_score": 2,
-                    "odds": {
-                        "Kingston Frontenacs": "-123",
-                        "Saginaw Spirit": "-100"
-                    }
-                },
-                {
-                    "home_team": "Sudbury Wolves",
-                    "away_team": "Brantford Bulldogs",
-                    "predicted_winner": "Brantford Bulldogs",
-                    "actual_winner": "Brantford Bulldogs",
-                    "home_score": 4,
-                    "away_score": 5,
-                    "odds": {
-                        "Sudbury Wolves": "+135",
-                        "Brantford Bulldogs": "-168"
-                    }
-                },
-                {
-                    "home_team": "Windsor Spitfires",
-                    "away_team": "Flint Firebirds",
-                    "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Flint Firebirds",
-                    "home_score": 2,
-                    "away_score": 4,
-                    "odds": {
-                        "Windsor Spitfires": "-208",
-                        "Flint Firebirds": "+165"
-                    }
-                },
-                {
-                    "home_team": "Guelph Storm",
-                    "away_team": "Erie Otters",
-                    "predicted_winner": "Erie Otters",
-                    "actual_winner": "Guelph Storm",
-                    "home_score": 4,
-                    "away_score": 3,
-                    "odds": {
-                        "Guelph Storm": "+134",
-                        "Erie Otters": "-166"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2026-01-24",
             "accuracy": 57.1,
             "correct_predictions": 4,
@@ -173,13 +93,13 @@
             ]
         }
     ],
-    "total_accuracy": 61.5,
-    "tossup_accuracy": 100.0,
-    "non_tossup_accuracy": 58.3,
-    "total_correct": 8,
-    "total_games": 13,
-    "tossup_correct": 1,
-    "tossup_games": 1,
-    "non_tossup_correct": 7,
-    "non_tossup_games": 12
+    "total_accuracy": 57.1,
+    "tossup_accuracy": 0,
+    "non_tossup_accuracy": 57.1,
+    "total_correct": 4,
+    "total_games": 7,
+    "tossup_correct": 0,
+    "tossup_games": 0,
+    "non_tossup_correct": 4,
+    "non_tossup_games": 7
 }

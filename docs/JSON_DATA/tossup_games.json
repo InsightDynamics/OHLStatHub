@@ -1,15 +1,1 @@
-[
-    {
-        "date": "2026-01-23",
-        "home_team": "Kingston Frontenacs",
-        "away_team": "Saginaw Spirit",
-        "predicted_winner": "Kingston Frontenacs",
-        "actual_winner": "Kingston Frontenacs",
-        "home_score": 8,
-        "away_score": 2,
-        "odds": {
-            "Kingston Frontenacs": "-123",
-            "Saginaw Spirit": "-100"
-        }
-    }
-]
+[]
