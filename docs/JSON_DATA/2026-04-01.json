@@ -1,0 +1,30 @@
+[
+    {
+        "home_team": "Owen Sound Attack",
+        "away_team": "Flint Firebirds",
+        "winner": "Flint Firebirds",
+        "probabilities": {
+            "Owen Sound Attack": "42.38%",
+            "Flint Firebirds": "57.62%"
+        },
+        "odds": {
+            "Owen Sound Attack": "+124",
+            "Flint Firebirds": "-154"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Soo Greyhounds",
+        "away_team": "London Knights",
+        "winner": "London Knights",
+        "probabilities": {
+            "Soo Greyhounds": "34.64%",
+            "London Knights": "65.36%"
+        },
+        "odds": {
+            "Soo Greyhounds": "+174",
+            "London Knights": "-221"
+        },
+        "game_time": "7:07 pm"
+    }
+]

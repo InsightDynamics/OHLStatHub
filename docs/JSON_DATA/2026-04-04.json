@@ -1,0 +1,30 @@
+[
+    {
+        "home_team": "North Bay Battalion",
+        "away_team": "Peterborough Petes",
+        "winner": "North Bay Battalion",
+        "probabilities": {
+            "North Bay Battalion": "63.31%",
+            "Peterborough Petes": "36.69%"
+        },
+        "odds": {
+            "North Bay Battalion": "-200",
+            "Peterborough Petes": "+159"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Barrie Colts",
+        "away_team": "Niagara IceDogs",
+        "winner": "Barrie Colts",
+        "probabilities": {
+            "Barrie Colts": "55.16%",
+            "Niagara IceDogs": "44.84%"
+        },
+        "odds": {
+            "Barrie Colts": "-138",
+            "Niagara IceDogs": "+112"
+        },
+        "game_time": "7:30 pm"
+    }
+]

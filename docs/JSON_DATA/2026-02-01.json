@@ -1,0 +1,86 @@
+[
+    {
+        "home_team": "Kingston Frontenacs",
+        "away_team": "Peterborough Petes",
+        "winner": "Kingston Frontenacs",
+        "probabilities": {
+            "Kingston Frontenacs": "82.75%",
+            "Peterborough Petes": "17.25%"
+        },
+        "odds": {
+            "Kingston Frontenacs": "-675",
+            "Peterborough Petes": "+451"
+        },
+        "game_time": "1:00 pm"
+    },
+    {
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Soo Greyhounds",
+        "winner": "Brantford Bulldogs",
+        "probabilities": {
+            "Brantford Bulldogs": "61.06%",
+            "Soo Greyhounds": "38.94%"
+        },
+        "odds": {
+            "Brantford Bulldogs": "-180",
+            "Soo Greyhounds": "+144"
+        },
+        "game_time": "2:00 pm"
+    },
+    {
+        "home_team": "Ottawa 67's",
+        "away_team": "Sudbury Wolves",
+        "winner": "Sudbury Wolves",
+        "probabilities": {
+            "Ottawa 67's": "37.89%",
+            "Sudbury Wolves": "62.11%"
+        },
+        "odds": {
+            "Ottawa 67's": "+151",
+            "Sudbury Wolves": "-189"
+        },
+        "game_time": "3:00 pm"
+    },
+    {
+        "home_team": "Niagara IceDogs",
+        "away_team": "North Bay Battalion",
+        "winner": "Niagara IceDogs",
+        "probabilities": {
+            "Niagara IceDogs": "61.45%",
+            "North Bay Battalion": "38.55%"
+        },
+        "odds": {
+            "Niagara IceDogs": "-183",
+            "North Bay Battalion": "+146"
+        },
+        "game_time": "4:00 pm"
+    },
+    {
+        "home_team": "Oshawa Generals",
+        "away_team": "Brampton Steelheads",
+        "winner": "Brampton Steelheads",
+        "probabilities": {
+            "Oshawa Generals": "44.17%",
+            "Brampton Steelheads": "55.83%"
+        },
+        "odds": {
+            "Oshawa Generals": "+115",
+            "Brampton Steelheads": "-143"
+        },
+        "game_time": "6:05 pm"
+    },
+    {
+        "home_team": "Windsor Spitfires",
+        "away_team": "Sarnia Sting",
+        "winner": "Windsor Spitfires",
+        "probabilities": {
+            "Windsor Spitfires": "73.82%",
+            "Sarnia Sting": "26.18%"
+        },
+        "odds": {
+            "Windsor Spitfires": "-349",
+            "Sarnia Sting": "+263"
+        },
+        "game_time": "7:00 pm"
+    }
+]

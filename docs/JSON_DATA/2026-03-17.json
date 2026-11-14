@@ -1,0 +1,44 @@
+[
+    {
+        "home_team": "Brampton Steelheads",
+        "away_team": "Sudbury Wolves",
+        "winner": "Brampton Steelheads",
+        "probabilities": {
+            "Brampton Steelheads": "60.61%",
+            "Sudbury Wolves": "39.39%"
+        },
+        "odds": {
+            "Brampton Steelheads": "-176",
+            "Sudbury Wolves": "+141"
+        },
+        "game_time": "12:30 pm"
+    },
+    {
+        "home_team": "Kitchener Rangers",
+        "away_team": "Flint Firebirds",
+        "winner": "Kitchener Rangers",
+        "probabilities": {
+            "Kitchener Rangers": "57.49%",
+            "Flint Firebirds": "42.51%"
+        },
+        "odds": {
+            "Kitchener Rangers": "-153",
+            "Flint Firebirds": "+123"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Windsor Spitfires",
+        "away_team": "Erie Otters",
+        "winner": "Windsor Spitfires",
+        "probabilities": {
+            "Windsor Spitfires": "61.19%",
+            "Erie Otters": "38.81%"
+        },
+        "odds": {
+            "Windsor Spitfires": "-181",
+            "Erie Otters": "+145"
+        },
+        "game_time": "7:05 pm"
+    }
+]

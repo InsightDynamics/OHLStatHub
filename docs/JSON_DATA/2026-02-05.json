@@ -1,0 +1,44 @@
+[
+    {
+        "home_team": "Erie Otters",
+        "away_team": "Guelph Storm",
+        "winner": "Erie Otters",
+        "probabilities": {
+            "Erie Otters": "59.29%",
+            "Guelph Storm": "40.71%"
+        },
+        "odds": {
+            "Erie Otters": "-166",
+            "Guelph Storm": "+133"
+        },
+        "game_time": "11:00 am"
+    },
+    {
+        "home_team": "North Bay Battalion",
+        "away_team": "Windsor Spitfires",
+        "winner": "Windsor Spitfires",
+        "probabilities": {
+            "North Bay Battalion": "26.23%",
+            "Windsor Spitfires": "73.77%"
+        },
+        "odds": {
+            "North Bay Battalion": "+262",
+            "Windsor Spitfires": "-347"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Peterborough Petes",
+        "away_team": "Owen Sound Attack",
+        "winner": "Owen Sound Attack",
+        "probabilities": {
+            "Peterborough Petes": "33.48%",
+            "Owen Sound Attack": "66.52%"
+        },
+        "odds": {
+            "Peterborough Petes": "+184",
+            "Owen Sound Attack": "-234"
+        },
+        "game_time": "7:05 pm"
+    }
+]

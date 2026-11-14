@@ -1,0 +1,30 @@
+[
+    {
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Barrie Colts",
+        "winner": "Brantford Bulldogs",
+        "probabilities": {
+            "Brantford Bulldogs": "56.09%",
+            "Barrie Colts": "43.91%"
+        },
+        "odds": {
+            "Brantford Bulldogs": "-144",
+            "Barrie Colts": "+116"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Kitchener Rangers",
+        "away_team": "Windsor Spitfires",
+        "winner": "Windsor Spitfires",
+        "probabilities": {
+            "Kitchener Rangers": "42.96%",
+            "Windsor Spitfires": "57.04%"
+        },
+        "odds": {
+            "Kitchener Rangers": "+121",
+            "Windsor Spitfires": "-150"
+        },
+        "game_time": "7:00 pm"
+    }
+]

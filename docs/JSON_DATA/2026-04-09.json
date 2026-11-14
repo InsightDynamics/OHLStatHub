@@ -1,0 +1,16 @@
+[
+    {
+        "home_team": "Barrie Colts",
+        "away_team": "Ottawa 67's",
+        "winner": "Barrie Colts",
+        "probabilities": {
+            "Barrie Colts": "65.26%",
+            "Ottawa 67's": "34.74%"
+        },
+        "odds": {
+            "Barrie Colts": "-219",
+            "Ottawa 67's": "+173"
+        },
+        "game_time": "7:00 pm"
+    }
+]

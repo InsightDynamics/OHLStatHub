@@ -1,0 +1,72 @@
+[
+    {
+        "home_team": "Ottawa 67's",
+        "away_team": "Kitchener Rangers",
+        "winner": "Kitchener Rangers",
+        "probabilities": {
+            "Ottawa 67's": "33.02%",
+            "Kitchener Rangers": "66.98%"
+        },
+        "odds": {
+            "Ottawa 67's": "+188",
+            "Kitchener Rangers": "-239"
+        },
+        "game_time": "3:00 pm"
+    },
+    {
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Guelph Storm",
+        "winner": "Brantford Bulldogs",
+        "probabilities": {
+            "Brantford Bulldogs": "67.16%",
+            "Guelph Storm": "32.84%"
+        },
+        "odds": {
+            "Brantford Bulldogs": "-241",
+            "Guelph Storm": "+189"
+        },
+        "game_time": "4:00 pm"
+    },
+    {
+        "home_team": "Erie Otters",
+        "away_team": "Flint Firebirds",
+        "winner": "Erie Otters",
+        "probabilities": {
+            "Erie Otters": "53.25%",
+            "Flint Firebirds": "46.75%"
+        },
+        "odds": {
+            "Erie Otters": "-128",
+            "Flint Firebirds": "+103"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Owen Sound Attack",
+        "away_team": "Soo Greyhounds",
+        "winner": "Soo Greyhounds",
+        "probabilities": {
+            "Owen Sound Attack": "41.89%",
+            "Soo Greyhounds": "58.11%"
+        },
+        "odds": {
+            "Owen Sound Attack": "+127",
+            "Soo Greyhounds": "-158"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Saginaw Spirit",
+        "away_team": "Windsor Spitfires",
+        "winner": "Windsor Spitfires",
+        "probabilities": {
+            "Saginaw Spirit": "47.30%",
+            "Windsor Spitfires": "52.70%"
+        },
+        "odds": {
+            "Saginaw Spirit": "+101",
+            "Windsor Spitfires": "-125"
+        },
+        "game_time": "7:05 pm"
+    }
+]

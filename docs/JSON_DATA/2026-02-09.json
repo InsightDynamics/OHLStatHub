@@ -1,0 +1,16 @@
+[
+    {
+        "home_team": "Niagara IceDogs",
+        "away_team": "Guelph Storm",
+        "winner": "Niagara IceDogs",
+        "probabilities": {
+            "Niagara IceDogs": "56.55%",
+            "Guelph Storm": "43.45%"
+        },
+        "odds": {
+            "Niagara IceDogs": "-147",
+            "Guelph Storm": "+119"
+        },
+        "game_time": "7:00 pm"
+    }
+]

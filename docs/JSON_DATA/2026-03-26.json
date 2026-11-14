@@ -1,0 +1,58 @@
+[
+    {
+        "home_team": "Barrie Colts",
+        "away_team": "Niagara IceDogs",
+        "winner": "Barrie Colts",
+        "probabilities": {
+            "Barrie Colts": "55.16%",
+            "Niagara IceDogs": "44.84%"
+        },
+        "odds": {
+            "Barrie Colts": "-138",
+            "Niagara IceDogs": "+112"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Flint Firebirds",
+        "away_team": "Owen Sound Attack",
+        "winner": "Flint Firebirds",
+        "probabilities": {
+            "Flint Firebirds": "57.62%",
+            "Owen Sound Attack": "42.38%"
+        },
+        "odds": {
+            "Flint Firebirds": "-154",
+            "Owen Sound Attack": "+124"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Peterborough Petes",
+        "away_team": "North Bay Battalion",
+        "winner": "North Bay Battalion",
+        "probabilities": {
+            "Peterborough Petes": "36.69%",
+            "North Bay Battalion": "63.31%"
+        },
+        "odds": {
+            "Peterborough Petes": "+159",
+            "North Bay Battalion": "-200"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Windsor Spitfires",
+        "away_team": "Guelph Storm",
+        "winner": "Windsor Spitfires",
+        "probabilities": {
+            "Windsor Spitfires": "69.66%",
+            "Guelph Storm": "30.34%"
+        },
+        "odds": {
+            "Windsor Spitfires": "-275",
+            "Guelph Storm": "+213"
+        },
+        "game_time": "7:05 pm"
+    }
+]

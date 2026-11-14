@@ -1,0 +1,58 @@
+[
+    {
+        "home_team": "Barrie Colts",
+        "away_team": "Brantford Bulldogs",
+        "winner": "Brantford Bulldogs",
+        "probabilities": {
+            "Barrie Colts": "43.91%",
+            "Brantford Bulldogs": "56.09%"
+        },
+        "odds": {
+            "Barrie Colts": "+116",
+            "Brantford Bulldogs": "-144"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Niagara IceDogs",
+        "away_team": "Saginaw Spirit",
+        "winner": "Saginaw Spirit",
+        "probabilities": {
+            "Niagara IceDogs": "38.71%",
+            "Saginaw Spirit": "61.29%"
+        },
+        "odds": {
+            "Niagara IceDogs": "+145",
+            "Saginaw Spirit": "-182"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "North Bay Battalion",
+        "away_team": "Oshawa Generals",
+        "winner": "Oshawa Generals",
+        "probabilities": {
+            "North Bay Battalion": "32.43%",
+            "Oshawa Generals": "67.57%"
+        },
+        "odds": {
+            "North Bay Battalion": "+193",
+            "Oshawa Generals": "-246"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Peterborough Petes",
+        "away_team": "Ottawa 67's",
+        "winner": "Ottawa 67's",
+        "probabilities": {
+            "Peterborough Petes": "35.69%",
+            "Ottawa 67's": "64.31%"
+        },
+        "odds": {
+            "Peterborough Petes": "+166",
+            "Ottawa 67's": "-210"
+        },
+        "game_time": "7:05 pm"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "home_team": "Owen Sound Attack",
+        "away_team": "Kitchener Rangers",
+        "winner": "Kitchener Rangers",
+        "probabilities": {
+            "Owen Sound Attack": "35.23%",
+            "Kitchener Rangers": "64.77%"
+        },
+        "odds": {
+            "Owen Sound Attack": "+170",
+            "Kitchener Rangers": "-214"
+        },
+        "game_time": "7:00 pm"
+    }
+]

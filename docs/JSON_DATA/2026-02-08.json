@@ -1,0 +1,72 @@
+[
+    {
+        "home_team": "North Bay Battalion",
+        "away_team": "Barrie Colts",
+        "winner": "Barrie Colts",
+        "probabilities": {
+            "North Bay Battalion": "33.77%",
+            "Barrie Colts": "66.23%"
+        },
+        "odds": {
+            "North Bay Battalion": "+181",
+            "Barrie Colts": "-230"
+        },
+        "game_time": "2:00 pm"
+    },
+    {
+        "home_team": "Kingston Frontenacs",
+        "away_team": "Brantford Bulldogs",
+        "winner": "Kingston Frontenacs",
+        "probabilities": {
+            "Kingston Frontenacs": "52.60%",
+            "Brantford Bulldogs": "47.40%"
+        },
+        "odds": {
+            "Kingston Frontenacs": "-124",
+            "Brantford Bulldogs": "+100"
+        },
+        "game_time": "2:05 pm"
+    },
+    {
+        "home_team": "Oshawa Generals",
+        "away_team": "Sudbury Wolves",
+        "winner": "Oshawa Generals",
+        "probabilities": {
+            "Oshawa Generals": "54.90%",
+            "Sudbury Wolves": "45.10%"
+        },
+        "odds": {
+            "Oshawa Generals": "-137",
+            "Sudbury Wolves": "+111"
+        },
+        "game_time": "2:05 pm"
+    },
+    {
+        "home_team": "Soo Greyhounds",
+        "away_team": "Windsor Spitfires",
+        "winner": "Windsor Spitfires",
+        "probabilities": {
+            "Soo Greyhounds": "36.23%",
+            "Windsor Spitfires": "63.77%"
+        },
+        "odds": {
+            "Soo Greyhounds": "+162",
+            "Windsor Spitfires": "-204"
+        },
+        "game_time": "2:07 pm"
+    },
+    {
+        "home_team": "Ottawa 67's",
+        "away_team": "Owen Sound Attack",
+        "winner": "Owen Sound Attack",
+        "probabilities": {
+            "Ottawa 67's": "47.55%",
+            "Owen Sound Attack": "52.45%"
+        },
+        "odds": {
+            "Ottawa 67's": "-100",
+            "Owen Sound Attack": "-123"
+        },
+        "game_time": "3:00 pm"
+    }
+]

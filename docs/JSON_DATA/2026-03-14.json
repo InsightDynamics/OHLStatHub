@@ -1,0 +1,58 @@
+[
+    {
+        "home_team": "Erie Otters",
+        "away_team": "Niagara IceDogs",
+        "winner": "Erie Otters",
+        "probabilities": {
+            "Erie Otters": "52.81%",
+            "Niagara IceDogs": "47.19%"
+        },
+        "odds": {
+            "Erie Otters": "-125",
+            "Niagara IceDogs": "+101"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Owen Sound Attack",
+        "away_team": "Guelph Storm",
+        "winner": "Guelph Storm",
+        "probabilities": {
+            "Owen Sound Attack": "48.47%",
+            "Guelph Storm": "51.53%"
+        },
+        "odds": {
+            "Owen Sound Attack": "-104",
+            "Guelph Storm": "-119"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Saginaw Spirit",
+        "away_team": "Flint Firebirds",
+        "winner": "Saginaw Spirit",
+        "probabilities": {
+            "Saginaw Spirit": "61.70%",
+            "Flint Firebirds": "38.30%"
+        },
+        "odds": {
+            "Saginaw Spirit": "-185",
+            "Flint Firebirds": "+148"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Barrie Colts",
+        "away_team": "Sudbury Wolves",
+        "winner": "Barrie Colts",
+        "probabilities": {
+            "Barrie Colts": "53.40%",
+            "Sudbury Wolves": "46.60%"
+        },
+        "odds": {
+            "Barrie Colts": "-128",
+            "Sudbury Wolves": "+104"
+        },
+        "game_time": "7:30 pm"
+    }
+]

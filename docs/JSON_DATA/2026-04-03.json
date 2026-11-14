@@ -1,0 +1,16 @@
+[
+    {
+        "home_team": "London Knights",
+        "away_team": "Soo Greyhounds",
+        "winner": "London Knights",
+        "probabilities": {
+            "London Knights": "65.36%",
+            "Soo Greyhounds": "34.64%"
+        },
+        "odds": {
+            "London Knights": "-221",
+            "Soo Greyhounds": "+174"
+        },
+        "game_time": "7:00 pm"
+    }
+]

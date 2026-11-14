@@ -1,0 +1,30 @@
+[
+    {
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Oshawa Generals",
+        "winner": "Brantford Bulldogs",
+        "probabilities": {
+            "Brantford Bulldogs": "54.59%",
+            "Oshawa Generals": "45.41%"
+        },
+        "odds": {
+            "Brantford Bulldogs": "-135",
+            "Oshawa Generals": "+109"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Sarnia Sting",
+        "away_team": "Guelph Storm",
+        "winner": "Guelph Storm",
+        "probabilities": {
+            "Sarnia Sting": "44.88%",
+            "Guelph Storm": "55.12%"
+        },
+        "odds": {
+            "Sarnia Sting": "+112",
+            "Guelph Storm": "-138"
+        },
+        "game_time": "7:05 pm"
+    }
+]

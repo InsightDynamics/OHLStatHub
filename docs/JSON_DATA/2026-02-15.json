@@ -1,0 +1,16 @@
+[
+    {
+        "home_team": "North Bay Battalion",
+        "away_team": "Niagara IceDogs",
+        "winner": "Niagara IceDogs",
+        "probabilities": {
+            "North Bay Battalion": "38.55%",
+            "Niagara IceDogs": "61.45%"
+        },
+        "odds": {
+            "North Bay Battalion": "+146",
+            "Niagara IceDogs": "-183"
+        },
+        "game_time": "2:00 pm"
+    }
+]

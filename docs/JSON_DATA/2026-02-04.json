@@ -1,0 +1,58 @@
+[
+    {
+        "home_team": "London Knights",
+        "away_team": "Kitchener Rangers",
+        "winner": "London Knights",
+        "probabilities": {
+            "London Knights": "58.74%",
+            "Kitchener Rangers": "41.26%"
+        },
+        "odds": {
+            "London Knights": "-162",
+            "Kitchener Rangers": "+130"
+        },
+        "game_time": "6:30 pm"
+    },
+    {
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Kingston Frontenacs",
+        "winner": "Kingston Frontenacs",
+        "probabilities": {
+            "Brantford Bulldogs": "47.40%",
+            "Kingston Frontenacs": "52.60%"
+        },
+        "odds": {
+            "Brantford Bulldogs": "+100",
+            "Kingston Frontenacs": "-124"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Saginaw Spirit",
+        "away_team": "Soo Greyhounds",
+        "winner": "Saginaw Spirit",
+        "probabilities": {
+            "Saginaw Spirit": "61.23%",
+            "Soo Greyhounds": "38.77%"
+        },
+        "odds": {
+            "Saginaw Spirit": "-181",
+            "Soo Greyhounds": "+145"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Sarnia Sting",
+        "away_team": "Flint Firebirds",
+        "winner": "Flint Firebirds",
+        "probabilities": {
+            "Sarnia Sting": "38.90%",
+            "Flint Firebirds": "61.10%"
+        },
+        "odds": {
+            "Sarnia Sting": "+144",
+            "Flint Firebirds": "-180"
+        },
+        "game_time": "7:05 pm"
+    }
+]

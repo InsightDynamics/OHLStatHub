@@ -1,0 +1,16 @@
+[
+    {
+        "home_team": "Barrie Colts",
+        "away_team": "Brantford Bulldogs",
+        "winner": "Brantford Bulldogs",
+        "probabilities": {
+            "Barrie Colts": "43.91%",
+            "Brantford Bulldogs": "56.09%"
+        },
+        "odds": {
+            "Barrie Colts": "+116",
+            "Brantford Bulldogs": "-144"
+        },
+        "game_time": "7:30 pm"
+    }
+]

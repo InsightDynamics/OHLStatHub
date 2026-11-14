@@ -1,0 +1,16 @@
+[
+    {
+        "home_team": "Brampton Steelheads",
+        "away_team": "Owen Sound Attack",
+        "winner": "Brampton Steelheads",
+        "probabilities": {
+            "Brampton Steelheads": "69.57%",
+            "Owen Sound Attack": "30.43%"
+        },
+        "odds": {
+            "Brampton Steelheads": "-274",
+            "Owen Sound Attack": "+212"
+        },
+        "game_time": "11:00 am"
+    }
+]

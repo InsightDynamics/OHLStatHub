@@ -1,0 +1,58 @@
+[
+    {
+        "home_team": "Brampton Steelheads",
+        "away_team": "Barrie Colts",
+        "winner": "Brampton Steelheads",
+        "probabilities": {
+            "Brampton Steelheads": "57.31%",
+            "Barrie Colts": "42.69%"
+        },
+        "odds": {
+            "Brampton Steelheads": "-152",
+            "Barrie Colts": "+123"
+        },
+        "game_time": "11:00 am"
+    },
+    {
+        "home_team": "London Knights",
+        "away_team": "Guelph Storm",
+        "winner": "London Knights",
+        "probabilities": {
+            "London Knights": "71.11%",
+            "Guelph Storm": "28.89%"
+        },
+        "odds": {
+            "London Knights": "-298",
+            "Guelph Storm": "+229"
+        },
+        "game_time": "6:30 pm"
+    },
+    {
+        "home_team": "Flint Firebirds",
+        "away_team": "Soo Greyhounds",
+        "winner": "Soo Greyhounds",
+        "probabilities": {
+            "Flint Firebirds": "49.50%",
+            "Soo Greyhounds": "50.50%"
+        },
+        "odds": {
+            "Flint Firebirds": "-109",
+            "Soo Greyhounds": "-113"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Sarnia Sting",
+        "away_team": "Kitchener Rangers",
+        "winner": "Kitchener Rangers",
+        "probabilities": {
+            "Sarnia Sting": "32.01%",
+            "Kitchener Rangers": "67.99%"
+        },
+        "odds": {
+            "Sarnia Sting": "+197",
+            "Kitchener Rangers": "-252"
+        },
+        "game_time": "7:05 pm"
+    }
+]

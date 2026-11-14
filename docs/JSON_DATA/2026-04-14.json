@@ -1,0 +1,44 @@
+[
+    {
+        "home_team": "Ottawa 67's",
+        "away_team": "Barrie Colts",
+        "winner": "Barrie Colts",
+        "probabilities": {
+            "Ottawa 67's": "34.74%",
+            "Barrie Colts": "65.26%"
+        },
+        "odds": {
+            "Ottawa 67's": "+173",
+            "Barrie Colts": "-219"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Flint Firebirds",
+        "away_team": "Windsor Spitfires",
+        "winner": "Windsor Spitfires",
+        "probabilities": {
+            "Flint Firebirds": "35.78%",
+            "Windsor Spitfires": "64.22%"
+        },
+        "odds": {
+            "Flint Firebirds": "+166",
+            "Windsor Spitfires": "-209"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Soo Greyhounds",
+        "away_team": "Kitchener Rangers",
+        "winner": "Kitchener Rangers",
+        "probabilities": {
+            "Soo Greyhounds": "43.00%",
+            "Kitchener Rangers": "57.00%"
+        },
+        "odds": {
+            "Soo Greyhounds": "+121",
+            "Kitchener Rangers": "-150"
+        },
+        "game_time": "7:07 pm"
+    }
+]

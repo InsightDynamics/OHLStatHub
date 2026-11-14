@@ -1,0 +1,44 @@
+[
+    {
+        "home_team": "Barrie Colts",
+        "away_team": "Owen Sound Attack",
+        "winner": "Barrie Colts",
+        "probabilities": {
+            "Barrie Colts": "63.00%",
+            "Owen Sound Attack": "37.00%"
+        },
+        "odds": {
+            "Barrie Colts": "-197",
+            "Owen Sound Attack": "+157"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Peterborough Petes",
+        "away_team": "North Bay Battalion",
+        "winner": "North Bay Battalion",
+        "probabilities": {
+            "Peterborough Petes": "36.69%",
+            "North Bay Battalion": "63.31%"
+        },
+        "odds": {
+            "Peterborough Petes": "+159",
+            "North Bay Battalion": "-200"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Saginaw Spirit",
+        "away_team": "Sudbury Wolves",
+        "winner": "Saginaw Spirit",
+        "probabilities": {
+            "Saginaw Spirit": "59.59%",
+            "Sudbury Wolves": "40.41%"
+        },
+        "odds": {
+            "Saginaw Spirit": "-168",
+            "Sudbury Wolves": "+135"
+        },
+        "game_time": "7:05 pm"
+    }
+]

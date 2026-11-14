@@ -1,0 +1,86 @@
+[
+    {
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Niagara IceDogs",
+        "winner": "Brantford Bulldogs",
+        "probabilities": {
+            "Brantford Bulldogs": "61.11%",
+            "Niagara IceDogs": "38.89%"
+        },
+        "odds": {
+            "Brantford Bulldogs": "-180",
+            "Niagara IceDogs": "+144"
+        },
+        "game_time": "2:00 pm"
+    },
+    {
+        "home_team": "North Bay Battalion",
+        "away_team": "Sudbury Wolves",
+        "winner": "Sudbury Wolves",
+        "probabilities": {
+            "North Bay Battalion": "36.88%",
+            "Sudbury Wolves": "63.12%"
+        },
+        "odds": {
+            "North Bay Battalion": "+158",
+            "Sudbury Wolves": "-198"
+        },
+        "game_time": "2:00 pm"
+    },
+    {
+        "home_team": "Kingston Frontenacs",
+        "away_team": "Oshawa Generals",
+        "winner": "Kingston Frontenacs",
+        "probabilities": {
+            "Kingston Frontenacs": "57.16%",
+            "Oshawa Generals": "42.84%"
+        },
+        "odds": {
+            "Kingston Frontenacs": "-151",
+            "Oshawa Generals": "+122"
+        },
+        "game_time": "2:05 pm"
+    },
+    {
+        "home_team": "Ottawa 67's",
+        "away_team": "Peterborough Petes",
+        "winner": "Ottawa 67's",
+        "probabilities": {
+            "Ottawa 67's": "64.31%",
+            "Peterborough Petes": "35.69%"
+        },
+        "odds": {
+            "Ottawa 67's": "-210",
+            "Peterborough Petes": "+166"
+        },
+        "game_time": "3:00 pm"
+    },
+    {
+        "home_team": "Erie Otters",
+        "away_team": "Saginaw Spirit",
+        "winner": "Saginaw Spirit",
+        "probabilities": {
+            "Erie Otters": "41.41%",
+            "Saginaw Spirit": "58.59%"
+        },
+        "odds": {
+            "Erie Otters": "+129",
+            "Saginaw Spirit": "-161"
+        },
+        "game_time": "4:00 pm"
+    },
+    {
+        "home_team": "Windsor Spitfires",
+        "away_team": "Kitchener Rangers",
+        "winner": "Windsor Spitfires",
+        "probabilities": {
+            "Windsor Spitfires": "57.04%",
+            "Kitchener Rangers": "42.96%"
+        },
+        "odds": {
+            "Windsor Spitfires": "-150",
+            "Kitchener Rangers": "+121"
+        },
+        "game_time": "4:05 pm"
+    }
+]

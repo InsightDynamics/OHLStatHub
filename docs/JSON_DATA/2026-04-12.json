@@ -1,0 +1,44 @@
+[
+    {
+        "home_team": "North Bay Battalion",
+        "away_team": "Brantford Bulldogs",
+        "winner": "Brantford Bulldogs",
+        "probabilities": {
+            "North Bay Battalion": "28.53%",
+            "Brantford Bulldogs": "71.47%"
+        },
+        "odds": {
+            "North Bay Battalion": "+233",
+            "Brantford Bulldogs": "-304"
+        },
+        "game_time": "2:00 pm"
+    },
+    {
+        "home_team": "Windsor Spitfires",
+        "away_team": "Flint Firebirds",
+        "winner": "Windsor Spitfires",
+        "probabilities": {
+            "Windsor Spitfires": "64.22%",
+            "Flint Firebirds": "35.78%"
+        },
+        "odds": {
+            "Windsor Spitfires": "-209",
+            "Flint Firebirds": "+166"
+        },
+        "game_time": "4:05 pm"
+    },
+    {
+        "home_team": "Kitchener Rangers",
+        "away_team": "Soo Greyhounds",
+        "winner": "Kitchener Rangers",
+        "probabilities": {
+            "Kitchener Rangers": "57.00%",
+            "Soo Greyhounds": "43.00%"
+        },
+        "odds": {
+            "Kitchener Rangers": "-150",
+            "Soo Greyhounds": "+121"
+        },
+        "game_time": "7:00 pm"
+    }
+]

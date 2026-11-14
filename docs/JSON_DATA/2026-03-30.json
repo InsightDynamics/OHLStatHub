@@ -1,0 +1,16 @@
+[
+    {
+        "home_team": "Owen Sound Attack",
+        "away_team": "Flint Firebirds",
+        "winner": "Flint Firebirds",
+        "probabilities": {
+            "Owen Sound Attack": "42.38%",
+            "Flint Firebirds": "57.62%"
+        },
+        "odds": {
+            "Owen Sound Attack": "+124",
+            "Flint Firebirds": "-154"
+        },
+        "game_time": "7:00 pm"
+    }
+]

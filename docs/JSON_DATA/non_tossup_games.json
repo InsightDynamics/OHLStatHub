@@ -1,1 +1,3486 @@
-[]
+[
+    {
+        "date": "2026-01-27",
+        "home_team": "Kitchener Rangers",
+        "away_team": "Sarnia Sting",
+        "predicted_winner": "Kitchener Rangers",
+        "actual_winner": "Kitchener Rangers",
+        "home_score": 4,
+        "away_score": 1,
+        "odds": {
+            "Kitchener Rangers": "-252",
+            "Sarnia Sting": "+197"
+        }
+    },
+    {
+        "date": "2026-01-27",
+        "home_team": "Oshawa Generals",
+        "away_team": "Kingston Frontenacs",
+        "predicted_winner": "Kingston Frontenacs",
+        "actual_winner": "Kingston Frontenacs",
+        "home_score": 2,
+        "away_score": 3,
+        "odds": {
+            "Oshawa Generals": "+122",
+            "Kingston Frontenacs": "-151"
+        }
+    },
+    {
+        "date": "2026-01-28",
+        "home_team": "Owen Sound Attack",
+        "away_team": "Kitchener Rangers",
+        "predicted_winner": "Kitchener Rangers",
+        "actual_winner": "Owen Sound Attack",
+        "home_score": 3,
+        "away_score": 2,
+        "odds": {
+            "Owen Sound Attack": "+170",
+            "Kitchener Rangers": "-214"
+        }
+    },
+    {
+        "date": "2026-01-29",
+        "home_team": "Peterborough Petes",
+        "away_team": "Sudbury Wolves",
+        "predicted_winner": "Sudbury Wolves",
+        "actual_winner": "Peterborough Petes",
+        "home_score": 4,
+        "away_score": 1,
+        "odds": {
+            "Peterborough Petes": "+276",
+            "Sudbury Wolves": "-368"
+        }
+    },
+    {
+        "date": "2026-01-29",
+        "home_team": "Windsor Spitfires",
+        "away_team": "North Bay Battalion",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Windsor Spitfires",
+        "home_score": 4,
+        "away_score": 3,
+        "odds": {
+            "Windsor Spitfires": "-347",
+            "North Bay Battalion": "+262"
+        }
+    },
+    {
+        "date": "2026-01-30",
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Owen Sound Attack",
+        "predicted_winner": "Brantford Bulldogs",
+        "actual_winner": "Brantford Bulldogs",
+        "home_score": 4,
+        "away_score": 1,
+        "odds": {
+            "Brantford Bulldogs": "-259",
+            "Owen Sound Attack": "+202"
+        }
+    },
+    {
+        "date": "2026-01-30",
+        "home_team": "Erie Otters",
+        "away_team": "Soo Greyhounds",
+        "predicted_winner": "Erie Otters",
+        "actual_winner": "Erie Otters",
+        "home_score": 3,
+        "away_score": 2,
+        "odds": {
+            "Erie Otters": "-125",
+            "Soo Greyhounds": "+101"
+        }
+    },
+    {
+        "date": "2026-01-30",
+        "home_team": "Flint Firebirds",
+        "away_team": "Barrie Colts",
+        "predicted_winner": "Barrie Colts",
+        "actual_winner": "Barrie Colts",
+        "home_score": 5,
+        "away_score": 6,
+        "odds": {
+            "Flint Firebirds": "+114",
+            "Barrie Colts": "-141"
+        }
+    },
+    {
+        "date": "2026-01-30",
+        "home_team": "Kitchener Rangers",
+        "away_team": "Windsor Spitfires",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Kitchener Rangers",
+        "home_score": 7,
+        "away_score": 2,
+        "odds": {
+            "Kitchener Rangers": "+121",
+            "Windsor Spitfires": "-150"
+        }
+    },
+    {
+        "date": "2026-01-30",
+        "home_team": "London Knights",
+        "away_team": "North Bay Battalion",
+        "predicted_winner": "London Knights",
+        "actual_winner": "North Bay Battalion",
+        "home_score": 2,
+        "away_score": 3,
+        "odds": {
+            "London Knights": "-377",
+            "North Bay Battalion": "+281"
+        }
+    },
+    {
+        "date": "2026-01-30",
+        "home_team": "Ottawa 67's",
+        "away_team": "Peterborough Petes",
+        "predicted_winner": "Ottawa 67's",
+        "actual_winner": "Ottawa 67's",
+        "home_score": 4,
+        "away_score": 1,
+        "odds": {
+            "Ottawa 67's": "-210",
+            "Peterborough Petes": "+166"
+        }
+    },
+    {
+        "date": "2026-01-30",
+        "home_team": "Kingston Frontenacs",
+        "away_team": "Sudbury Wolves",
+        "predicted_winner": "Kingston Frontenacs",
+        "actual_winner": "Kingston Frontenacs",
+        "home_score": 3,
+        "away_score": 2,
+        "odds": {
+            "Kingston Frontenacs": "-187",
+            "Sudbury Wolves": "+149"
+        }
+    },
+    {
+        "date": "2026-01-30",
+        "home_team": "Oshawa Generals",
+        "away_team": "Niagara IceDogs",
+        "predicted_winner": "Oshawa Generals",
+        "actual_winner": "Oshawa Generals",
+        "home_score": 6,
+        "away_score": 4,
+        "odds": {
+            "Oshawa Generals": "-148",
+            "Niagara IceDogs": "+119"
+        }
+    },
+    {
+        "date": "2026-01-30",
+        "home_team": "Sarnia Sting",
+        "away_team": "Saginaw Spirit",
+        "predicted_winner": "Saginaw Spirit",
+        "actual_winner": "Sarnia Sting",
+        "home_score": 4,
+        "away_score": 2,
+        "odds": {
+            "Sarnia Sting": "+235",
+            "Saginaw Spirit": "-307"
+        }
+    },
+    {
+        "date": "2026-01-30",
+        "home_team": "Guelph Storm",
+        "away_team": "Brampton Steelheads",
+        "predicted_winner": "Brampton Steelheads",
+        "actual_winner": "Brampton Steelheads",
+        "home_score": 1,
+        "away_score": 4,
+        "odds": {
+            "Guelph Storm": "+199",
+            "Brampton Steelheads": "-255"
+        }
+    },
+    {
+        "date": "2026-01-31",
+        "home_team": "Brampton Steelheads",
+        "away_team": "Oshawa Generals",
+        "predicted_winner": "Brampton Steelheads",
+        "actual_winner": "Brampton Steelheads",
+        "home_score": 2,
+        "away_score": 1,
+        "odds": {
+            "Brampton Steelheads": "-143",
+            "Oshawa Generals": "+115"
+        }
+    },
+    {
+        "date": "2026-01-31",
+        "home_team": "Erie Otters",
+        "away_team": "London Knights",
+        "predicted_winner": "London Knights",
+        "actual_winner": "London Knights",
+        "home_score": 1,
+        "away_score": 6,
+        "odds": {
+            "Erie Otters": "+156",
+            "London Knights": "-195"
+        }
+    },
+    {
+        "date": "2026-01-31",
+        "home_team": "Flint Firebirds",
+        "away_team": "Sarnia Sting",
+        "predicted_winner": "Flint Firebirds",
+        "actual_winner": "Flint Firebirds",
+        "home_score": 6,
+        "away_score": 3,
+        "odds": {
+            "Flint Firebirds": "-180",
+            "Sarnia Sting": "+144"
+        }
+    },
+    {
+        "date": "2026-01-31",
+        "home_team": "Saginaw Spirit",
+        "away_team": "Barrie Colts",
+        "predicted_winner": "Saginaw Spirit",
+        "actual_winner": "Barrie Colts",
+        "home_score": 2,
+        "away_score": 4,
+        "odds": {
+            "Saginaw Spirit": "-145",
+            "Barrie Colts": "+117"
+        }
+    },
+    {
+        "date": "2026-02-01",
+        "home_team": "Kingston Frontenacs",
+        "away_team": "Peterborough Petes",
+        "predicted_winner": "Kingston Frontenacs",
+        "actual_winner": "Peterborough Petes",
+        "home_score": 3,
+        "away_score": 5,
+        "odds": {
+            "Kingston Frontenacs": "-675",
+            "Peterborough Petes": "+451"
+        }
+    },
+    {
+        "date": "2026-02-01",
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Soo Greyhounds",
+        "predicted_winner": "Brantford Bulldogs",
+        "actual_winner": "Brantford Bulldogs",
+        "home_score": 3,
+        "away_score": 2,
+        "odds": {
+            "Brantford Bulldogs": "-180",
+            "Soo Greyhounds": "+144"
+        }
+    },
+    {
+        "date": "2026-02-01",
+        "home_team": "Ottawa 67's",
+        "away_team": "Sudbury Wolves",
+        "predicted_winner": "Sudbury Wolves",
+        "actual_winner": "Sudbury Wolves",
+        "home_score": 2,
+        "away_score": 5,
+        "odds": {
+            "Ottawa 67's": "+151",
+            "Sudbury Wolves": "-189"
+        }
+    },
+    {
+        "date": "2026-02-01",
+        "home_team": "Niagara IceDogs",
+        "away_team": "North Bay Battalion",
+        "predicted_winner": "Niagara IceDogs",
+        "actual_winner": "Niagara IceDogs",
+        "home_score": 2,
+        "away_score": 1,
+        "odds": {
+            "Niagara IceDogs": "-183",
+            "North Bay Battalion": "+146"
+        }
+    },
+    {
+        "date": "2026-02-01",
+        "home_team": "Oshawa Generals",
+        "away_team": "Brampton Steelheads",
+        "predicted_winner": "Brampton Steelheads",
+        "actual_winner": "Oshawa Generals",
+        "home_score": 4,
+        "away_score": 3,
+        "odds": {
+            "Oshawa Generals": "+115",
+            "Brampton Steelheads": "-143"
+        }
+    },
+    {
+        "date": "2026-02-01",
+        "home_team": "Windsor Spitfires",
+        "away_team": "Sarnia Sting",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Windsor Spitfires",
+        "home_score": 4,
+        "away_score": 1,
+        "odds": {
+            "Windsor Spitfires": "-349",
+            "Sarnia Sting": "+263"
+        }
+    },
+    {
+        "date": "2026-02-04",
+        "home_team": "London Knights",
+        "away_team": "Kitchener Rangers",
+        "predicted_winner": "London Knights",
+        "actual_winner": "Kitchener Rangers",
+        "home_score": 3,
+        "away_score": 4,
+        "odds": {
+            "London Knights": "-162",
+            "Kitchener Rangers": "+130"
+        }
+    },
+    {
+        "date": "2026-02-04",
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Kingston Frontenacs",
+        "predicted_winner": "Kingston Frontenacs",
+        "actual_winner": "Kingston Frontenacs",
+        "home_score": 1,
+        "away_score": 2,
+        "odds": {
+            "Brantford Bulldogs": "+100",
+            "Kingston Frontenacs": "-124"
+        }
+    },
+    {
+        "date": "2026-02-04",
+        "home_team": "Saginaw Spirit",
+        "away_team": "Soo Greyhounds",
+        "predicted_winner": "Saginaw Spirit",
+        "actual_winner": "Soo Greyhounds",
+        "home_score": 0,
+        "away_score": 6,
+        "odds": {
+            "Saginaw Spirit": "-181",
+            "Soo Greyhounds": "+145"
+        }
+    },
+    {
+        "date": "2026-02-04",
+        "home_team": "Sarnia Sting",
+        "away_team": "Flint Firebirds",
+        "predicted_winner": "Flint Firebirds",
+        "actual_winner": "Flint Firebirds",
+        "home_score": 3,
+        "away_score": 6,
+        "odds": {
+            "Sarnia Sting": "+144",
+            "Flint Firebirds": "-180"
+        }
+    },
+    {
+        "date": "2026-02-05",
+        "home_team": "Erie Otters",
+        "away_team": "Guelph Storm",
+        "predicted_winner": "Erie Otters",
+        "actual_winner": "Guelph Storm",
+        "home_score": 2,
+        "away_score": 3,
+        "odds": {
+            "Erie Otters": "-166",
+            "Guelph Storm": "+133"
+        }
+    },
+    {
+        "date": "2026-02-05",
+        "home_team": "North Bay Battalion",
+        "away_team": "Windsor Spitfires",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "North Bay Battalion",
+        "home_score": 5,
+        "away_score": 4,
+        "odds": {
+            "North Bay Battalion": "+262",
+            "Windsor Spitfires": "-347"
+        }
+    },
+    {
+        "date": "2026-02-05",
+        "home_team": "Peterborough Petes",
+        "away_team": "Owen Sound Attack",
+        "predicted_winner": "Owen Sound Attack",
+        "actual_winner": "Peterborough Petes",
+        "home_score": 3,
+        "away_score": 2,
+        "odds": {
+            "Peterborough Petes": "+184",
+            "Owen Sound Attack": "-234"
+        }
+    },
+    {
+        "date": "2026-02-06",
+        "home_team": "Brampton Steelheads",
+        "away_team": "Barrie Colts",
+        "predicted_winner": "Brampton Steelheads",
+        "actual_winner": "Barrie Colts",
+        "home_score": 1,
+        "away_score": 4,
+        "odds": {
+            "Brampton Steelheads": "-152",
+            "Barrie Colts": "+123"
+        }
+    },
+    {
+        "date": "2026-02-06",
+        "home_team": "Kitchener Rangers",
+        "away_team": "Guelph Storm",
+        "predicted_winner": "Kitchener Rangers",
+        "actual_winner": "Kitchener Rangers",
+        "home_score": 6,
+        "away_score": 2,
+        "odds": {
+            "Kitchener Rangers": "-200",
+            "Guelph Storm": "+159"
+        }
+    },
+    {
+        "date": "2026-02-06",
+        "home_team": "London Knights",
+        "away_team": "Niagara IceDogs",
+        "predicted_winner": "London Knights",
+        "actual_winner": "London Knights",
+        "home_score": 5,
+        "away_score": 4,
+        "odds": {
+            "London Knights": "-221",
+            "Niagara IceDogs": "+175"
+        }
+    },
+    {
+        "date": "2026-02-06",
+        "home_team": "Kingston Frontenacs",
+        "away_team": "Owen Sound Attack",
+        "predicted_winner": "Kingston Frontenacs",
+        "actual_winner": "Kingston Frontenacs",
+        "home_score": 5,
+        "away_score": 3,
+        "odds": {
+            "Kingston Frontenacs": "-291",
+            "Owen Sound Attack": "+224"
+        }
+    },
+    {
+        "date": "2026-02-06",
+        "home_team": "Oshawa Generals",
+        "away_team": "Sarnia Sting",
+        "predicted_winner": "Oshawa Generals",
+        "actual_winner": "Sarnia Sting",
+        "home_score": 3,
+        "away_score": 5,
+        "odds": {
+            "Oshawa Generals": "-247",
+            "Sarnia Sting": "+194"
+        }
+    },
+    {
+        "date": "2026-02-06",
+        "home_team": "Saginaw Spirit",
+        "away_team": "Erie Otters",
+        "predicted_winner": "Saginaw Spirit",
+        "actual_winner": "Saginaw Spirit",
+        "home_score": 4,
+        "away_score": 1,
+        "odds": {
+            "Saginaw Spirit": "-161",
+            "Erie Otters": "+129"
+        }
+    },
+    {
+        "date": "2026-02-06",
+        "home_team": "Sudbury Wolves",
+        "away_team": "Windsor Spitfires",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Windsor Spitfires",
+        "home_score": 2,
+        "away_score": 5,
+        "odds": {
+            "Sudbury Wolves": "+151",
+            "Windsor Spitfires": "-189"
+        }
+    },
+    {
+        "date": "2026-02-07",
+        "home_team": "Ottawa 67's",
+        "away_team": "Brantford Bulldogs",
+        "predicted_winner": "Brantford Bulldogs",
+        "actual_winner": "Ottawa 67's",
+        "home_score": 5,
+        "away_score": 1,
+        "odds": {
+            "Ottawa 67's": "+223",
+            "Brantford Bulldogs": "-289"
+        }
+    },
+    {
+        "date": "2026-02-07",
+        "home_team": "Brampton Steelheads",
+        "away_team": "Sarnia Sting",
+        "predicted_winner": "Brampton Steelheads",
+        "actual_winner": "Sarnia Sting",
+        "home_score": 1,
+        "away_score": 2,
+        "odds": {
+            "Brampton Steelheads": "-323",
+            "Sarnia Sting": "+246"
+        }
+    },
+    {
+        "date": "2026-02-07",
+        "home_team": "Flint Firebirds",
+        "away_team": "Erie Otters",
+        "predicted_winner": "Erie Otters",
+        "actual_winner": "Flint Firebirds",
+        "home_score": 3,
+        "away_score": 1,
+        "odds": {
+            "Flint Firebirds": "+103",
+            "Erie Otters": "-128"
+        }
+    },
+    {
+        "date": "2026-02-07",
+        "home_team": "Niagara IceDogs",
+        "away_team": "Kitchener Rangers",
+        "predicted_winner": "Kitchener Rangers",
+        "actual_winner": "Niagara IceDogs",
+        "home_score": 4,
+        "away_score": 3,
+        "odds": {
+            "Niagara IceDogs": "+121",
+            "Kitchener Rangers": "-150"
+        }
+    },
+    {
+        "date": "2026-02-07",
+        "home_team": "Peterborough Petes",
+        "away_team": "Sudbury Wolves",
+        "predicted_winner": "Sudbury Wolves",
+        "actual_winner": "Peterborough Petes",
+        "home_score": 4,
+        "away_score": 1,
+        "odds": {
+            "Peterborough Petes": "+276",
+            "Sudbury Wolves": "-368"
+        }
+    },
+    {
+        "date": "2026-02-07",
+        "home_team": "Saginaw Spirit",
+        "away_team": "London Knights",
+        "predicted_winner": "London Knights",
+        "actual_winner": "London Knights",
+        "home_score": 3,
+        "away_score": 5,
+        "odds": {
+            "Saginaw Spirit": "+109",
+            "London Knights": "-134"
+        }
+    },
+    {
+        "date": "2026-02-07",
+        "home_team": "Barrie Colts",
+        "away_team": "North Bay Battalion",
+        "predicted_winner": "Barrie Colts",
+        "actual_winner": "Barrie Colts",
+        "home_score": 3,
+        "away_score": 2,
+        "odds": {
+            "Barrie Colts": "-230",
+            "North Bay Battalion": "+181"
+        }
+    },
+    {
+        "date": "2026-02-08",
+        "home_team": "North Bay Battalion",
+        "away_team": "Barrie Colts",
+        "predicted_winner": "Barrie Colts",
+        "actual_winner": "Barrie Colts",
+        "home_score": 4,
+        "away_score": 7,
+        "odds": {
+            "North Bay Battalion": "+181",
+            "Barrie Colts": "-230"
+        }
+    },
+    {
+        "date": "2026-02-08",
+        "home_team": "Kingston Frontenacs",
+        "away_team": "Brantford Bulldogs",
+        "predicted_winner": "Kingston Frontenacs",
+        "actual_winner": "Brantford Bulldogs",
+        "home_score": 2,
+        "away_score": 5,
+        "odds": {
+            "Kingston Frontenacs": "-124",
+            "Brantford Bulldogs": "+100"
+        }
+    },
+    {
+        "date": "2026-02-08",
+        "home_team": "Oshawa Generals",
+        "away_team": "Sudbury Wolves",
+        "predicted_winner": "Oshawa Generals",
+        "actual_winner": "Sudbury Wolves",
+        "home_score": 3,
+        "away_score": 4,
+        "odds": {
+            "Oshawa Generals": "-137",
+            "Sudbury Wolves": "+111"
+        }
+    },
+    {
+        "date": "2026-02-08",
+        "home_team": "Soo Greyhounds",
+        "away_team": "Windsor Spitfires",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Soo Greyhounds",
+        "home_score": 5,
+        "away_score": 2,
+        "odds": {
+            "Soo Greyhounds": "+162",
+            "Windsor Spitfires": "-204"
+        }
+    },
+    {
+        "date": "2026-02-09",
+        "home_team": "Niagara IceDogs",
+        "away_team": "Guelph Storm",
+        "predicted_winner": "Niagara IceDogs",
+        "actual_winner": "Guelph Storm",
+        "home_score": 3,
+        "away_score": 6,
+        "odds": {
+            "Niagara IceDogs": "-147",
+            "Guelph Storm": "+119"
+        }
+    },
+    {
+        "date": "2026-02-10",
+        "home_team": "Kitchener Rangers",
+        "away_team": "London Knights",
+        "predicted_winner": "London Knights",
+        "actual_winner": "Kitchener Rangers",
+        "home_score": 5,
+        "away_score": 2,
+        "odds": {
+            "Kitchener Rangers": "+130",
+            "London Knights": "-162"
+        }
+    },
+    {
+        "date": "2026-02-11",
+        "home_team": "London Knights",
+        "away_team": "Guelph Storm",
+        "predicted_winner": "London Knights",
+        "actual_winner": "Guelph Storm",
+        "home_score": 2,
+        "away_score": 4,
+        "odds": {
+            "London Knights": "-298",
+            "Guelph Storm": "+229"
+        }
+    },
+    {
+        "date": "2026-02-11",
+        "home_team": "Erie Otters",
+        "away_team": "Owen Sound Attack",
+        "predicted_winner": "Erie Otters",
+        "actual_winner": "Erie Otters",
+        "home_score": 8,
+        "away_score": 3,
+        "odds": {
+            "Erie Otters": "-177",
+            "Owen Sound Attack": "+142"
+        }
+    },
+    {
+        "date": "2026-02-11",
+        "home_team": "Flint Firebirds",
+        "away_team": "Saginaw Spirit",
+        "predicted_winner": "Saginaw Spirit",
+        "actual_winner": "Saginaw Spirit",
+        "home_score": 4,
+        "away_score": 5,
+        "odds": {
+            "Flint Firebirds": "+148",
+            "Saginaw Spirit": "-185"
+        }
+    },
+    {
+        "date": "2026-02-11",
+        "home_team": "Ottawa 67's",
+        "away_team": "Oshawa Generals",
+        "predicted_winner": "Oshawa Generals",
+        "actual_winner": "Ottawa 67's",
+        "home_score": 6,
+        "away_score": 0,
+        "odds": {
+            "Ottawa 67's": "+185",
+            "Oshawa Generals": "-235"
+        }
+    },
+    {
+        "date": "2026-02-12",
+        "home_team": "Barrie Colts",
+        "away_team": "Kingston Frontenacs",
+        "predicted_winner": "Kingston Frontenacs",
+        "actual_winner": "Barrie Colts",
+        "home_score": 6,
+        "away_score": 3,
+        "odds": {
+            "Barrie Colts": "+130",
+            "Kingston Frontenacs": "-161"
+        }
+    },
+    {
+        "date": "2026-02-12",
+        "home_team": "Niagara IceDogs",
+        "away_team": "Owen Sound Attack",
+        "predicted_winner": "Niagara IceDogs",
+        "actual_winner": "Niagara IceDogs",
+        "home_score": 6,
+        "away_score": 3,
+        "odds": {
+            "Niagara IceDogs": "-157",
+            "Owen Sound Attack": "+126"
+        }
+    },
+    {
+        "date": "2026-02-12",
+        "home_team": "North Bay Battalion",
+        "away_team": "Brampton Steelheads",
+        "predicted_winner": "Brampton Steelheads",
+        "actual_winner": "North Bay Battalion",
+        "home_score": 3,
+        "away_score": 2,
+        "odds": {
+            "North Bay Battalion": "+245",
+            "Brampton Steelheads": "-322"
+        }
+    },
+    {
+        "date": "2026-02-12",
+        "home_team": "Peterborough Petes",
+        "away_team": "Ottawa 67's",
+        "predicted_winner": "Ottawa 67's",
+        "actual_winner": "Peterborough Petes",
+        "home_score": 7,
+        "away_score": 3,
+        "odds": {
+            "Peterborough Petes": "+166",
+            "Ottawa 67's": "-210"
+        }
+    },
+    {
+        "date": "2026-02-12",
+        "home_team": "Windsor Spitfires",
+        "away_team": "Sarnia Sting",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Windsor Spitfires",
+        "home_score": 6,
+        "away_score": 4,
+        "odds": {
+            "Windsor Spitfires": "-349",
+            "Sarnia Sting": "+263"
+        }
+    },
+    {
+        "date": "2026-02-13",
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Erie Otters",
+        "predicted_winner": "Brantford Bulldogs",
+        "actual_winner": "Brantford Bulldogs",
+        "home_score": 5,
+        "away_score": 1,
+        "odds": {
+            "Brantford Bulldogs": "-160",
+            "Erie Otters": "+128"
+        }
+    },
+    {
+        "date": "2026-02-13",
+        "home_team": "London Knights",
+        "away_team": "Soo Greyhounds",
+        "predicted_winner": "London Knights",
+        "actual_winner": "London Knights",
+        "home_score": 4,
+        "away_score": 3,
+        "odds": {
+            "London Knights": "-221",
+            "Soo Greyhounds": "+174"
+        }
+    },
+    {
+        "date": "2026-02-13",
+        "home_team": "Kingston Frontenacs",
+        "away_team": "Kitchener Rangers",
+        "predicted_winner": "Kingston Frontenacs",
+        "actual_winner": "Kitchener Rangers",
+        "home_score": 2,
+        "away_score": 4,
+        "odds": {
+            "Kingston Frontenacs": "-148",
+            "Kitchener Rangers": "+120"
+        }
+    },
+    {
+        "date": "2026-02-13",
+        "home_team": "Oshawa Generals",
+        "away_team": "Peterborough Petes",
+        "predicted_winner": "Oshawa Generals",
+        "actual_winner": "Oshawa Generals",
+        "home_score": 8,
+        "away_score": 4,
+        "odds": {
+            "Oshawa Generals": "-467",
+            "Peterborough Petes": "+336"
+        }
+    },
+    {
+        "date": "2026-02-13",
+        "home_team": "Sarnia Sting",
+        "away_team": "Saginaw Spirit",
+        "predicted_winner": "Saginaw Spirit",
+        "actual_winner": "Saginaw Spirit",
+        "home_score": 3,
+        "away_score": 11,
+        "odds": {
+            "Sarnia Sting": "+235",
+            "Saginaw Spirit": "-307"
+        }
+    },
+    {
+        "date": "2026-02-13",
+        "home_team": "Sudbury Wolves",
+        "away_team": "Brampton Steelheads",
+        "predicted_winner": "Brampton Steelheads",
+        "actual_winner": "Sudbury Wolves",
+        "home_score": 4,
+        "away_score": 1,
+        "odds": {
+            "Sudbury Wolves": "+141",
+            "Brampton Steelheads": "-176"
+        }
+    },
+    {
+        "date": "2026-02-13",
+        "home_team": "Guelph Storm",
+        "away_team": "Flint Firebirds",
+        "predicted_winner": "Flint Firebirds",
+        "actual_winner": "Flint Firebirds",
+        "home_score": 1,
+        "away_score": 5,
+        "odds": {
+            "Guelph Storm": "+116",
+            "Flint Firebirds": "-144"
+        }
+    },
+    {
+        "date": "2026-02-14",
+        "home_team": "Ottawa 67's",
+        "away_team": "Kitchener Rangers",
+        "predicted_winner": "Kitchener Rangers",
+        "actual_winner": "Kitchener Rangers",
+        "home_score": 0,
+        "away_score": 2,
+        "odds": {
+            "Ottawa 67's": "+188",
+            "Kitchener Rangers": "-239"
+        }
+    },
+    {
+        "date": "2026-02-14",
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Guelph Storm",
+        "predicted_winner": "Brantford Bulldogs",
+        "actual_winner": "Brantford Bulldogs",
+        "home_score": 4,
+        "away_score": 2,
+        "odds": {
+            "Brantford Bulldogs": "-241",
+            "Guelph Storm": "+189"
+        }
+    },
+    {
+        "date": "2026-02-14",
+        "home_team": "Erie Otters",
+        "away_team": "Flint Firebirds",
+        "predicted_winner": "Erie Otters",
+        "actual_winner": "Erie Otters",
+        "home_score": 6,
+        "away_score": 4,
+        "odds": {
+            "Erie Otters": "-128",
+            "Flint Firebirds": "+103"
+        }
+    },
+    {
+        "date": "2026-02-14",
+        "home_team": "Owen Sound Attack",
+        "away_team": "Soo Greyhounds",
+        "predicted_winner": "Soo Greyhounds",
+        "actual_winner": "Soo Greyhounds",
+        "home_score": 5,
+        "away_score": 6,
+        "odds": {
+            "Owen Sound Attack": "+127",
+            "Soo Greyhounds": "-158"
+        }
+    },
+    {
+        "date": "2026-02-14",
+        "home_team": "Saginaw Spirit",
+        "away_team": "Windsor Spitfires",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Windsor Spitfires",
+        "home_score": 2,
+        "away_score": 4,
+        "odds": {
+            "Saginaw Spirit": "+101",
+            "Windsor Spitfires": "-125"
+        }
+    },
+    {
+        "date": "2026-02-15",
+        "home_team": "North Bay Battalion",
+        "away_team": "Niagara IceDogs",
+        "predicted_winner": "Niagara IceDogs",
+        "actual_winner": "North Bay Battalion",
+        "home_score": 9,
+        "away_score": 1,
+        "odds": {
+            "North Bay Battalion": "+146",
+            "Niagara IceDogs": "-183"
+        }
+    },
+    {
+        "date": "2026-02-16",
+        "home_team": "Brampton Steelheads",
+        "away_team": "North Bay Battalion",
+        "predicted_winner": "Brampton Steelheads",
+        "actual_winner": "North Bay Battalion",
+        "home_score": 3,
+        "away_score": 5,
+        "odds": {
+            "Brampton Steelheads": "-322",
+            "North Bay Battalion": "+245"
+        }
+    },
+    {
+        "date": "2026-02-16",
+        "home_team": "London Knights",
+        "away_team": "Owen Sound Attack",
+        "predicted_winner": "London Knights",
+        "actual_winner": "London Knights",
+        "home_score": 6,
+        "away_score": 2,
+        "odds": {
+            "London Knights": "-320",
+            "Owen Sound Attack": "+244"
+        }
+    },
+    {
+        "date": "2026-02-16",
+        "home_team": "Kingston Frontenacs",
+        "away_team": "Brantford Bulldogs",
+        "predicted_winner": "Kingston Frontenacs",
+        "actual_winner": "Brantford Bulldogs",
+        "home_score": 2,
+        "away_score": 3,
+        "odds": {
+            "Kingston Frontenacs": "-124",
+            "Brantford Bulldogs": "+100"
+        }
+    },
+    {
+        "date": "2026-02-16",
+        "home_team": "Oshawa Generals",
+        "away_team": "Flint Firebirds",
+        "predicted_winner": "Oshawa Generals",
+        "actual_winner": "Flint Firebirds",
+        "home_score": 0,
+        "away_score": 5,
+        "odds": {
+            "Oshawa Generals": "-151",
+            "Flint Firebirds": "+121"
+        }
+    },
+    {
+        "date": "2026-02-16",
+        "home_team": "Peterborough Petes",
+        "away_team": "Kitchener Rangers",
+        "predicted_winner": "Kitchener Rangers",
+        "actual_winner": "Peterborough Petes",
+        "home_score": 3,
+        "away_score": 2,
+        "odds": {
+            "Peterborough Petes": "+342",
+            "Kitchener Rangers": "-476"
+        }
+    },
+    {
+        "date": "2026-02-16",
+        "home_team": "Sarnia Sting",
+        "away_team": "Soo Greyhounds",
+        "predicted_winner": "Soo Greyhounds",
+        "actual_winner": "Sarnia Sting",
+        "home_score": 6,
+        "away_score": 5,
+        "odds": {
+            "Sarnia Sting": "+147",
+            "Soo Greyhounds": "-184"
+        }
+    },
+    {
+        "date": "2026-02-16",
+        "home_team": "Windsor Spitfires",
+        "away_team": "Saginaw Spirit",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Windsor Spitfires",
+        "home_score": 7,
+        "away_score": 1,
+        "odds": {
+            "Windsor Spitfires": "-125",
+            "Saginaw Spirit": "+101"
+        }
+    },
+    {
+        "date": "2026-02-16",
+        "home_team": "Guelph Storm",
+        "away_team": "Erie Otters",
+        "predicted_winner": "Erie Otters",
+        "actual_winner": "Guelph Storm",
+        "home_score": 5,
+        "away_score": 1,
+        "odds": {
+            "Guelph Storm": "+133",
+            "Erie Otters": "-166"
+        }
+    },
+    {
+        "date": "2026-02-16",
+        "home_team": "Ottawa 67's",
+        "away_team": "Barrie Colts",
+        "predicted_winner": "Barrie Colts",
+        "actual_winner": "Barrie Colts",
+        "home_score": 5,
+        "away_score": 8,
+        "odds": {
+            "Ottawa 67's": "+173",
+            "Barrie Colts": "-219"
+        }
+    },
+    {
+        "date": "2026-02-18",
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Oshawa Generals",
+        "predicted_winner": "Brantford Bulldogs",
+        "actual_winner": "Brantford Bulldogs",
+        "home_score": 4,
+        "away_score": 2,
+        "odds": {
+            "Brantford Bulldogs": "-135",
+            "Oshawa Generals": "+109"
+        }
+    },
+    {
+        "date": "2026-02-18",
+        "home_team": "Sarnia Sting",
+        "away_team": "Guelph Storm",
+        "predicted_winner": "Guelph Storm",
+        "actual_winner": "Guelph Storm",
+        "home_score": 2,
+        "away_score": 3,
+        "odds": {
+            "Sarnia Sting": "+112",
+            "Guelph Storm": "-138"
+        }
+    },
+    {
+        "date": "2026-02-19",
+        "home_team": "Barrie Colts",
+        "away_team": "Owen Sound Attack",
+        "predicted_winner": "Barrie Colts",
+        "actual_winner": "Barrie Colts",
+        "home_score": 4,
+        "away_score": 3,
+        "odds": {
+            "Barrie Colts": "-197",
+            "Owen Sound Attack": "+157"
+        }
+    },
+    {
+        "date": "2026-02-19",
+        "home_team": "Peterborough Petes",
+        "away_team": "North Bay Battalion",
+        "predicted_winner": "North Bay Battalion",
+        "actual_winner": "North Bay Battalion",
+        "home_score": 4,
+        "away_score": 5,
+        "odds": {
+            "Peterborough Petes": "+159",
+            "North Bay Battalion": "-200"
+        }
+    },
+    {
+        "date": "2026-02-19",
+        "home_team": "Saginaw Spirit",
+        "away_team": "Sudbury Wolves",
+        "predicted_winner": "Saginaw Spirit",
+        "actual_winner": "Saginaw Spirit",
+        "home_score": 2,
+        "away_score": 1,
+        "odds": {
+            "Saginaw Spirit": "-168",
+            "Sudbury Wolves": "+135"
+        }
+    },
+    {
+        "date": "2026-02-20",
+        "home_team": "Brampton Steelheads",
+        "away_team": "Peterborough Petes",
+        "predicted_winner": "Brampton Steelheads",
+        "actual_winner": "Peterborough Petes",
+        "home_score": 1,
+        "away_score": 4,
+        "odds": {
+            "Brampton Steelheads": "-629",
+            "Peterborough Petes": "+427"
+        }
+    },
+    {
+        "date": "2026-02-20",
+        "home_team": "Erie Otters",
+        "away_team": "Oshawa Generals",
+        "predicted_winner": "Oshawa Generals",
+        "actual_winner": "Oshawa Generals",
+        "home_score": 3,
+        "away_score": 4,
+        "odds": {
+            "Erie Otters": "+106",
+            "Oshawa Generals": "-131"
+        }
+    },
+    {
+        "date": "2026-02-20",
+        "home_team": "Kitchener Rangers",
+        "away_team": "Windsor Spitfires",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Kitchener Rangers",
+        "home_score": 3,
+        "away_score": 0,
+        "odds": {
+            "Kitchener Rangers": "+121",
+            "Windsor Spitfires": "-150"
+        }
+    },
+    {
+        "date": "2026-02-20",
+        "home_team": "London Knights",
+        "away_team": "Barrie Colts",
+        "predicted_winner": "London Knights",
+        "actual_winner": "Barrie Colts",
+        "home_score": 1,
+        "away_score": 5,
+        "odds": {
+            "London Knights": "-176",
+            "Barrie Colts": "+141"
+        }
+    },
+    {
+        "date": "2026-02-20",
+        "home_team": "Ottawa 67's",
+        "away_team": "Niagara IceDogs",
+        "predicted_winner": "Niagara IceDogs",
+        "actual_winner": "Ottawa 67's",
+        "home_score": 7,
+        "away_score": 1,
+        "odds": {
+            "Ottawa 67's": "+140",
+            "Niagara IceDogs": "-175"
+        }
+    },
+    {
+        "date": "2026-02-20",
+        "home_team": "Kingston Frontenacs",
+        "away_team": "North Bay Battalion",
+        "predicted_winner": "Kingston Frontenacs",
+        "actual_winner": "Kingston Frontenacs",
+        "home_score": 5,
+        "away_score": 1,
+        "odds": {
+            "Kingston Frontenacs": "-343",
+            "North Bay Battalion": "+259"
+        }
+    },
+    {
+        "date": "2026-02-20",
+        "home_team": "Soo Greyhounds",
+        "away_team": "Sarnia Sting",
+        "predicted_winner": "Soo Greyhounds",
+        "actual_winner": "Soo Greyhounds",
+        "home_score": 6,
+        "away_score": 3,
+        "odds": {
+            "Soo Greyhounds": "-184",
+            "Sarnia Sting": "+147"
+        }
+    },
+    {
+        "date": "2026-02-21",
+        "home_team": "Kingston Frontenacs",
+        "away_team": "Niagara IceDogs",
+        "predicted_winner": "Kingston Frontenacs",
+        "actual_winner": "Niagara IceDogs",
+        "home_score": 3,
+        "away_score": 4,
+        "odds": {
+            "Kingston Frontenacs": "-202",
+            "Niagara IceDogs": "+161"
+        }
+    },
+    {
+        "date": "2026-02-21",
+        "home_team": "Erie Otters",
+        "away_team": "Kitchener Rangers",
+        "predicted_winner": "Kitchener Rangers",
+        "actual_winner": "Kitchener Rangers",
+        "home_score": 1,
+        "away_score": 3,
+        "odds": {
+            "Erie Otters": "+108",
+            "Kitchener Rangers": "-133"
+        }
+    },
+    {
+        "date": "2026-02-21",
+        "home_team": "Owen Sound Attack",
+        "away_team": "Brampton Steelheads",
+        "predicted_winner": "Brampton Steelheads",
+        "actual_winner": "Owen Sound Attack",
+        "home_score": 5,
+        "away_score": 0,
+        "odds": {
+            "Owen Sound Attack": "+212",
+            "Brampton Steelheads": "-274"
+        }
+    },
+    {
+        "date": "2026-02-21",
+        "home_team": "Saginaw Spirit",
+        "away_team": "Sarnia Sting",
+        "predicted_winner": "Saginaw Spirit",
+        "actual_winner": "Sarnia Sting",
+        "home_score": 4,
+        "away_score": 7,
+        "odds": {
+            "Saginaw Spirit": "-307",
+            "Sarnia Sting": "+235"
+        }
+    },
+    {
+        "date": "2026-02-21",
+        "home_team": "Soo Greyhounds",
+        "away_team": "Guelph Storm",
+        "predicted_winner": "Soo Greyhounds",
+        "actual_winner": "Guelph Storm",
+        "home_score": 0,
+        "away_score": 1,
+        "odds": {
+            "Soo Greyhounds": "-147",
+            "Guelph Storm": "+119"
+        }
+    },
+    {
+        "date": "2026-02-21",
+        "home_team": "Barrie Colts",
+        "away_team": "Brantford Bulldogs",
+        "predicted_winner": "Brantford Bulldogs",
+        "actual_winner": "Barrie Colts",
+        "home_score": 7,
+        "away_score": 4,
+        "odds": {
+            "Barrie Colts": "+116",
+            "Brantford Bulldogs": "-144"
+        }
+    },
+    {
+        "date": "2026-02-22",
+        "home_team": "London Knights",
+        "away_team": "Sudbury Wolves",
+        "predicted_winner": "London Knights",
+        "actual_winner": "London Knights",
+        "home_score": 4,
+        "away_score": 2,
+        "odds": {
+            "London Knights": "-204",
+            "Sudbury Wolves": "+162"
+        }
+    },
+    {
+        "date": "2026-02-22",
+        "home_team": "Peterborough Petes",
+        "away_team": "Brantford Bulldogs",
+        "predicted_winner": "Brantford Bulldogs",
+        "actual_winner": "Peterborough Petes",
+        "home_score": 4,
+        "away_score": 3,
+        "odds": {
+            "Peterborough Petes": "+406",
+            "Brantford Bulldogs": "-589"
+        }
+    },
+    {
+        "date": "2026-02-22",
+        "home_team": "Windsor Spitfires",
+        "away_team": "Flint Firebirds",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Flint Firebirds",
+        "home_score": 1,
+        "away_score": 2,
+        "odds": {
+            "Windsor Spitfires": "-209",
+            "Flint Firebirds": "+166"
+        }
+    },
+    {
+        "date": "2026-02-22",
+        "home_team": "Saginaw Spirit",
+        "away_team": "Guelph Storm",
+        "predicted_winner": "Saginaw Spirit",
+        "actual_winner": "Guelph Storm",
+        "home_score": 5,
+        "away_score": 8,
+        "odds": {
+            "Saginaw Spirit": "-243",
+            "Guelph Storm": "+191"
+        }
+    },
+    {
+        "date": "2026-02-22",
+        "home_team": "Oshawa Generals",
+        "away_team": "Kingston Frontenacs",
+        "predicted_winner": "Kingston Frontenacs",
+        "actual_winner": "Kingston Frontenacs",
+        "home_score": 2,
+        "away_score": 7,
+        "odds": {
+            "Oshawa Generals": "+122",
+            "Kingston Frontenacs": "-151"
+        }
+    },
+    {
+        "date": "2026-02-25",
+        "home_team": "Guelph Storm",
+        "away_team": "Kitchener Rangers",
+        "predicted_winner": "Kitchener Rangers",
+        "actual_winner": "Kitchener Rangers",
+        "home_score": 4,
+        "away_score": 5,
+        "odds": {
+            "Guelph Storm": "+159",
+            "Kitchener Rangers": "-200"
+        }
+    },
+    {
+        "date": "2026-02-25",
+        "home_team": "Owen Sound Attack",
+        "away_team": "Oshawa Generals",
+        "predicted_winner": "Oshawa Generals",
+        "actual_winner": "Oshawa Generals",
+        "home_score": 2,
+        "away_score": 3,
+        "odds": {
+            "Owen Sound Attack": "+167",
+            "Oshawa Generals": "-210"
+        }
+    },
+    {
+        "date": "2026-02-26",
+        "home_team": "Niagara IceDogs",
+        "away_team": "Erie Otters",
+        "predicted_winner": "Erie Otters",
+        "actual_winner": "Niagara IceDogs",
+        "home_score": 5,
+        "away_score": 4,
+        "odds": {
+            "Niagara IceDogs": "+101",
+            "Erie Otters": "-125"
+        }
+    },
+    {
+        "date": "2026-02-26",
+        "home_team": "North Bay Battalion",
+        "away_team": "Kingston Frontenacs",
+        "predicted_winner": "Kingston Frontenacs",
+        "actual_winner": "North Bay Battalion",
+        "home_score": 4,
+        "away_score": 3,
+        "odds": {
+            "North Bay Battalion": "+259",
+            "Kingston Frontenacs": "-343"
+        }
+    },
+    {
+        "date": "2026-02-26",
+        "home_team": "Saginaw Spirit",
+        "away_team": "Ottawa 67's",
+        "predicted_winner": "Saginaw Spirit",
+        "actual_winner": "Ottawa 67's",
+        "home_score": 2,
+        "away_score": 8,
+        "odds": {
+            "Saginaw Spirit": "-291",
+            "Ottawa 67's": "+225"
+        }
+    },
+    {
+        "date": "2026-02-26",
+        "home_team": "Windsor Spitfires",
+        "away_team": "Peterborough Petes",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Windsor Spitfires",
+        "home_score": 4,
+        "away_score": 3,
+        "odds": {
+            "Windsor Spitfires": "-686",
+            "Peterborough Petes": "+456"
+        }
+    },
+    {
+        "date": "2026-02-27",
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Oshawa Generals",
+        "predicted_winner": "Brantford Bulldogs",
+        "actual_winner": "Brantford Bulldogs",
+        "home_score": 7,
+        "away_score": 3,
+        "odds": {
+            "Brantford Bulldogs": "-135",
+            "Oshawa Generals": "+109"
+        }
+    },
+    {
+        "date": "2026-02-27",
+        "home_team": "Kitchener Rangers",
+        "away_team": "Brampton Steelheads",
+        "predicted_winner": "Brampton Steelheads",
+        "actual_winner": "Kitchener Rangers",
+        "home_score": 8,
+        "away_score": 2,
+        "odds": {
+            "Kitchener Rangers": "+113",
+            "Brampton Steelheads": "-140"
+        }
+    },
+    {
+        "date": "2026-02-27",
+        "home_team": "Sarnia Sting",
+        "away_team": "Barrie Colts",
+        "predicted_winner": "Barrie Colts",
+        "actual_winner": "Barrie Colts",
+        "home_score": 1,
+        "away_score": 2,
+        "odds": {
+            "Sarnia Sting": "+182",
+            "Barrie Colts": "-231"
+        }
+    },
+    {
+        "date": "2026-02-27",
+        "home_team": "Sudbury Wolves",
+        "away_team": "North Bay Battalion",
+        "predicted_winner": "Sudbury Wolves",
+        "actual_winner": "North Bay Battalion",
+        "home_score": 3,
+        "away_score": 6,
+        "odds": {
+            "Sudbury Wolves": "-198",
+            "North Bay Battalion": "+158"
+        }
+    },
+    {
+        "date": "2026-02-27",
+        "home_team": "Guelph Storm",
+        "away_team": "Niagara IceDogs",
+        "predicted_winner": "Niagara IceDogs",
+        "actual_winner": "Niagara IceDogs",
+        "home_score": 2,
+        "away_score": 3,
+        "odds": {
+            "Guelph Storm": "+119",
+            "Niagara IceDogs": "-147"
+        }
+    },
+    {
+        "date": "2026-02-27",
+        "home_team": "Soo Greyhounds",
+        "away_team": "Kingston Frontenacs",
+        "predicted_winner": "Kingston Frontenacs",
+        "actual_winner": "Kingston Frontenacs",
+        "home_score": 3,
+        "away_score": 6,
+        "odds": {
+            "Soo Greyhounds": "+160",
+            "Kingston Frontenacs": "-202"
+        }
+    },
+    {
+        "date": "2026-02-28",
+        "home_team": "Brampton Steelheads",
+        "away_team": "London Knights",
+        "predicted_winner": "London Knights",
+        "actual_winner": "London Knights",
+        "home_score": 0,
+        "away_score": 5,
+        "odds": {
+            "Brampton Steelheads": "+104",
+            "London Knights": "-128"
+        }
+    },
+    {
+        "date": "2026-02-28",
+        "home_team": "Erie Otters",
+        "away_team": "Owen Sound Attack",
+        "predicted_winner": "Erie Otters",
+        "actual_winner": "Owen Sound Attack",
+        "home_score": 4,
+        "away_score": 5,
+        "odds": {
+            "Erie Otters": "-177",
+            "Owen Sound Attack": "+142"
+        }
+    },
+    {
+        "date": "2026-02-28",
+        "home_team": "Flint Firebirds",
+        "away_team": "Ottawa 67's",
+        "predicted_winner": "Flint Firebirds",
+        "actual_winner": "Flint Firebirds",
+        "home_score": 4,
+        "away_score": 3,
+        "odds": {
+            "Flint Firebirds": "-171",
+            "Ottawa 67's": "+137"
+        }
+    },
+    {
+        "date": "2026-02-28",
+        "home_team": "Saginaw Spirit",
+        "away_team": "Peterborough Petes",
+        "predicted_winner": "Saginaw Spirit",
+        "actual_winner": "Saginaw Spirit",
+        "home_score": 5,
+        "away_score": 2,
+        "odds": {
+            "Saginaw Spirit": "-594",
+            "Peterborough Petes": "+409"
+        }
+    },
+    {
+        "date": "2026-02-28",
+        "home_team": "Windsor Spitfires",
+        "away_team": "Barrie Colts",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Windsor Spitfires",
+        "home_score": 3,
+        "away_score": 0,
+        "odds": {
+            "Windsor Spitfires": "-163",
+            "Barrie Colts": "+131"
+        }
+    },
+    {
+        "date": "2026-03-01",
+        "home_team": "Kitchener Rangers",
+        "away_team": "London Knights",
+        "predicted_winner": "London Knights",
+        "actual_winner": "Kitchener Rangers",
+        "home_score": 4,
+        "away_score": 1,
+        "odds": {
+            "Kitchener Rangers": "+130",
+            "London Knights": "-162"
+        }
+    },
+    {
+        "date": "2026-03-01",
+        "home_team": "North Bay Battalion",
+        "away_team": "Niagara IceDogs",
+        "predicted_winner": "Niagara IceDogs",
+        "actual_winner": "North Bay Battalion",
+        "home_score": 5,
+        "away_score": 0,
+        "odds": {
+            "North Bay Battalion": "+146",
+            "Niagara IceDogs": "-183"
+        }
+    },
+    {
+        "date": "2026-03-01",
+        "home_team": "Sudbury Wolves",
+        "away_team": "Kingston Frontenacs",
+        "predicted_winner": "Kingston Frontenacs",
+        "actual_winner": "Sudbury Wolves",
+        "home_score": 5,
+        "away_score": 3,
+        "odds": {
+            "Sudbury Wolves": "+149",
+            "Kingston Frontenacs": "-187"
+        }
+    },
+    {
+        "date": "2026-03-01",
+        "home_team": "Erie Otters",
+        "away_team": "Owen Sound Attack",
+        "predicted_winner": "Erie Otters",
+        "actual_winner": "Owen Sound Attack",
+        "home_score": 1,
+        "away_score": 5,
+        "odds": {
+            "Erie Otters": "-177",
+            "Owen Sound Attack": "+142"
+        }
+    },
+    {
+        "date": "2026-03-01",
+        "home_team": "Flint Firebirds",
+        "away_team": "Peterborough Petes",
+        "predicted_winner": "Flint Firebirds",
+        "actual_winner": "Peterborough Petes",
+        "home_score": 2,
+        "away_score": 4,
+        "odds": {
+            "Flint Firebirds": "-332",
+            "Peterborough Petes": "+252"
+        }
+    },
+    {
+        "date": "2026-03-01",
+        "home_team": "Oshawa Generals",
+        "away_team": "Guelph Storm",
+        "predicted_winner": "Oshawa Generals",
+        "actual_winner": "Oshawa Generals",
+        "home_score": 4,
+        "away_score": 1,
+        "odds": {
+            "Oshawa Generals": "-197",
+            "Guelph Storm": "+157"
+        }
+    },
+    {
+        "date": "2026-03-04",
+        "home_team": "Brampton Steelheads",
+        "away_team": "Barrie Colts",
+        "predicted_winner": "Brampton Steelheads",
+        "actual_winner": "Barrie Colts",
+        "home_score": 2,
+        "away_score": 4,
+        "odds": {
+            "Brampton Steelheads": "-152",
+            "Barrie Colts": "+123"
+        }
+    },
+    {
+        "date": "2026-03-04",
+        "home_team": "London Knights",
+        "away_team": "Guelph Storm",
+        "predicted_winner": "London Knights",
+        "actual_winner": "London Knights",
+        "home_score": 5,
+        "away_score": 2,
+        "odds": {
+            "London Knights": "-298",
+            "Guelph Storm": "+229"
+        }
+    },
+    {
+        "date": "2026-03-04",
+        "home_team": "Sarnia Sting",
+        "away_team": "Kitchener Rangers",
+        "predicted_winner": "Kitchener Rangers",
+        "actual_winner": "Kitchener Rangers",
+        "home_score": 3,
+        "away_score": 6,
+        "odds": {
+            "Sarnia Sting": "+197",
+            "Kitchener Rangers": "-252"
+        }
+    },
+    {
+        "date": "2026-03-05",
+        "home_team": "Barrie Colts",
+        "away_team": "Brantford Bulldogs",
+        "predicted_winner": "Brantford Bulldogs",
+        "actual_winner": "Brantford Bulldogs",
+        "home_score": 3,
+        "away_score": 5,
+        "odds": {
+            "Barrie Colts": "+116",
+            "Brantford Bulldogs": "-144"
+        }
+    },
+    {
+        "date": "2026-03-05",
+        "home_team": "Niagara IceDogs",
+        "away_team": "Saginaw Spirit",
+        "predicted_winner": "Saginaw Spirit",
+        "actual_winner": "Saginaw Spirit",
+        "home_score": 4,
+        "away_score": 5,
+        "odds": {
+            "Niagara IceDogs": "+145",
+            "Saginaw Spirit": "-182"
+        }
+    },
+    {
+        "date": "2026-03-05",
+        "home_team": "North Bay Battalion",
+        "away_team": "Oshawa Generals",
+        "predicted_winner": "Oshawa Generals",
+        "actual_winner": "Oshawa Generals",
+        "home_score": 3,
+        "away_score": 4,
+        "odds": {
+            "North Bay Battalion": "+193",
+            "Oshawa Generals": "-246"
+        }
+    },
+    {
+        "date": "2026-03-05",
+        "home_team": "Peterborough Petes",
+        "away_team": "Ottawa 67's",
+        "predicted_winner": "Ottawa 67's",
+        "actual_winner": "Peterborough Petes",
+        "home_score": 1,
+        "away_score": 0,
+        "odds": {
+            "Peterborough Petes": "+166",
+            "Ottawa 67's": "-210"
+        }
+    },
+    {
+        "date": "2026-03-06",
+        "home_team": "Kitchener Rangers",
+        "away_team": "Soo Greyhounds",
+        "predicted_winner": "Kitchener Rangers",
+        "actual_winner": "Kitchener Rangers",
+        "home_score": 3,
+        "away_score": 0,
+        "odds": {
+            "Kitchener Rangers": "-150",
+            "Soo Greyhounds": "+121"
+        }
+    },
+    {
+        "date": "2026-03-06",
+        "home_team": "London Knights",
+        "away_team": "Erie Otters",
+        "predicted_winner": "London Knights",
+        "actual_winner": "London Knights",
+        "home_score": 10,
+        "away_score": 2,
+        "odds": {
+            "London Knights": "-195",
+            "Erie Otters": "+156"
+        }
+    },
+    {
+        "date": "2026-03-06",
+        "home_team": "Niagara IceDogs",
+        "away_team": "Peterborough Petes",
+        "predicted_winner": "Niagara IceDogs",
+        "actual_winner": "Peterborough Petes",
+        "home_score": 1,
+        "away_score": 4,
+        "odds": {
+            "Niagara IceDogs": "-338",
+            "Peterborough Petes": "+256"
+        }
+    },
+    {
+        "date": "2026-03-06",
+        "home_team": "Sarnia Sting",
+        "away_team": "Flint Firebirds",
+        "predicted_winner": "Flint Firebirds",
+        "actual_winner": "Flint Firebirds",
+        "home_score": 1,
+        "away_score": 3,
+        "odds": {
+            "Sarnia Sting": "+144",
+            "Flint Firebirds": "-180"
+        }
+    },
+    {
+        "date": "2026-03-06",
+        "home_team": "Sudbury Wolves",
+        "away_team": "Oshawa Generals",
+        "predicted_winner": "Oshawa Generals",
+        "actual_winner": "Sudbury Wolves",
+        "home_score": 5,
+        "away_score": 2,
+        "odds": {
+            "Sudbury Wolves": "+111",
+            "Oshawa Generals": "-137"
+        }
+    },
+    {
+        "date": "2026-03-07",
+        "home_team": "Ottawa 67's",
+        "away_team": "Brampton Steelheads",
+        "predicted_winner": "Brampton Steelheads",
+        "actual_winner": "Brampton Steelheads",
+        "home_score": 1,
+        "away_score": 2,
+        "odds": {
+            "Ottawa 67's": "+235",
+            "Brampton Steelheads": "-306"
+        }
+    },
+    {
+        "date": "2026-03-07",
+        "home_team": "Guelph Storm",
+        "away_team": "Soo Greyhounds",
+        "predicted_winner": "Soo Greyhounds",
+        "actual_winner": "Soo Greyhounds",
+        "home_score": 0,
+        "away_score": 2,
+        "odds": {
+            "Guelph Storm": "+119",
+            "Soo Greyhounds": "-147"
+        }
+    },
+    {
+        "date": "2026-03-07",
+        "home_team": "Erie Otters",
+        "away_team": "London Knights",
+        "predicted_winner": "London Knights",
+        "actual_winner": "London Knights",
+        "home_score": 1,
+        "away_score": 3,
+        "odds": {
+            "Erie Otters": "+156",
+            "London Knights": "-195"
+        }
+    },
+    {
+        "date": "2026-03-07",
+        "home_team": "Flint Firebirds",
+        "away_team": "Windsor Spitfires",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Flint Firebirds",
+        "home_score": 4,
+        "away_score": 2,
+        "odds": {
+            "Flint Firebirds": "+166",
+            "Windsor Spitfires": "-209"
+        }
+    },
+    {
+        "date": "2026-03-07",
+        "home_team": "Owen Sound Attack",
+        "away_team": "Sarnia Sting",
+        "predicted_winner": "Owen Sound Attack",
+        "actual_winner": "Owen Sound Attack",
+        "home_score": 5,
+        "away_score": 4,
+        "odds": {
+            "Owen Sound Attack": "-129",
+            "Sarnia Sting": "+105"
+        }
+    },
+    {
+        "date": "2026-03-07",
+        "home_team": "Barrie Colts",
+        "away_team": "North Bay Battalion",
+        "predicted_winner": "Barrie Colts",
+        "actual_winner": "Barrie Colts",
+        "home_score": 5,
+        "away_score": 2,
+        "odds": {
+            "Barrie Colts": "-230",
+            "North Bay Battalion": "+181"
+        }
+    },
+    {
+        "date": "2026-03-08",
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Niagara IceDogs",
+        "predicted_winner": "Brantford Bulldogs",
+        "actual_winner": "Brantford Bulldogs",
+        "home_score": 6,
+        "away_score": 4,
+        "odds": {
+            "Brantford Bulldogs": "-180",
+            "Niagara IceDogs": "+144"
+        }
+    },
+    {
+        "date": "2026-03-08",
+        "home_team": "North Bay Battalion",
+        "away_team": "Sudbury Wolves",
+        "predicted_winner": "Sudbury Wolves",
+        "actual_winner": "North Bay Battalion",
+        "home_score": 3,
+        "away_score": 1,
+        "odds": {
+            "North Bay Battalion": "+158",
+            "Sudbury Wolves": "-198"
+        }
+    },
+    {
+        "date": "2026-03-08",
+        "home_team": "Kingston Frontenacs",
+        "away_team": "Oshawa Generals",
+        "predicted_winner": "Kingston Frontenacs",
+        "actual_winner": "Kingston Frontenacs",
+        "home_score": 3,
+        "away_score": 2,
+        "odds": {
+            "Kingston Frontenacs": "-151",
+            "Oshawa Generals": "+122"
+        }
+    },
+    {
+        "date": "2026-03-08",
+        "home_team": "Ottawa 67's",
+        "away_team": "Peterborough Petes",
+        "predicted_winner": "Ottawa 67's",
+        "actual_winner": "Ottawa 67's",
+        "home_score": 6,
+        "away_score": 3,
+        "odds": {
+            "Ottawa 67's": "-210",
+            "Peterborough Petes": "+166"
+        }
+    },
+    {
+        "date": "2026-03-08",
+        "home_team": "Erie Otters",
+        "away_team": "Saginaw Spirit",
+        "predicted_winner": "Saginaw Spirit",
+        "actual_winner": "Saginaw Spirit",
+        "home_score": 5,
+        "away_score": 7,
+        "odds": {
+            "Erie Otters": "+129",
+            "Saginaw Spirit": "-161"
+        }
+    },
+    {
+        "date": "2026-03-08",
+        "home_team": "Windsor Spitfires",
+        "away_team": "Kitchener Rangers",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Windsor Spitfires",
+        "home_score": 5,
+        "away_score": 2,
+        "odds": {
+            "Windsor Spitfires": "-150",
+            "Kitchener Rangers": "+121"
+        }
+    },
+    {
+        "date": "2026-03-10",
+        "home_team": "Brampton Steelheads",
+        "away_team": "Owen Sound Attack",
+        "predicted_winner": "Brampton Steelheads",
+        "actual_winner": "Brampton Steelheads",
+        "home_score": 2,
+        "away_score": 1,
+        "odds": {
+            "Brampton Steelheads": "-274",
+            "Owen Sound Attack": "+212"
+        }
+    },
+    {
+        "date": "2026-03-11",
+        "home_team": "Oshawa Generals",
+        "away_team": "Sudbury Wolves",
+        "predicted_winner": "Oshawa Generals",
+        "actual_winner": "Sudbury Wolves",
+        "home_score": 4,
+        "away_score": 5,
+        "odds": {
+            "Oshawa Generals": "-137",
+            "Sudbury Wolves": "+111"
+        }
+    },
+    {
+        "date": "2026-03-12",
+        "home_team": "Barrie Colts",
+        "away_team": "Ottawa 67's",
+        "predicted_winner": "Barrie Colts",
+        "actual_winner": "Ottawa 67's",
+        "home_score": 2,
+        "away_score": 3,
+        "odds": {
+            "Barrie Colts": "-219",
+            "Ottawa 67's": "+173"
+        }
+    },
+    {
+        "date": "2026-03-12",
+        "home_team": "Niagara IceDogs",
+        "away_team": "Kingston Frontenacs",
+        "predicted_winner": "Kingston Frontenacs",
+        "actual_winner": "Kingston Frontenacs",
+        "home_score": 1,
+        "away_score": 2,
+        "odds": {
+            "Niagara IceDogs": "+161",
+            "Kingston Frontenacs": "-202"
+        }
+    },
+    {
+        "date": "2026-03-12",
+        "home_team": "North Bay Battalion",
+        "away_team": "Brantford Bulldogs",
+        "predicted_winner": "Brantford Bulldogs",
+        "actual_winner": "North Bay Battalion",
+        "home_score": 3,
+        "away_score": 2,
+        "odds": {
+            "North Bay Battalion": "+233",
+            "Brantford Bulldogs": "-304"
+        }
+    },
+    {
+        "date": "2026-03-12",
+        "home_team": "Peterborough Petes",
+        "away_team": "Oshawa Generals",
+        "predicted_winner": "Oshawa Generals",
+        "actual_winner": "Oshawa Generals",
+        "home_score": 2,
+        "away_score": 3,
+        "odds": {
+            "Peterborough Petes": "+336",
+            "Oshawa Generals": "-467"
+        }
+    },
+    {
+        "date": "2026-03-12",
+        "home_team": "Windsor Spitfires",
+        "away_team": "Soo Greyhounds",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Soo Greyhounds",
+        "home_score": 3,
+        "away_score": 4,
+        "odds": {
+            "Windsor Spitfires": "-204",
+            "Soo Greyhounds": "+162"
+        }
+    },
+    {
+        "date": "2026-03-13",
+        "home_team": "Brampton Steelheads",
+        "away_team": "Ottawa 67's",
+        "predicted_winner": "Brampton Steelheads",
+        "actual_winner": "Ottawa 67's",
+        "home_score": 1,
+        "away_score": 5,
+        "odds": {
+            "Brampton Steelheads": "-306",
+            "Ottawa 67's": "+235"
+        }
+    },
+    {
+        "date": "2026-03-13",
+        "home_team": "Erie Otters",
+        "away_team": "Kingston Frontenacs",
+        "predicted_winner": "Kingston Frontenacs",
+        "actual_winner": "Kingston Frontenacs",
+        "home_score": 3,
+        "away_score": 4,
+        "odds": {
+            "Erie Otters": "+143",
+            "Kingston Frontenacs": "-179"
+        }
+    },
+    {
+        "date": "2026-03-13",
+        "home_team": "Kitchener Rangers",
+        "away_team": "Owen Sound Attack",
+        "predicted_winner": "Kitchener Rangers",
+        "actual_winner": "Kitchener Rangers",
+        "home_score": 3,
+        "away_score": 2,
+        "odds": {
+            "Kitchener Rangers": "-214",
+            "Owen Sound Attack": "+170"
+        }
+    },
+    {
+        "date": "2026-03-13",
+        "home_team": "London Knights",
+        "away_team": "Guelph Storm",
+        "predicted_winner": "London Knights",
+        "actual_winner": "London Knights",
+        "home_score": 4,
+        "away_score": 3,
+        "odds": {
+            "London Knights": "-298",
+            "Guelph Storm": "+229"
+        }
+    },
+    {
+        "date": "2026-03-13",
+        "home_team": "Sarnia Sting",
+        "away_team": "Windsor Spitfires",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Windsor Spitfires",
+        "home_score": 3,
+        "away_score": 6,
+        "odds": {
+            "Sarnia Sting": "+263",
+            "Windsor Spitfires": "-349"
+        }
+    },
+    {
+        "date": "2026-03-13",
+        "home_team": "Sudbury Wolves",
+        "away_team": "Brantford Bulldogs",
+        "predicted_winner": "Brantford Bulldogs",
+        "actual_winner": "Brantford Bulldogs",
+        "home_score": 0,
+        "away_score": 4,
+        "odds": {
+            "Sudbury Wolves": "+134",
+            "Brantford Bulldogs": "-167"
+        }
+    },
+    {
+        "date": "2026-03-14",
+        "home_team": "Erie Otters",
+        "away_team": "Niagara IceDogs",
+        "predicted_winner": "Erie Otters",
+        "actual_winner": "Niagara IceDogs",
+        "home_score": 1,
+        "away_score": 7,
+        "odds": {
+            "Erie Otters": "-125",
+            "Niagara IceDogs": "+101"
+        }
+    },
+    {
+        "date": "2026-03-14",
+        "home_team": "Saginaw Spirit",
+        "away_team": "Flint Firebirds",
+        "predicted_winner": "Saginaw Spirit",
+        "actual_winner": "Flint Firebirds",
+        "home_score": 1,
+        "away_score": 5,
+        "odds": {
+            "Saginaw Spirit": "-185",
+            "Flint Firebirds": "+148"
+        }
+    },
+    {
+        "date": "2026-03-14",
+        "home_team": "Barrie Colts",
+        "away_team": "Sudbury Wolves",
+        "predicted_winner": "Barrie Colts",
+        "actual_winner": "Barrie Colts",
+        "home_score": 5,
+        "away_score": 2,
+        "odds": {
+            "Barrie Colts": "-128",
+            "Sudbury Wolves": "+104"
+        }
+    },
+    {
+        "date": "2026-03-15",
+        "home_team": "Niagara IceDogs",
+        "away_team": "Ottawa 67's",
+        "predicted_winner": "Niagara IceDogs",
+        "actual_winner": "Ottawa 67's",
+        "home_score": 0,
+        "away_score": 6,
+        "odds": {
+            "Niagara IceDogs": "-175",
+            "Ottawa 67's": "+140"
+        }
+    },
+    {
+        "date": "2026-03-15",
+        "home_team": "North Bay Battalion",
+        "away_team": "Peterborough Petes",
+        "predicted_winner": "North Bay Battalion",
+        "actual_winner": "Peterborough Petes",
+        "home_score": 3,
+        "away_score": 4,
+        "odds": {
+            "North Bay Battalion": "-200",
+            "Peterborough Petes": "+159"
+        }
+    },
+    {
+        "date": "2026-03-15",
+        "home_team": "Sarnia Sting",
+        "away_team": "Saginaw Spirit",
+        "predicted_winner": "Saginaw Spirit",
+        "actual_winner": "Saginaw Spirit",
+        "home_score": 3,
+        "away_score": 7,
+        "odds": {
+            "Sarnia Sting": "+235",
+            "Saginaw Spirit": "-307"
+        }
+    },
+    {
+        "date": "2026-03-15",
+        "home_team": "Soo Greyhounds",
+        "away_team": "Brantford Bulldogs",
+        "predicted_winner": "Brantford Bulldogs",
+        "actual_winner": "Brantford Bulldogs",
+        "home_score": 0,
+        "away_score": 3,
+        "odds": {
+            "Soo Greyhounds": "+144",
+            "Brantford Bulldogs": "-180"
+        }
+    },
+    {
+        "date": "2026-03-15",
+        "home_team": "Guelph Storm",
+        "away_team": "Kitchener Rangers",
+        "predicted_winner": "Kitchener Rangers",
+        "actual_winner": "Kitchener Rangers",
+        "home_score": 1,
+        "away_score": 4,
+        "odds": {
+            "Guelph Storm": "+159",
+            "Kitchener Rangers": "-200"
+        }
+    },
+    {
+        "date": "2026-03-17",
+        "home_team": "Brampton Steelheads",
+        "away_team": "Sudbury Wolves",
+        "predicted_winner": "Brampton Steelheads",
+        "actual_winner": "Brampton Steelheads",
+        "home_score": 6,
+        "away_score": 3,
+        "odds": {
+            "Brampton Steelheads": "-176",
+            "Sudbury Wolves": "+141"
+        }
+    },
+    {
+        "date": "2026-03-17",
+        "home_team": "Kitchener Rangers",
+        "away_team": "Flint Firebirds",
+        "predicted_winner": "Kitchener Rangers",
+        "actual_winner": "Kitchener Rangers",
+        "home_score": 6,
+        "away_score": 2,
+        "odds": {
+            "Kitchener Rangers": "-153",
+            "Flint Firebirds": "+123"
+        }
+    },
+    {
+        "date": "2026-03-17",
+        "home_team": "Windsor Spitfires",
+        "away_team": "Erie Otters",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Windsor Spitfires",
+        "home_score": 5,
+        "away_score": 1,
+        "odds": {
+            "Windsor Spitfires": "-181",
+            "Erie Otters": "+145"
+        }
+    },
+    {
+        "date": "2026-03-18",
+        "home_team": "Ottawa 67's",
+        "away_team": "Oshawa Generals",
+        "predicted_winner": "Oshawa Generals",
+        "actual_winner": "Ottawa 67's",
+        "home_score": 6,
+        "away_score": 1,
+        "odds": {
+            "Ottawa 67's": "+185",
+            "Oshawa Generals": "-235"
+        }
+    },
+    {
+        "date": "2026-03-18",
+        "home_team": "Guelph Storm",
+        "away_team": "London Knights",
+        "predicted_winner": "London Knights",
+        "actual_winner": "London Knights",
+        "home_score": 2,
+        "away_score": 6,
+        "odds": {
+            "Guelph Storm": "+229",
+            "London Knights": "-298"
+        }
+    },
+    {
+        "date": "2026-03-18",
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Niagara IceDogs",
+        "predicted_winner": "Brantford Bulldogs",
+        "actual_winner": "Brantford Bulldogs",
+        "home_score": 5,
+        "away_score": 2,
+        "odds": {
+            "Brantford Bulldogs": "-180",
+            "Niagara IceDogs": "+144"
+        }
+    },
+    {
+        "date": "2026-03-18",
+        "home_team": "Owen Sound Attack",
+        "away_team": "Flint Firebirds",
+        "predicted_winner": "Flint Firebirds",
+        "actual_winner": "Owen Sound Attack",
+        "home_score": 4,
+        "away_score": 3,
+        "odds": {
+            "Owen Sound Attack": "+124",
+            "Flint Firebirds": "-154"
+        }
+    },
+    {
+        "date": "2026-03-18",
+        "home_team": "Kingston Frontenacs",
+        "away_team": "Barrie Colts",
+        "predicted_winner": "Kingston Frontenacs",
+        "actual_winner": "Kingston Frontenacs",
+        "home_score": 4,
+        "away_score": 2,
+        "odds": {
+            "Kingston Frontenacs": "-161",
+            "Barrie Colts": "+130"
+        }
+    },
+    {
+        "date": "2026-03-18",
+        "home_team": "Saginaw Spirit",
+        "away_team": "Soo Greyhounds",
+        "predicted_winner": "Saginaw Spirit",
+        "actual_winner": "Saginaw Spirit",
+        "home_score": 4,
+        "away_score": 3,
+        "odds": {
+            "Saginaw Spirit": "-181",
+            "Soo Greyhounds": "+145"
+        }
+    },
+    {
+        "date": "2026-03-18",
+        "home_team": "Sarnia Sting",
+        "away_team": "Erie Otters",
+        "predicted_winner": "Erie Otters",
+        "actual_winner": "Sarnia Sting",
+        "home_score": 6,
+        "away_score": 3,
+        "odds": {
+            "Sarnia Sting": "+165",
+            "Erie Otters": "-208"
+        }
+    },
+    {
+        "date": "2026-03-19",
+        "home_team": "North Bay Battalion",
+        "away_team": "Brampton Steelheads",
+        "predicted_winner": "Brampton Steelheads",
+        "actual_winner": "North Bay Battalion",
+        "home_score": 7,
+        "away_score": 0,
+        "odds": {
+            "North Bay Battalion": "+245",
+            "Brampton Steelheads": "-322"
+        }
+    },
+    {
+        "date": "2026-03-19",
+        "home_team": "Peterborough Petes",
+        "away_team": "Barrie Colts",
+        "predicted_winner": "Barrie Colts",
+        "actual_winner": "Peterborough Petes",
+        "home_score": 5,
+        "away_score": 4,
+        "odds": {
+            "Peterborough Petes": "+316",
+            "Barrie Colts": "-433"
+        }
+    },
+    {
+        "date": "2026-03-20",
+        "home_team": "Brantford Bulldogs",
+        "away_team": "North Bay Battalion",
+        "predicted_winner": "Brantford Bulldogs",
+        "actual_winner": "Brantford Bulldogs",
+        "home_score": 6,
+        "away_score": 5,
+        "odds": {
+            "Brantford Bulldogs": "-304",
+            "North Bay Battalion": "+233"
+        }
+    },
+    {
+        "date": "2026-03-20",
+        "home_team": "Kitchener Rangers",
+        "away_team": "Sarnia Sting",
+        "predicted_winner": "Kitchener Rangers",
+        "actual_winner": "Sarnia Sting",
+        "home_score": 3,
+        "away_score": 4,
+        "odds": {
+            "Kitchener Rangers": "-252",
+            "Sarnia Sting": "+197"
+        }
+    },
+    {
+        "date": "2026-03-20",
+        "home_team": "Kingston Frontenacs",
+        "away_team": "Peterborough Petes",
+        "predicted_winner": "Kingston Frontenacs",
+        "actual_winner": "Peterborough Petes",
+        "home_score": 2,
+        "away_score": 4,
+        "odds": {
+            "Kingston Frontenacs": "-675",
+            "Peterborough Petes": "+451"
+        }
+    },
+    {
+        "date": "2026-03-20",
+        "home_team": "Oshawa Generals",
+        "away_team": "Ottawa 67's",
+        "predicted_winner": "Oshawa Generals",
+        "actual_winner": "Oshawa Generals",
+        "home_score": 4,
+        "away_score": 3,
+        "odds": {
+            "Oshawa Generals": "-235",
+            "Ottawa 67's": "+185"
+        }
+    },
+    {
+        "date": "2026-03-20",
+        "home_team": "Sudbury Wolves",
+        "away_team": "Brampton Steelheads",
+        "predicted_winner": "Brampton Steelheads",
+        "actual_winner": "Sudbury Wolves",
+        "home_score": 3,
+        "away_score": 2,
+        "odds": {
+            "Sudbury Wolves": "+141",
+            "Brampton Steelheads": "-176"
+        }
+    },
+    {
+        "date": "2026-03-20",
+        "home_team": "Soo Greyhounds",
+        "away_team": "Saginaw Spirit",
+        "predicted_winner": "Saginaw Spirit",
+        "actual_winner": "Soo Greyhounds",
+        "home_score": 5,
+        "away_score": 1,
+        "odds": {
+            "Soo Greyhounds": "+145",
+            "Saginaw Spirit": "-181"
+        }
+    },
+    {
+        "date": "2026-03-21",
+        "home_team": "Ottawa 67's",
+        "away_team": "Kingston Frontenacs",
+        "predicted_winner": "Kingston Frontenacs",
+        "actual_winner": "Ottawa 67's",
+        "home_score": 6,
+        "away_score": 1,
+        "odds": {
+            "Ottawa 67's": "+248",
+            "Kingston Frontenacs": "-326"
+        }
+    },
+    {
+        "date": "2026-03-21",
+        "home_team": "Erie Otters",
+        "away_team": "Guelph Storm",
+        "predicted_winner": "Erie Otters",
+        "actual_winner": "Erie Otters",
+        "home_score": 4,
+        "away_score": 3,
+        "odds": {
+            "Erie Otters": "-166",
+            "Guelph Storm": "+133"
+        }
+    },
+    {
+        "date": "2026-03-21",
+        "home_team": "Flint Firebirds",
+        "away_team": "London Knights",
+        "predicted_winner": "London Knights",
+        "actual_winner": "Flint Firebirds",
+        "home_score": 5,
+        "away_score": 4,
+        "odds": {
+            "Flint Firebirds": "+178",
+            "London Knights": "-225"
+        }
+    },
+    {
+        "date": "2026-03-21",
+        "home_team": "Owen Sound Attack",
+        "away_team": "Kitchener Rangers",
+        "predicted_winner": "Kitchener Rangers",
+        "actual_winner": "Owen Sound Attack",
+        "home_score": 8,
+        "away_score": 7,
+        "odds": {
+            "Owen Sound Attack": "+170",
+            "Kitchener Rangers": "-214"
+        }
+    },
+    {
+        "date": "2026-03-21",
+        "home_team": "Saginaw Spirit",
+        "away_team": "Sarnia Sting",
+        "predicted_winner": "Saginaw Spirit",
+        "actual_winner": "Sarnia Sting",
+        "home_score": 3,
+        "away_score": 4,
+        "odds": {
+            "Saginaw Spirit": "-307",
+            "Sarnia Sting": "+235"
+        }
+    },
+    {
+        "date": "2026-03-21",
+        "home_team": "Barrie Colts",
+        "away_team": "Niagara IceDogs",
+        "predicted_winner": "Barrie Colts",
+        "actual_winner": "Niagara IceDogs",
+        "home_score": 2,
+        "away_score": 3,
+        "odds": {
+            "Barrie Colts": "-138",
+            "Niagara IceDogs": "+112"
+        }
+    },
+    {
+        "date": "2026-03-22",
+        "home_team": "Niagara IceDogs",
+        "away_team": "Erie Otters",
+        "predicted_winner": "Erie Otters",
+        "actual_winner": "Niagara IceDogs",
+        "home_score": 6,
+        "away_score": 5,
+        "odds": {
+            "Niagara IceDogs": "+101",
+            "Erie Otters": "-125"
+        }
+    },
+    {
+        "date": "2026-03-22",
+        "home_team": "North Bay Battalion",
+        "away_team": "Sudbury Wolves",
+        "predicted_winner": "Sudbury Wolves",
+        "actual_winner": "North Bay Battalion",
+        "home_score": 4,
+        "away_score": 2,
+        "odds": {
+            "North Bay Battalion": "+158",
+            "Sudbury Wolves": "-198"
+        }
+    },
+    {
+        "date": "2026-03-22",
+        "home_team": "Soo Greyhounds",
+        "away_team": "Windsor Spitfires",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Windsor Spitfires",
+        "home_score": 3,
+        "away_score": 5,
+        "odds": {
+            "Soo Greyhounds": "+162",
+            "Windsor Spitfires": "-204"
+        }
+    },
+    {
+        "date": "2026-03-22",
+        "home_team": "Oshawa Generals",
+        "away_team": "Peterborough Petes",
+        "predicted_winner": "Oshawa Generals",
+        "actual_winner": "Peterborough Petes",
+        "home_score": 3,
+        "away_score": 7,
+        "odds": {
+            "Oshawa Generals": "-467",
+            "Peterborough Petes": "+336"
+        }
+    },
+    {
+        "date": "2026-03-26",
+        "home_team": "Barrie Colts",
+        "away_team": "Niagara IceDogs",
+        "predicted_winner": "Barrie Colts",
+        "actual_winner": "Barrie Colts",
+        "home_score": 4,
+        "away_score": 1,
+        "odds": {
+            "Barrie Colts": "-138",
+            "Niagara IceDogs": "+112"
+        }
+    },
+    {
+        "date": "2026-03-26",
+        "home_team": "Flint Firebirds",
+        "away_team": "Owen Sound Attack",
+        "predicted_winner": "Flint Firebirds",
+        "actual_winner": "Flint Firebirds",
+        "home_score": 8,
+        "away_score": 1,
+        "odds": {
+            "Flint Firebirds": "-154",
+            "Owen Sound Attack": "+124"
+        }
+    },
+    {
+        "date": "2026-03-26",
+        "home_team": "Peterborough Petes",
+        "away_team": "North Bay Battalion",
+        "predicted_winner": "North Bay Battalion",
+        "actual_winner": "North Bay Battalion",
+        "home_score": 0,
+        "away_score": 1,
+        "odds": {
+            "Peterborough Petes": "+159",
+            "North Bay Battalion": "-200"
+        }
+    },
+    {
+        "date": "2026-03-26",
+        "home_team": "Windsor Spitfires",
+        "away_team": "Guelph Storm",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Windsor Spitfires",
+        "home_score": 4,
+        "away_score": 0,
+        "odds": {
+            "Windsor Spitfires": "-275",
+            "Guelph Storm": "+213"
+        }
+    },
+    {
+        "date": "2026-03-27",
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Sudbury Wolves",
+        "predicted_winner": "Brantford Bulldogs",
+        "actual_winner": "Brantford Bulldogs",
+        "home_score": 6,
+        "away_score": 2,
+        "odds": {
+            "Brantford Bulldogs": "-167",
+            "Sudbury Wolves": "+134"
+        }
+    },
+    {
+        "date": "2026-03-27",
+        "home_team": "Ottawa 67's",
+        "away_team": "Kingston Frontenacs",
+        "predicted_winner": "Kingston Frontenacs",
+        "actual_winner": "Ottawa 67's",
+        "home_score": 7,
+        "away_score": 4,
+        "odds": {
+            "Ottawa 67's": "+248",
+            "Kingston Frontenacs": "-326"
+        }
+    },
+    {
+        "date": "2026-03-27",
+        "home_team": "Kitchener Rangers",
+        "away_team": "Saginaw Spirit",
+        "predicted_winner": "Saginaw Spirit",
+        "actual_winner": "Kitchener Rangers",
+        "home_score": 6,
+        "away_score": 4,
+        "odds": {
+            "Kitchener Rangers": "+108",
+            "Saginaw Spirit": "-134"
+        }
+    },
+    {
+        "date": "2026-03-27",
+        "home_team": "London Knights",
+        "away_team": "Soo Greyhounds",
+        "predicted_winner": "London Knights",
+        "actual_winner": "Soo Greyhounds",
+        "home_score": 1,
+        "away_score": 4,
+        "odds": {
+            "London Knights": "-221",
+            "Soo Greyhounds": "+174"
+        }
+    },
+    {
+        "date": "2026-03-27",
+        "home_team": "Peterborough Petes",
+        "away_team": "North Bay Battalion",
+        "predicted_winner": "North Bay Battalion",
+        "actual_winner": "Peterborough Petes",
+        "home_score": 4,
+        "away_score": 3,
+        "odds": {
+            "Peterborough Petes": "+159",
+            "North Bay Battalion": "-200"
+        }
+    },
+    {
+        "date": "2026-03-28",
+        "home_team": "Flint Firebirds",
+        "away_team": "Owen Sound Attack",
+        "predicted_winner": "Flint Firebirds",
+        "actual_winner": "Flint Firebirds",
+        "home_score": 11,
+        "away_score": 1,
+        "odds": {
+            "Flint Firebirds": "-154",
+            "Owen Sound Attack": "+124"
+        }
+    },
+    {
+        "date": "2026-03-28",
+        "home_team": "Windsor Spitfires",
+        "away_team": "Guelph Storm",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Windsor Spitfires",
+        "home_score": 4,
+        "away_score": 1,
+        "odds": {
+            "Windsor Spitfires": "-275",
+            "Guelph Storm": "+213"
+        }
+    },
+    {
+        "date": "2026-03-28",
+        "home_team": "Barrie Colts",
+        "away_team": "Niagara IceDogs",
+        "predicted_winner": "Barrie Colts",
+        "actual_winner": "Niagara IceDogs",
+        "home_score": 3,
+        "away_score": 4,
+        "odds": {
+            "Barrie Colts": "-138",
+            "Niagara IceDogs": "+112"
+        }
+    },
+    {
+        "date": "2026-03-29",
+        "home_team": "North Bay Battalion",
+        "away_team": "Peterborough Petes",
+        "predicted_winner": "North Bay Battalion",
+        "actual_winner": "Peterborough Petes",
+        "home_score": 1,
+        "away_score": 2,
+        "odds": {
+            "North Bay Battalion": "-200",
+            "Peterborough Petes": "+159"
+        }
+    },
+    {
+        "date": "2026-03-29",
+        "home_team": "Ottawa 67's",
+        "away_team": "Kingston Frontenacs",
+        "predicted_winner": "Kingston Frontenacs",
+        "actual_winner": "Ottawa 67's",
+        "home_score": 4,
+        "away_score": 3,
+        "odds": {
+            "Ottawa 67's": "+248",
+            "Kingston Frontenacs": "-326"
+        }
+    },
+    {
+        "date": "2026-03-29",
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Sudbury Wolves",
+        "predicted_winner": "Brantford Bulldogs",
+        "actual_winner": "Brantford Bulldogs",
+        "home_score": 4,
+        "away_score": 2,
+        "odds": {
+            "Brantford Bulldogs": "-167",
+            "Sudbury Wolves": "+134"
+        }
+    },
+    {
+        "date": "2026-03-29",
+        "home_team": "London Knights",
+        "away_team": "Soo Greyhounds",
+        "predicted_winner": "London Knights",
+        "actual_winner": "Soo Greyhounds",
+        "home_score": 2,
+        "away_score": 3,
+        "odds": {
+            "London Knights": "-221",
+            "Soo Greyhounds": "+174"
+        }
+    },
+    {
+        "date": "2026-03-29",
+        "home_team": "Kitchener Rangers",
+        "away_team": "Saginaw Spirit",
+        "predicted_winner": "Saginaw Spirit",
+        "actual_winner": "Kitchener Rangers",
+        "home_score": 4,
+        "away_score": 0,
+        "odds": {
+            "Kitchener Rangers": "+108",
+            "Saginaw Spirit": "-134"
+        }
+    },
+    {
+        "date": "2026-03-30",
+        "home_team": "Owen Sound Attack",
+        "away_team": "Flint Firebirds",
+        "predicted_winner": "Flint Firebirds",
+        "actual_winner": "Flint Firebirds",
+        "home_score": 0,
+        "away_score": 10,
+        "odds": {
+            "Owen Sound Attack": "+124",
+            "Flint Firebirds": "-154"
+        }
+    },
+    {
+        "date": "2026-03-31",
+        "home_team": "Guelph Storm",
+        "away_team": "Windsor Spitfires",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Windsor Spitfires",
+        "home_score": 1,
+        "away_score": 2,
+        "odds": {
+            "Guelph Storm": "+213",
+            "Windsor Spitfires": "-275"
+        }
+    },
+    {
+        "date": "2026-03-31",
+        "home_team": "Niagara IceDogs",
+        "away_team": "Barrie Colts",
+        "predicted_winner": "Barrie Colts",
+        "actual_winner": "Barrie Colts",
+        "home_score": 2,
+        "away_score": 5,
+        "odds": {
+            "Niagara IceDogs": "+112",
+            "Barrie Colts": "-138"
+        }
+    },
+    {
+        "date": "2026-03-31",
+        "home_team": "North Bay Battalion",
+        "away_team": "Peterborough Petes",
+        "predicted_winner": "North Bay Battalion",
+        "actual_winner": "North Bay Battalion",
+        "home_score": 4,
+        "away_score": 0,
+        "odds": {
+            "North Bay Battalion": "-200",
+            "Peterborough Petes": "+159"
+        }
+    },
+    {
+        "date": "2026-03-31",
+        "home_team": "Sudbury Wolves",
+        "away_team": "Brantford Bulldogs",
+        "predicted_winner": "Brantford Bulldogs",
+        "actual_winner": "Brantford Bulldogs",
+        "home_score": 5,
+        "away_score": 6,
+        "odds": {
+            "Sudbury Wolves": "+134",
+            "Brantford Bulldogs": "-167"
+        }
+    },
+    {
+        "date": "2026-03-31",
+        "home_team": "Kingston Frontenacs",
+        "away_team": "Ottawa 67's",
+        "predicted_winner": "Kingston Frontenacs",
+        "actual_winner": "Ottawa 67's",
+        "home_score": 1,
+        "away_score": 4,
+        "odds": {
+            "Kingston Frontenacs": "-326",
+            "Ottawa 67's": "+248"
+        }
+    },
+    {
+        "date": "2026-03-31",
+        "home_team": "Saginaw Spirit",
+        "away_team": "Kitchener Rangers",
+        "predicted_winner": "Saginaw Spirit",
+        "actual_winner": "Kitchener Rangers",
+        "home_score": 3,
+        "away_score": 4,
+        "odds": {
+            "Saginaw Spirit": "-134",
+            "Kitchener Rangers": "+108"
+        }
+    },
+    {
+        "date": "2026-03-31",
+        "home_team": "Soo Greyhounds",
+        "away_team": "London Knights",
+        "predicted_winner": "London Knights",
+        "actual_winner": "Soo Greyhounds",
+        "home_score": 3,
+        "away_score": 2,
+        "odds": {
+            "Soo Greyhounds": "+174",
+            "London Knights": "-221"
+        }
+    },
+    {
+        "date": "2026-04-01",
+        "home_team": "Owen Sound Attack",
+        "away_team": "Flint Firebirds",
+        "predicted_winner": "Flint Firebirds",
+        "actual_winner": "Flint Firebirds",
+        "home_score": 1,
+        "away_score": 6,
+        "odds": {
+            "Owen Sound Attack": "+124",
+            "Flint Firebirds": "-154"
+        }
+    },
+    {
+        "date": "2026-04-01",
+        "home_team": "Soo Greyhounds",
+        "away_team": "London Knights",
+        "predicted_winner": "London Knights",
+        "actual_winner": "London Knights",
+        "home_score": 1,
+        "away_score": 4,
+        "odds": {
+            "Soo Greyhounds": "+174",
+            "London Knights": "-221"
+        }
+    },
+    {
+        "date": "2026-04-02",
+        "home_team": "Niagara IceDogs",
+        "away_team": "Barrie Colts",
+        "predicted_winner": "Barrie Colts",
+        "actual_winner": "Barrie Colts",
+        "home_score": 6,
+        "away_score": 9,
+        "odds": {
+            "Niagara IceDogs": "+112",
+            "Barrie Colts": "-138"
+        }
+    },
+    {
+        "date": "2026-04-02",
+        "home_team": "Sudbury Wolves",
+        "away_team": "Brantford Bulldogs",
+        "predicted_winner": "Brantford Bulldogs",
+        "actual_winner": "Brantford Bulldogs",
+        "home_score": 1,
+        "away_score": 2,
+        "odds": {
+            "Sudbury Wolves": "+134",
+            "Brantford Bulldogs": "-167"
+        }
+    },
+    {
+        "date": "2026-04-02",
+        "home_team": "Kingston Frontenacs",
+        "away_team": "Ottawa 67's",
+        "predicted_winner": "Kingston Frontenacs",
+        "actual_winner": "Ottawa 67's",
+        "home_score": 2,
+        "away_score": 3,
+        "odds": {
+            "Kingston Frontenacs": "-326",
+            "Ottawa 67's": "+248"
+        }
+    },
+    {
+        "date": "2026-04-02",
+        "home_team": "Peterborough Petes",
+        "away_team": "North Bay Battalion",
+        "predicted_winner": "North Bay Battalion",
+        "actual_winner": "North Bay Battalion",
+        "home_score": 1,
+        "away_score": 3,
+        "odds": {
+            "Peterborough Petes": "+159",
+            "North Bay Battalion": "-200"
+        }
+    },
+    {
+        "date": "2026-04-02",
+        "home_team": "Saginaw Spirit",
+        "away_team": "Kitchener Rangers",
+        "predicted_winner": "Saginaw Spirit",
+        "actual_winner": "Kitchener Rangers",
+        "home_score": 1,
+        "away_score": 5,
+        "odds": {
+            "Saginaw Spirit": "-134",
+            "Kitchener Rangers": "+108"
+        }
+    },
+    {
+        "date": "2026-04-02",
+        "home_team": "Guelph Storm",
+        "away_team": "Windsor Spitfires",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Windsor Spitfires",
+        "home_score": 3,
+        "away_score": 11,
+        "odds": {
+            "Guelph Storm": "+213",
+            "Windsor Spitfires": "-275"
+        }
+    },
+    {
+        "date": "2026-04-03",
+        "home_team": "London Knights",
+        "away_team": "Soo Greyhounds",
+        "predicted_winner": "London Knights",
+        "actual_winner": "Soo Greyhounds",
+        "home_score": 0,
+        "away_score": 4,
+        "odds": {
+            "London Knights": "-221",
+            "Soo Greyhounds": "+174"
+        }
+    },
+    {
+        "date": "2026-04-04",
+        "home_team": "North Bay Battalion",
+        "away_team": "Peterborough Petes",
+        "predicted_winner": "North Bay Battalion",
+        "actual_winner": "North Bay Battalion",
+        "home_score": 5,
+        "away_score": 4,
+        "odds": {
+            "North Bay Battalion": "-200",
+            "Peterborough Petes": "+159"
+        }
+    },
+    {
+        "date": "2026-04-04",
+        "home_team": "Barrie Colts",
+        "away_team": "Niagara IceDogs",
+        "predicted_winner": "Barrie Colts",
+        "actual_winner": "Barrie Colts",
+        "home_score": 5,
+        "away_score": 0,
+        "odds": {
+            "Barrie Colts": "-138",
+            "Niagara IceDogs": "+112"
+        }
+    },
+    {
+        "date": "2026-04-08",
+        "home_team": "Brantford Bulldogs",
+        "away_team": "North Bay Battalion",
+        "predicted_winner": "Brantford Bulldogs",
+        "actual_winner": "Brantford Bulldogs",
+        "home_score": 8,
+        "away_score": 1,
+        "odds": {
+            "Brantford Bulldogs": "-304",
+            "North Bay Battalion": "+233"
+        }
+    },
+    {
+        "date": "2026-04-09",
+        "home_team": "Barrie Colts",
+        "away_team": "Ottawa 67's",
+        "predicted_winner": "Barrie Colts",
+        "actual_winner": "Barrie Colts",
+        "home_score": 4,
+        "away_score": 2,
+        "odds": {
+            "Barrie Colts": "-219",
+            "Ottawa 67's": "+173"
+        }
+    },
+    {
+        "date": "2026-04-10",
+        "home_team": "Brantford Bulldogs",
+        "away_team": "North Bay Battalion",
+        "predicted_winner": "Brantford Bulldogs",
+        "actual_winner": "Brantford Bulldogs",
+        "home_score": 4,
+        "away_score": 1,
+        "odds": {
+            "Brantford Bulldogs": "-304",
+            "North Bay Battalion": "+233"
+        }
+    },
+    {
+        "date": "2026-04-10",
+        "home_team": "Kitchener Rangers",
+        "away_team": "Soo Greyhounds",
+        "predicted_winner": "Kitchener Rangers",
+        "actual_winner": "Kitchener Rangers",
+        "home_score": 3,
+        "away_score": 1,
+        "odds": {
+            "Kitchener Rangers": "-150",
+            "Soo Greyhounds": "+121"
+        }
+    },
+    {
+        "date": "2026-04-10",
+        "home_team": "Windsor Spitfires",
+        "away_team": "Flint Firebirds",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Windsor Spitfires",
+        "home_score": 4,
+        "away_score": 2,
+        "odds": {
+            "Windsor Spitfires": "-209",
+            "Flint Firebirds": "+166"
+        }
+    },
+    {
+        "date": "2026-04-11",
+        "home_team": "Barrie Colts",
+        "away_team": "Ottawa 67's",
+        "predicted_winner": "Barrie Colts",
+        "actual_winner": "Barrie Colts",
+        "home_score": 5,
+        "away_score": 3,
+        "odds": {
+            "Barrie Colts": "-219",
+            "Ottawa 67's": "+173"
+        }
+    },
+    {
+        "date": "2026-04-12",
+        "home_team": "North Bay Battalion",
+        "away_team": "Brantford Bulldogs",
+        "predicted_winner": "Brantford Bulldogs",
+        "actual_winner": "Brantford Bulldogs",
+        "home_score": 2,
+        "away_score": 3,
+        "odds": {
+            "North Bay Battalion": "+233",
+            "Brantford Bulldogs": "-304"
+        }
+    },
+    {
+        "date": "2026-04-12",
+        "home_team": "Windsor Spitfires",
+        "away_team": "Flint Firebirds",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Windsor Spitfires",
+        "home_score": 6,
+        "away_score": 5,
+        "odds": {
+            "Windsor Spitfires": "-209",
+            "Flint Firebirds": "+166"
+        }
+    },
+    {
+        "date": "2026-04-12",
+        "home_team": "Kitchener Rangers",
+        "away_team": "Soo Greyhounds",
+        "predicted_winner": "Kitchener Rangers",
+        "actual_winner": "Kitchener Rangers",
+        "home_score": 8,
+        "away_score": 5,
+        "odds": {
+            "Kitchener Rangers": "-150",
+            "Soo Greyhounds": "+121"
+        }
+    },
+    {
+        "date": "2026-04-14",
+        "home_team": "Ottawa 67's",
+        "away_team": "Barrie Colts",
+        "predicted_winner": "Barrie Colts",
+        "actual_winner": "Ottawa 67's",
+        "home_score": 5,
+        "away_score": 2,
+        "odds": {
+            "Ottawa 67's": "+173",
+            "Barrie Colts": "-219"
+        }
+    },
+    {
+        "date": "2026-04-14",
+        "home_team": "Flint Firebirds",
+        "away_team": "Windsor Spitfires",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Windsor Spitfires",
+        "home_score": 1,
+        "away_score": 2,
+        "odds": {
+            "Flint Firebirds": "+166",
+            "Windsor Spitfires": "-209"
+        }
+    },
+    {
+        "date": "2026-04-14",
+        "home_team": "Soo Greyhounds",
+        "away_team": "Kitchener Rangers",
+        "predicted_winner": "Kitchener Rangers",
+        "actual_winner": "Kitchener Rangers",
+        "home_score": 3,
+        "away_score": 4,
+        "odds": {
+            "Soo Greyhounds": "+121",
+            "Kitchener Rangers": "-150"
+        }
+    },
+    {
+        "date": "2026-04-15",
+        "home_team": "North Bay Battalion",
+        "away_team": "Brantford Bulldogs",
+        "predicted_winner": "Brantford Bulldogs",
+        "actual_winner": "Brantford Bulldogs",
+        "home_score": 3,
+        "away_score": 5,
+        "odds": {
+            "North Bay Battalion": "+233",
+            "Brantford Bulldogs": "-304"
+        }
+    },
+    {
+        "date": "2026-04-16",
+        "home_team": "Ottawa 67's",
+        "away_team": "Barrie Colts",
+        "predicted_winner": "Barrie Colts",
+        "actual_winner": "Barrie Colts",
+        "home_score": 2,
+        "away_score": 3,
+        "odds": {
+            "Ottawa 67's": "+173",
+            "Barrie Colts": "-219"
+        }
+    },
+    {
+        "date": "2026-04-16",
+        "home_team": "Flint Firebirds",
+        "away_team": "Windsor Spitfires",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Windsor Spitfires",
+        "home_score": 3,
+        "away_score": 5,
+        "odds": {
+            "Flint Firebirds": "+166",
+            "Windsor Spitfires": "-209"
+        }
+    },
+    {
+        "date": "2026-04-16",
+        "home_team": "Soo Greyhounds",
+        "away_team": "Kitchener Rangers",
+        "predicted_winner": "Kitchener Rangers",
+        "actual_winner": "Soo Greyhounds",
+        "home_score": 4,
+        "away_score": 2,
+        "odds": {
+            "Soo Greyhounds": "+121",
+            "Kitchener Rangers": "-150"
+        }
+    },
+    {
+        "date": "2026-04-17",
+        "home_team": "Kitchener Rangers",
+        "away_team": "Soo Greyhounds",
+        "predicted_winner": "Kitchener Rangers",
+        "actual_winner": "Kitchener Rangers",
+        "home_score": 5,
+        "away_score": 1,
+        "odds": {
+            "Kitchener Rangers": "-150",
+            "Soo Greyhounds": "+121"
+        }
+    },
+    {
+        "date": "2026-04-18",
+        "home_team": "Barrie Colts",
+        "away_team": "Ottawa 67's",
+        "predicted_winner": "Barrie Colts",
+        "actual_winner": "Barrie Colts",
+        "home_score": 4,
+        "away_score": 1,
+        "odds": {
+            "Barrie Colts": "-219",
+            "Ottawa 67's": "+173"
+        }
+    },
+    {
+        "date": "2026-04-22",
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Barrie Colts",
+        "predicted_winner": "Brantford Bulldogs",
+        "actual_winner": "Brantford Bulldogs",
+        "home_score": 4,
+        "away_score": 3,
+        "odds": {
+            "Brantford Bulldogs": "-144",
+            "Barrie Colts": "+116"
+        }
+    },
+    {
+        "date": "2026-04-24",
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Barrie Colts",
+        "predicted_winner": "Brantford Bulldogs",
+        "actual_winner": "Barrie Colts",
+        "home_score": 3,
+        "away_score": 5,
+        "odds": {
+            "Brantford Bulldogs": "-144",
+            "Barrie Colts": "+116"
+        }
+    },
+    {
+        "date": "2026-04-24",
+        "home_team": "Kitchener Rangers",
+        "away_team": "Windsor Spitfires",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Kitchener Rangers",
+        "home_score": 4,
+        "away_score": 3,
+        "odds": {
+            "Kitchener Rangers": "+121",
+            "Windsor Spitfires": "-150"
+        }
+    },
+    {
+        "date": "2026-04-26",
+        "home_team": "Barrie Colts",
+        "away_team": "Brantford Bulldogs",
+        "predicted_winner": "Brantford Bulldogs",
+        "actual_winner": "Brantford Bulldogs",
+        "home_score": 0,
+        "away_score": 2,
+        "odds": {
+            "Barrie Colts": "+116",
+            "Brantford Bulldogs": "-144"
+        }
+    },
+    {
+        "date": "2026-04-26",
+        "home_team": "Kitchener Rangers",
+        "away_team": "Windsor Spitfires",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Kitchener Rangers",
+        "home_score": 2,
+        "away_score": 1,
+        "odds": {
+            "Kitchener Rangers": "+121",
+            "Windsor Spitfires": "-150"
+        }
+    },
+    {
+        "date": "2026-04-27",
+        "home_team": "Windsor Spitfires",
+        "away_team": "Kitchener Rangers",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Windsor Spitfires",
+        "home_score": 4,
+        "away_score": 2,
+        "odds": {
+            "Windsor Spitfires": "-150",
+            "Kitchener Rangers": "+121"
+        }
+    },
+    {
+        "date": "2026-04-28",
+        "home_team": "Barrie Colts",
+        "away_team": "Brantford Bulldogs",
+        "predicted_winner": "Brantford Bulldogs",
+        "actual_winner": "Brantford Bulldogs",
+        "home_score": 1,
+        "away_score": 6,
+        "odds": {
+            "Barrie Colts": "+116",
+            "Brantford Bulldogs": "-144"
+        }
+    },
+    {
+        "date": "2026-04-29",
+        "home_team": "Windsor Spitfires",
+        "away_team": "Kitchener Rangers",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Kitchener Rangers",
+        "home_score": 3,
+        "away_score": 6,
+        "odds": {
+            "Windsor Spitfires": "-150",
+            "Kitchener Rangers": "+121"
+        }
+    },
+    {
+        "date": "2026-04-30",
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Barrie Colts",
+        "predicted_winner": "Brantford Bulldogs",
+        "actual_winner": "Barrie Colts",
+        "home_score": 3,
+        "away_score": 4,
+        "odds": {
+            "Brantford Bulldogs": "-144",
+            "Barrie Colts": "+116"
+        }
+    },
+    {
+        "date": "2026-05-01",
+        "home_team": "Kitchener Rangers",
+        "away_team": "Windsor Spitfires",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Kitchener Rangers",
+        "home_score": 5,
+        "away_score": 4,
+        "odds": {
+            "Kitchener Rangers": "+121",
+            "Windsor Spitfires": "-150"
+        }
+    },
+    {
+        "date": "2026-05-02",
+        "home_team": "Barrie Colts",
+        "away_team": "Brantford Bulldogs",
+        "predicted_winner": "Brantford Bulldogs",
+        "actual_winner": "Barrie Colts",
+        "home_score": 4,
+        "away_score": 3,
+        "odds": {
+            "Barrie Colts": "+116",
+            "Brantford Bulldogs": "-144"
+        }
+    },
+    {
+        "date": "2026-05-04",
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Barrie Colts",
+        "predicted_winner": "Brantford Bulldogs",
+        "actual_winner": "Barrie Colts",
+        "home_score": 0,
+        "away_score": 5,
+        "odds": {
+            "Brantford Bulldogs": "-144",
+            "Barrie Colts": "+116"
+        }
+    }
+]

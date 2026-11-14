@@ -1,0 +1,16 @@
+[
+    {
+        "home_team": "Oshawa Generals",
+        "away_team": "Sudbury Wolves",
+        "winner": "Oshawa Generals",
+        "probabilities": {
+            "Oshawa Generals": "54.90%",
+            "Sudbury Wolves": "45.10%"
+        },
+        "odds": {
+            "Oshawa Generals": "-137",
+            "Sudbury Wolves": "+111"
+        },
+        "game_time": "7:05 pm"
+    }
+]

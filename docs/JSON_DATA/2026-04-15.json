@@ -1,0 +1,16 @@
+[
+    {
+        "home_team": "North Bay Battalion",
+        "away_team": "Brantford Bulldogs",
+        "winner": "Brantford Bulldogs",
+        "probabilities": {
+            "North Bay Battalion": "28.53%",
+            "Brantford Bulldogs": "71.47%"
+        },
+        "odds": {
+            "North Bay Battalion": "+233",
+            "Brantford Bulldogs": "-304"
+        },
+        "game_time": "6:00 pm"
+    }
+]

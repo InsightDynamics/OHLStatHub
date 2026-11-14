@@ -1,0 +1,58 @@
+[
+    {
+        "home_team": "Niagara IceDogs",
+        "away_team": "Erie Otters",
+        "winner": "Erie Otters",
+        "probabilities": {
+            "Niagara IceDogs": "47.19%",
+            "Erie Otters": "52.81%"
+        },
+        "odds": {
+            "Niagara IceDogs": "+101",
+            "Erie Otters": "-125"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "North Bay Battalion",
+        "away_team": "Kingston Frontenacs",
+        "winner": "Kingston Frontenacs",
+        "probabilities": {
+            "North Bay Battalion": "26.45%",
+            "Kingston Frontenacs": "73.55%"
+        },
+        "odds": {
+            "North Bay Battalion": "+259",
+            "Kingston Frontenacs": "-343"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Saginaw Spirit",
+        "away_team": "Ottawa 67's",
+        "winner": "Saginaw Spirit",
+        "probabilities": {
+            "Saginaw Spirit": "70.73%",
+            "Ottawa 67's": "29.27%"
+        },
+        "odds": {
+            "Saginaw Spirit": "-291",
+            "Ottawa 67's": "+225"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Windsor Spitfires",
+        "away_team": "Peterborough Petes",
+        "winner": "Windsor Spitfires",
+        "probabilities": {
+            "Windsor Spitfires": "82.91%",
+            "Peterborough Petes": "17.09%"
+        },
+        "odds": {
+            "Windsor Spitfires": "-686",
+            "Peterborough Petes": "+456"
+        },
+        "game_time": "7:05 pm"
+    }
+]
