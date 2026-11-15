@@ -1,38 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2026-01-27",
-            "accuracy": 100.0,
-            "correct_predictions": 2,
-            "total_games": 2,
-            "game_details": [
-                {
-                    "home_team": "Kitchener Rangers",
-                    "away_team": "Sarnia Sting",
-                    "predicted_winner": "Kitchener Rangers",
-                    "actual_winner": "Kitchener Rangers",
-                    "home_score": 4,
-                    "away_score": 1,
-                    "odds": {
-                        "Kitchener Rangers": "-252",
-                        "Sarnia Sting": "+197"
-                    }
-                },
-                {
-                    "home_team": "Oshawa Generals",
-                    "away_team": "Kingston Frontenacs",
-                    "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Kingston Frontenacs",
-                    "home_score": 2,
-                    "away_score": 3,
-                    "odds": {
-                        "Oshawa Generals": "+122",
-                        "Kingston Frontenacs": "-151"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2026-01-28",
             "accuracy": 0.0,
             "correct_predictions": 0,
@@ -4193,13 +4161,13 @@
             ]
         }
     ],
-    "total_accuracy": 55.1,
+    "total_accuracy": 54.8,
     "tossup_accuracy": 50.0,
-    "non_tossup_accuracy": 55.6,
-    "total_correct": 163,
-    "total_games": 296,
+    "non_tossup_accuracy": 55.3,
+    "total_correct": 161,
+    "total_games": 294,
     "tossup_correct": 14,
     "tossup_games": 28,
-    "non_tossup_correct": 149,
-    "non_tossup_games": 268
+    "non_tossup_correct": 147,
+    "non_tossup_games": 266
 }
