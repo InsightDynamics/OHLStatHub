@@ -1,18 +1,5 @@
 [
     {
-        "date": "2026-01-28",
-        "home_team": "Owen Sound Attack",
-        "away_team": "Kitchener Rangers",
-        "predicted_winner": "Kitchener Rangers",
-        "actual_winner": "Owen Sound Attack",
-        "home_score": 3,
-        "away_score": 2,
-        "odds": {
-            "Owen Sound Attack": "+170",
-            "Kitchener Rangers": "-214"
-        }
-    },
-    {
         "date": "2026-01-29",
         "home_team": "Peterborough Petes",
         "away_team": "Sudbury Wolves",
