@@ -1,18 +1,5 @@
 [
     {
-        "date": "2026-01-29",
-        "home_team": "Niagara IceDogs",
-        "away_team": "Soo Greyhounds",
-        "predicted_winner": "Soo Greyhounds",
-        "actual_winner": "Niagara IceDogs",
-        "home_score": 6,
-        "away_score": 3,
-        "odds": {
-            "Niagara IceDogs": "-111",
-            "Soo Greyhounds": "-111"
-        }
-    },
-    {
         "date": "2026-01-31",
         "home_team": "Owen Sound Attack",
         "away_team": "Guelph Storm",

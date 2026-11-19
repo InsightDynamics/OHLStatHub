@@ -1,31 +1,5 @@
 [
     {
-        "date": "2026-01-29",
-        "home_team": "Peterborough Petes",
-        "away_team": "Sudbury Wolves",
-        "predicted_winner": "Sudbury Wolves",
-        "actual_winner": "Peterborough Petes",
-        "home_score": 4,
-        "away_score": 1,
-        "odds": {
-            "Peterborough Petes": "+276",
-            "Sudbury Wolves": "-368"
-        }
-    },
-    {
-        "date": "2026-01-29",
-        "home_team": "Windsor Spitfires",
-        "away_team": "North Bay Battalion",
-        "predicted_winner": "Windsor Spitfires",
-        "actual_winner": "Windsor Spitfires",
-        "home_score": 4,
-        "away_score": 3,
-        "odds": {
-            "Windsor Spitfires": "-347",
-            "North Bay Battalion": "+262"
-        }
-    },
-    {
         "date": "2026-01-30",
         "home_team": "Brantford Bulldogs",
         "away_team": "Owen Sound Attack",
