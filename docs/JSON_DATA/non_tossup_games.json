@@ -1,57 +1,5 @@
 [
     {
-        "date": "2026-01-31",
-        "home_team": "Brampton Steelheads",
-        "away_team": "Oshawa Generals",
-        "predicted_winner": "Brampton Steelheads",
-        "actual_winner": "Brampton Steelheads",
-        "home_score": 2,
-        "away_score": 1,
-        "odds": {
-            "Brampton Steelheads": "-143",
-            "Oshawa Generals": "+115"
-        }
-    },
-    {
-        "date": "2026-01-31",
-        "home_team": "Erie Otters",
-        "away_team": "London Knights",
-        "predicted_winner": "London Knights",
-        "actual_winner": "London Knights",
-        "home_score": 1,
-        "away_score": 6,
-        "odds": {
-            "Erie Otters": "+156",
-            "London Knights": "-195"
-        }
-    },
-    {
-        "date": "2026-01-31",
-        "home_team": "Flint Firebirds",
-        "away_team": "Sarnia Sting",
-        "predicted_winner": "Flint Firebirds",
-        "actual_winner": "Flint Firebirds",
-        "home_score": 6,
-        "away_score": 3,
-        "odds": {
-            "Flint Firebirds": "-180",
-            "Sarnia Sting": "+144"
-        }
-    },
-    {
-        "date": "2026-01-31",
-        "home_team": "Saginaw Spirit",
-        "away_team": "Barrie Colts",
-        "predicted_winner": "Saginaw Spirit",
-        "actual_winner": "Barrie Colts",
-        "home_score": 2,
-        "away_score": 4,
-        "odds": {
-            "Saginaw Spirit": "-145",
-            "Barrie Colts": "+117"
-        }
-    },
-    {
         "date": "2026-02-01",
         "home_team": "Kingston Frontenacs",
         "away_team": "Peterborough Petes",

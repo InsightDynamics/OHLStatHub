@@ -1,74 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2026-01-31",
-            "accuracy": 60.0,
-            "correct_predictions": 3,
-            "total_games": 5,
-            "game_details": [
-                {
-                    "home_team": "Brampton Steelheads",
-                    "away_team": "Oshawa Generals",
-                    "predicted_winner": "Brampton Steelheads",
-                    "actual_winner": "Brampton Steelheads",
-                    "home_score": 2,
-                    "away_score": 1,
-                    "odds": {
-                        "Brampton Steelheads": "-143",
-                        "Oshawa Generals": "+115"
-                    }
-                },
-                {
-                    "home_team": "Erie Otters",
-                    "away_team": "London Knights",
-                    "predicted_winner": "London Knights",
-                    "actual_winner": "London Knights",
-                    "home_score": 1,
-                    "away_score": 6,
-                    "odds": {
-                        "Erie Otters": "+156",
-                        "London Knights": "-195"
-                    }
-                },
-                {
-                    "home_team": "Flint Firebirds",
-                    "away_team": "Sarnia Sting",
-                    "predicted_winner": "Flint Firebirds",
-                    "actual_winner": "Flint Firebirds",
-                    "home_score": 6,
-                    "away_score": 3,
-                    "odds": {
-                        "Flint Firebirds": "-180",
-                        "Sarnia Sting": "+144"
-                    }
-                },
-                {
-                    "home_team": "Owen Sound Attack",
-                    "away_team": "Guelph Storm",
-                    "predicted_winner": "Guelph Storm",
-                    "actual_winner": "Owen Sound Attack",
-                    "home_score": 4,
-                    "away_score": 3,
-                    "odds": {
-                        "Owen Sound Attack": "-104",
-                        "Guelph Storm": "-119"
-                    }
-                },
-                {
-                    "home_team": "Saginaw Spirit",
-                    "away_team": "Barrie Colts",
-                    "predicted_winner": "Saginaw Spirit",
-                    "actual_winner": "Barrie Colts",
-                    "home_score": 2,
-                    "away_score": 4,
-                    "odds": {
-                        "Saginaw Spirit": "-145",
-                        "Barrie Colts": "+117"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2026-02-01",
             "accuracy": 66.7,
             "correct_predictions": 4,
@@ -3969,13 +3901,13 @@
             ]
         }
     ],
-    "total_accuracy": 54.6,
-    "tossup_accuracy": 51.9,
-    "non_tossup_accuracy": 54.9,
-    "total_correct": 153,
-    "total_games": 280,
+    "total_accuracy": 54.5,
+    "tossup_accuracy": 53.8,
+    "non_tossup_accuracy": 54.6,
+    "total_correct": 150,
+    "total_games": 275,
     "tossup_correct": 14,
-    "tossup_games": 27,
-    "non_tossup_correct": 139,
-    "non_tossup_games": 253
+    "tossup_games": 26,
+    "non_tossup_correct": 136,
+    "non_tossup_games": 249
 }

@@ -1,18 +1,5 @@
 [
     {
-        "date": "2026-01-31",
-        "home_team": "Owen Sound Attack",
-        "away_team": "Guelph Storm",
-        "predicted_winner": "Guelph Storm",
-        "actual_winner": "Owen Sound Attack",
-        "home_score": 4,
-        "away_score": 3,
-        "odds": {
-            "Owen Sound Attack": "-104",
-            "Guelph Storm": "-119"
-        }
-    },
-    {
         "date": "2026-02-06",
         "home_team": "Soo Greyhounds",
         "away_team": "Flint Firebirds",
