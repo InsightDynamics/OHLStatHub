@@ -166,7 +166,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8799,Braydon McCallum,McCallum,Braydon,C,R,5.10,192.0,2006-05-03,Peterborough Petes,East Division,29,0
 8823,Easton Rye,Rye,Easton,G,L,6.00,196.0,2006-10-28,Peterborough Petes,East Division,30,0
 8832,Zach Bowen,Bowen,Zach,G,L,6.02,190.0,2005-04-25,Peterborough Petes,East Division,31,0
-9210,Masen Johnston,Johnston,Masen,G,L,6.01,190.0,2007-02-08,Peterborough Petes,East Division,34,1
 9331,Luka Gelinas,Gelinas,Luka,G,L,6.01,179.0,2008-01-01,Peterborough Petes,East Division,1,1
 8498,Liam Sztuska,Sztuska,Liam,G,L,6.01,182.0,2004-05-01,Peterborough Petes,East Division,1,0
 9363,Marcus Sulug,Sulug,Marcus,D,L,6.02,191.0,2008-02-07,Peterborough Petes,East Division,2,0
@@ -177,6 +176,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9021,Joseph Cadorin,Cadorin,Joseph,LW,L,5.11,180.0,2007-03-29,Peterborough Petes,East Division,24,0
 9359,Raiden Doxtator,Doxtator,Raiden,LW,L,5.11,161.0,2008-08-24,Peterborough Petes,East Division,24,1
 9351,Kaiden Thatcher,Thatcher,Kaiden,D,R,6.04,205.0,2007-02-08,Peterborough Petes,East Division,25,0
+9210,Masen Johnston,Johnston,Masen,G,L,6.01,190.0,2007-02-08,Peterborough Petes,East Division,34,1
 9189,Arvin Jaswal,Jaswal,Arvin,G,L,6.02,178.0,2008-03-29,Barrie Colts,Central Division,1,1
 8446,Grayson Tiller,Tiller,Grayson,D,L,5.10,190.0,2005-02-20,Barrie Colts,Central Division,8,0
 8684,Zach Wigle,Wigle,Zach,C,L,6.00,193.0,2004-01-12,Barrie Colts,Central Division,9,0
