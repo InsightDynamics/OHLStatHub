@@ -1,50 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2026-02-05",
-            "accuracy": 0.0,
-            "correct_predictions": 0,
-            "total_games": 3,
-            "game_details": [
-                {
-                    "home_team": "Erie Otters",
-                    "away_team": "Guelph Storm",
-                    "predicted_winner": "Erie Otters",
-                    "actual_winner": "Guelph Storm",
-                    "home_score": 2,
-                    "away_score": 3,
-                    "odds": {
-                        "Erie Otters": "-166",
-                        "Guelph Storm": "+133"
-                    }
-                },
-                {
-                    "home_team": "North Bay Battalion",
-                    "away_team": "Windsor Spitfires",
-                    "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "North Bay Battalion",
-                    "home_score": 5,
-                    "away_score": 4,
-                    "odds": {
-                        "North Bay Battalion": "+262",
-                        "Windsor Spitfires": "-347"
-                    }
-                },
-                {
-                    "home_team": "Peterborough Petes",
-                    "away_team": "Owen Sound Attack",
-                    "predicted_winner": "Owen Sound Attack",
-                    "actual_winner": "Peterborough Petes",
-                    "home_score": 3,
-                    "away_score": 2,
-                    "odds": {
-                        "Peterborough Petes": "+184",
-                        "Owen Sound Attack": "-234"
-                    }
-                }
-            ]
-        },
-        {
             "date": "2026-02-06",
             "accuracy": 62.5,
             "correct_predictions": 5,
@@ -3765,13 +3721,13 @@
             ]
         }
     ],
-    "total_accuracy": 54.3,
+    "total_accuracy": 55.0,
     "tossup_accuracy": 53.8,
-    "non_tossup_accuracy": 54.4,
+    "non_tossup_accuracy": 55.1,
     "total_correct": 144,
-    "total_games": 265,
+    "total_games": 262,
     "tossup_correct": 14,
     "tossup_games": 26,
     "non_tossup_correct": 130,
-    "non_tossup_games": 239
+    "non_tossup_games": 236
 }

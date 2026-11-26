@@ -1,44 +1,5 @@
 [
     {
-        "date": "2026-02-05",
-        "home_team": "Erie Otters",
-        "away_team": "Guelph Storm",
-        "predicted_winner": "Erie Otters",
-        "actual_winner": "Guelph Storm",
-        "home_score": 2,
-        "away_score": 3,
-        "odds": {
-            "Erie Otters": "-166",
-            "Guelph Storm": "+133"
-        }
-    },
-    {
-        "date": "2026-02-05",
-        "home_team": "North Bay Battalion",
-        "away_team": "Windsor Spitfires",
-        "predicted_winner": "Windsor Spitfires",
-        "actual_winner": "North Bay Battalion",
-        "home_score": 5,
-        "away_score": 4,
-        "odds": {
-            "North Bay Battalion": "+262",
-            "Windsor Spitfires": "-347"
-        }
-    },
-    {
-        "date": "2026-02-05",
-        "home_team": "Peterborough Petes",
-        "away_team": "Owen Sound Attack",
-        "predicted_winner": "Owen Sound Attack",
-        "actual_winner": "Peterborough Petes",
-        "home_score": 3,
-        "away_score": 2,
-        "odds": {
-            "Peterborough Petes": "+184",
-            "Owen Sound Attack": "-234"
-        }
-    },
-    {
         "date": "2026-02-06",
         "home_team": "Brampton Steelheads",
         "away_team": "Barrie Colts",
