@@ -1,18 +1,5 @@
 [
     {
-        "date": "2026-02-06",
-        "home_team": "Soo Greyhounds",
-        "away_team": "Flint Firebirds",
-        "predicted_winner": "Soo Greyhounds",
-        "actual_winner": "Flint Firebirds",
-        "home_score": 1,
-        "away_score": 5,
-        "odds": {
-            "Soo Greyhounds": "-113",
-            "Flint Firebirds": "-109"
-        }
-    },
-    {
         "date": "2026-02-08",
         "home_team": "Ottawa 67's",
         "away_team": "Owen Sound Attack",
